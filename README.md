@@ -23,3 +23,6 @@ Configure `dist/data/support.json` with `pixKey`, `recipient` and optionally a l
 ## Checks
 
 `node --check dist/app.js` and `node scripts/validate.mjs`.
+
+
+Persistência, compressão, backups e recuperação: [PERSISTENCIA.md](PERSISTENCIA.md). A versão pública é gerada em `_site`, a partir de `dist`, com os mesmos dados.

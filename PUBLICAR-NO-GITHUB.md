@@ -15,7 +15,7 @@ Não é necessário cadastrar token pessoal, chave de API ou credencial de pagam
 
 ## O arquivo que atualiza tudo
 
-`.github/workflows/collect.yml` roda diariamente às **06h30 de Brasília** (09h30 UTC), também ao enviar código para `main` e manualmente em **Run workflow**. O agendador do GitHub pode iniciar com atraso; ele não garante execução no segundo exato. Em repositórios públicos sem atividade por período prolongado, o GitHub pode desativar agendamentos: confira a aba Actions se as atualizações pararem.
+`.github/workflows/collect.yml` roda diariamente às **14h de Brasília** (17h UTC), manualmente em **Run workflow**. Enviar código para `main` apenas valida e publica a interface; não antecipa a coleta diária. O agendador do GitHub pode iniciar com atraso; ele não garante execução no segundo exato. Em repositórios públicos sem atividade por período prolongado, o GitHub pode desativar agendamentos: confira a aba Actions se as atualizações pararem.
 
 O fluxo calcula uma janela de 14 dias, consulta as fontes, prepara resumos, valida os arquivos, grava um commit somente se houver alterações e publica a pasta `dist` no mesmo workflow. Não depende de um segundo workflow disparado pelo commit do bot. A publicação pode rodar mesmo sem um novo commit de dados.
 
@@ -55,3 +55,6 @@ Sirva `dist` com qualquer servidor HTTP estático. Os caminhos são relativos, i
 A pasta pública é `dist`. Para uma hospedagem que publica automaticamente a cada commit, mantenha a coleta e o commit e adapte as etapas finais de GitHub Pages à plataforma escolhida. Um arquivo JavaScript no navegador não substitui o agendador: a atualização diária deve rodar no GitHub Actions ou em outro serviço de execução agendada.
 
 Referências: [workflow oficial do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) e [eventos agendados do GitHub Actions](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
+
+
+Persistência, compressão, backups e recuperação: [PERSISTENCIA.md](PERSISTENCIA.md). A versão pública é gerada em `_site`, a partir de `dist`, com os mesmos dados.

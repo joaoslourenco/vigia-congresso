@@ -1,3 +1,4 @@
+import {storeSnapshot} from './snapshot-storage.mjs';
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
 import {pathToFileURL} from 'node:url';
@@ -5,7 +6,7 @@ const root=new URL('../',import.meta.url),dataRoot=new URL('dist/data/',root),ap
 const hash=v=>crypto.createHash('sha256').update(JSON.stringify(v)).digest('hex');
 async function write(file,value){const text=JSON.stringify(value,null,2)+'\n';try{if(await fs.readFile(file,'utf8')===text)return false}catch{}await fs.mkdir(new URL('./',file),{recursive:true});await fs.writeFile(file,text);return true}
 let active=0;const waiting=[];
-async function get(url){if(active>=8)await new Promise(resolve=>waiting.push(resolve));active++;try{let error;for(let i=0;i<3;i++)try{const r=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(45000)});if(!r.ok)throw Error(`HTTP ${r.status}`);const d=await r.json();await write(new URL(`raw/camara/${hash({url,data:d})}.json`,root),{source:url,data:d});return d}catch(e){error=e}throw error}finally{active--;waiting.shift()?.()}}
+async function get(url){if(active>=8)await new Promise(resolve=>waiting.push(resolve));active++;try{let error;for(let i=0;i<3;i++)try{const r=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(45000)});if(!r.ok)throw Error(`HTTP ${r.status}`);const d=await r.json();await storeSnapshot(new URL('raw/camara/',root),hash({url,data:d}),{source:url,data:d});return d}catch(e){error=e}throw error}finally{active--;waiting.shift()?.()}}
 async function list(url){const rows=[],seen=new Set;while(url){if(seen.has(url))throw Error('Paginação circular da Câmara');seen.add(url);const d=await get(url);if(!Array.isArray(d.dados))throw Error('Lista da Câmara inválida');rows.push(...d.dados);url=d.links?.find(x=>x.rel==='next')?.href}return rows}
 export function authorAt(a,history,date){
  const number=a.uri?.match(/\/deputados\/(\d+)$/)?.[1],rows=history.filter(h=>h.dataHora?.slice(0,10)<=date).sort((a,b)=>b.dataHora.localeCompare(a.dataHora)),latest=rows[0];

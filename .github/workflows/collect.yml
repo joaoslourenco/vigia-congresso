@@ -1,7 +1,7 @@
 name: Atualizar dados e publicar site
 on:
   schedule:
-    - cron: '30 9 * * *' # 06h30 em Brasília
+    - cron: '0 17 * * *' # 14h de Brasília (UTC-3); publicação após a coleta
   workflow_dispatch:
   push:
     branches: [main]
@@ -25,6 +25,13 @@ jobs:
           node-version: '22'
       - name: Testar coletores e resumos
         run: node --test scripts/*.test.mjs
+      - name: Preservar dados antes da coleta
+        run: tar -czf "$RUNNER_TEMP/vigia-dados-anteriores.tar.gz" -C dist data
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dados-antes-da-coleta-${{ github.run_id }}
+          path: ${{ runner.temp }}/vigia-dados-anteriores.tar.gz
+          retention-days: 14
       - name: Definir janela de revisão
         run: |
           node --input-type=module <<'JS' >> "$GITHUB_ENV"
@@ -36,6 +43,7 @@ jobs:
           JS
       - name: Coletar fontes oficiais
         id: collection
+        if: github.event_name != 'push'
         continue-on-error: true
         run: node scripts/collect.mjs
       - name: Preparar resumos acessíveis
@@ -44,6 +52,8 @@ jobs:
         run: |
           node --check dist/app.js
           node scripts/validate.mjs
+      - name: Verificar crescimento e persistência
+        run: node scripts/storage-report.mjs
       - name: Gravar somente alterações reais
         run: |
           git config user.name "vigia-congresso[bot]"
@@ -55,9 +65,11 @@ jobs:
           fi
       # Publicação no mesmo workflow, sem depender de push feito pelo GITHUB_TOKEN.
       - uses: actions/configure-pages@v5
+      - name: Preparar versão pública compactada
+        run: node scripts/build-public.mjs
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: _site
   publicar:
     needs: atualizar
     runs-on: ubuntu-latest

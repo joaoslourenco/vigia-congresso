@@ -1,3 +1,4 @@
+import {storeSnapshot} from './snapshot-storage.mjs';
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
 import { pathToFileURL } from 'node:url';
@@ -5,7 +6,7 @@ const root=new URL('../',import.meta.url),dataRoot=new URL('dist/data/',root);
 const array=v=>v==null?[]:Array.isArray(v)?v:[v];
 async function get(url){let error;for(let i=0;i<3;i++){try{const r=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(45000)});if(!r.ok)throw Error(`HTTP ${r.status}`);return await r.json()}catch(e){error=e}}throw error}
 async function writeChanged(url,value){const text=JSON.stringify(value,null,2)+'\n';try{if(await fs.readFile(url,'utf8')===text)return false}catch{}await fs.mkdir(new URL('./',url),{recursive:true});await fs.writeFile(url,text);return true}
-async function archive(url,value){const hash=crypto.createHash('sha256').update(JSON.stringify(value)).digest('hex');await writeChanged(new URL(`raw/senado/${hash}.json`,root),{source:url,data:value});return hash}
+async function archive(url,value){const hash=crypto.createHash('sha256').update(JSON.stringify(value)).digest('hex');await storeSnapshot(new URL('raw/senado/',root),hash,{source:url,data:value});return hash}
 export function normalizeProcess(p,collectedAt,from,to){
  if(!['PLP','PEC'].includes(p.sigla)||!p.id||!p.codigoMateria)throw Error('Processo sem identificação válida');
  const id=`senado-processo-${p.id}`,doc=p.documento||{};
