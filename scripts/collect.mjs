@@ -17,4 +17,5 @@ const result={window:{start,end},status:'partial',refs:refs.sort((a,b)=>a.url.lo
 await fs.writeFile(new URL('raw/latest.json',root),JSON.stringify(result,null,2)+'\n');
 console.log(`Archived ${refs.length} official responses; ${errors.length} source errors. Coverage remains partial.`);
 try { const {collectSenado}=await import('./collect-senado.mjs'); await collectSenado(); } catch(e) { console.error(e.message); errors.push({source:'senado',error:e.message}); }
+try { const {collectPortraits}=await import('./collect-portraits.mjs'); await collectPortraits(); } catch(e) { console.error('Retratos indisponíveis nesta consulta; fotos anteriores preservadas.'); }
 if(errors.length)process.exitCode=1;
