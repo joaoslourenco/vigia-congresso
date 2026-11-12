@@ -1,7 +1,8 @@
 name: Atualizar dados e publicar site
 on:
   schedule:
-    - cron: '50 16 * * *' # 13h50 de Brasília (UTC-3); previsão pública por volta das 14h
+    - cron: '50 16 * * *' # 13h50 de Brasília
+    - cron: '10,30 17 * * *' # Novas tentativas às 14h10 e 14h30
   workflow_dispatch:
   push:
     branches: [main]
@@ -41,9 +42,24 @@ jobs:
           console.log('COLLECTION_TO='+today);
           console.log('SENADO_YEAR='+today.slice(0,4));
           JS
+      - name: Evitar coleta repetida nas tentativas de segurança
+        if: github.event_name == 'schedule'
+        run: |
+          node --input-type=module <<'JS' >> "$GITHUB_ENV"
+          import fs from 'node:fs';
+          const today=process.env.COLLECTION_TO;
+          const index=JSON.parse(fs.readFileSync('dist/data/index.json','utf8'));
+          const complete=['camara','senado'].every(name=>{
+            const source=index.sources?.[name];
+            return source?.requestedPeriod?.to===today &&
+              source.lastUpdated?.slice(0,10)===new Date().toISOString().slice(0,10) &&
+              source.errors===0 && ['partial','complete','ok'].includes(source.status);
+          });
+          console.log('COLLECTION_ALREADY_DONE='+complete);
+          JS
       - name: Coletar fontes oficiais
         id: collection
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && env.COLLECTION_ALREADY_DONE != 'true'
         continue-on-error: true
         run: node scripts/collect.mjs
       - name: Preparar resumos acessíveis
