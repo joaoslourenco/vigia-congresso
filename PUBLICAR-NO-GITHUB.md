@@ -24,7 +24,7 @@ Se uma fonte falhar, os registros antigos são preservados. Dados inválidos int
 ## O que a coleta já faz
 
 - **Senado:** busca PLPs e PECs do ano configurado e normaliza seus informes legislativos nos arquivos mensais. A cobertura é parcial e continua identificada no site. O ano corrente é passado pelo workflow; propostas de anos anteriores e votos nominais ainda não têm cobertura completa.
-- **Câmara:** a rotina consulta e arquiva respostas oficiais, mas a normalização para o calendário ainda está pendente. Este pacote não afirma que o calendário da Câmara já está completo.
+- **Câmara:** a rotina importa PLPs e PECs apresentadas ou movimentadas na janela consultada, inclusive propostas antigas com movimentação recente. Autores, histórico de partido/UF e retratos oficiais alimentam o calendário e o ranking. Proponentes e demais signatários são contados separadamente pelo campo oficial `proponente`. A cobertura ainda é parcial, principalmente para resultados e votos nominais.
 - O histórico existente é mantido, e os identificadores oficiais evitam duplicar informes.
 
 Não confunda executar o workflow com ter uma base legislativa completa. Veja `dist/data/index.json` e os logs da coleta para conhecer a cobertura.

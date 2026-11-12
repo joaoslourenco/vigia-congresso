@@ -50,7 +50,7 @@ export async function collectSenado({from=process.env.COLLECTION_FROM||'2026-11-
  }
  index.months.sort((a,b)=>a.month.localeCompare(b.month));for(const m of index.months){const d=JSON.parse(await fs.readFile(new URL(m.month+'.json',dataRoot),'utf8'));if(d.events.length)m.status='partial'}
  const updatedAt=contentChanged?collectedAt:(index.sources?.senado?.lastUpdated||collectedAt);
- index.collectionStatus='partial';index.lastUpdated=updatedAt;
+ index.collectionStatus='partial';index.lastUpdated=[index.lastUpdated,updatedAt].filter(Boolean).sort().at(-1);
  index.sources={...index.sources,senado:{status:'partial',year,types,requestedPeriod:{from,to},processesConsulted:processes.size,proposalsWithRecords:normalized.length,errors:errors.length,lastUpdated:updatedAt,notes:'PLPs e PECs identificadas em 2026. Histórico de informes no período solicitado; anos anteriores, resultados e votos nominais não têm cobertura completa.'},camara:index.sources?.camara||{status:'not_started'}};
  const all=[],unique=new Set(),uniqueEvents=new Set();for(const m of index.months){const d=JSON.parse(await fs.readFile(new URL(m.month+'.json',dataRoot),'utf8'));all.push(...d.events.map(e=>e.date));d.proposals.filter(p=>p.house==='Senado').forEach(p=>unique.add(p.officialMatterId));d.events.filter(e=>e.id.startsWith('senado-')).forEach(e=>uniqueEvents.add(e.id))}all.sort();index.availableRecordPeriod=all.length?{from:all[0],to:all.at(-1)}:null;index.totals={...index.totals,senado:{proposals:unique.size,events:uniqueEvents.size}};
  // coveredPeriod means complete cross-House coverage, which this run does not claim.
