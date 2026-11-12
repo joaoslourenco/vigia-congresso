@@ -1,7 +1,7 @@
 name: Atualizar dados e publicar site
 on:
   schedule:
-    - cron: '0 17 * * *' # 14h de Brasília (UTC-3); publicação após a coleta
+    - cron: '50 16 * * *' # 13h50 de Brasília (UTC-3); previsão pública por volta das 14h
   workflow_dispatch:
   push:
     branches: [main]

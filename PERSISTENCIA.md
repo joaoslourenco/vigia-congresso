@@ -1,6 +1,6 @@
 # Persistência, crescimento e recuperação
 
-O Vigia Congresso persiste os registros em `dist/data/AAAA-MM.json`, versionados no GitHub. Os coletores juntam registros por identificador oficial e preservam meses antigos; o navegador é apenas o leitor. A coleta continua diária, às 14h de Brasília, com revisão da janela recente.
+O Vigia Congresso persiste os registros em `dist/data/AAAA-MM.json`, versionados no GitHub. Os coletores juntam registros por identificador oficial e preservam meses antigos; o navegador é apenas o leitor. A coleta continua diária, com solicitação às 13h50 de Brasília, com revisão da janela recente.
 
 ## Medição inicial — 12/11/2026
 
@@ -33,4 +33,4 @@ O GitHub recomenda repositórios de origem do Pages abaixo de 1 GB e limita o co
 
 ## Horário
 
-O cron `0 17 * * *` usa UTC, correspondendo a 14h em Brasília (UTC-3). É o início previsto da coleta, não uma garantia de que a publicação estará concluída exatamente às 14h. O agendador pode atrasar, e consultas manuais podem ocorrer em outros horários. Alterações de código por push apenas publicam a interface, sem antecipar a coleta diária. Referência: [agendamento do GitHub Actions](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
+O cron `50 16 * * *` usa UTC, correspondendo a 13h50 em Brasília (UTC-3). A referência pública de atualização fica por volta das 14h. É o início previsto da coleta, não uma garantia de que a publicação estará concluída exatamente às 14h. O agendador pode atrasar, e consultas manuais podem ocorrer em outros horários. Alterações de código por push apenas publicam a interface, sem antecipar a coleta diária. Referência: [agendamento do GitHub Actions](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).

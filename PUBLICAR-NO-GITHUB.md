@@ -15,7 +15,7 @@ Não é necessário cadastrar token pessoal, chave de API ou credencial de pagam
 
 ## O arquivo que atualiza tudo
 
-`.github/workflows/collect.yml` roda diariamente às **14h de Brasília** (17h UTC), manualmente em **Run workflow**. Enviar código para `main` apenas valida e publica a interface; não antecipa a coleta diária. O agendador do GitHub pode iniciar com atraso; ele não garante execução no segundo exato. Em repositórios públicos sem atividade por período prolongado, o GitHub pode desativar agendamentos: confira a aba Actions se as atualizações pararem.
+`.github/workflows/collect.yml` roda diariamente às **13h50 de Brasília** (16h50 UTC), manualmente em **Run workflow**. Enviar código para `main` apenas valida e publica a interface; não antecipa a coleta diária. O agendador do GitHub pode iniciar com atraso; ele não garante execução no segundo exato. Em repositórios públicos sem atividade por período prolongado, o GitHub pode desativar agendamentos: confira a aba Actions se as atualizações pararem.
 
 O fluxo calcula uma janela de 14 dias, consulta as fontes, prepara resumos, valida os arquivos, grava um commit somente se houver alterações e publica a pasta `dist` no mesmo workflow. Não depende de um segundo workflow disparado pelo commit do bot. A publicação pode rodar mesmo sem um novo commit de dados.
 
