@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498294",
+  "data": {
+    "dados": {
+      "id": 2498294,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498294",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 98,
+      "ano": 2025,
+      "ementa": "Institui o Fundo para Aparelhamento e Operacionalização das Atividades da Polícia Rodoviária Federal - FUNPRF, e dá outras providências.",
+      "dataApresentacao": "2025-04-16T17:23",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T17:00",
+        "sequencia": 44,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designado Relator, Dep. Merlong Solano (PT-PI).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498294/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação, Fundo para Aparelhamento e Operacionalização das Atividades da Polícia Rodoviária Federal (FUNPRF), Financiamento, destinação, Recursos financeiros, Segurança viária, Segurança pública.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2888077",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2498294"
+      }
+    ]
+  }
+}

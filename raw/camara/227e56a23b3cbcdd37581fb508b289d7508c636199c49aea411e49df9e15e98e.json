@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2414847",
+  "data": {
+    "dados": {
+      "id": 2414847,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2414847",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 263,
+      "ano": 2023,
+      "ementa": "Prevê medidas de ajustamento dos Municípios à divulgação de novos censos demográficos e altera a legislação pertinente.",
+      "dataApresentacao": "2023-12-18T20:41",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+      "statusProposicao": {
+        "dataHora": "2026-11-03T19:43",
+        "sequencia": 39,
+        "siglaOrgao": "CASP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539388",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220658",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Parecer do(a) Relator(a)",
+        "codTipoTramitacao": "322",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Parecer do Relator, Dep. Luiz Gastão (PSD-CE), pela aprovação do PLP 263/2023, e na forma do Substitutivo da Comissão de Ciência, Tecnologia e Inovação.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190444",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2414847/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei Federal, censo demográfico, município, obrigatoriedade, prestação de informação, estatística, acompanhamento. _Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), comunicação, prefeitura, redução, população, providências, plano, ajuste fiscal, insubordinação, Prefeito, crime de responsabilidade. _Lei Geral de Proteção de Dados Pessoais (LGPDP) (2018), inaplicação, dados, subsídio, censo demográfico, estatísticas oficiais.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2378555",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2414847"
+      }
+    ]
+  }
+}

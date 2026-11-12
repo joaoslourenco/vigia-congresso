@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102",
+  "data": {
+    "dados": {
+      "id": 2651102,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 22,
+      "ano": 2026,
+      "ementa": "Altera o Ato das Disposições Constitucionais Transitórias para disciplinar a transição para a cobrança do Imposto Seletivo.",
+      "dataApresentacao": "2026-11-05T07:12",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-05T09:35",
+        "sequencia": 5,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Tramitação Finalizada",
+        "codSituacao": 1285,
+        "despacho": "Apresentação da MSC n. 829/2026 (Mensagem), pelo Poder Executivo, que \"Submete à deliberação do Congresso Nacional o texto da proposta de emenda à Constituição que “Altera o Ato das Disposições Constitucionais Transitórias para disciplinar a transição para a cobrança do Imposto Seletivo.”\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190558",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": null,
+      "keywords": "alteração; Ato das Disposições Constitucionais Transitórias (ADCT); Regra de transição; Imposto seletivo; Bens e serviços nocivos; Meio ambiente; Saúde; Reforma Tributária (2023); Imposto sobre Produtos Industrializados (IPI); Zona Franca de Manaus (ZFM); Tributação",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190384",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102"
+      }
+    ]
+  }
+}

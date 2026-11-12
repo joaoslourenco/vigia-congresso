@@ -1,0 +1,21 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/autores",
+  "data": {
+    "dados": [
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74374",
+        "nome": "Geraldo Resende",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 1,
+        "proponente": 1
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/autores"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602249",
+  "data": {
+    "dados": {
+      "id": 2602249,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602249",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 23,
+      "ano": 2026,
+      "ementa": "Institui a Contribuição de Intervenção no Domínio Econômico incidente sobre Serviços de Datacenter (CIDE–DataCenter); majora as alíquotas da CSLL, do PIS/Pasep e da Cofins aplicáveis ao setor; revoga benefícios fiscais federais e veda a concessão de novos incentivos destinados à instalação, expansão ou operação de datacenters; e dá outras providências.",
+      "dataApresentacao": "2026-02-10T19:04",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+      "statusProposicao": {
+        "dataHora": "2026-11-05T12:20",
+        "sequencia": 15,
+        "siglaOrgao": "CCTI",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designada Relatora, Dep. Amanda Gentil (PP-MA).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602249/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação, Contribuição de Intervenção no Domínio Econômico incidente sobre Serviços de Datacenter (CIDE-DataCenter), Centro de dados (data center), Processamento de dados, aumento, Alíquota, Contribuição Social sobre o Lucro Líquido (CSLL), Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição PIS-Pasep), Contribuição para Financiamento da Seguridade Social (Cofins), proibição, benefício fiscal, benefício financeiro, benefício creditício, diretrizes, pessoa jurídica, tributação, revogação, regime especial de tributação, alíquota zero, isenção, crédito presumido, exoneração tributária.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3081228",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602249"
+      }
+    ]
+  }
+}

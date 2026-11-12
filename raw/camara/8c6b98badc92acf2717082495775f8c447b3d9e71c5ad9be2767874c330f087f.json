@@ -1,0 +1,29 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2026-11-10T17:42",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PLP n. 295/2026 (Projeto de Lei Complementar), pelo Deputado Mauricio Neves (PP/SP), que \"Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e a Lei nº 14.601, de 19 de junho de 2023, para instituir a Rampa de Emancipação Empreendedora, estabelecer salvaguardas assistenciais ao microempreendedorismo, estipular critérios de isonomia em compras públicas, instituir linhas de fomento creditício de inclusão produtiva, e dar outras providências\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193158",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512/tramitacoes"
+      }
+    ]
+  }
+}

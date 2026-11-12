@@ -1,0 +1,93 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308992/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2021-11-25T18:02",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Apresentação do Projeto de Lei Complementar n. 198/2021, pelo Deputado Jose Mario Schreiner  (DEM/GO), que \"Altera a Lei Complementar nº 24, de 7 de janeiro de 1975, que dispõe sobre os convênios para a concessão de isenções do imposto sobre operações relativas à circulação de mercadorias, para regular o disposto na alínea g, inciso XII, § 2º do art. 155 da Constituição Federal, para modificar o quórum de deliberação e instalação do CONFAZ\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2112112",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2022-02-02T21:49",
+        "sequencia": 8,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Despacho de Apensação",
+        "codTipoTramitacao": "129",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Apense-se à(ao) PLP-90/2019. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Prioridade (Art. 151, II, RICD)",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2129090",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2022-02-04T00:00",
+        "sequencia": 14,
+        "siglaOrgao": "CCP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Publicação de Proposição",
+        "codTipoTramitacao": "604",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 05/02/2022 PAG 93",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2168570",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2022-02-07T15:03",
+        "sequencia": 15,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Recebimento",
+        "codTipoTramitacao": "500",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Recebimento pela CFT.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-09T13:45",
+        "sequencia": 17,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Notificacao para Publicação Intermediária",
+        "codTipoTramitacao": "1050",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Designado Relator, Dep. Merlong Solano (PT-PI), para o PLP 90/2019, ao qual esta proposição está apensada.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308992/tramitacoes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579088/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2025-10-29T20:49",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do PLP n. 226/2025 (Projeto de Lei Complementar), pela Deputada Flávia Morais (PDT/GO), que \"Altera a Lei Complementar n.º 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034664",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-05-20T08:20",
+        "sequencia": 6,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do REQ n. 2994/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputada Flávia Morais (MDB/GO) e Deputado Isnaldo Bulhões Jr. MDB       , que \"Requer a urgência para a apreciação do PLP nº 226/2025\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3132962",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-10T13:55",
+        "sequencia": 8,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "codTipoTramitacao": "196",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 2994/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-10T13:55",
+        "sequencia": 9,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "codTipoTramitacao": "196",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Aprovado o requerimento nº 2994/2026, Da Sra. Flávia Morais e Do Sr. Isnaldo Bulhões Jr., que solicita urgência (art. 155) para o PLP 226/2025.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-10T18:20",
+        "sequencia": 10,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220571",
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Designado Relator, Dep. Daniel Agrobom (PSD-GO).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579088/tramitacoes"
+      }
+    ]
+  }
+}

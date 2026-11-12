@@ -1,0 +1,21 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251858/autores",
+  "data": {
+    "dados": [
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962",
+        "nome": "Carlos Gomes",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 1,
+        "proponente": 1
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251858/autores"
+      }
+    ]
+  }
+}

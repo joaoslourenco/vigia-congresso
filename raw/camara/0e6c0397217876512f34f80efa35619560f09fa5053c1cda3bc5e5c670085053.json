@@ -1,0 +1,77 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2026-05-12T10:22",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do PLP n. 131/2026 (Projeto de Lei Complementar), pelos Deputados Carlos Henrique Gaguim (UNIÃO/TO) e Padovani PP        , que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para permitir a adesão ao regime de transição aplicável à alienação de imóvel decorrente de parcelamento do solo aos parcelamentos em relação aos quais haja contrato de parceria averbado na matrícula do imóvel\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127088",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-10-13T17:05",
+        "sequencia": 7,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do REQ n. 4290/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputados Ricardo Maia (MDB/BA) e Isnaldo Bulhões Jr. MDB       , que \"Requer, nos termos do art. 155 do RICD, urgência para o Projeto de Lei Complementar nº 131, de 2026 que altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para permitir a adesão ao regime de transição aplicável à alienação de imóvel decorrente de parcelamento do solo aos parcelamentos em relação aos quais haja contrato de parceria averbado na matrícula do imóvel\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3183576",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-10T13:55",
+        "sequencia": 8,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "codTipoTramitacao": "196",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4290/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-10T13:55",
+        "sequencia": 9,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "codTipoTramitacao": "196",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Aprovado o requerimento nº 4290/2026, Dos Srs. Ricardo Maia e Isnaldo Bulhões Jr., que solicita urgência (art. 155) para o PLP 131/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565/tramitacoes"
+      }
+    ]
+  }
+}

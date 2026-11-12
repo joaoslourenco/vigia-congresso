@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518140",
+  "data": {
+    "dados": {
+      "id": 2518140,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518140",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 127,
+      "ano": 2025,
+      "ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para instituir critérios suplementares de financiamento às ações e serviços públicos de saúde destinados às regiões de fronteira internacional.",
+      "dataApresentacao": "2025-05-28T16:44",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T09:30",
+        "sequencia": 21,
+        "siglaOrgao": "CSAUDE",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204360",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Retirada de Pauta",
+        "codTipoTramitacao": "250",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Retirado de pauta de ofício",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518140/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Legislação, Valor mínimo, aplicação, Recursos financeiros, União, Saúde pública, Serviços de saúde, critério, distribuição, Recursos públicos, Fronteira.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2921048",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2518140"
+      }
+    ]
+  }
+}

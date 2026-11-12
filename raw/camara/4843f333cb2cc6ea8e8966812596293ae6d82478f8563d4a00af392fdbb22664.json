@@ -1,0 +1,109 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 141477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477",
+        "nome": "JUVENIL ALVES",
+        "nomeEleitoral": "JUVENIL",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "MG",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
+        "dataHora": "2007-02-01T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 141477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477",
+        "nome": "JUVENIL ALVES",
+        "nomeEleitoral": "JUVENIL",
+        "siglaPartido": "S.PART.",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36852",
+        "siglaUf": "MG",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
+        "dataHora": "2007-03-15T10:35",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 141477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477",
+        "nome": "JUVENIL ALVES",
+        "nomeEleitoral": "JUVENIL",
+        "siglaPartido": "PRTB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36829",
+        "siglaUf": "MG",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
+        "dataHora": "2007-10-05T17:36",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 141477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477",
+        "nome": "JUVENIL",
+        "nomeEleitoral": "JUVENIL",
+        "siglaPartido": "PRTB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36829",
+        "siglaUf": "MG",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
+        "dataHora": "2007-11-20T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de nome"
+      },
+      {
+        "id": 141477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477",
+        "nome": "JUVENIL",
+        "nomeEleitoral": "JUVENIL",
+        "siglaPartido": "PRTB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36829",
+        "siglaUf": "MG",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
+        "dataHora": "2009-03-31T14:02",
+        "situacao": "VACANCIA",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento definitivo - Perda de Mandato por Ato da Mesa"
+      },
+      {
+        "id": 141477,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477",
+        "nome": "JUVENIL",
+        "nomeEleitoral": "JUVENIL",
+        "siglaPartido": "PRTB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36829",
+        "siglaUf": "MG",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477/historico"
+      }
+    ]
+  }
+}

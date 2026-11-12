@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651984",
+  "data": {
+    "dados": {
+      "id": 2651984,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651984",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 290,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "dataApresentacao": "2026-08-12T17:56",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-10T17:15",
+        "sequencia": 7,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Notificação de Despacho",
+        "codTipoTramitacao": "203",
+        "descricaoSituacao": "Aguardando Autorização do Despacho",
+        "codSituacao": 1200,
+        "despacho": "Despacho exarado no PL 5042/2026, conforme o seguinte teor: \" Numere-se como Projeto de Lei Complementar. Publique-se.\"",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3191020",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651984/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": null,
+      "keywords": null,
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3192406",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651984"
+      }
+    ]
+  }
+}

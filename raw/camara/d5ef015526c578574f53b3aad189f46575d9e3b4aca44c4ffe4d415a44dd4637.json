@@ -1,0 +1,93 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602249/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2026-02-10T19:04",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Apresentação do PLP n. 23/2026 (Projeto de Lei Complementar), pelo Deputado Vanderlan Alves (UNIÃO/CE), que \"Institui a Contribuição de Intervenção no Domínio Econômico incidente sobre Serviços de Datacenter (CIDE–DataCenter); majora as alíquotas da CSLL, do PIS/Pasep e da Cofins aplicáveis ao setor; revoga benefícios fiscais federais e veda a concessão de novos incentivos destinados à instalação, expansão ou operação de datacenters; e dá outras providências\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3081228",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-03-18T13:25",
+        "sequencia": 7,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Distribuição",
+        "codTipoTramitacao": "110",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Às Comissões deCiência, Tecnologia e Inovação;Finanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação do Plenário.Regime de Tramitação: Prioridade (Art. 151, II, RICD).",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3093961",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-03-25T00:00",
+        "sequencia": 14,
+        "siglaOrgao": "CCP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Publicação de Proposição",
+        "codTipoTramitacao": "604",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/03/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-03-25T17:07",
+        "sequencia": 13,
+        "siglaOrgao": "CCTI",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Recebimento",
+        "codTipoTramitacao": "500",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Recebimento pelo(a) CCTI.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-05T12:20",
+        "sequencia": 15,
+        "siglaOrgao": "CCTI",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designada Relatora, Dep. Amanda Gentil (PP-MA).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2602249/tramitacoes"
+      }
+    ]
+  }
+}

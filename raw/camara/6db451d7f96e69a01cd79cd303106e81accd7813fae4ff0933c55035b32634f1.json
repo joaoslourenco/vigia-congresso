@@ -1,0 +1,77 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 220577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+        "nome": "Augusto Pupio",
+        "nomeEleitoral": "AUGUSTO PUPPIO",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 220577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+        "nome": "Augusto Pupio",
+        "nomeEleitoral": "AUGUSTO PUPPIO",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+        "dataHora": "2023-02-01T12:05",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 220577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+        "nome": "Augusto Puppio",
+        "nomeEleitoral": "AUGUSTO PUPPIO",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+        "dataHora": "2023-04-26T22:10",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": ""
+      },
+      {
+        "id": 220577,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577",
+        "nome": "Augusto Puppio",
+        "nomeEleitoral": "AUGUSTO PUPPIO",
+        "siglaPartido": "MDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
+        "dataHora": "2025-07-30T19:43",
+        "situacao": "SUPLENCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Decisão da Mesa - Afastamento de titular  por Recontagem de Votos"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577/historico"
+      }
+    ]
+  }
+}

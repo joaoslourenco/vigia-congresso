@@ -1,0 +1,29 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2026-11-11T17:39",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PLP n. 301/2026 (Projeto de Lei Complementar), pelo Deputado Reginaldo Lopes (PT/MG -Fdr PT-PCdoB-PV), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3194076",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/tramitacoes"
+      }
+    ]
+  }
+}

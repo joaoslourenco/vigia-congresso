@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295251",
+  "data": {
+    "dados": {
+      "id": 2295251,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295251",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 108,
+      "ano": 2021,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a                     R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "dataApresentacao": "2021-08-20T12:15",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+      "statusProposicao": {
+        "dataHora": "2026-11-03T19:41",
+        "sequencia": 200,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/214694",
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Apresentação do REQ n. 4379/2026 (Requerimento de Apensação), pelo Deputado Domingos Sávio (PL/MG), que \"Requer a tramitação conjunta do Projeto de Lei Complementar nº 190, de 2026, com o Projeto de Lei Complementar nº 108, de 2021\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3188787",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295251/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, elevação, limite, receita bruta, Microempreendedor Individual (MEI), aumento, número, contratação, empregado.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2060759",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295251"
+      }
+    ]
+  }
+}

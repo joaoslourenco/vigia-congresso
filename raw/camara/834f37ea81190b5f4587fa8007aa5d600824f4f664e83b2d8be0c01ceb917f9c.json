@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2140446",
+  "data": {
+    "dados": {
+      "id": 2140446,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2140446",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 333,
+      "ano": 2017,
+      "ementa": "Altera os arts. 5º, 37, 96, 102, 105, 108 e 125 da Constituição Federal para extinguir o foro especial por prerrogativa de função no caso dos crimes comuns, e revoga o inciso X do art. 29 e o § 1º do art. 53 da Constituição Federal.",
+      "dataApresentacao": "2017-06-06T19:25",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T12:48",
+        "sequencia": 227,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/141422",
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do REQ n. 4382/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3189234",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2140446/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": "",
+      "keywords": "Constituição Federal (1988), Direitos fundamentais, garantias fundamentais, extinção, foro privilegiado, crime comum.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1566703",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2140446"
+      }
+    ]
+  }
+}

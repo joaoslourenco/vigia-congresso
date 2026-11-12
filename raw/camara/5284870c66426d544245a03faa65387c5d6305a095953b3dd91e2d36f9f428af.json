@@ -1,0 +1,29 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565/autores",
+  "data": {
+    "dados": [
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178993",
+        "nome": "Carlos Henrique Gaguim",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 1,
+        "proponente": 1
+      },
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220706",
+        "nome": "Padovani",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 2,
+        "proponente": 1
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565/autores"
+      }
+    ]
+  }
+}

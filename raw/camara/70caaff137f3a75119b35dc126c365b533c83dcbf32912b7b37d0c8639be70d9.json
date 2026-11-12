@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260638",
+  "data": {
+    "dados": {
+      "id": 2260638,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260638",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 218,
+      "ano": 2020,
+      "ementa": "Institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica.",
+      "dataApresentacao": "2020-08-19T12:42",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2002",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T10:00",
+        "sequencia": 59,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Aprovação de Requerimento",
+        "codTipoTramitacao": "195",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Aprovado o requerimento nº 53/2026,do Sr. Capitão Alden que requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 218, de 2020, que “institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica”, e o Projeto de Lei Complementar nº 241, de 2020, apensado.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260638/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação,Contribuição Social sobre Serviços Digitais Incidente sobre a Receita Bruta de Serviços Digitais Prestados pelas Grandes Empresas de Tecnologia (CSSD), fato gerador, serviços digitais, contribuinte, pessoa jurídica, Tecnologia digital, base de cálculo, arrecadação, Renda básica, tributação.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1923750",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260638"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2026-11-10T17:05",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PLP n. 293/2026 (Projeto de Lei Complementar), pelo Deputado Geraldo Resende (UNIÃO/MS), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, a fim de dispor sobre a realização de despesas com eventos de entretenimento nos casos de não atingimento de indicadores mínimos de atendimento em saúde e educação. \".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3192747",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/tramitacoes"
+      }
+    ]
+  }
+}

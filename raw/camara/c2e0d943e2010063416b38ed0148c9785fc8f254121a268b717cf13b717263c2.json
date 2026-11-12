@@ -1,0 +1,141 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "PB",
+        "idLegislatura": 55,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2015-02-01T10:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "PB",
+        "idLegislatura": 55,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2018-05-13T04:45",
+        "situacao": "VACANCIA",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento definitivo - Falecimento"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "PB",
+        "idLegislatura": 55,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "PB",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2007-02-01T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "PB",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2008-02-21T17:56",
+        "situacao": "Licença",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento sem prazo determinado - Secretário de Estado"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "PB",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2008-06-11T09:52",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Reassunção"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "PB",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2010-12-29T14:32",
+        "situacao": "VACANCIA",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento definitivo - Renúncia"
+      },
+      {
+        "id": 141536,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+        "nome": "RÔMULO GOUVEIA",
+        "nomeEleitoral": "RÔMULO GOUVEIA",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "PB",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536/historico"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867",
+  "data": {
+    "dados": {
+      "id": 2652867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 297,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes Fortunas.",
+      "dataApresentacao": "2026-11-11T12:14",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-11T12:14",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PLP n. 297/2026 (Projeto de Lei Complementar), pelo Deputado Merlong Solano (PT/PI -Fdr PT-PCdoB-PV), que \"Institui o Imposto sobre Grandes Fortunas\".",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": null,
+      "keywords": null,
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193863",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867"
+      }
+    ]
+  }
+}

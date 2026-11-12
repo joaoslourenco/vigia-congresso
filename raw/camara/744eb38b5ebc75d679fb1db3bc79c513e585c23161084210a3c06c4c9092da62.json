@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196107",
+  "data": {
+    "dados": {
+      "id": 2196107,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196107",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 90,
+      "ano": 2019,
+      "ementa": "Altera as Leis Complementares nº 24, de 7 de janeiro de 1975, que dispõe sobre os convênios para a concessão de isenções do imposto sobre operações relativas à circulação de mercadorias, para regular o disposto na alínea g, inciso XII, § 2º do art. 155 da Constituição Federal e a nº160 de 7 de agosto de 2017, que dispõe sobre convênio que permite aos Estados e ao Distrito Federal deliberar sobre a remissão dos créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea \"g\" do inciso XII do § 2o do art. 155 da Constituição Federal e a reinstituição das respectivas isenções, incentivos e benefícios fiscais ou financeiro-fiscais; e altera a Lei no 12.973, de 13 de maio de 2014.",
+      "dataApresentacao": "2019-03-29T12:30",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+      "statusProposicao": {
+        "dataHora": "2026-11-09T13:45",
+        "sequencia": 34,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designado Relator, Dep. Merlong Solano (PT-PI).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196107/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, lei federal, regulação, forma, Estado (ente federado), Distrito Federal, Convênio (direito tributário), revogação, redução, aumento, isenção tributária, incentivo fiscal, benefício fiscal, Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), tributação. \r\n_Alteração, lei federal, quórum, aprovação, Convênio (direito tributário), concessão, benefício fiscal, Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), ente federado, redução, Renda per capita.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1725918",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196107"
+      }
+    ]
+  }
+}

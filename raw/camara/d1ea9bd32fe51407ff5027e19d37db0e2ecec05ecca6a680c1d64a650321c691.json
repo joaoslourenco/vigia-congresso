@@ -1,0 +1,125 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2025-12-01T15:39",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente - Aguardando Convocação de Suplente"
+      },
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2025-12-01T15:50",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente"
+      },
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2025-12-02T17:16",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Entrada - Posse de Suplente - Posse como Suplente"
+      },
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "REPUBLICANOS",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37908",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2026-02-10T19:20",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "SOLIDARIEDADE",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37904",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2026-03-25T17:30",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 234673,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673",
+        "nome": "Vanderlan Alves",
+        "nomeEleitoral": "VANDERLAN ALVES",
+        "siglaPartido": "SOLIDARIEDADE",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37904",
+        "siglaUf": "CE",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+        "dataHora": "2026-06-03T00:00",
+        "situacao": "SUPLENCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Saída - Afastamento sem prazo determinado - Afastamento de Suplente (automático)"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/234673/historico"
+      }
+    ]
+  }
+}

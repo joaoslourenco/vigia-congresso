@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302",
+  "data": {
+    "dados": {
+      "id": 354302,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 82,
+      "ano": 2007,
+      "ementa": "Acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal.",
+      "dataApresentacao": "2007-06-05T16:27",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T16:04",
+        "sequencia": 164,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/141562",
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do REQ n. 4435/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Lêda Borges (REPUBLIC/GO), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82, de 2007, à qual se encontra apensada a PEC nº 17, de 2024.\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193966",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": "Atribui autonomia funcional e prerrogativas aos membros da Defensoria Pública, Advocacia da União, Procuradoria da Fazenda Nacional, Procuradoria-Geral Federal, Procuradoria das autarquias e às Procuradorias dos Estados, do Distrito Federal e dos Municípios.",
+      "keywords": "Controle interno, licitude, ato administrativo, administração direta, competência, Advocacia-Geral da União, administração indireta, Procuradoria-Geral da União, procuradoria, autarquia federal,  Estados, Municípios, garantia, autonomia administrativa, autonomia financeira, natureza orçamentária, remuneração, garantia, servidor, carreira, Defensoria Pública, Procurador da da Fazenda Nacional, Procurador da República, Procurador do Estado, Procurador Autárquico, inamovibilidade, irredutibilidade, subsídio, independência, exercício funcional.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=466900",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302"
+      }
+    ]
+  }
+}

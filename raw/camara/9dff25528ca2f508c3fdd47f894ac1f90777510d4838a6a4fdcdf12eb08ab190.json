@@ -1,0 +1,125 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483205/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2025-02-06T18:30",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Apresentação do PLP n. 16/2025 (Projeto de Lei Complementar), pelo Deputado Gilson Marques (NOVO/SC) e outros, que \"Altera a Lei Complementar nº 87, de 13 de setembro de 1996, e a Lei Complementar nº 214, de 16 de janeiro de 2025, para cumprimento do art. 149-B e para aplicação do princípio da neutralidade de que trata o § 1º do art. 156-A, ambos da Constituição Federal\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2852506",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2025-02-17T14:23",
+        "sequencia": 7,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Distribuição",
+        "codTipoTramitacao": "110",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Às Comissões de Finanças e Tributação (Mérito e Art. 54, RICD) e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade (Art. 151, II, RICD)",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2854654",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2025-02-19T00:00",
+        "sequencia": 13,
+        "siglaOrgao": "CCP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Publicação de Proposição",
+        "codTipoTramitacao": "604",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 20/02/2025 PAG 325",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2880700",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2025-02-20T18:04",
+        "sequencia": 14,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Recebimento",
+        "codTipoTramitacao": "500",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Recebimento pela CFT.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2025-04-04T00:00",
+        "sequencia": 15,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designado Relator, Dep. Mauro Benevides Filho (PDT-CE)",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-10-27T13:13",
+        "sequencia": 16,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Apresentação do REQ n. 50/2026 (Requerimento de Audiência Pública), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 87, de 13 de setembro de 1996, e a Lei Complementar nº 214, de 16 de janeiro de 2025, para cumprimento do art. 149-B e para aplicação do princípio da neutralidade de que trata o § 1º do art. 156-A, ambos da Constituição Federal\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3186374",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-04T10:00",
+        "sequencia": 17,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Aprovação de Requerimento",
+        "codTipoTramitacao": "195",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Aprovado o requerimento nº 50/2026,do Sr. Kim Kataguiri que requer a realização de Audiência Pública no âmbito da Comissão de Finanças e Tributação – CFT para debater os impactos do Projeto de Lei Complementar nº 16, de 2025.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483205/tramitacoes"
+      }
+    ]
+  }
+}

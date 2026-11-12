@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222776",
+  "data": {
+    "dados": {
+      "id": 2222776,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222776",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 225,
+      "ano": 2019,
+      "ementa": "Dispõe sobre a regulamentação do regime monofásico e unificado de recolhimento do imposto sobre operações relativas à circulação de mercadorias (ICMS) incidente sobre combustíveis, no âmbito do Conselho Nacional de Política Fazendária (CONFAZ).",
+      "dataApresentacao": "2019-10-01T18:57",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "statusProposicao": {
+        "dataHora": "2026-11-09T13:45",
+        "sequencia": 22,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Notificacao para Publicação Intermediária",
+        "codTipoTramitacao": "1050",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Designado Relator, Dep. Merlong Solano (PT-PI), para o PLP 90/2019, ao qual esta proposição está apensada.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222776/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, lei complementar, regulamentação, Constituição Federal (1988), Regime monofásico e unificado de recolhimento do imposto sobre operações relativas a circulação de mercadorias, Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), combustível, tributação.",
+      "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196107",
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1814375",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222776"
+      }
+    ]
+  }
+}

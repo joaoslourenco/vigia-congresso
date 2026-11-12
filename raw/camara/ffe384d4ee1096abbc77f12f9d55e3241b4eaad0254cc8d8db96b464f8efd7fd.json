@@ -1,0 +1,29 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279086/autores",
+  "data": {
+    "dados": [
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141439",
+        "nome": "Chico D'Angelo",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 2,
+        "proponente": 1
+      },
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74398",
+        "nome": "Maria do Rosário",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 1,
+        "proponente": 1
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279086/autores"
+      }
+    ]
+  }
+}

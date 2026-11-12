@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565",
+  "data": {
+    "dados": {
+      "id": 2623565,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 131,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para permitir a adesão ao regime de transição aplicável à alienação de imóvel decorrente de parcelamento do solo aos parcelamentos em relação aos quais haja contrato de parceria averbado na matrícula do imóvel.",
+      "dataApresentacao": "2026-05-12T10:22",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-11-10T13:55",
+        "sequencia": 9,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Aprovação de Urgência (154, 155 ou 64 CF)",
+        "codTipoTramitacao": "196",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Aprovado o requerimento nº 4290/2026, Dos Srs. Ricardo Maia e Isnaldo Bulhões Jr., que solicita urgência (art. 155) para o PLP 131/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei Complementar, sistema tributário, alienação de bens, imóvel, parcelamento do solo, proibição, aproveitamento, crédito tributário, Imposto sobre Bens e Serviços (IBS), Contribuição sobre Bens e Serviços (CBS), tributação.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3127088",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2623565"
+      }
+    ]
+  }
+}

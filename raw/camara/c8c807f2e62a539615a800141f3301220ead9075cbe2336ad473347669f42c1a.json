@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350914",
+  "data": {
+    "dados": {
+      "id": 2350914,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350914",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 42,
+      "ano": 2023,
+      "ementa": "Regulamenta o art. 201, § 1º, inciso II, da Constituição Federal, para dispor sobre os requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, nos casos de atividades exercidas sob condições especiais que prejudiquem a saúde, e dá outras providências.",
+      "dataApresentacao": "2023-03-09T14:17",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T13:44",
+        "sequencia": 122,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204557",
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Notificações",
+        "codTipoTramitacao": "1005",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Informativo CONOF",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193782",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350914/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Regulamentação, Constituição Federal (1988), concessão, Aposentadoria especial, Beneficiário, Regime Geral de Previdência Social (RGPS), Atividade penosa, Atividade insalubre.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2241517",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350914"
+      }
+    ]
+  }
+}

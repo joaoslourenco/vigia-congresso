@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2363310",
+  "data": {
+    "dados": {
+      "id": 2363310,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2363310",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 245,
+      "ano": 2019,
+      "ementa": "Regulamenta o inciso II do § 1º do art. 201 da Constituição Federal, que dispõe sobre a concessão de aposentadoria especial aos segurados do Regime Geral de Previdência Social.",
+      "dataApresentacao": "2023-05-17T20:55",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T18:56",
+        "sequencia": 27,
+        "siglaOrgao": "CCJC",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Notificacao para Publicação Intermediária",
+        "codTipoTramitacao": "1050",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Designado Relator, Dep. Sidney Leite (PSD-AM), para o PLP 42/2023, ao qual esta proposição está apensada.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2363310/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Regulamentação, Constituição Federal (1988), concessão, aposentadoria especial, periculosidade, segurado (previdência social), Regime Geral de Previdência Social (RGPS), trabalhador, exposição ao perigo, agentes nocivos, mineração subterrânea, radiação não ionizante, amianto, arma de fogo",
+      "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350914",
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2274857",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2363310"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2341099",
+  "data": {
+    "dados": {
+      "id": 2341099,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2341099",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 150,
+      "ano": 2022,
+      "ementa": "Institui a Política Nacional de Bioeconomia, em articulação com a implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, e altera a Lei nº 10.177, de 12 de janeiro de 2001, a Lei Complementar nº 124, de 3 de janeiro de 2007, a Lei Complementar nº 125, de 3 de janeiro de 2007, a Lei Complementar nº 129, de 8 de janeiro de 2009, e a Lei nº 12.187, de 29 de dezembro de 2009.",
+      "dataApresentacao": "2022-12-06T17:24",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T17:36",
+        "sequencia": 50,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/104552",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do REQ n. 4386/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Rodrigo Rollemberg (PSB/DF), que \"Requer a inclusão na Ordem do Dia do PLP nº 150/2022, que “Institui a Política Nacional de Bioeconomia, em articulação com a implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, e altera a Lei nº 10.177, de 12 de janeiro de 2001, a Lei Complementar nº 124, de 3 de janeiro de 2007, a Lei Complementar nº 125, de 3 de janeiro de 2007, a Lei Complementar nº 129, de 8 de janeiro de 2009, e a Lei nº 12.187, de 29 de dezembro de 2009.”\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190232",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2341099/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação, Política Nacional de Bioeconomia, princípios, diretrizes, Desenvolvimento nacional, Desenvolvimento sustentável, economia. _ Alteração, Lei Federal, redução, encargo financeiro, crédito rural, recursos, Fundo constitucional, projeto (administração), Conservação ambiental, Política Nacional de Bioeconomia. _ Alteração, Lei Complementar, Plano Regional de Desenvolvimento da Amazônia (PRDA), Plano Regional de Desenvolvimento do Nordeste (PRDNE), Plano Regional de Desenvolvimento do Centro-Oeste (PRDCO), atendimento, Estratégia Nacional de Bioeconomia. _ Alteração, Lei Federal, Política Nacional sobre Mudança do Clima (PNMC), fortalecimento, produção nacional, Economia de baixo carbono.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2221184",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2341099"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 228272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272",
+        "nome": "Délio Pinheiro",
+        "nomeEleitoral": "DÉLIO PINHEIRO",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 228272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272",
+        "nome": "Délio Pinheiro",
+        "nomeEleitoral": "DÉLIO PINHEIRO",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg",
+        "dataHora": "2024-04-08T11:55",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente - Aguardando Convocação de Suplente"
+      },
+      {
+        "id": 228272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272",
+        "nome": "Délio Pinheiro",
+        "nomeEleitoral": "DÉLIO PINHEIRO",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg",
+        "dataHora": "2024-04-08T11:55",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente"
+      },
+      {
+        "id": 228272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272",
+        "nome": "Délio Pinheiro",
+        "nomeEleitoral": "DÉLIO PINHEIRO",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg",
+        "dataHora": "2024-04-09T14:23",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Entrada - Posse de Suplente - Posse como Suplente"
+      },
+      {
+        "id": 228272,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272",
+        "nome": "Délio Pinheiro",
+        "nomeEleitoral": "DÉLIO PINHEIRO",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "MG",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg",
+        "dataHora": "2024-08-07T00:00",
+        "situacao": "SUPLENCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Saída - Afastamento sem prazo determinado - Afastamento de Suplente (automático)"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/228272/historico"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "PFL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790",
+        "siglaUf": "RJ",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2007-02-13T00:00",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente - Aguardando Convocação de Suplente"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "PFL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790",
+        "siglaUf": "RJ",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2007-02-13T00:00",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "PFL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790",
+        "siglaUf": "RJ",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2007-02-14T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Entrada - Posse de Suplente - Posse como Suplente"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "RJ",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2007-04-23T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "RJ",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2008-10-31T00:00",
+        "situacao": "SUPLENCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Saída - Afastamento sem prazo determinado - Afastamento de Suplente (automático)"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "RJ",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "PFL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790",
+        "siglaUf": "RJ",
+        "idLegislatura": 51,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 74024,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024",
+        "nome": "AYRTON XEREZ",
+        "nomeEleitoral": "AYRTON XEREZ",
+        "siglaPartido": "PSDB",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+        "siglaUf": "RJ",
+        "idLegislatura": 50,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74024/historico"
+      }
+    ]
+  }
+}

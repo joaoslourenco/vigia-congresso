@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538208",
+  "data": {
+    "dados": {
+      "id": 2538208,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538208",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 153,
+      "ano": 2025,
+      "ementa": "Institui a Contribuição Social sobre a Propriedade de Sistemas de Interface entre Usuários de Internet (CPSI) e dispõe sobre outras providências voltadas ao fortalecimento da soberania digital do Brasil.",
+      "dataApresentacao": "2025-07-17T21:09",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539385",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T09:57",
+        "sequencia": 42,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designado Relator, Dep. Mauro Benevides Filho (UNIÃO-CE).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538208/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação, Contribuição Social sobre a Propriedade de Sistemas de Interface entre Usuários de Internet (CPSI), plataforma digital, provedor de aplicação de mensagem instantânea, servidor de e-mail, motor de busca, fato gerador, incidência tributária, base de cálculo, recursos financeiros, arrecadação, aplicação, destinação, diretrizes.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2960496",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538208"
+      }
+    ]
+  }
+}

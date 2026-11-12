@@ -1,0 +1,109 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2436224/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2024-05-23T12:02",
+        "sequencia": 1,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": null,
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Apresentação da PEC n. 21/2024 (Proposta de Emenda à Constituição), pelos Deputado(a)s Lindbergh Farias (PT-RJ) e outros, que: \"Altera o art. 198 da Constituição Federal, para promover o enquadramento dos servidores públicos federais ocupantes do cargo de auxiliar de enfermagem para a carreira dos técnicos de enfermagem\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2428589",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2024-05-23T12:27",
+        "sequencia": 4,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Relatório de Conferência de Assinaturas",
+        "codTipoTramitacao": "1042",
+        "descricaoSituacao": "Aguardando Encaminhamento",
+        "codSituacao": 910,
+        "despacho": "Relatório de Conferência de Assinaturas Eletrônicas.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2428590",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-06-10T17:54",
+        "sequencia": 8,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Distribuição",
+        "codTipoTramitacao": "110",
+        "descricaoSituacao": "Aguardando Encaminhamento",
+        "codSituacao": 910,
+        "despacho": "À Comissão deConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação do Plenário.Regime de Tramitação: Especial (Art. 202 c/c 191, I, RICD).",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3144756",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-06-11T00:00",
+        "sequencia": 15,
+        "siglaOrgao": "CCP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+        "uriUltimoRelator": null,
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Publicação de Proposição",
+        "codTipoTramitacao": "604",
+        "descricaoSituacao": "Aguardando Encaminhamento",
+        "codSituacao": 910,
+        "despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 12/06/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-06-11T14:45",
+        "sequencia": 14,
+        "siglaOrgao": "CCJC",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+        "uriUltimoRelator": null,
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Recebimento",
+        "codTipoTramitacao": "500",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Recebimento pela CCJC.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      {
+        "dataHora": "2026-11-11T17:10",
+        "sequencia": 16,
+        "siglaOrgao": "CCJC",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220555",
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designada Relatora, Dep. Daiana Santos (PCdoB-RS).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2436224/tramitacoes"
+      }
+    ]
+  }
+}

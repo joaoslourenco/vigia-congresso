@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484039",
+  "data": {
+    "dados": {
+      "id": 2484039,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484039",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 27,
+      "ano": 2025,
+      "ementa": "Altera a Lei Complementar nº 214 de 16 de janeiro de 2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.",
+      "dataApresentacao": "2025-02-14T12:40",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174",
+      "statusProposicao": {
+        "dataHora": "2026-11-04T18:04",
+        "sequencia": 19,
+        "siglaOrgao": "CMADS",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/6174",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designado Relator, Dep. Zé Vitor (PL-MG).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484039/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Legislação, Imposto sobre Bens e Serviços (IBS), Contribuição Social sobre Bens e Serviços (CBS), Imposto seletivo, Alíquota, Alimento,  Produto alimentício.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2855706",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2484039"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483205/autores",
+  "data": {
+    "dados": [
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528",
+        "nome": "Adriana Ventura",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 3,
+        "proponente": 1
+      },
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204365",
+        "nome": "Gilson Marques",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 1,
+        "proponente": 1
+      },
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/156190",
+        "nome": "Marcel van Hattem",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 4,
+        "proponente": 1
+      },
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220633",
+        "nome": "Ricardo Salles",
+        "codTipo": 10000,
+        "tipo": "Deputado(a)",
+        "ordemAssinatura": 2,
+        "proponente": 1
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483205/autores"
+      }
+    ]
+  }
+}

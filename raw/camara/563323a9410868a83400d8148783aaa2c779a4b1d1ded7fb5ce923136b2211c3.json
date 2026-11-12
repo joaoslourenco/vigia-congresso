@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2436224",
+  "data": {
+    "dados": {
+      "id": 2436224,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2436224",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 21,
+      "ano": 2024,
+      "ementa": "Altera o art. 198 da Constituição Federal, para promover o enquadramento dos servidores públicos federais ocupantes do cargo de auxiliar de enfermagem para a carreira dos técnicos de enfermagem.",
+      "dataApresentacao": "2024-05-23T12:02",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T17:10",
+        "sequencia": 16,
+        "siglaOrgao": "CCJC",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220555",
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Designada Relatora, Dep. Daiana Santos (PCdoB-RS).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2436224/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Constituição Federal (1988), enquadramento, servidor público civil federal, auxiliar de enfermagem, quadro (carreira pública), técnico de enfermagem, requisito, diploma de conclusão de curso, União, certificação.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2428589",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2436224"
+      }
+    ]
+  }
+}

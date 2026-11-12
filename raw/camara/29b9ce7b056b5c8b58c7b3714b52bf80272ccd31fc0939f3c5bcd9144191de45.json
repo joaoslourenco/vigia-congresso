@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538327",
+  "data": {
+    "dados": {
+      "id": 2538327,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538327",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 155,
+      "ano": 2025,
+      "ementa": "Institui o Fundo Nacional de Fomento à Economia Solidária, destinado ao financiamento de ações de apoio, fortalecimento e sustentabilidade de empreendimentos econômicos solidários no Brasil, com prioridade para a Região Norte e demais áreas de alta vulnerabilidade socioeconômica.",
+      "dataApresentacao": "2025-07-18T17:43",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539384",
+      "statusProposicao": {
+        "dataHora": "2026-11-06T10:54",
+        "sequencia": 19,
+        "siglaOrgao": "CPOVOS",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539384",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/104552",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Recebimento - Relator(a) (Sem Manifestação)",
+        "codTipoTramitacao": "507",
+        "descricaoSituacao": "Aguardando Designação de Relator(a)",
+        "codSituacao": 907,
+        "despacho": "Devolvida pelo Relator sem Manifestação.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538327/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação, Fundo público, Recursos financeiros, Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Financiamento público, destinação, Economia solidária, Empreendimento econômico solidário, Região Norte, combate, Vulnerabilidade econômica.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2960976",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2538327"
+      }
+    ]
+  }
+}

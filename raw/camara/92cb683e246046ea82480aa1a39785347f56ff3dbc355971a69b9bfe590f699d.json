@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992",
+  "data": {
+    "dados": {
+      "id": 2652992,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 301,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015.",
+      "dataApresentacao": "2026-11-11T17:39",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-11T17:39",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PLP n. 301/2026 (Projeto de Lei Complementar), pelo Deputado Reginaldo Lopes (PT/MG -Fdr PT-PCdoB-PV), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015\".",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": null,
+      "keywords": null,
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3194076",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992"
+      }
+    ]
+  }
+}

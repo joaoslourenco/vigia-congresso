@@ -1,0 +1,125 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PV",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+        "siglaUf": "SP",
+        "idLegislatura": 54,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2011-02-01T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "SP",
+        "idLegislatura": 54,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2011-10-26T12:09",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "SP",
+        "idLegislatura": 54,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2015-01-31T23:59",
+        "situacao": "FIM_MANDATO",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento definitivo - Término da Legislatura"
+      },
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PSD",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+        "siglaUf": "SP",
+        "idLegislatura": 54,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PV",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+        "siglaUf": "SP",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2007-02-01T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PV",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+        "siglaUf": "SP",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2011-01-31T23:59",
+        "situacao": "FIM_MANDATO",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento definitivo - Término da Legislatura"
+      },
+      {
+        "id": 141473,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473",
+        "nome": "ROBERTO SANTIAGO",
+        "nomeEleitoral": "ROBERTO SANTIAGO",
+        "siglaPartido": "PV",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+        "siglaUf": "SP",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141473.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/141473/historico"
+      }
+    ]
+  }
+}

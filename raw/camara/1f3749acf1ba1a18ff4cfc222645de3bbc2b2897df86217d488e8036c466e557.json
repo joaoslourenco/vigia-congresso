@@ -1,0 +1,31 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PEC&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&itens=100&ordem=ASC&ordenarPor=id",
+  "data": {
+    "dados": [
+      {
+        "id": 2651102,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102",
+        "siglaTipo": "PEC",
+        "codTipo": 136,
+        "numero": 22,
+        "ano": 2026,
+        "ementa": "Altera o Ato das Disposições Constitucionais Transitórias para disciplinar a transição para a cobrança do Imposto Seletivo.",
+        "dataApresentacao": "2026-11-05T07:12"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PEC&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&itens=100&ordem=ASC&ordenarPor=id"
+      },
+      {
+        "rel": "first",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PEC&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+      },
+      {
+        "rel": "last",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PEC&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+      }
+    ]
+  }
+}

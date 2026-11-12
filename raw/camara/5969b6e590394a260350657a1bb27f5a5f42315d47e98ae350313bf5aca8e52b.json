@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2362526",
+  "data": {
+    "dados": {
+      "id": 2362526,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2362526",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 25,
+      "ano": 2023,
+      "ementa": "Acrescenta o Capítulo IX ao Título VIII para oferecer diretrizes sobre o direito social ao transporte previsto no art. 6º e sobre o Sistema único de Mobilidade e autoriza a União, Distrito Federal e Municípios a instituírem\ncontribuição pelo uso do sistema viário, destinada ao custeio do transporte público coletivo urbano.",
+      "dataApresentacao": "2023-05-16T18:26",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+      "statusProposicao": {
+        "dataHora": "2026-10-29T11:36",
+        "sequencia": 33,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067",
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Apresentação do REQ n. 4366/2026 (Requerimento de Apensação), pela Deputada Luiza Erundina (PSOL/SP -Fdr PSOL-REDE), que \"Requer o apensamento da Proposta de Emenda à Constituição nº 18, de 2026, à Proposta de Emenda à Constituição nº 25, de 2023. \".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187482",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2362526/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": "",
+      "keywords": "Constituição Federal (1988), Direitos sociais, direito ao transporte, diretrizes, Sistema Único de Mobilidade, transporte público coletivo. _Criação, contribuição, custeio, sistema viário, transporte público coletivo, tributação.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2273368",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2362526"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "PFL",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790",
+        "siglaUf": "SE",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2007-02-01T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "SE",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2007-04-23T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "SE",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2008-07-10T00:00",
+        "situacao": "Licença",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento com prazo determinado - Afastamento Conjunto Consecutivo"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "SE",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2008-11-08T00:00",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Reassunção"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "SE",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2010-08-04T15:46",
+        "situacao": "VACANCIA",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Saída - Afastamento definitivo - Perda de Mandato por Ato da Mesa"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "DEM",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+        "siglaUf": "SE",
+        "idLegislatura": 53,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "PMN",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36801",
+        "siglaUf": "SE",
+        "idLegislatura": 50,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 74528,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528",
+        "nome": "JERÔNIMO REIS",
+        "nomeEleitoral": "JERÔNIMO REIS",
+        "siglaPartido": "PMN",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36801",
+        "siglaUf": "SE",
+        "idLegislatura": 49,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74528.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/74528/historico"
+      }
+    ]
+  }
+}

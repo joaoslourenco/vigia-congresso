@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2400108",
+  "data": {
+    "dados": {
+      "id": 2400108,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2400108",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 231,
+      "ano": 2023,
+      "ementa": "Regulamenta o inciso II, § 1º, do art. 201, da Constituição Federal, ao dispor sobre a concessão de aposentadoria aos beneficiários do Regime Geral de Previdência Social — RGPS, nos casos de atividades exercidas sob condições especiais.",
+      "dataApresentacao": "2023-10-30T18:30",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-04T18:56",
+        "sequencia": 24,
+        "siglaOrgao": "CCJC",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+        "uriUltimoRelator": null,
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Notificacao para Publicação Intermediária",
+        "codTipoTramitacao": "1050",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Designado Relator, Dep. Sidney Leite (PSD-AM), para o PLP 42/2023, ao qual esta proposição está apensada.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2400108/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Regulamentação, Constituição Federal (1988), concessão, Aposentadoria especial, Beneficiário, Regime Geral de Previdência Social (RGPS), Atividade insalubre, Previdência social, Tutela do trabalho.",
+      "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2350914",
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2352899",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2400108"
+      }
+    ]
+  }
+}

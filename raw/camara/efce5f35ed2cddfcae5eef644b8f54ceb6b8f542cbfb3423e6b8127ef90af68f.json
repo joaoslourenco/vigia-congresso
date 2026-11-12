@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579088",
+  "data": {
+    "dados": {
+      "id": 2579088,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579088",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 226,
+      "ano": 2025,
+      "ementa": "Altera a Lei Complementar n.º 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências.",
+      "dataApresentacao": "2025-10-29T20:49",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-11-10T18:20",
+        "sequencia": 10,
+        "siglaOrgao": "PLEN",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220571",
+        "regime": "Urgência (Art. 155, RICD)",
+        "descricaoTramitacao": "Designação de Relator(a)",
+        "codTipoTramitacao": "320",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Designado Relator, Dep. Daniel Agrobom (PSD-GO).",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579088/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Legislação, Emenda, Lei Orçamentária Anual (LOA), Execução orçamentária, Programação orçamentária e financeira, Orçamento público, destinação, Recursos financeiros, Emenda de bancada estadual, Fundo de Assistência Social, Fundo de Saúde",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034664",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2579088"
+      }
+    ]
+  }
+}

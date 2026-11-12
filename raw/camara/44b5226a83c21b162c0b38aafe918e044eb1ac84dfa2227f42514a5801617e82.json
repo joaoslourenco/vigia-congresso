@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194074",
+  "data": {
+    "dados": {
+      "id": 2194074,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194074",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 65,
+      "ano": 2019,
+      "ementa": "Altera a Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências.",
+      "dataApresentacao": "2019-03-14T16:27",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2017",
+      "statusProposicao": {
+        "dataHora": "2026-11-10T19:52",
+        "sequencia": 57,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220578",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Designação de Relator(a)",
+        "codSituacao": 907,
+        "despacho": "Apresentação do REQ n. 4429/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputada Flávia Morais (MDB/GO) e Deputado Adolfo Viana PSDB      , que \"Requer a urgência para a apreciação do PLP nº 65/2019. \".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193190",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194074/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei da Ride, inclusão, Região Integrada de Desenvolvimento do Distrito Federal e Entorno (RIDE), município, Buritinópolis (GO), Campo Belo (GO), Colinas do Sul (GO), Damianópolis (GO), Divinópolis de Goiás (GO), Guarani de Goiás (GO), Iaciara (GO), Nova Roma (GO), Posse (GO), São Domingos (GO), Sitio D\"Abadia (GO), Teresina de Goiás (GO), Goiás, desenvolvimento regional.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1719155",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194074"
+      }
+    ]
+  }
+}

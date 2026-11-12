@@ -1,0 +1,93 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 221378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378",
+        "nome": "Reginete Bispo",
+        "nomeEleitoral": "REGINETE BISPO",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221378.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 221378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378",
+        "nome": "Reginete Bispo",
+        "nomeEleitoral": "REGINETE BISPO",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221378.jpg",
+        "dataHora": "2023-02-03T10:12",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente - Aguardando Convocação de Suplente"
+      },
+      {
+        "id": 221378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378",
+        "nome": "Reginete Bispo",
+        "nomeEleitoral": "REGINETE BISPO",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221378.jpg",
+        "dataHora": "2023-02-03T10:20",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente"
+      },
+      {
+        "id": 221378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378",
+        "nome": "Reginete Bispo",
+        "nomeEleitoral": "REGINETE BISPO",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221378.jpg",
+        "dataHora": "2023-02-03T10:59",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Entrada - Posse de Suplente - Posse como Suplente"
+      },
+      {
+        "id": 221378,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378",
+        "nome": "Reginete Bispo",
+        "nomeEleitoral": "REGINETE BISPO",
+        "siglaPartido": "PT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+        "siglaUf": "RS",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221378.jpg",
+        "dataHora": "2025-01-14T13:23",
+        "situacao": "SUPLENCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Saída - Afastamento sem prazo determinado - Afastamento de Suplente (automático)"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/221378/historico"
+      }
+    ]
+  }
+}

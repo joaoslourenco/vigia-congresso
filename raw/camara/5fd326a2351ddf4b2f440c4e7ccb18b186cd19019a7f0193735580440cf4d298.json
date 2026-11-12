@@ -1,0 +1,109 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 221339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+        "nome": "Dr Benjamim",
+        "nomeEleitoral": "DR. BENJAMIM",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 221339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+        "nome": "Dr Benjamim",
+        "nomeEleitoral": "DR. BENJAMIM",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+        "dataHora": "2023-02-03T10:19",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente - Aguardando Convocação de Suplente"
+      },
+      {
+        "id": 221339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+        "nome": "Dr Benjamim",
+        "nomeEleitoral": "DR. BENJAMIM",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+        "dataHora": "2023-02-03T10:21",
+        "situacao": "CONVOCADO",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Convocação Eleito ou Suplente"
+      },
+      {
+        "id": 221339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+        "nome": "Dr Benjamim",
+        "nomeEleitoral": "DR. BENJAMIM",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+        "dataHora": "2023-02-03T10:48",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Entrada - Posse de Suplente - Posse como Suplente"
+      },
+      {
+        "id": 221339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+        "nome": "Dr. Benjamim",
+        "nomeEleitoral": "DR. BENJAMIM",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+        "dataHora": "2023-03-13T15:12",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": ""
+      },
+      {
+        "id": 221339,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339",
+        "nome": "Dr. Benjamim",
+        "nomeEleitoral": "DR. BENJAMIM",
+        "siglaPartido": "UNIÃO",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+        "siglaUf": "MA",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/221339.jpg",
+        "dataHora": "2025-01-01T00:00",
+        "situacao": "VACANCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "Saída - Afastamento definitivo - Renúncia"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/221339/historico"
+      }
+    ]
+  }
+}

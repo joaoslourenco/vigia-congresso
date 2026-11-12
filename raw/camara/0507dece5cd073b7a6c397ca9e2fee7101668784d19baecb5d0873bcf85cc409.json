@@ -1,0 +1,61 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220580/historico",
+  "data": {
+    "dados": [
+      {
+        "id": 220580,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220580",
+        "nome": "Professora Goreth",
+        "nomeEleitoral": "PROFESSORA GORETH",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220580.jpg",
+        "dataHora": "2023-02-01T00:00",
+        "situacao": null,
+        "condicaoEleitoral": null,
+        "descricaoStatus": "Nome no início da legislatura / Partido no início da legislatura"
+      },
+      {
+        "id": 220580,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220580",
+        "nome": "Professora Goreth",
+        "nomeEleitoral": "PROFESSORA GORETH",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220580.jpg",
+        "dataHora": "2023-02-01T12:05",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Posse de Eleito Titular - Posse na Sessão Preparatória"
+      },
+      {
+        "id": 220580,
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220580",
+        "nome": "Professora Goreth",
+        "nomeEleitoral": "PROFESSORA GORETH",
+        "siglaPartido": "PDT",
+        "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+        "siglaUf": "AP",
+        "idLegislatura": 57,
+        "email": null,
+        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220580.jpg",
+        "dataHora": "2025-07-30T19:43",
+        "situacao": "SUPLENCIA",
+        "condicaoEleitoral": "Suplente",
+        "descricaoStatus": "DIVERSO - Decisão da Mesa - Afastamento de titular  por Recontagem de Votos"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220580/historico"
+      }
+    ]
+  }
+}

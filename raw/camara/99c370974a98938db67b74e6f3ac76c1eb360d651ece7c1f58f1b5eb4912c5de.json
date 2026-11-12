@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648653",
+  "data": {
+    "dados": {
+      "id": 2648653,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648653",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 18,
+      "ano": 2026,
+      "ementa": "Altera o art. 166 da Constituição, para prever a destinação de parcela das programações de execução obrigatória provenientes de emendas parlamentares ao custeio da gratuidade de serviços de transporte público coletivo urbano ou de caráter urbano.",
+      "dataApresentacao": "2026-10-21T15:39",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-10-29T11:36",
+        "sequencia": 8,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Autorização do Despacho",
+        "codSituacao": 1200,
+        "despacho": "Apresentação do REQ n. 4366/2026 (Requerimento de Apensação), pela Deputada Luiza Erundina (PSOL/SP -Fdr PSOL-REDE), que \"Requer o apensamento da Proposta de Emenda à Constituição nº 18, de 2026, à Proposta de Emenda à Constituição nº 25, de 2023. \".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187482",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648653/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": null,
+      "keywords": "Constituição Federal (1988); destinação; Execução orçamentária; Transferência obrigatória; Emenda individual; Custeio; gratuidade; Transporte público coletivo; Transporte urbano",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185494",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648653"
+      }
+    ]
+  }
+}

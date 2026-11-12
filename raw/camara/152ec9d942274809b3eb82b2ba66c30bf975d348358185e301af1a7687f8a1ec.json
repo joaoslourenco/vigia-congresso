@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567973",
+  "data": {
+    "dados": {
+      "id": 2567973,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567973",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 214,
+      "ano": 2025,
+      "ementa": "Institui a Contribuição de Intervenção no Domínio Econômico incidente sobre a fabricação, importação e comercialização de tabaco e produtos derivados, e dispõe sobre a destinação dos recursos para campanhas educativas, prevenção e combate ao câncer e outras doenças relacionadas, bem como ações de saúde pública correlatas.",
+      "dataApresentacao": "2025-10-07T14:46",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T16:55",
+        "sequencia": 7,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Apresentação do PLP n. 300/2026 (Projeto de Lei Complementar), pelo Deputado Alceu Moreira (MDB/RS), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3194046",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567973/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Criação, Contribuição de Intervenção no Domínio Econômico Incidente sobre a Fabricação, Importação e Comercialização de Tabaco e Produtos Derivados (Cide-Tabaco), tributação, incidência, fabricação, importação, comercialização, tabaco, produto derivado, produto fumígeno, destinação, receita, Fundo Nacional de Prevenção e Controle do Tabagismo (FNCT-Tabaco), prevenção, tabagismo, câncer de pulmão, campanha educativa, Estado (ente federado), Distrito Federal (Brasil), Município.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3014572",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2567973"
+      }
+    ]
+  }
+}

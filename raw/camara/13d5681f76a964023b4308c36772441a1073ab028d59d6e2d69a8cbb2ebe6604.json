@@ -1,0 +1,21 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2363310/autores",
+  "data": {
+    "dados": [
+      {
+        "uri": "https://dadosabertos.camara.leg.br/api/v2/orgaos/78",
+        "nome": "Senado Federal - Eduardo Braga",
+        "codTipo": 40000,
+        "tipo": "Órgão do Poder Legislativo",
+        "ordemAssinatura": 1,
+        "proponente": 1
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2363310/autores"
+      }
+    ]
+  }
+}

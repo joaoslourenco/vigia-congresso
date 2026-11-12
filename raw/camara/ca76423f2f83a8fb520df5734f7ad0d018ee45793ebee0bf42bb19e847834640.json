@@ -1,0 +1,77 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636138/tramitacoes",
+  "data": {
+    "dados": [
+      {
+        "dataHora": "2026-07-01T12:21",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Apresentação do PLP n. 190/2026 (Projeto de Lei Complementar), pelo Deputado Domingos Sávio (PL/MG), que \"Institui a modalidade de Microempreendedor Individual Atípico (MEI Atípico), destinada a beneficiários do Benefício de Prestação Continuada e seus cuidadores, e altera a Lei nº 8.742, de 7 de dezembro de 1993\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154890",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      {
+        "dataHora": "2026-08-10T12:05",
+        "sequencia": 9,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Apresentação do REQ n. 4002/2026 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Individual), pelos Deputada Carla Dickson (PL/RN) e Deputado Domingos Sávio PL        , que \"Requer a inclusão de coautoria no PLP 190/2026, que “Institui a modalidade de Microempreendedor Individual Atípico (MEI Atípico), destinada a beneficiários do Benefício de Prestação Continuada e seus cuidadores, e altera a Lei nº 8.742, de 7 de dezembro de 1993”, de autoria do Deputado Domingos Sávio (PL/MG)\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3169634",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      {
+        "dataHora": "2026-09-15T14:30",
+        "sequencia": 10,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Notificações",
+        "codTipoTramitacao": "1005",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Deferido o Requerimento n. 4002/2026.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      {
+        "dataHora": "2026-11-03T19:41",
+        "sequencia": 11,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Apresentação do REQ n. 4379/2026 (Requerimento de Apensação), pelo Deputado Domingos Sávio (PL/MG), que \"Requer a tramitação conjunta do Projeto de Lei Complementar nº 190, de 2026, com o Projeto de Lei Complementar nº 108, de 2021\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3188787",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636138/tramitacoes"
+      }
+    ]
+  }
+}

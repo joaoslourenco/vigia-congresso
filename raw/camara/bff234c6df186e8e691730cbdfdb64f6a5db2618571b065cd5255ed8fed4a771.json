@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2449678",
+  "data": {
+    "dados": {
+      "id": 2449678,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2449678",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 124,
+      "ano": 2024,
+      "ementa": "Altera a Lei Complementar nº 182, de 1º de junho de 2021, que institui o Marco Legal das Startups e do Empreendedorismo Inovador, para incluir medidas de inclusão de pessoas com deficiência, autistas e neurodivergentes, incentivar a inovação no setor de saúde pública e valorizar a região amazônica.",
+      "dataApresentacao": "2024-07-16T17:34",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539386",
+      "statusProposicao": {
+        "dataHora": "2026-11-03T00:00",
+        "sequencia": 28,
+        "siglaOrgao": "CCP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220571",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Publicação de Proposição",
+        "codTipoTramitacao": "604",
+        "descricaoSituacao": "Aguardando Designação de Relator(a)",
+        "codSituacao": 907,
+        "despacho": "Encaminhada à publicação. Parecer da Comissão de Indústria, Comércio e Serviços Publicado em avulso e no DCD de 04/11/2026, Letra A.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2449678/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Marco Legal das Startups e do Empreendedorismo Inovador (2021), inclusão, pessoa com deficiência, pessoa com transtorno do espectro autista, pessoa neuroatípica, inovação, saúde pública, valorização, Região Amazônica, incentivo fiscal, empresa.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2455674",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2449678"
+      }
+    ]
+  }
+}

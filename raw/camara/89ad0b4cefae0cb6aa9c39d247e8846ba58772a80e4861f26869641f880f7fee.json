@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1228863",
+  "data": {
+    "dados": {
+      "id": 1228863,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1228863",
+      "siglaTipo": "PEC",
+      "codTipo": 136,
+      "numero": 32,
+      "ano": 2015,
+      "ementa": "Altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade.",
+      "dataApresentacao": "2015-05-05T18:26",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T14:30",
+        "sequencia": 203,
+        "siglaOrgao": "PEC03215",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539858",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/74428",
+        "regime": "Especial (Art. 202 c/c 191, I, RICD)",
+        "descricaoTramitacao": "Aprovação de Requerimento",
+        "codTipoTramitacao": "195",
+        "descricaoSituacao": "Aguardando Parecer",
+        "codSituacao": 915,
+        "despacho": "Aprovado o requerimento nº 56/2026,do Sr. Mendonça Filho que requer a realização de audiência pública para debater sobre o tema “Redução da maioridade penal: impactos sobre a dinâmica do crime organizado, os mercados ilícitos e as políticas de controle do crime”, com a participação do senhor João Henrique Martins, cientista político, mestre em Ciência Política pela Universidade de São Paulo (USP) e especialista em economia ilícita e políticas de controle do crime.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1228863/autores",
+      "descricaoTipo": "Proposta de Emenda à Constituição",
+      "ementaDetalhada": "",
+      "keywords": "Constituição Federal (1988), maioridade penal, maioridade civil, direitos políticos,  voto obrigatório, redução, idade mínima, elegibilidade, Presidente da República, Vice-Presidente da República, Senador, Governador, Vice-Governador, Deputado, Prefeito, Vice-Prefeito, Juiz de Paz, vereador.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1328804",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1228863"
+      }
+    ]
+  }
+}

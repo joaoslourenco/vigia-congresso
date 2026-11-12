@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308992",
+  "data": {
+    "dados": {
+      "id": 2308992,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308992",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 198,
+      "ano": 2021,
+      "ementa": "Altera a Lei Complementar nº 24, de 7 de janeiro de 1975, que dispõe sobre os convênios para a concessão de isenções do imposto sobre operações relativas à circulação de mercadorias, para regular o disposto na alínea g, inciso XII, § 2º do art. 155 da Constituição Federal, para modificar o quórum de deliberação e instalação do CONFAZ.",
+      "dataApresentacao": "2021-11-25T18:02",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-09T13:45",
+        "sequencia": 17,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": null,
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Notificacao para Publicação Intermediária",
+        "codTipoTramitacao": "1050",
+        "descricaoSituacao": "Tramitando em Conjunto",
+        "codSituacao": 925,
+        "despacho": "Designado Relator, Dep. Merlong Solano (PT-PI), para o PLP 90/2019, ao qual esta proposição está apensada.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308992/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei Complementar, critério, Quórum de aprovação, Convênio (direito tributário), Conselho Nacional de Política Fazendária (CONFAZ), concessão, revogação, benefício fiscal, isenção, Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), Estado (ente federado), Distrito Federal (Brasil), tributação. _ Proibição, Estado (ente federado), recusa, Ato unilateral, cumprimento, dispositivo, legislação.",
+      "uriPropPrincipal": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196107",
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2112111",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308992"
+      }
+    ]
+  }
+}

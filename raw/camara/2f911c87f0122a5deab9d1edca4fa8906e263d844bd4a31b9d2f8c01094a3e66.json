@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087915",
+  "data": {
+    "dados": {
+      "id": 2087915,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087915",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 292,
+      "ano": 2016,
+      "ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para incluir ações relacionadas à formação de recursos humanos na saúde em instituições públicas, como despesas com ações e serviços públicos de saúde.",
+      "dataApresentacao": "2016-06-14T17:19",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T09:30",
+        "sequencia": 57,
+        "siglaOrgao": "CSAUDE",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2014",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/178929",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Retirada de Pauta",
+        "codTipoTramitacao": "250",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Retirado de pauta de ofício.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087915/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei Complementar, investimento, equipamento, educação e formação profissional, capacitação, recursos humanos, profissional de saúde, instituição pública, inclusão, despesa, ações e serviços públicos de saúde (ASPS).",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1467675",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087915"
+      }
+    ]
+  }
+}

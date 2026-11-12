@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866",
+  "data": {
+    "dados": {
+      "id": 2651866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 288,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para ampliar o intervalo de tolerância para verificação do cumprimento das metas anuais de resultado primário da União.",
+      "dataApresentacao": "2026-11-09T18:30",
+      "uriOrgaoNumerador": null,
+      "statusProposicao": {
+        "dataHora": "2026-11-09T18:30",
+        "sequencia": 1,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Proposição",
+        "codTipoTramitacao": "100",
+        "descricaoSituacao": null,
+        "codSituacao": null,
+        "despacho": "Apresentação do PLP n. 288/2026 (Projeto de Lei Complementar), pelo Deputado Lindbergh Farias (PT/RJ -Fdr PT-PCdoB-PV), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, para ampliar o intervalo de tolerância para verificação do cumprimento das metas anuais de resultado primário da União\".",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": null,
+      "keywords": "Alteração; Lei de Responsabilidade Fiscal (2000); ampliação; Prazo; Tolerância; União; cumprimento; Meta de resultado primário; Produto Interno Bruto (PIB); Lei de Diretrizes Orçamentárias (LDO)",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3192193",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866"
+      }
+    ]
+  }
+}

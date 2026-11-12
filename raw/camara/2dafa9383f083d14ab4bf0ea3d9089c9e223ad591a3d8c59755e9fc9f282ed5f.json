@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488594",
+  "data": {
+    "dados": {
+      "id": 2488594,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488594",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 69,
+      "ano": 2025,
+      "ementa": "Altera a Lei Complementar n. 105, de 10 de Janeiro de 2001, para estabelecer a possibilidade de quebra de sigilo bancário e fiscal de alimentante quando necessário para verificar a real capacidade financeira de prestar alimentos a filho menor impúbere, e dá outras providências.",
+      "dataApresentacao": "2025-03-24T14:05",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/539387",
+      "statusProposicao": {
+        "dataHora": "2026-11-03T19:45",
+        "sequencia": 38,
+        "siglaOrgao": "CCJC",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2003",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/74856",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Recebimento",
+        "codTipoTramitacao": "500",
+        "descricaoSituacao": "Aguardando Designação de Relator(a)",
+        "codSituacao": 907,
+        "despacho": "Recebimento pelo(a) CCJC.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488594/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei do Sigilo Bancário (2001), possibilidade, Quebra de sigilo bancário, Quebra de sigilo fiscal, aferição, Saúde financeira, garantia, Pensão civil, Pensão alimentícia, Filho, Criança, Adolescente.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2871148",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2488594"
+      }
+    ]
+  }
+}

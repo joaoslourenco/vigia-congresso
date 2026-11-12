@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/361065",
+  "data": {
+    "dados": {
+      "id": 361065,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/361065",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 93,
+      "ano": 2007,
+      "ementa": "Estabelece a criação do Segmento Nacional de Finanças Populares e Solidárias e dá outras providências.",
+      "dataApresentacao": "2007-08-02T15:55",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+      "statusProposicao": {
+        "dataHora": "2026-11-06T11:10",
+        "sequencia": 91,
+        "siglaOrgao": "CFT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204559",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Parecer do(a) Relator(a)",
+        "codTipoTramitacao": "322",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Parecer do Relator, Dep. Luiz Carlos Hauly (PODE-PR), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PLP 93/07 e do Substitutivo da Comissão do Trabalho; e, no mérito, pela aprovação do PLP 93/07, do Substitutivo da CTRAB, com subemendas.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190962",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/361065/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "Cria, também, o Conselho Nacional de Finanças Populares e Solidárias e os Bancos Populares de Desenvolvimento Solidário.",
+      "keywords": "Criação, sistema de crédito, finanças, banco , Economia popular solidária, captação,  recursos, captação,  poupança, administração financeira, desenvolvimento sócio-econômico, produção, população, comunidade, competência, composição, funcionamento, proibição, instituição financeira, participação, capital social, limitação, percentual, pessoa jurídica, fiscalização, Banco Central do Brasil (Bacen).",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=487167",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/361065"
+      }
+    ]
+  }
+}

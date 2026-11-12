@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636138",
+  "data": {
+    "dados": {
+      "id": 2636138,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636138",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 190,
+      "ano": 2026,
+      "ementa": "Institui a modalidade de Microempreendedor Individual Atípico (MEI Atípico), destinada a beneficiários do Benefício de Prestação Continuada e seus cuidadores, e altera a Lei nº 8.742, de 7 de dezembro de 1993.",
+      "dataApresentacao": "2026-07-01T12:21",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-11-03T19:41",
+        "sequencia": 11,
+        "siglaOrgao": "MESA",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+        "uriUltimoRelator": null,
+        "regime": ".",
+        "descricaoTramitacao": "Apresentação de Requerimento",
+        "codTipoTramitacao": "194",
+        "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+        "codSituacao": 1201,
+        "despacho": "Apresentação do REQ n. 4379/2026 (Requerimento de Apensação), pelo Deputado Domingos Sávio (PL/MG), que \"Requer a tramitação conjunta do Projeto de Lei Complementar nº 190, de 2026, com o Projeto de Lei Complementar nº 108, de 2021\".",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3188787",
+        "ambito": "Regimental",
+        "apreciacao": "Indefinida"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636138/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração,Lei Orgânica da Assistência Social (1993),Microempreendedor Individual (MEI),enquadramento,Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (SIMPLES NACIONAL),Inclusão produtiva,Beneficiário,Benefício de Prestação Continuada (BPC),Responsável legal,Dependente,Pessoa com transtorno do espectro autista,Pessoa com doença rara",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3154890",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2636138"
+      }
+    ]
+  }
+}

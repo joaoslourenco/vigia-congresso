@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355790",
+  "data": {
+    "dados": {
+      "id": 2355790,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355790",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 88,
+      "ano": 2023,
+      "ementa": "Autoriza os Estados e o Distrito Federal a exercer a competência prevista no inciso XVI do artigo 22 da Constituição Federal, exclusivamente para o credenciamento de Despachantes perante os seus órgãos departamentos, órgãos e entidades de trânsito.",
+      "dataApresentacao": "2023-04-12T13:34",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T10:00",
+        "sequencia": 25,
+        "siglaOrgao": "CVT",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Retirada de Pauta",
+        "codTipoTramitacao": "250",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Retirado de pauta, por acordo, a pedido dos deputados Flávio Nogueira e Kiko Celeguim.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355790/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Regulamentação, Constituição Federal (1988), autorização, Estado (ente federado), Distrito Federal (Brasil), criação, diretrizes, atribuição, requisito, credenciamento, Despachante de Trânsito, atuação, Órgão executivo de trânsito, Entidade executiva de trânsito.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2257675",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355790"
+      }
+    ]
+  }
+}

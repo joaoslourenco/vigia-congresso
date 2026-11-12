@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068",
+  "data": {
+    "dados": {
+      "id": 2615068,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 100,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais de direito financeiro, governança e responsabilidade na gestão dos fundos extra orçamentários, encargos e subsídios do setor elétrico, e dá outras providências.",
+      "dataApresentacao": "2026-04-09T17:33",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008",
+      "statusProposicao": {
+        "dataHora": "2026-11-11T10:00",
+        "sequencia": 20,
+        "siglaOrgao": "CDE",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2008",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Retirada de Pauta",
+        "codTipoTramitacao": "250",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Retirado de pauta, de ofício, em razão da ausência do Relator.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Regulamentação; encargo; subsídio tarifário; setor elétrico; governança; responsabilidade; revisão; eficiência; política pública; diretrizes",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3111431",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068"
+      }
+    ]
+  }
+}

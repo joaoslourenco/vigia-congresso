@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/565008",
+  "data": {
+    "dados": {
+      "id": 565008,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/565008",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 242,
+      "ano": 2013,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para estabelecer condições para a realização de transferências voluntárias da União às entidades de direito privado e de utilidade pública.",
+      "dataApresentacao": "2013-02-19T17:02",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2010",
+      "statusProposicao": {
+        "dataHora": "2026-11-05T00:00",
+        "sequencia": 48,
+        "siglaOrgao": "CCP",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/186",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Publicação de Proposição",
+        "codTipoTramitacao": "604",
+        "descricaoSituacao": "Aguardando Designação de Relator(a)",
+        "codSituacao": 907,
+        "despacho": "Encaminhada à publicação. Parecer da Comissão de Finanças e Tributação Publicado em avulso e no DCD de 06/11/2026, Letra A.",
+        "url": null,
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/565008/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei de Responsabilidade Fiscal, transferência voluntária, requisito, dirigente, entidade, pagamento, salário.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1058890",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/565008"
+      }
+    ]
+  }
+}

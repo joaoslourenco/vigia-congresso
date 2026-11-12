@@ -1,0 +1,49 @@
+{
+  "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279086",
+  "data": {
+    "dados": {
+      "id": 1279086,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279086",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 84,
+      "ano": 2015,
+      "ementa": "Altera disposições das Leis Complementares 108 e 109, de 29 de maio de 2001, sobre o Regime de Previdência Complementar.",
+      "dataApresentacao": "2015-05-14T17:35",
+      "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "statusProposicao": {
+        "dataHora": "2026-11-10T11:47",
+        "sequencia": 48,
+        "siglaOrgao": "CTRAB",
+        "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2015",
+        "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
+        "regime": "Prioridade (Art. 151, II, RICD)",
+        "descricaoTramitacao": "Parecer do(a) Relator(a)",
+        "codTipoTramitacao": "322",
+        "descricaoSituacao": "Pronta para Pauta",
+        "codSituacao": 924,
+        "despacho": "Parecer do Relator, Dep. Alexandre Lindenmeyer (PT-RS), pela aprovação, com Substitutivo.",
+        "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193110",
+        "ambito": "Regimental",
+        "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+      },
+      "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279086/autores",
+      "descricaoTipo": "Projeto de Lei Complementar",
+      "ementaDetalhada": "",
+      "keywords": "Alteração, Lei da Previdência Complementar,  previdência complementar, empregado, plano  de benefícios,   direitos previdenciários, contribuição previdenciária, fundos de pensão, previdenciário, participante, assistido, patrocinador, política de governança.",
+      "uriPropPrincipal": null,
+      "uriPropAnterior": null,
+      "uriPropPosterior": null,
+      "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1334683",
+      "urnFinal": null,
+      "texto": null,
+      "justificativa": null
+    },
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279086"
+      }
+    ]
+  }
+}
