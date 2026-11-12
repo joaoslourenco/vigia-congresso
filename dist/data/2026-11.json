@@ -56,6 +56,14 @@
         "camara": "partial"
       },
       "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-12": {
+      "status": "partial",
+      "sources": {
+        "camara": "partial",
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
     }
   },
   "proposals": [
@@ -215,13 +223,9 @@
         {
           "date": "2026-11-03",
           "description": "Apresentação do REQ n. 47/2026 (Requerimento), pelo Deputado Capitão Alden (PL/BA), que \" Requer o encaminhamento de Projeto de Decreto Legislativo destinado à convocação de plebiscito nacional sobre a redução excepcional da maioridade penal, nos termos da Proposta de Emenda à Constituição nº 8, de 2026\"."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Encerrado o prazo de 10 sessões para apresentação de emendas à Proposta de Emenda à Constituição (de 12/08/2026 a 28/10/2026)."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta busca estabelecer a plena maioridade civil e penal aos dezesseis anos de idade.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -358,13 +362,9 @@
         {
           "date": "2026-11-04",
           "description": "Apresentação do REQ n. 4382/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\"."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Apresentação do REQ n. 4357/2026 (Requerimento), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta busca extinguir o foro especial por prerrogativa de função no caso dos crimes comuns, e revoga o inciso X do art. 29 e o § 1º do art. 53 da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -611,21 +611,9 @@
         {
           "date": "2026-10-29",
           "description": "Apresentação do REQ n. 53/2026 (Requerimento de Audiência Pública), pelo Deputado Capitão Alden (PL/BA), que \"Requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 218, de 2020, que “institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica”, e o Projeto de Lei Complementar nº 241, de 2020, apensado\"."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Retirado de pauta, por acordo, a pedido do(a) Relator(a)."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Apresentação do REQ n. 52/2026 (Requerimento de Audiência Pública), pelo Deputado Rodrigo da Zaeli (PL/MT), que \"Requer a realização de audiência pública para debater os efeitos do Projeto de Lei Complementar nº 218, de 2020, que “institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica”, e de seu apensado sobre o comércio exterior brasileiro, em especial sobre as exportações do agronegócio\"."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Apresentação do REQ n. 51/2026 (Requerimento de Audiência Pública), pelo Deputado Merlong Solano (PT/PI -Fdr PT-PCdoB-PV), que \" Institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -3249,6 +3237,88 @@
       "aiSummary": false
     },
     {
+      "id": "camara-proposicao-2451871",
+      "officialMatterId": "2451871",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 132,
+      "year": 2024,
+      "presentedAt": "2024-08-12",
+      "officialSummary": "Altera a Lei Complementar nº 207, de 16 de maio de 2024, para prever o repasse a hospitais veterinários públicos federais de percentual do valor total do prêmio recolhido a título de Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT) para custeio da assistência médico-veterinária e hospitalar de animais silvestres vitimados em acidentes de trânsito.",
+      "authors": [
+        {
+          "id": "camara-deputado-178947",
+          "name": "Sóstenes Cavalcante",
+          "party": "PL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2451871",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2451871",
+      "stage": "Aguardando Designação de Relator(a)",
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-12",
+          "description": "Devolvida pelo Relator sem Manifestação."
+        }
+      ],
+      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "summary": "A proposta busca prever o repasse a hospitais veterinários públicos federais de percentual do valor total do prêmio recolhido a título de Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT) para custeio da assistência médico-veterinária e hospitalar de animais silvestres vitimados em acidentes de trânsito.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "dba1386630ec59f039b211bbc395899036ecda8650c82d69aafe1ff17f180784"
+    },
+    {
+      "id": "camara-proposicao-2469516",
+      "officialMatterId": "2469516",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 195,
+      "year": 2024,
+      "presentedAt": "2024-11-14",
+      "officialSummary": "Dispõe sobre a regulamentação do art. 150, IV, da Constituição Federal, visando evitar o efeito de confisco em tributos com alíquotas excessivamente protecionistas.",
+      "authors": [
+        {
+          "id": "camara-deputado-204536",
+          "name": "Kim Kataguiri",
+          "party": "UNIÃO",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2469516",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2469516",
+      "stage": "Aguardando Designação de Relator(a)",
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-12",
+          "description": "Devolvida pelo Relator sem Manifestação."
+        }
+      ],
+      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "summary": "A proposta dispõe sobre a regulamentação do art. 150, IV, da Constituição Federal, visando evitar o efeito de confisco em tributos com alíquotas excessivamente protecionistas. Alíquota é o percentual usado no cálculo de um tributo.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "90ebf1efa08c42a8b820ddec2987c16d84b74b655e78ebb45fe270b1f215946c"
+    },
+    {
       "id": "camara-proposicao-2483205",
       "officialMatterId": "2483205",
       "house": "Câmara",
@@ -3398,13 +3468,9 @@
         {
           "date": "2026-11-03",
           "description": "Recebimento pelo(a) CCJC."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Encaminhada à publicação. Parecer da Comissão de Finanças e Tributação Publicado em avulso e no DCD de 29/10/2026, Letra B."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta busca estabelecer a possibilidade de quebra de sigilo bancário e fiscal de alimentante quando necessário para verificar a real capacidade financeira de prestar alimentos a filho menor impúbere, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -3738,13 +3804,9 @@
         {
           "date": "2026-11-11",
           "description": "Retirado de pauta, de ofício, em razão da ausência do Relator."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Retirado de pauta, de ofício, em razão da ausência do Relator."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta estabelece normas gerais de direito financeiro, governança e responsabilidade na gestão dos fundos extra orçamentários, encargos e subsídios do setor elétrico, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -5323,11 +5385,15 @@
       "conflict": false,
       "history": [
         {
+          "date": "2026-11-12",
+          "description": "Apresentação do REQ n. 111/2026 (Requerimento de Audiência Pública), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.\"."
+        },
+        {
           "date": "2026-11-11",
           "description": "Apresentação do PLP n. 300/2026 (Projeto de Lei Complementar), pelo Deputado Alceu Moreira (MDB/RS), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta busca estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento. Diferimento é o adiamento do momento de pagar um tributo, conforme as condições previstas no texto. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7469,6 +7535,10 @@
       "conflict": false,
       "history": [
         {
+          "date": "2026-11-12",
+          "description": "Apresentação do REQ n. 4446/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Célio Silveira (MDB/GO), que \"Requer a inclusão da Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82/2007, à qual está apensada a Proposta de Emenda à Constituição nº 17, de 2024\"."
+        },
+        {
           "date": "2026-11-11",
           "description": "Apresentação do REQ n. 4435/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Lêda Borges (REPUBLIC/GO), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82, de 2007, à qual se encontra apensada a PEC nº 17, de 2024.\"."
         },
@@ -7489,7 +7559,7 @@
           "description": "Apresentação do REQ n. 4394/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Augusto Coutinho (REPUBLIC/PE), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição n° 82, de 2007, que “acresce os arts. 132-A e 135-A e altera o art.168 da Constituição Federal. \"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7581,13 +7651,9 @@
         {
           "date": "2026-11-05",
           "description": "Recebimento pelo(a) CCJC, com as proposições PLP-371/2014, PLP-149/2015, PLP-285/2016, PLP-364/2017 apensadas."
-        },
-        {
-          "date": "2026-10-28",
-          "description": "Aprovado o Parecer."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-12T17:41:12.465Z",
       "summary": "A proposta busca estabelecer condições para a realização de transferências voluntárias da União às entidades de direito privado e de utilidade pública. Transferências voluntárias são repasses de recursos entre entes públicos que não decorrem de uma obrigação constitucional ou legal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -9602,6 +9668,58 @@
       "stage": "AGUARDANDO DESPACHO",
       "history": [
         {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas n°s 1 a 3, do Senador Alessandro Vieira."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 4, do Senador Otto Alencar."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 5 a 7, do Senador Sergio Moro. "
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas n°s 8 e 9, do Senador Alessandro Vieira."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido, em 12/11/2026, o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. "
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 10, do Senador Zequinha Marinho."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 11, do Senador Randolfe Rodrigues."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 12, do Senador Luis Carlos Heinze."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 13 e 14, da Senadora Damares Alves."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 15 e 16, do Senador Jader Barbalho."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 17, do Senador Jorge Seif."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 18, do Senador Randolfe Rodrigues."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 19, do Senador Sergio Moro."
+        },
+        {
           "date": "2026-11-11",
           "description": "Autuado o Projeto de Lei Complementar nº 299/2026. O projeto vai à publicação."
         },
@@ -9618,7 +9736,7 @@
           "description": "Recebido o Relatório do Senador Eduardo Braga."
         }
       ],
-      "collectedAt": "2026-11-12T00:10:37.209Z",
+      "collectedAt": "2026-11-12T17:42:14.163Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca dar ao governo federal novas ferramentas de gestão para preservar a estabilidade da economia e favorecer o desenvolvimento social e econômico. Governo federal, aqui, é o Poder Executivo, responsável pela administração do país. A ementa não descreve quais ferramentas seriam criadas nem como seriam usadas; esses limites precisam ser conferidos no texto completo.",
@@ -9629,6 +9747,261 @@
     }
   ],
   "events": [
+    {
+      "id": "camara-tramitacao-2451871-21",
+      "proposalId": "camara-proposicao-2451871",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12T10:06",
+      "kind": "Tramitação",
+      "description": "Devolvida pelo Relator sem Manifestação.",
+      "stage": "Aguardando Designação de Relator(a)",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2451871/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141485",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2469516-19",
+      "proposalId": "camara-proposicao-2469516",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12T10:00",
+      "kind": "Tramitação",
+      "description": "Devolvida pelo Relator sem Manifestação.",
+      "stage": "Aguardando Designação de Relator(a)",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2469516/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2652977-4",
+      "proposalId": "camara-proposicao-2652977",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12T13:39",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 111/2026 (Requerimento de Audiência Pública), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.\".",
+      "stage": "Apresentação de Requerimento",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-354302-165",
+      "proposalId": "camara-proposicao-354302",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12T11:20",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 4446/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Célio Silveira (MDB/GO), que \"Requer a inclusão da Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82/2007, à qual está apensada a Proposta de Emenda à Constituição nº 17, de 2024\".",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141562",
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326361",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 10:13:38",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas n°s 1 a 3, do Senador Alessandro Vieira.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326374",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 12:04:32",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas n°s 8 e 9, do Senador Alessandro Vieira.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326380",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 10:57:05",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 4, do Senador Otto Alencar.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326407",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 12:01:20",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 5 a 7, do Senador Sergio Moro. ",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326412",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 13:14:53",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 11, do Senador Randolfe Rodrigues.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326413",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 13:22:36",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 12, do Senador Luis Carlos Heinze.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326415",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 13:45:55",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 13 e 14, da Senadora Damares Alves.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326420",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 12:08:04",
+      "kind": "Tramitação",
+      "description": "Recebido, em 12/11/2026, o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. ",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326427",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 12:21:53",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 10, do Senador Zequinha Marinho.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326462",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:01:28",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 15 e 16, do Senador Jader Barbalho.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326465",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:30:59",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 17, do Senador Jorge Seif.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326466",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:32:15",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 18, do Senador Randolfe Rodrigues.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326467",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:36:48",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 19, do Senador Sergio Moro.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
     {
       "id": "camara-tramitacao-1228863-198",
       "proposalId": "camara-proposicao-1228863",
