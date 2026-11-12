@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "coveredPeriod": null,
   "collectionStatus": "partial",
-  "lastUpdated": "2026-11-12T01:13:02.591Z",
+  "lastUpdated": "2026-11-12T01:17:07.971Z",
   "months": [
     {
       "month": "2026-10",
@@ -36,7 +36,7 @@
       "processesConsulted": 77,
       "proposalsWithRecords": 20,
       "errors": 0,
-      "lastUpdated": "2026-11-12T01:13:02.591Z",
+      "lastUpdated": "2026-11-12T01:17:07.971Z",
       "notes": "PLPs e PECs identificadas em 2026. Histórico de informes no período solicitado; anos anteriores, resultados e votos nominais não têm cobertura completa."
     },
     "camara": {
@@ -47,7 +47,7 @@
       },
       "proposalsConsulted": 62,
       "errors": 0,
-      "lastUpdated": "2026-11-12T01:12:07.259Z",
+      "lastUpdated": "2026-11-12T01:16:10.020Z",
       "notes": "PLPs e PECs com apresentação ou tramitação no período consultado; votos nominais ainda sem coleta completa."
     }
   },

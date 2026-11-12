@@ -187,12 +187,12 @@
           "description": "Encerrado o prazo de 10 sessões para apresentação de emendas à Proposta de Emenda à Constituição (de 12/08/2026 a 28/10/2026)."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca estabelecer a plena maioridade civil e penal aos dezesseis anos de idade.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "6377444ec3102e1c2a64cd081edf9ba15af8ca4d6707ae395b1a1e9b1208648a"
+      "summarySourceHash": "6377444ec3102e1c2a64cd081edf9ba15af8ca4d6707ae395b1a1e9b1208648a",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2140446",
@@ -232,12 +232,12 @@
           "description": "Apresentação do REQ n. 4357/2026 (Requerimento), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca extinguir o foro especial por prerrogativa de função no caso dos crimes comuns, e revoga o inciso X do art. 29 e o § 1º do art. 53 da Constituição Federal.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "4664383873675a91aa8b48f69069519bba33524f3d8422fc33e2a7ef2254570e"
+      "summarySourceHash": "4664383873675a91aa8b48f69069519bba33524f3d8422fc33e2a7ef2254570e",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2260638",
@@ -305,12 +305,12 @@
           "description": "Apresentação do REQ n. 51/2026 (Requerimento de Audiência Pública), pelo Deputado Merlong Solano (PT/PI -Fdr PT-PCdoB-PV), que \" Institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "b427c78524af577962595f6f9227c9bbc0de4ed8946f018adf2bca40d092ddf6"
+      "summarySourceHash": "b427c78524af577962595f6f9227c9bbc0de4ed8946f018adf2bca40d092ddf6",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2362526",
@@ -2386,12 +2386,12 @@
           "description": "Apresentação do REQ n. 4366/2026 (Requerimento de Apensação), pela Deputada Luiza Erundina (PSOL/SP -Fdr PSOL-REDE), que \"Requer o apensamento da Proposta de Emenda à Constituição nº 18, de 2026, à Proposta de Emenda à Constituição nº 25, de 2023. \"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca oferecer diretrizes sobre o direito social ao transporte previsto no art. 6º e sobre o Sistema único de Mobilidade e autoriza a União, Distrito Federal e Municípios a instituírem contribuição pelo uso do sistema viário, destinada ao custeio do transporte público coletivo urbano.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "24e7f8450fefd0d567f63adac822ece716cd48389f1d65bd138ce71242d9f071"
+      "summarySourceHash": "24e7f8450fefd0d567f63adac822ece716cd48389f1d65bd138ce71242d9f071",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2488594",
@@ -2431,12 +2431,12 @@
           "description": "Encaminhada à publicação. Parecer da Comissão de Finanças e Tributação Publicado em avulso e no DCD de 29/10/2026, Letra B."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca estabelecer a possibilidade de quebra de sigilo bancário e fiscal de alimentante quando necessário para verificar a real capacidade financeira de prestar alimentos a filho menor impúbere, e dá outras providências.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "3d0c1aa69b78d2ef7c7ffe2be7db8cb3ba51e28cc50eaeb45e0cc7c86baaa741"
+      "summarySourceHash": "3d0c1aa69b78d2ef7c7ffe2be7db8cb3ba51e28cc50eaeb45e0cc7c86baaa741",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2615068",
@@ -2476,12 +2476,12 @@
           "description": "Retirado de pauta, de ofício, em razão da ausência do Relator."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta estabelece normas gerais de direito financeiro, governança e responsabilidade na gestão dos fundos extra orçamentários, encargos e subsídios do setor elétrico, e dá outras providências.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "e8c9bbc221d182e58e7715fe6257b2d0f35b1e36f14da28f648fe0d23f02a7c0"
+      "summarySourceHash": "e8c9bbc221d182e58e7715fe6257b2d0f35b1e36f14da28f648fe0d23f02a7c0",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2648653",
@@ -2517,12 +2517,12 @@
           "description": "Apresentação do REQ n. 4366/2026 (Requerimento de Apensação), pela Deputada Luiza Erundina (PSOL/SP -Fdr PSOL-REDE), que \"Requer o apensamento da Proposta de Emenda à Constituição nº 18, de 2026, à Proposta de Emenda à Constituição nº 25, de 2023. \"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca prever a destinação de parcela das programações de execução obrigatória provenientes de emendas parlamentares ao custeio da gratuidade de serviços de transporte público coletivo urbano ou de caráter urbano.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "8122ccac7f3dba4c42a81227f1137de5dd0516d8da13e1913cb19d8919330d89"
+      "summarySourceHash": "8122ccac7f3dba4c42a81227f1137de5dd0516d8da13e1913cb19d8919330d89",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2649422",
@@ -2558,12 +2558,12 @@
           "description": "Apresentação do PLP n. 275/2026 (Projeto de Lei Complementar), pelo Deputado Julio Cesar Ribeiro (REPUBLIC/DF), que \"Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF)\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF).",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "a2177721f57e9a93a500645532f1f2bd6678a9412682571827ef4b3b38d800cc"
+      "summarySourceHash": "a2177721f57e9a93a500645532f1f2bd6678a9412682571827ef4b3b38d800cc",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2649538",
@@ -2599,12 +2599,12 @@
           "description": "Apresentação do PLP n. 276/2026 (Projeto de Lei Complementar), pelo Deputado Chico Alencar (PSOL/RJ -Fdr PSOL-REDE), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer prazo para o julgamento definitivo dos processos relativos à elegibilidade de candidatas e candidatos\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca estabelecer prazo para o julgamento definitivo dos processos relativos à elegibilidade de candidatas e candidatos.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "b44bade923ae68e8b0a83a227a6372523df524b1037d9e7a44126b42d234329c"
+      "summarySourceHash": "b44bade923ae68e8b0a83a227a6372523df524b1037d9e7a44126b42d234329c",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2649647",
@@ -2640,12 +2640,12 @@
           "description": "Apresentação do PLP n. 277/2026 (Projeto de Lei Complementar), pelo Deputado Rubens Pereira Júnior (PT/MA -Fdr PT-PCdoB-PV), que \"Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, condicionando a realização de despesas com shows e eventos artísticos pelos entes da Federação à quitação da folha de pagamento de pessoal e dos encargos previdenciários e ao cumprimento dos mínimos constitucionais em saúde e educação, e exige a transparência prévia dessas contratações\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, condicionando a realização de despesas com shows e eventos artísticos pelos entes da Federação à quitação da folha de pagamento de pessoal e dos encargos previdenciários e ao cumprimento dos mínimos constitucionais em saúde e educação, e exige a transparência prévia dessas contratações.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "0c9e8e4cc800eb36e716077bf426676152fba40a9d00fae92b2a10ed32f37366"
+      "summarySourceHash": "0c9e8e4cc800eb36e716077bf426676152fba40a9d00fae92b2a10ed32f37366",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2649648",
@@ -2789,12 +2789,12 @@
           "description": "Apresentação do PLP n. 278/2026 (Projeto de Lei Complementar), pelos Deputado Jonas Donizette (PSB/SP) e outros, que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino. Inelegibilidade é o impedimento legal para uma pessoa disputar eleições.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "c1f78c40bf4920b3de2678e9c00a579be1cd17a1183924450c7e09341bb7d7ed"
+      "summarySourceHash": "c1f78c40bf4920b3de2678e9c00a579be1cd17a1183924450c7e09341bb7d7ed",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2649667",
@@ -2830,12 +2830,12 @@
           "description": "Apresentação do PLP n. 279/2026 (Projeto de Lei Complementar), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "eb29b8c71d8dac850dddc8af3a6a4f28642043380624d7a53e8f5a53f118c17a"
+      "summarySourceHash": "eb29b8c71d8dac850dddc8af3a6a4f28642043380624d7a53e8f5a53f118c17a",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-565008",
@@ -2883,12 +2883,12 @@
           "description": "Aprovado o Parecer."
         }
       ],
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-12T01:16:10.020Z",
       "summary": "A proposta busca estabelecer condições para a realização de transferências voluntárias da União às entidades de direito privado e de utilidade pública. Transferências voluntárias são repasses de recursos entre entes públicos que não decorrem de uma obrigação constitucional ou legal.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "ece5cd9f5070166a838230a2ba03427f8f545b5e80486304f27fe1f2fc0999c6"
+      "summarySourceHash": "ece5cd9f5070166a838230a2ba03427f8f545b5e80486304f27fe1f2fc0999c6",
+      "aiSummary": false
     },
     {
       "id": "senado-processo-9104654",
