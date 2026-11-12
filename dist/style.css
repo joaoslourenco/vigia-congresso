@@ -12,3 +12,5 @@ summary p.proposal-description{display:block;overflow:visible;-webkit-line-clamp
 .support code{display:block;overflow-wrap:anywhere;font-size:13px;line-height:1.8;margin:12px 0}.support #copied{display:block;margin-top:8px}
 
 .update-notice{display:flex;align-items:flex-start;gap:9px;padding:11px 14px;margin:18px 0 8px;border:1px solid #e8dfbd;background:#faf7e9;border-radius:4px;color:#6b5d2d;font-size:11px;line-height:1.7}.update-notice b{font-weight:600}.update-notice span span{color:#776d4e;font-size:10px}.update-dot{width:6px;height:6px;border-radius:50%;background:#b79c42;flex-shrink:0;margin-top:6px}
+
+.progress-card{margin:16px 0;padding:16px 18px;border-left:3px solid #c5ab43;background:#f8f7f1;border-radius:4px}.progress-card h3{margin-top:0}.progress-card small{display:block;color:#62685f;line-height:1.6}

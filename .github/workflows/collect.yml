@@ -62,6 +62,9 @@ jobs:
         if: github.event_name != 'push' && env.COLLECTION_ALREADY_DONE != 'true'
         continue-on-error: true
         run: node scripts/collect.mjs
+      - name: Atualizar andamento das propostas conhecidas
+        if: github.event_name != 'push' && env.COLLECTION_ALREADY_DONE != 'true'
+        run: node scripts/collect-progress.mjs
       - name: Preparar resumos acessíveis
         run: node scripts/summarize.mjs
       - name: Validar antes de publicar
