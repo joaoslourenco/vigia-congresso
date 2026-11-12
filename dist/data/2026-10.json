@@ -302,14 +302,14 @@
           "description": "Recebido o Requerimento nº  733, de 2026, do Senador Veneziano Vital do Rêgo, solicitando tramitação conjunta da PEC 16/2019 com a PEC 77/2019, a PEC 41/2023, a PEC 51/2023, a PEC 39/2025, a PEC 45/2025, a PEC 47/2025 e a PEC 17/2026."
         }
       ],
-      "collectedAt": "2026-11-12T00:10:37.209Z",
+      "collectedAt": "2026-11-12T00:37:17.675Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": true,
       "summary": "A proposta busca dispor sobre os requisitos de escolha dos Ministros do Supremo Tribunal Federal e sobre sua inelegibilidade para qualquer cargo eletivo, pelo prazo de cinco anos após deixarem a função. Inelegibilidade é o impedimento legal para uma pessoa disputar eleições.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "328769bba72d41fd7eac27cd0e35a99eebeee1850a77c46846d2f6968259f683"
+      "summarySourceHash": "328769bba72d41fd7eac27cd0e35a99eebeee1850a77c46846d2f6968259f683",
+      "aiSummary": false
     }
   ],
   "events": [

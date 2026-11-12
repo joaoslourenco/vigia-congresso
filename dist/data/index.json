@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "coveredPeriod": null,
   "collectionStatus": "partial",
-  "lastUpdated": "2026-11-12T00:10:37.209Z",
+  "lastUpdated": "2026-11-12T00:37:17.675Z",
   "months": [
     {
       "month": "2026-10",
@@ -36,7 +36,7 @@
       "processesConsulted": 77,
       "proposalsWithRecords": 20,
       "errors": 0,
-      "lastUpdated": "2026-11-12T00:10:37.209Z",
+      "lastUpdated": "2026-11-12T00:37:17.675Z",
       "notes": "PLPs e PECs identificadas em 2026. Histórico de informes no período solicitado; anos anteriores, resultados e votos nominais não têm cobertura completa."
     },
     "camara": {
