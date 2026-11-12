@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9061253",
+  "data": {
+    "id": 9061253,
+    "codigoMateria": 174511,
+    "identificacao": "PLP 165/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "165",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7660740,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Institui transação destinada à extinção de créditos públicos de titularidade dos Estados, do Distrito Federal e dos Municípios, mediante aceitação de direitos creditórios líquidos e certos contra a União, e sua utilização na amortização ou quitação de dívidas perante a União.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10241473,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-06-09",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  CREDITOS ,  TITULARIDADE ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  CRITERIOS ,  ACEITAÇÃO ,  TRANSAÇÃO ,  COMPENSAÇÃO ,  CREDITO FISCAL ,  CREDITO TRIBUTARIO ,  UNIÃO FEDERAL ,  AMORTIZAÇÃO ,  QUITAÇÃO ,  DIVIDA PUBLICA ,  NORMAS GERAIS ,  DEFINIÇÃO ,  REQUISITOS ,  EFEITO ,  HOMOLOGAÇÃO ,  ACORDO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/a5cf038b-e60d-4521-8342-c02e7c114794",
+      "autoria": [
+        {
+          "autor": "Alan Rick",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5672,
+          "uf": "AC",
+          "siglaPartido": "REPUBLICANOS",
+          "partido": "Republicanos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Alan Rick (REPUBLICANOS/AC)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-06-09",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-09",
+    "classificacoes": [
+      {
+        "codigo": 33804805,
+        "descricao": "Dívida Pública",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas / Dívida Pública"
+      },
+      {
+        "codigo": 35190185,
+        "descricao": "Débitos Fiscais",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas / Débitos Fiscais"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Alan Rick",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5672,
+        "uf": "AC",
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9061253,
+    "identificacaoProcessoInicial": "PLP 165/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2290291,
+            "data": "2026-06-09 19:54:49",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 165/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10241462,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265580411220",
+                "descricao": "-",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d1adc71c-e12e-4116-9c46-56007114a0e4"
+              },
+              {
+                "id": 10241473,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 165/2026",
+                "descricao": "Institui transação destinada à extinção de créditos públicos de titularidade dos Estados, do Distrito Federal e dos Municípios, mediante aceitação de direitos creditórios líquidos e certos contra a União, e sua utilização na amortização ou quitação de dívidas perante a União.",
+                "data": "2026-06-09T19:54:32",
+                "autoria": "Senador Alan Rick (REPUBLICANOS/AC)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a5cf038b-e60d-4521-8342-c02e7c114794"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-23T19:00:08.930000"
+  }
+}

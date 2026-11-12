@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9097852",
+  "data": {
+    "id": 9097852,
+    "codigoMateria": 175528,
+    "identificacao": "PLP 235/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "235",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7668905,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre condições e limites para a concessão de incentivos fiscais voltados ao pleno exercício dos direitos culturais pelo segmento juvenil; institui o Programa Vale Cultura Jovem e o selo Empresa Amiga da Cultura Jovem; e dá outras providências.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10300332,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-08-18",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  NORMAS GERAIS ,  CONCESSÃO ,  AMPLIAÇÃO ,  PRORROGAÇÃO ,  INCENTIVO FISCAL ,  SETOR ,  CULTURA ,  PUBLICO ,  JOVEM ,  TRIBUTOS ,  UNIÃO FEDERAL ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  IMPOSTO DE RENDA ,  IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS (ICMS) ,  IMPOSTO SOBRE SERVIÇO (ISS) ,  FIXAÇÃO ,  PROGRAMA ,  CREDITOS ,  ACESSO ,  BENS ,  SERVIÇO ,  ATIVIDADE CULTURAL ,  REQUISITOS ,  BENEFICIARIO ,  INSTRUMENTO ,  FOMENTO ,  INCENTIVO ,  DESONERAÇÃO TRIBUTARIA ,  SELO ,  EMPRESA ,  PARCEIRO ,  FISCALIZAÇÃO ,  POLITICA PUBLICA ,  PRESTAÇÃO DE CONTAS ,  TRANSPARENCIA ,  ORGÃO ,  GESTOR .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/868ada1c-cc1c-47d8-b3cb-f6f0c4196a3a",
+      "autoria": [
+        {
+          "autor": "Randolfe Rodrigues",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5012,
+          "uf": "AP",
+          "siglaPartido": "PT",
+          "partido": "Partido dos Trabalhadores",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Randolfe Rodrigues (PT/AP)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-08-18",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-08-18",
+    "classificacoes": [
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33808987,
+        "descricao": "Cultura",
+        "descricaoHierarquia": "Política Social / Cultura"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Randolfe Rodrigues",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5012,
+        "uf": "AP",
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9097852,
+    "identificacaoProcessoInicial": "PLP 235/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-08-18",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2308016,
+            "data": "2026-08-18 10:39:26",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 235/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10300338,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF262002894108",
+                "descricao": "-",
+                "data": "2026-08-18T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7b82eec0-6a9f-4df4-9af9-fa3fad492453"
+              },
+              {
+                "id": 10300332,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 235/2026",
+                "descricao": "Dispõe sobre condições e limites para a concessão de incentivos fiscais voltados ao pleno exercício dos direitos culturais pelo segmento juvenil; institui o Programa Vale Cultura Jovem e o selo Empresa Amiga da Cultura Jovem; e dá outras providências.",
+                "data": "2026-08-18T10:39:13",
+                "autoria": "Senador Randolfe Rodrigues (PT/AP)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/868ada1c-cc1c-47d8-b3cb-f6f0c4196a3a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-08-26T11:30:01.568000"
+  }
+}

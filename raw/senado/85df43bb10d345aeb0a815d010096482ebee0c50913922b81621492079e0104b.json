@@ -1,0 +1,344 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9107861",
+  "data": {
+    "id": 9107861,
+    "codigoMateria": 175782,
+    "identificacao": "PLP 257/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "257",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7671263,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 150, de 1º de junho de 2015, para equiparar o seguro-desemprego do empregado doméstico ao dos demais trabalhadores empregados.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10318737,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-09-11",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  EQUIPARAÇÃO ,  SEGURO-DESEMPREGO ,  EMPREGADO DOMESTICO ,  TRABALHADOR ,  EMPREGADO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/e4239de3-9c22-49a7-8ad5-92d5577a66f8",
+      "autoria": [
+        {
+          "autor": "Carlos Portinho",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5936,
+          "uf": "RJ",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Carlos Portinho (PL/RJ)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-09-11",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-05",
+    "classificacoes": [
+      {
+        "codigo": 33808927,
+        "descricao": "Trabalho e Emprego",
+        "descricaoHierarquia": "Política Social / Trabalho e Emprego"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Carlos Portinho",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5936,
+        "uf": "RJ",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9107861,
+    "identificacaoProcessoInicial": "PLP 257/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10343873,
+        "data": "2026-11-05",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9122190,
+          "numero": 1,
+          "data": "2026-11-05",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9122556,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 38,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAE",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+        "idEnteControleAtual": 13530,
+        "siglaEnteControleAtual": "SACAE",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-09-11",
+            "fim": "2026-11-05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-05",
+            "fim": "2026-11-05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-05",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2314669,
+            "data": "2026-09-11 13:56:20",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 257/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10318748,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF269144218919",
+                "descricao": "-",
+                "data": "2026-09-11T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6d9b8894-0c97-42e4-915c-0ef044f1994e"
+              },
+              {
+                "id": 10318737,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 257/2026",
+                "descricao": "Altera a Lei Complementar nº 150, de 1º de junho de 2015, para equiparar o seguro-desemprego do empregado doméstico ao dos demais trabalhadores empregados.",
+                "data": "2026-09-11T13:55:24",
+                "autoria": "Senador Carlos Portinho (PL/RJ)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e4239de3-9c22-49a7-8ad5-92d5577a66f8"
+              }
+            ]
+          },
+          {
+            "id": 2324068,
+            "data": "2026-11-05 15:22:39",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai à Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Assuntos Sociais. ",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2324102,
+            "data": "2026-11-05 16:36:30",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10343844,
+            "dataEnvio": "2026-11-05 15:07:50",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-05 15:22:31",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10343889,
+            "dataEnvio": "2026-11-05 15:36:34",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-05 16:36:24",
+            "enteDestino": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "colegiadoDestino": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-05T17:22:14.598000"
+  }
+}

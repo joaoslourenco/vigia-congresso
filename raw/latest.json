@@ -1,0 +1,461 @@
+{
+  "window": {
+    "start": "2026-10-28",
+    "end": "2026-11-11"
+  },
+  "status": "partial",
+  "refs": [
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PEC&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&itens=100&ordem=ASC&ordenarPor=id",
+      "sha256": "7f0480be70e4acecbb05715284d023a9a66dd940a9c70b4c1b041742c0005174"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PLP&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&itens=100&ordem=ASC&ordenarPor=id",
+      "sha256": "b5f092fc1ff55d6aa22ea5c3490af84e549d4dc186b5af1fed5143380d39a0eb"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422",
+      "sha256": "033a9d697318a7895320983dddc5627925e7983d73848addb9170867acbb881d"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422/autores",
+      "sha256": "9e649f21b560ae9369e5df594422a4f64e8e72edb35ab602e62afdd88e0027a5"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422/tramitacoes",
+      "sha256": "d050d22b602a41f64d2270fc73369deca8886e7265cff144fa87241f55423c8c"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422/votacoes",
+      "sha256": "22ef9d69c7e26732631ae1e49cd5831ba2c87abcd3ba7d4e8398472039c33454"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538",
+      "sha256": "e32e5172be0ef0169d2191f5b8386ee5e9061b66af87c833f754aa0a9ed22cdb"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538/autores",
+      "sha256": "7f05004df6af63cba3660029af1bf6b4db333cd2ba71d45cb7949a652162a6a0"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538/tramitacoes",
+      "sha256": "aa79267f357b2cd6c32ce54b4b76b848da5e4cffd5bcce4e55abdb75994e12b0"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538/votacoes",
+      "sha256": "d8a5ca275614757ebce13a89b6f25b2a0d98b2a4988f3a15faf9934d1c1b856f"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647",
+      "sha256": "91a1f7ca95eb28350207e31d4f52951363bbeacd4081609101bff78b1e5dc1b8"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647/autores",
+      "sha256": "6a7502d94cdd830c3f74b1de5c5ca46154f224a6ec42f8fc673f12a48ef5892f"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647/tramitacoes",
+      "sha256": "17e12f6d8bc9a1409bcb0ea815382ea9d309fb51c67f30adaa63bc4203284b1f"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647/votacoes",
+      "sha256": "8143a82db8f896d8cc5f57ded293cedf739374dcea02a3687e63e6c585e24553"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648",
+      "sha256": "ea88021aac2e901fb221c59ec68cb042bd7de6f37a26deafc2bbcb27823c5dab"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648/autores",
+      "sha256": "884878b5d02e47dbc55b80a80c3883f84022c9db417707013ce652a429cbbba1"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648/tramitacoes",
+      "sha256": "c27d8ed64a2fa68d8a07834ae9cc7a2312f68d08711ffe9823d266ecedba0617"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648/votacoes",
+      "sha256": "85cadb442d72c8dc29ca0073a4ac7fff7f0bfaed580f854d91a556dd0b2e8471"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667",
+      "sha256": "273af0d6c4ebac88802e9034039845b5af3e55e45c021cd3d0ecbfacc8f4c682"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667/autores",
+      "sha256": "87e86215d105ad8b6c7cac8f696db4cc993560fa2483449f6d3d30fa20ef2ed4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667/tramitacoes",
+      "sha256": "5f8881bfe1fb2e0721e130ab97680912f05377eefd7c73ebaf1fbeeb67f348a7"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667/votacoes",
+      "sha256": "0f7b708472197d2086f4bd0bdc3852d425d87f0fd32f0057a9e16993156416b7"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712",
+      "sha256": "c4a766248e25f5e274bbb0884f19e3e462e8c453edf87fd527090734ac7dc163"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712/autores",
+      "sha256": "b2852c584c1f83cc702e4d9b95e26707b08a7c4cd0b73f5fffd3d685a420dd11"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712/tramitacoes",
+      "sha256": "318a8e7e3a22573fff3659963f770020663f098c7f9b8123b4d96ccf9cc76971"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712/votacoes",
+      "sha256": "8b65655d95a1d35ec587a6fe4d48152fd66821511aec68c6a9275707307150f4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733",
+      "sha256": "2c3d13945d489ecc95c02c8abaf859e74afee2a964b9e5e77621e58e489a1c6e"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733/autores",
+      "sha256": "4f3588acc8d94c5ece86d4fc8c236dee86ae1d3b83bb91d93a16d9deb539e482"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733/tramitacoes",
+      "sha256": "6e910ea40e059c8803888a0d48550742bd4c1ce42905178d419718b4fbf6ec5a"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733/votacoes",
+      "sha256": "f1b2ca2a3318f74a449fa4c291bfebbf74f60bb805d978d0465335c0aef9c15e"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650684",
+      "sha256": "74b60311d0e49ba4f8a4e96bc72a2983b658f7b4fa9822e11c5170109015a1c8"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650684/autores",
+      "sha256": "d60d76ddd1e9386f84fd1574ccbc74f075861812383ba8089b4e23126a6617a1"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650684/tramitacoes",
+      "sha256": "2fcc4dfeb9c6210a52f57e8d5931a941de42f342599e94412fe82ee0e4156ca3"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650684/votacoes",
+      "sha256": "63f80fae37ee5e8111ca48aed653bf4955d7c8e28ca92f25548b096970fdb44f"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102",
+      "sha256": "3d8294bda1a29dda280fd18a62e3f929a2ef30077d578b2299eb84e65ef6f4e0"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102/autores",
+      "sha256": "25330cfb673df0214bae61f964b95df7791a9dec39dcacea235f01ac51811ee5"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102/tramitacoes",
+      "sha256": "c22ac4147c041ccffb8d751446f1988405684fc3571d8db6fba54ce682e4035e"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102/votacoes",
+      "sha256": "7eb99c9fe86bd126333505fc310e852d9a462e07ddb7ab8ef47eb7096d76023f"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651228",
+      "sha256": "d178df04379761ea478807297dacbdf1cba9dfc4419053403febd5bdeb82c014"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651228/autores",
+      "sha256": "d81f8bc7db116e1590508ab8e26733ece65617d2c3c6c56130491e7c07a1b4dc"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651228/tramitacoes",
+      "sha256": "17d7bc2493e6198546c421fbdc96b28238a660eb94deaebd289136a0f390c759"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651228/votacoes",
+      "sha256": "d84308fcc5788521f812d3a47cd097ea0c96a20c5d49d59ae4fc02c49c8e34b5"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858",
+      "sha256": "17548d191e10654c91f9c9669172cec29e79c9b7734f1c7c988f7bb802cb7f07"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858/autores",
+      "sha256": "77c723b3a3ec8575700e6dfe5a2bb1a4baa9e8cd9d80f7816fb498a90ab41a41"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858/tramitacoes",
+      "sha256": "848f529fc811386ca5a6a1eed735b3f4914583db122bf1825795242a588e1d8a"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858/votacoes",
+      "sha256": "bcda83c612031bf7094c7d28783c23da5f497cb3c4c9145f8ba7a9d1403df531"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866",
+      "sha256": "761cc65b152806ba6f5991ee66ebb78be002677f96376435ab395e8e93144770"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866/autores",
+      "sha256": "0df8cdfe34e731a9025fd4ba728655828c6d10414dc6d53212611d2e42e7a9ec"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866/tramitacoes",
+      "sha256": "95880438233730f8ba463087668f1067f1a4a2a2c21fa897ee7218a36b375ae4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866/votacoes",
+      "sha256": "486a4782d50f5c24d3df026433223bce80143ea72ef27e1c9456cb75290d24f4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652023",
+      "sha256": "22b3bb33677bf21628f6cb1792daeaab9b4727f23df1af537b7a2d5ed7678261"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652023/autores",
+      "sha256": "cf8f17fd8a0583c13bcaa62af996fe000ea07e8c4a8c55b68398358e95acc769"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652023/tramitacoes",
+      "sha256": "eed1fa7cf2f0bea10e0eb0a51e2c60fc6d462b08af55fdde288cabf4b31ea0cd"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652023/votacoes",
+      "sha256": "5716cff07fd7d07bc131be29abae059689b2a8518d966a8b384b499a697d90c4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652026",
+      "sha256": "575e4846369f87a23d0f53cc0cdea11679992bdb776c72868172fe35736b089b"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652026/autores",
+      "sha256": "31ae346652ee367da3b0cfa3b75d11011c204c6b55dfdf9b5803e32db79a73db"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652026/tramitacoes",
+      "sha256": "9ea2becfbaf3dee2503d488beff4159b1b256d677c1dc1674445c34baba0ba18"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652026/votacoes",
+      "sha256": "600947182a59d06230a71435da7b38fe2c40c739090b01f5400ec0134690cdb7"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227",
+      "sha256": "2f41812681c6bc8e9dee487f4089e77f07aaacecb75ed9bcb1c9c35be44c135b"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/autores",
+      "sha256": "dfff618449cdde6c5f0a622d7984e0c0800f58336c41db44ecfedb1e03f9c0d4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/tramitacoes",
+      "sha256": "d2e371c96a177b505f311bd998c4e6e104ec2a7c8c33ed81799aa5f6730ecfd3"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/votacoes",
+      "sha256": "56abb14bad5e542e492af6c69d661f716e409a93e3db79beba6f169b84250d2c"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510",
+      "sha256": "945bbf4035172255888aeb62ffe2420ffacdb1a2e4722000e84763c77b1cec08"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510/autores",
+      "sha256": "8244dbf226427e1cb41ff6be64ff70b2fdd384d2df06b15ffd165413953263f7"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510/tramitacoes",
+      "sha256": "ab2ac388dc27b39b28a5cd35fbcc93c96a50cea42facfe24d0a1364adcf59144"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510/votacoes",
+      "sha256": "6815e44ebbff56b3662d1adc94b12199083b89c3647650de6031db5d55b0fe29"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512",
+      "sha256": "4b3b1308526aa25c7de05d00b356a80714f5a2cdcea61b3ad6afe6fb6fd17665"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512/autores",
+      "sha256": "153ec2c120185ca41c53d9d57d5faa6ed3b12962a9f2ee180a49deb894da7ea1"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512/tramitacoes",
+      "sha256": "e87ad3e94b4794f934ecf3a5588a53ef5a87606efe6a084d75ef1fd80b9e792d"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512/votacoes",
+      "sha256": "9df49b6b3c1397f724b7cf1af0a958076570b0ce60ea9cf7dcc89d9e4f3f8af4"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677",
+      "sha256": "248a5311a218757229cbb0398e00f9410396dd4ffa0d982beca8bc4c1c1648a8"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677/autores",
+      "sha256": "d9df6763fb5752eff50e1b029bff6cf393db98e260777e7871ed070cfc8cf272"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677/tramitacoes",
+      "sha256": "d8e86c1c66614db06e9733e047df2c9d05194aa105fc2c6b4b4a0294466b7c13"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677/votacoes",
+      "sha256": "5de00d27fc413edc52cb37504ee67dbba3dfdab6a96f2d012a77dfa6d39f4487"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867",
+      "sha256": "52bcf71422e4d6d5483bb8d247438058b6b72c22df79da48c48092cf55224e6b"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867/autores",
+      "sha256": "5fae773fb561ecab236cac6da6cc02c6923a785fce64efb2818d854697a17ddb"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867/tramitacoes",
+      "sha256": "3e03d6a4b2cdc0c1a355eb0459a0b775236630acf4f8e3a736076484b39f5740"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867/votacoes",
+      "sha256": "d877b9d211c8346375984f4a1ed5060fc2c3d18d39e3d9ab3e1b1ba94841e6be"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890",
+      "sha256": "3b1c1aa6c06d519f5e3c42fdd457e198903c9dd8466b5aa93ecb03cb02eb4e20"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890/autores",
+      "sha256": "fa8768dd49b6afedb29ecb854afed6d19d681107ddbbf2e0bdaaaf55730434f0"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890/tramitacoes",
+      "sha256": "65a4f7e979d7a97770a1d63c488d303326f25f488b2dc7ac1c62acc4aa5d6471"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890/votacoes",
+      "sha256": "d7d612b35f0147b934286ff06788e0ebe85959e3e0ff6086bc08dfeabfcc5c0e"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977",
+      "sha256": "6d42655116d98280ed038e8beeb6e7384b37535c26c37023bc07c76208a6908e"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/autores",
+      "sha256": "f444a999664d16f84a517fa5465b0c438a63fa9b66418d48409a3b849c398a06"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/tramitacoes",
+      "sha256": "125973b1bde98937871b79ab47999127f2c7b413c1939ed4d67ff821def3b3ac"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/votacoes",
+      "sha256": "9ba42df48c1d15565d2d1aa65d060573e2aa0fe8a9a8325c432773641244a856"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992",
+      "sha256": "7e5f7ff41ec10fba798c106f28fb362ab80eeeaaa756a6a80026cb9b43d8d760"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/autores",
+      "sha256": "babf60537776a7e71b0744d1d152bb9d28cd46dad861e92889e0d29538a9577e"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/tramitacoes",
+      "sha256": "1d82693a288198fa1d8fd9284ffaecaf0d35e01b4d32b5e81908108d00e84749"
+    },
+    {
+      "source": "camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/votacoes",
+      "sha256": "073a5d5e6831b8d3df9f4953806067f8baa87582a841c6711e2e23483db6b04f"
+    }
+  ],
+  "errors": [],
+  "normalizationPending": true
+}

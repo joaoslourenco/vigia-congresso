@@ -1,0 +1,322 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9017802",
+  "data": {
+    "id": 9017802,
+    "codigoMateria": 173271,
+    "identificacao": "PLP 72/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "72",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7650890,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10186755,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-03-23",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  NORMAS ,  BENEFICIO FISCAL ,  PROPOSIÇÃO LEGISLATIVA ,  RENUNCIA ,  RECEITA ,  PREVISÃO ,  ESTIMATIVA ,  LEI ORÇAMENTARIA ANUAL (LOA) ,  POSSIBILIDADE ,  COMPENSAÇÃO ,  REGIME TRIBUTARIO ,  AREA DE LIVRE COMERCIO ,  BENS DE CAPITAL ,  DESPESA OBRIGATORIA ,  RESSARCIMENTO ,  TRIBUTOS ,  DESONERAÇÃO TRIBUTARIA ,  CONTRATO ,  LICENÇA-PATERNIDADE ,  RESSALVA ,  PROIBIÇÃO ,  DISPOSITIVO ,  LEI DE DIRETRIZES ORÇAMENTARIAS (LDO) ,  LEI DE RESPONSABILIDADE FISCAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/ef7ecfb6-9604-4104-9d14-78ac852fb446",
+      "autoria": [
+        {
+          "autor": "Randolfe Rodrigues",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5012,
+          "uf": "AP",
+          "siglaPartido": "PT",
+          "partido": "Partido dos Trabalhadores",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Randolfe Rodrigues (PT/AP)"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-03-23",
+    "classificacoes": [
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33805857,
+        "descricao": "Execução Financeira e Orçamentária",
+        "descricaoHierarquia": "Orçamento Público / Orçamento Anual / Execução Financeira e Orçamentária"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Randolfe Rodrigues",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5012,
+        "uf": "AP",
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9017802,
+    "identificacaoProcessoInicial": "PLP 72/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9018423,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "225",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55299,
+        "siglaEnteControleAtual": "COARQ",
+        "nomeEnteControleAtual": "Coordenação de Arquivo",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-03-23",
+            "fim": "2026-03-24",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 60,
+            "sigla": "RTPA",
+            "descricao": "RETIRADA PELO AUTOR",
+            "inicio": "2026-03-24",
+            "fim": "2026-03-24",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2279128,
+            "data": "2026-03-23 15:55:03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 72/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10186767,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF269326978420",
+                "descricao": "-",
+                "data": "2026-03-23T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/049d4730-b7a5-4699-8f14-4f5e80d0e464"
+              },
+              {
+                "id": 10186755,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 72/2026",
+                "descricao": "Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.",
+                "data": "2026-03-23T15:54:37",
+                "autoria": "Senador Randolfe Rodrigues (PT/AP)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ef7ecfb6-9604-4104-9d14-78ac852fb446"
+              }
+            ]
+          },
+          {
+            "id": 2279168,
+            "data": "2026-03-24 11:21:28",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 225, de 2026, do Senador Randolfe Rodrgues, de retirada da matéria em caráter definitivo.",
+            "documentosAssociados": [
+              {
+                "id": 10187109,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 225/2026",
+                "descricao": "Requer a retirada definitiva do Projeto de Lei Complementar nº 72/2026.",
+                "data": "2026-03-24T11:19:17",
+                "autoria": "Senador Randolfe Rodrigues (PT/AP)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8082b620-1a1c-40cf-9221-da0230e5c0f6"
+              }
+            ]
+          },
+          {
+            "id": 2279222,
+            "data": "2026-03-24 12:35:32",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Foi encaminhado à publicação o Requerimento nº 225, de 2026, do Senador Randolfe Rodrigues, de retirada, em caráter definitivo, do Projeto de Lei Complementar nº 72, de 2026. A Presidência defere o Requerimento, e encaminha o Projeto de Lei Complementar nº 72, de 2026, ao Arquivo.",
+            "idSituacaoIniciada": 60,
+            "siglaSituacaoIniciada": "RTPA"
+          },
+          {
+            "id": 2279224,
+            "data": "2026-03-24 12:43:49",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai ao arquivo.",
+            "documentosAssociados": [
+              {
+                "id": 10187255,
+                "tipo": "Listagem ou relatório descritivo",
+                "siglaTipo": "LISTAGEM_RELATORIO",
+                "identificacao": "Listagem ou relatório descritivo - SF265405430730",
+                "descricao": "Relatório de eventos e documentos do processo PLP 72/2026",
+                "data": "2026-03-24T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/078cd918-663d-44fb-870e-0dd6df843022"
+              }
+            ]
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10187114,
+            "dataEnvio": "2026-03-24 11:23:04",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-03-24 12:35:28",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10187258,
+            "dataEnvio": "2026-03-24 12:43:49",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-03-24 12:43:51",
+            "enteDestino": {
+              "id": 55299,
+              "casa": "SF",
+              "sigla": "COARQ",
+              "nome": "Coordenação de Arquivo"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-03-24",
+      "siglaTipo": "RETIRADO_PELO_AUTOR",
+      "tipoDeliberacao": "Retirada pelo autor",
+      "idDestino": 4,
+      "siglaDestino": "ARQUIVO",
+      "destino": "Ao arquivo"
+    },
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-04-08T15:07:01.741000"
+  }
+}

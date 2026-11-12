@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649422,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 275,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF).",
+    "dataApresentacao": "2026-10-28T17:49",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-10-28T17:49",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Autorização do Despacho",
+      "codSituacao": 1200,
+      "despacho": "Apresentação do PLP n. 275/2026 (Projeto de Lei Complementar), pelo Deputado Julio Cesar Ribeiro (REPUBLIC/DF), que \"Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF)\".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190695",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Lei complementar; preservação; critério; cálculo; aporte; União; Recursos orçamentários; Fundo Constitucional do Distrito Federal (FCDF)",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187277",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422"
+    }
+  ]
+}

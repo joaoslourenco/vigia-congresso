@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2651858,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 287,
+    "ano": 2026,
+    "ementa": "Exclui os investimentos públicos dos limites de despesas primárias e os protege da limitação de empenho e movimentação financeira no âmbito da União.",
+    "dataApresentacao": "2026-11-09T17:33",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-09T17:33",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": null,
+      "codSituacao": null,
+      "despacho": "Apresentação do PLP n. 287/2026 (Projeto de Lei Complementar), pelo Deputado Lindbergh Farias (PT/RJ -Fdr PT-PCdoB-PV), que \"Exclui os investimentos públicos dos limites de despesas primárias e os protege da limitação de empenho e movimentação financeira no âmbito da União\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": "Altera a Lei Complementar nº 101 de 4 de Maio de 2001 e a Lei Complementar nº 200 de 30 de Agosto  de 2023.",
+    "keywords": "alteração; Lei de Responsabilidade Fiscal (2000); Regime Fiscal Sustentável (2023); exclusão; Despesa; Investimento público; Contingenciamento; Limitação de empenho; Movimentação financeira; Despesa não financeira; União",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3192184",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858"
+    }
+  ]
+}

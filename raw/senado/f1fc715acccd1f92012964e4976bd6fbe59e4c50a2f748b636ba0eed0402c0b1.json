@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9049040",
+  "data": {
+    "id": 9049040,
+    "codigoMateria": 174195,
+    "identificacao": "PLP 142/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "142",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7657777,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual, para destinar percentual de recursos da saúde para a prevenção e o tratamento do câncer.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10224543,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-05-18",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  REGULAMENTAÇÃO ,  EMENDA PARLAMENTAR ,  CORRELAÇÃO ,  PROJETO DE LEI ORÇAMENTARIA ,  LEI ORÇAMENTARIA ANUAL (LOA) ,  FIXAÇÃO ,  PERCENTAGEM ,  OBRIGATORIEDADE ,  DESTINAÇÃO ,  SERVIÇO PUBLICO ,  SAUDE ,  TRATAMENTO MEDICO ,  CANCER .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/3a028bb0-a3ee-421c-82c6-f6021ca8c21a",
+      "autoria": [
+        {
+          "autor": "Dra. Eudócia",
+          "sexo": "F",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5906,
+          "uf": "AL",
+          "siglaPartido": "PSDB",
+          "partido": "Partido da Social Democracia Brasileira",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senadora",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senadora Dra. Eudócia (PSDB/AL)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-05-18",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-05-18",
+    "classificacoes": [
+      {
+        "codigo": 33805437,
+        "descricao": "Processo Legislativo",
+        "descricaoHierarquia": "Jurídico / Processo / Processo Legislativo"
+      },
+      {
+        "codigo": 33805767,
+        "descricao": "Orçamento Anual",
+        "descricaoHierarquia": "Orçamento Público / Orçamento Anual"
+      },
+      {
+        "codigo": 33809168,
+        "descricao": "Saúde Pública",
+        "descricaoHierarquia": "Política Social / Saúde / Saúde Pública"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Dra. Eudócia",
+        "sexo": "F",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5906,
+        "uf": "AL",
+        "siglaPartido": "PSDB",
+        "partido": "Partido da Social Democracia Brasileira",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senadora",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9049040,
+    "identificacaoProcessoInicial": "PLP 142/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-18",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2286653,
+            "data": "2026-05-18 17:21:12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 142/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10224546,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265436550105",
+                "descricao": "-",
+                "data": "2026-05-18T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/55628f3e-92f7-48f5-8eb3-c822c41de097"
+              },
+              {
+                "id": 10224543,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 142/2026",
+                "descricao": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual, para destinar percentual de recursos da saúde para a prevenção e o tratamento do câncer.",
+                "data": "2026-05-18T17:20:39",
+                "autoria": "Senadora Dra. Eudócia (PSDB/AL)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3a028bb0-a3ee-421c-82c6-f6021ca8c21a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-09-21T11:21:52.842000"
+  }
+}

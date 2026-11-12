@@ -1,0 +1,184 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9082093",
+  "data": {
+    "id": 9082093,
+    "codigoMateria": 175101,
+    "identificacao": "PLP 201/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "201",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7665542,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Estabelece medidas transitórias de mitigação dos impactos decorrentes da redução da jornada máxima semanal de trabalho e da ampliação do repouso semanal remunerado sobre os microempreendedores individuais, as microempresas e as empresas de pequeno porte, condicionadas à manutenção dos níveis de emprego.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10272380,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-09",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  DISPOSIÇÕES TRANSITORIAS ,  CORRELAÇÃO ,  REDUÇÃO ,  JORNADA DE TRABALHO ,  AMPLIAÇÃO ,  REPOUSO SEMANAL ,  TRABALHADOR ,  EMPREGADO ,  AMBITO ,  CONTRATO DE TRABALHO ,  MICROEMPREENDEDOR INDIVIDUAL ,  MICROEMPRESA ,  PEQUENA EMPRESA ,  REQUISITOS ,  DEDUÇÃO ,  PERCENTAGEM ,  BASE DE CALCULO ,  COTA PATRONAL ,  CONTRIBUIÇÃO PREVIDENCIARIA ,  CRITERIOS ,  PERDA ,  INCENTIVO FISCAL ,  DEVERES ,  EMPREGADOR ,  INFORMAÇÕES ,  OBJETIVO ,  AVALIAÇÃO ,  FISCALIZAÇÃO ,  EXECUTIVO ,  PUBLICAÇÃO ,  RELATORIO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/cb72966b-2c06-4048-9fab-376280dae6a7",
+      "autoria": [
+        {
+          "autor": "Dr. Hiran",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5793,
+          "uf": "RR",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Dr. Hiran (PP/RR)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-09",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-09",
+    "classificacoes": [
+      {
+        "codigo": 33804895,
+        "descricao": "Micro e Pequenas Empresas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Indústria, Comércio e Serviços / Micro e Pequenas Empresas"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33809077,
+        "descricao": "Fomento ao Trabalho",
+        "descricaoHierarquia": "Política Social / Trabalho e Emprego / Fomento ao Trabalho"
+      },
+      {
+        "codigo": 34951911,
+        "descricao": "Contribuição Previdenciária",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Contribuição Previdenciária"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Dr. Hiran",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5793,
+        "uf": "RR",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9082093,
+    "identificacaoProcessoInicial": "PLP 201/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2298656,
+            "data": "2026-07-09 08:16:39",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 201/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10272338,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF268923968793",
+                "descricao": "-",
+                "data": "2026-07-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/fdf69829-7e1d-4ac4-859f-04a6f16c85ff"
+              },
+              {
+                "id": 10272380,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 201/2026",
+                "descricao": "Estabelece medidas transitórias de mitigação dos impactos decorrentes da redução da jornada máxima semanal de trabalho e da ampliação do repouso semanal remunerado sobre os microempreendedores individuais, as microempresas e as empresas de pequeno porte, condicionadas à manutenção dos níveis de emprego.",
+                "data": "2026-07-09T08:15:46",
+                "autoria": "Senador Dr. Hiran (PP/RR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/cb72966b-2c06-4048-9fab-376280dae6a7"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-17T20:00:01"
+  }
+}

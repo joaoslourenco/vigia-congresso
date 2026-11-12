@@ -1,0 +1,26 @@
+{
+  "dados": [
+    {
+      "dataHora": "2026-10-28T17:49",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Autorização do Despacho",
+      "codSituacao": 1200,
+      "despacho": "Apresentação do PLP n. 275/2026 (Projeto de Lei Complementar), pelo Deputado Julio Cesar Ribeiro (REPUBLIC/DF), que \"Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF)\".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187277",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422/tramitacoes"
+    }
+  ]
+}

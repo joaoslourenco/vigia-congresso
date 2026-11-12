@@ -1,0 +1,58 @@
+{
+  "dados": [
+    {
+      "dataHora": "2026-11-05T00:00",
+      "sequencia": 4,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Publicação de Documento",
+      "codTipoTramitacao": "611",
+      "descricaoSituacao": "Tramitação Finalizada",
+      "codSituacao": 1285,
+      "despacho": "Recebido o Ofício nº 902/2026-CC-PR que encaminha a Mensagem nº 829, de 2026.",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190390",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    {
+      "dataHora": "2026-11-05T07:12",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Tramitação Finalizada",
+      "codSituacao": 1285,
+      "despacho": "Apresentação da PEC n. 22/2026 (Proposta de Emenda à Constituição), pelo Poder Executivo, que \"Altera o Ato das Disposições Constitucionais Transitórias para disciplinar a transição para a cobrança do Imposto Seletivo\".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190384",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    {
+      "dataHora": "2026-11-05T09:35",
+      "sequencia": 5,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Tramitação Finalizada",
+      "codSituacao": 1285,
+      "despacho": "Apresentação da MSC n. 829/2026 (Mensagem), pelo Poder Executivo, que \"Submete à deliberação do Congresso Nacional o texto da proposta de emenda à Constituição que “Altera o Ato das Disposições Constitucionais Transitórias para disciplinar a transição para a cobrança do Imposto Seletivo.”\".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190387",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651102/tramitacoes"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9100884",
+  "data": {
+    "id": 9100884,
+    "codigoMateria": 175604,
+    "identificacao": "PLP 243/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "243",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7669693,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para afastar, em relação ao Fundo Constitucional do Distrito Federal, as vedações previstas no art. 14, de forma a preservar a sistemática legal de cálculo e atualização do aporte anual ao Fundo.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10307168,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-08-28",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  INAPLICABILIDADE ,  CARATER EXCEPCIONAL ,  NORMAS ,  FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL (FCDF) ,  PROIBIÇÃO ,  CRESCIMENTO ,  DESPESA ORÇAMENTARIA ,  HIPOTESE ,  OCORRENCIA ,  DEFICIT ,  ATUALIZAÇÃO ,  VARIAÇÃO ,  RECEITA CORRENTE ,  RECEITA LIQUIDA ,  EXERCICIO FINANCEIRO ,  APURAÇÃO ,  CALCULO ,  EXCLUSÃO ,  RECEITA FEDERAL ,  PETROLEO ,  GAS NATURAL ,  HIDROCARBONETO ,  UNIÃO FEDERAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/955a7be5-94e6-401b-9261-3d85ffdc8540",
+      "autoria": [
+        {
+          "autor": "Izalci Lucas",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 4770,
+          "uf": "DF",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Izalci Lucas (PL/DF)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-08-28",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-08-28",
+    "classificacoes": [
+      {
+        "codigo": 33260515,
+        "descricao": "Orçamento Público",
+        "descricaoHierarquia": "Orçamento Público"
+      },
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      },
+      {
+        "codigo": 33804820,
+        "descricao": "Fundos Públicos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas / Fundos Públicos"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Izalci Lucas",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4770,
+        "uf": "DF",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9100884,
+    "identificacaoProcessoInicial": "PLP 243/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-08-28",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2310841,
+            "data": "2026-08-28 16:58:16",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 243/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10307192,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF267723874900",
+                "descricao": "-",
+                "data": "2026-08-28T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/91909ec4-2d9c-47ea-ad1b-12c7df43f353"
+              },
+              {
+                "id": 10307168,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 243/2026",
+                "descricao": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para afastar, em relação ao Fundo Constitucional do Distrito Federal, as vedações previstas no art. 14, de forma a preservar a sistemática legal de cálculo e atualização do aporte anual ao Fundo.",
+                "data": "2026-08-28T16:55:06",
+                "autoria": "Senador Izalci Lucas (PL/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/955a7be5-94e6-401b-9261-3d85ffdc8540"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-09-04T18:01:43.343000"
+  }
+}

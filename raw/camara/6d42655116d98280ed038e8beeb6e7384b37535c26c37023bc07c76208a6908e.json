@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2652977,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 300,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento.",
+    "dataApresentacao": "2026-11-11T16:55",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-11T16:55",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": null,
+      "codSituacao": null,
+      "despacho": "Apresentação do PLP n. 300/2026 (Projeto de Lei Complementar), pelo Deputado Alceu Moreira (MDB/RS), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": null,
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3194046",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977"
+    }
+  ]
+}

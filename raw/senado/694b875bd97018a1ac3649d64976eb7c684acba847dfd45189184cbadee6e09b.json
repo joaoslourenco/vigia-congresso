@@ -1,0 +1,282 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+  "data": {
+    "id": 9127383,
+    "codigoMateria": 176328,
+    "identificacao": "PLP 299/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "299",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7675334,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10351198,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-11-11",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/38df22dd-1022-46cf-ac9d-d24f038d1d0d",
+      "autoria": [
+        {
+          "autor": "Jaques Wagner",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 581,
+          "uf": "BA",
+          "siglaPartido": "PT",
+          "partido": "Partido dos Trabalhadores",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Jaques Wagner (PT/BA)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-11-11",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-11-11",
+    "autoriaIniciativa": [
+      {
+        "autor": "Jaques Wagner",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 581,
+        "uf": "BA",
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9127383,
+    "identificacaoProcessoInicial": "PLP 299/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10351499,
+        "data": "2026-11-11",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9124414,
+          "numero": 1,
+          "data": "2026-11-11",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9127664,
+            "tipo": "AO_PLENARIO_03_2023",
+            "descricao": "Ao Plenário",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": null,
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1998,
+                  "sigla": "PLEN",
+                  "casa": "SF",
+                  "nome": "Plenário do Senado Federal"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-11-11",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2326013,
+            "data": "2026-11-11 16:59:17",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 299/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10351201,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265119424999",
+                "descricao": "-",
+                "data": "2026-11-11T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/46304094-1115-4948-849e-42143cf1a841"
+              },
+              {
+                "id": 10351198,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 299/2026",
+                "descricao": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+                "data": "2026-11-11T16:59:06",
+                "autoria": "Senador Jaques Wagner (PT/BA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/38df22dd-1022-46cf-ac9d-d24f038d1d0d"
+              }
+            ]
+          },
+          {
+            "id": 2326125,
+            "data": "2026-11-11 18:49:06",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 770, de 2026, de Líderes, que solicita urgência para a matéria.",
+            "documentosAssociados": [
+              {
+                "id": 10351483,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 770/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 299, de 2026, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-11-11T18:44:24",
+                "autoria": "Líder do Bloco Parlamentar Pelo Brasil Weverton (PDT/MA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ae8f86b3-1af4-4b00-9a4a-f78b440b5f4d"
+              }
+            ]
+          },
+          {
+            "id": 2326126,
+            "data": "2026-11-11 18:51:04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Designado Relator de Plenário o Senador Eduardo Braga."
+          },
+          {
+            "id": 2326129,
+            "data": "2026-11-11 18:52:36",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Relatório do Senador Eduardo Braga.",
+            "documentosAssociados": [
+              {
+                "id": 10351509,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF266863349580",
+                "descricao": "Relatório ao PLP 299/2026",
+                "data": "2026-11-11T18:51:43",
+                "autoria": "Senador Eduardo Braga (MDB/AM)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/93095d38-67e6-437d-9cd4-6cfc2cc5a3fb"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-11T18:53:13.780000"
+  }
+}

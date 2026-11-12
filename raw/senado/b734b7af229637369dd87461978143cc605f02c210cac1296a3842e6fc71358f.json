@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9115051",
+  "data": {
+    "id": 9115051,
+    "codigoMateria": 175984,
+    "identificacao": "PLP 271/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "271",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7672878,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre a devolução excepcional de valores correspondentes às contribuições previdenciárias recolhidas por microempreendedores individuais – MEI.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10331608,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-10-16",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  DEVOLUÇÃO ,  CARATER EXCEPCIONAL ,  CONTRIBUIÇÃO PREVIDENCIARIA ,  RECOLHIMENTO ,  MICROEMPREENDEDOR INDIVIDUAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/84a935c6-f15d-4a94-b0f1-6c92a8cb7b6a",
+      "autoria": [
+        {
+          "autor": "Angelo Coronel",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5967,
+          "uf": "BA",
+          "siglaPartido": "REPUBLICANOS",
+          "partido": "Republicanos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Angelo Coronel (REPUBLICANOS/BA)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-10-16",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-10-16",
+    "classificacoes": [
+      {
+        "codigo": 33804895,
+        "descricao": "Micro e Pequenas Empresas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Indústria, Comércio e Serviços / Micro e Pequenas Empresas"
+      },
+      {
+        "codigo": 34951911,
+        "descricao": "Contribuição Previdenciária",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Contribuição Previdenciária"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Angelo Coronel",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5967,
+        "uf": "BA",
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9115051,
+    "identificacaoProcessoInicial": "PLP 271/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-10-16",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2320017,
+            "data": "2026-10-16 16:34:03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 271/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10331614,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF262903156119",
+                "descricao": "-",
+                "data": "2026-10-16T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/be21df9a-ecc1-47e5-acd1-a02a8be421d8"
+              },
+              {
+                "id": 10331608,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 271/2026",
+                "descricao": "Dispõe sobre a devolução excepcional de valores correspondentes às contribuições previdenciárias recolhidas por microempreendedores individuais – MEI.",
+                "data": "2026-10-16T16:33:39",
+                "autoria": "Senador Angelo Coronel (REPUBLICANOS/BA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/84a935c6-f15d-4a94-b0f1-6c92a8cb7b6a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-10-21T10:30:01.407000"
+  }
+}

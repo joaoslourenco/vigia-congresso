@@ -1,0 +1,684 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+  "data": {
+    "id": 9004358,
+    "codigoMateria": 172921,
+    "identificacao": "PLP 45/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "45",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7647849,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10171136,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-03-05",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  GARANTIA ,  IMUNIDADE TRIBUTARIA ,  INSTITUIÇÃO BENEFICENTE ,  ENTIDADE ,  ATUAÇÃO ,  EDUCAÇÃO ,  SAUDE ,  ASSISTENCIA SOCIAL ,  PREVENÇÃO ,  AUMENTO ,  CARGA TRIBUTARIA ,  IMPLEMENTAÇÃO ,  REFORMA TRIBUTARIA ,  CORRELAÇÃO ,  ANULAÇÃO ,  CREDITO TRIBUTARIO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/c6641483-3409-4169-8404-a5148b917d42",
+      "autoria": [
+        {
+          "autor": "Izalci Lucas",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 4770,
+          "uf": "DF",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Izalci Lucas (PL/DF)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-03-05",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-11",
+    "classificacoes": [
+      {
+        "codigo": 33685895,
+        "descricao": "Terceiro Setor, Parcerias Público-Privadas e Desestatização",
+        "descricaoHierarquia": "Administração Pública / Terceiro Setor, Parcerias Público-Privadas e Desestatização"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Izalci Lucas",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4770,
+        "uf": "DF",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9004358,
+    "identificacaoProcessoInicial": "PLP 45/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10234694,
+        "data": "2026-05-28",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9055590,
+          "numero": 1,
+          "data": "2026-05-28",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9056505,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 38,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAE",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+        "idEnteControleAtual": 13530,
+        "siglaEnteControleAtual": "SACAE",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-03-05",
+            "fim": "2026-05-28",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-05-28",
+            "fim": "2026-05-29",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-05-29",
+            "fim": "2026-06-11",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "idTipo": 91,
+            "sigla": "RELATOR",
+            "descricao": "MATÉRIA COM A RELATORIA",
+            "inicio": "2026-06-11",
+            "fim": "2026-08-26",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "idTipo": 42,
+            "sigla": "PRONTPAUT",
+            "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "inicio": "2026-08-26",
+            "fim": "2026-11-09",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "idTipo": 138,
+            "sigla": "INPAUTA",
+            "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "inicio": "2026-11-09",
+            "fim": "2026-11-11",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "idTipo": 89,
+            "sigla": "APRVPAR",
+            "descricao": "APROVADO PARECER NA COMISSÃO",
+            "inicio": "2026-11-11",
+            "fim": "2026-11-11",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "idTipo": 148,
+            "sigla": "TRAMITA",
+            "descricao": "MATÉRIA EM TRAMITAÇÃO",
+            "inicio": "2026-11-11",
+            "fim": "2026-11-11",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-11",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2275994,
+            "data": "2026-03-05 10:23:53",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 45/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10170878,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260268975427",
+                "descricao": "-",
+                "data": "2026-03-05T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0e99a416-9443-413b-9a4e-c953f275ed14"
+              },
+              {
+                "id": 10171136,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 45/2026",
+                "descricao": "Altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação.",
+                "data": "2026-03-05T10:05:56",
+                "autoria": "Senador Izalci Lucas (PL/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c6641483-3409-4169-8404-a5148b917d42"
+              }
+            ]
+          },
+          {
+            "id": 2288562,
+            "data": "2026-05-28 18:02:32",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A presente matéria vai à CAS e, em seguida, à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2288627,
+            "data": "2026-05-29 09:20:49",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          },
+          {
+            "id": 2290848,
+            "data": "2026-06-11 10:59:26",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Distribuído ao Senador Flávio Arns, para emitir relatório.",
+            "idSituacaoIniciada": 91,
+            "siglaSituacaoIniciada": "RELATOR"
+          },
+          {
+            "id": 2310263,
+            "data": "2026-08-26 19:06:09",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Recebido o relatório do senador Flávio Arns, com voto favorável ao projeto, com duas emendas que apresenta. ",
+            "idSituacaoIniciada": 42,
+            "siglaSituacaoIniciada": "PRONTPAUT",
+            "documentosAssociados": [
+              {
+                "id": 10305929,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF269502272909",
+                "descricao": "Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre Projeto de Lei Complementar n° 45, de 2026, do Senador Izalci Lucas (PL/DF), que Altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação.",
+                "data": "2026-08-26T20:30:14",
+                "autoria": "Senador Flávio Arns (PSB/PR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/132733fa-3a21-4ced-b56d-270dd4ec3811"
+              }
+            ]
+          },
+          {
+            "id": 2324918,
+            "data": "2026-11-09 09:47:27",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Matéria constante da Pauta da 52ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 11/11/2026.",
+            "idSituacaoIniciada": 138,
+            "siglaSituacaoIniciada": "INPAUTA"
+          },
+          {
+            "id": 2325581,
+            "data": "2026-11-11 09:36:34",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Na 52ª Reunião, extraordinária, realizada nesta data, a Comissão de Assuntos Sociais aprova o relatório do senador Flávio Arns, que passa a constituir o parecer da CAS, favorável ao projeto, com as Emendas nº 1-CAS e 2-CAS. A Comissão aprova, ainda, a apresentação ao Plenário do Senado do Requerimento nº 100, de 2026-CAS, de urgência para a matéria.",
+            "idSituacaoIniciada": 89,
+            "siglaSituacaoIniciada": "APRVPAR",
+            "documentosAssociados": [
+              {
+                "id": 10349625,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 81/2026 - CAS",
+                "descricao": "Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre Projeto de Lei Complementar n° 45, de 2026, do Senador Izalci Lucas (PL/DF), que Altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação.",
+                "data": "2026-11-11T00:00:00",
+                "autoria": "Comissão de Assuntos Sociais",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3a20c0f4-4449-4c4f-b66f-b4629e87c5ca"
+              }
+            ]
+          },
+          {
+            "id": 2325767,
+            "data": "2026-11-11 11:22:44",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 11:22.\nApresentado requerimento (Urgência para matéria) na Comissão nesta data às 12:22.",
+            "idSituacaoIniciada": 148,
+            "siglaSituacaoIniciada": "TRAMITA",
+            "documentosAssociados": [
+              {
+                "id": 10350136,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "REQ 100/2026 - CAS",
+                "descricao": "Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PLP 45/2026, que “altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação”.",
+                "data": "2026-11-11T12:22:44",
+                "autoria": "Comissão de Assuntos Sociais",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5e2a50f4-5c84-480d-9444-925826452a10"
+              }
+            ]
+          },
+          {
+            "id": 2325767,
+            "data": "2026-11-11 11:22:44",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 11:22.\nApresentado requerimento (Urgência para matéria) na Comissão nesta data às 12:22.",
+            "idSituacaoIniciada": 148,
+            "siglaSituacaoIniciada": "TRAMITA",
+            "documentosAssociados": [
+              {
+                "id": 10350136,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "REQ 100/2026 - CAS",
+                "descricao": "Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PLP 45/2026, que “altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação”.",
+                "data": "2026-11-11T12:22:44",
+                "autoria": "Comissão de Assuntos Sociais",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5e2a50f4-5c84-480d-9444-925826452a10"
+              }
+            ]
+          },
+          {
+            "id": 2325724,
+            "data": "2026-11-11 11:51:00",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Encerrada a relatoria do Senador Flávio Arns por deliberação da matéria."
+          },
+          {
+            "id": 2325927,
+            "data": "2026-11-11 14:50:41",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10234495,
+            "dataEnvio": "2026-05-28 15:13:18",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-28 18:02:28",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10234724,
+            "dataEnvio": "2026-05-28 18:10:04",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-29 09:20:44",
+            "enteDestino": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "colegiadoDestino": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            }
+          },
+          {
+            "id": 10350439,
+            "dataEnvio": "2026-11-11 14:15:02",
+            "enteOrigem": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "dataRecebimento": "2026-11-11 14:45:49",
+            "enteDestino": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "colegiadoDestino": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-11T14:51:59.396000"
+  }
+}

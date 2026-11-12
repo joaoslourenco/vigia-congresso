@@ -1,0 +1,184 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9098956",
+  "data": {
+    "id": 9098956,
+    "codigoMateria": 175545,
+    "identificacao": "PLP 237/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "237",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7669186,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Institui incentivo tributário à contratação adicional de aprendizes e de jovens recém-formados em cursos de educação profissional técnica de nível médio ou de educação superior por pessoas jurídicas tributadas com base no lucro real ou no lucro presumido e por optantes pelo Simples Nacional.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10303097,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-08-20",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  INCENTIVO FISCAL ,  CONTRATAÇÃO ,  ADICIONAL ,  COTA ,  CONSOLIDAÇÃO DAS LEIS DO TRABALHO (CLT) ,  APRENDIZ ,  JOVEM ,  FORMAÇÃO ,  CURSOS ,  ENSINO PROFISSIONALIZANTE ,  ENSINO SUPERIOR ,  PESSOA JURIDICA ,  TRIBUTAÇÃO ,  BASE ,  LUCRO REAL ,  LUCRO PRESUMIDO ,  SISTEMA INTEGRADO DE PAGAMENTO DE IMPOSTOS E CONTRIBUIÇÕES DAS MICROEMPRESAS E DAS EMPRESAS DE PEQUENO PORTE (SIMPLES) ,  DEDUÇÃO ,  IMPOSTO DE RENDA ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  PERCENTAGEM ,  PAGAMENTO ,  REMUNERAÇÃO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/59435f80-f56f-45ca-88e8-4feac02b1b9f",
+      "autoria": [
+        {
+          "autor": "Angelo Coronel",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5967,
+          "uf": "BA",
+          "siglaPartido": "REPUBLICANOS",
+          "partido": "Republicanos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Angelo Coronel (REPUBLICANOS/BA)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-08-20",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-08-20",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33804970,
+        "descricao": "Imposto de Renda (IR)",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Imposto de Renda (IR)"
+      },
+      {
+        "codigo": 33809077,
+        "descricao": "Fomento ao Trabalho",
+        "descricaoHierarquia": "Política Social / Trabalho e Emprego / Fomento ao Trabalho"
+      },
+      {
+        "codigo": 34999627,
+        "descricao": "Contribuição Social",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Contribuição Social"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Angelo Coronel",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5967,
+        "uf": "BA",
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9098956,
+    "identificacaoProcessoInicial": "PLP 237/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-08-20",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2308787,
+            "data": "2026-08-20 13:29:39",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 237/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10303103,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265372050453",
+                "descricao": "-",
+                "data": "2026-08-20T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5b58998a-1f79-44dc-8d22-e9e3bb5ba4b7"
+              },
+              {
+                "id": 10303097,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 237/2026",
+                "descricao": "Institui incentivo tributário à contratação adicional de aprendizes e de jovens recém-formados em cursos de educação profissional técnica de nível médio ou de educação superior por pessoas jurídicas tributadas com base no lucro real ou no lucro presumido e por optantes pelo Simples Nacional.",
+                "data": "2026-08-20T13:29:20",
+                "autoria": "Senador Angelo Coronel (REPUBLICANOS/BA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/59435f80-f56f-45ca-88e8-4feac02b1b9f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-08-25T16:45:01.298000"
+  }
+}

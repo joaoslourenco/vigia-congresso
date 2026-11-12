@@ -1,0 +1,779 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9095355",
+  "data": {
+    "id": 9095355,
+    "codigoMateria": 175446,
+    "identificacao": "PLP 114/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "114",
+    "ano": 2026,
+    "apelido": "PLP dos Combustíveis",
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7668412,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio e excepcionaliza os benefícios tributários destinados à Política Nacional de Minerais Críticos e Estratégicos, ao Programa de Desenvolvimento da Indústria de Fertilizantes e à realização da Copa do Mundo Feminina, e dá outras providências.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10296317,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-08-12",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  AUTORIZAÇÃO ,  DESPESA ,  EXECUTIVO ,  PROJETO ,  ESTRATEGIA ,  DEFESA NACIONAL ,  EXERCICIO FINANCEIRO ,  EXCLUSÃO ,  META FISCAL ,  LEI DE DIRETRIZES ORÇAMENTARIAS (LDO) ,  LIMITAÇÃO ,  VALORES . ALTERAÇÃO ,  LEI COMPLEMENTAR ,  REDUÇÃO ,  INCENTIVO FISCAL ,  BENEFICIO FISCAL ,  EXCEÇÃO ,  PESSOA JURIDICA ,  SOCIEDADE CIVIL ,  INSTITUIÇÃO ASSISTENCIAL ,  AUSENCIA ,  OBJETIVO ,  LUCRO . CRIAÇÃO ,  LEI COMPLEMENTAR ,  INAPLICABILIDADE ,  CARATER EXCEPCIONAL ,  NORMAS ,  RESTRIÇÃO ,  BENEFICIO FISCAL ,  RENUNCIA ,  RECEITA ,  AMBITO ,  POLITICA NACIONAL ,  MINERAL ,  TERRAS RARAS ,  PROGRAMA DE DESENVOLVIMENTO ,  INDUSTRIA ,  FERTILIZANTE ,  BIOFERTILIZANTE ,  REALIZAÇÃO ,  COMPETIÇÃO ESPORTIVA ,  ESPORTE FEMININO ,  CAMPEONATO MUNDIAL ,  FUTEBOL ,  ATO ,  PODER PUBLICO ,  REDUÇÃO ,  EFEITO ,  NATUREZA ECONOMICA ,  MERCADO ,  ENERGIA ,  CONFLITO ,  GUERRA ,  ORIENTE MEDIO ,  ABRANGENCIA ,  ALIQUOTA ,  TRIBUTOS ,  IMPOSTO DE IMPORTAÇÃO ,  PRODUÇÃO ,  COMERCIALIZAÇÃO ,  OLEO DIESEL ,  Biodiesel ,  GASOLINA ,  ETANOL ,  QUEROSENE ,  POLITICA PUBLICA ,  SUBVENÇÃO ,  RESSARCIMENTO ,  SETOR ,  COMBUSTIVEL ,  PRODUTOR ,  PESSOA JURIDICA ,  COOPERATIVA ,  ALCOOL HIDRATADO ,  POSSIBILIDADE ,  CRITERIOS ,  PROCEDIMENTO ,  COMPENSAÇÃO ,  CREDITO TRIBUTARIO ,  PROGRAMA DE INTEGRAÇÃO SOCIAL E PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVIDOR PUBLICO (PIS-PASEP) ,  CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS) ,  COMPETENCIA ,  FORNECIMENTO ,  DADOS ,  AGENCIA NACIONAL DO PETROLEO GAS NATURAL E BIOCOMBUSTIVEIS (ANP) ,  REQUISITOS ,  ISENÇÃO FISCAL ,  PRAZO DETERMINADO ,  ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE (AFRMM) ,  FIXAÇÃO ,  PROIBIÇÃO ,  DESPESA ORÇAMENTARIA ,  HIPOTESE ,  OCORRENCIA ,  DEFICIT . ALTERAÇÃO ,  LEI COMPLEMENTAR ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  SUSPENSÃO ,  INCIDENCIA ,  PRODUTO AGROPECUARIO ,  DESTINAÇÃO ,  EXTERIOR ,  FIXAÇÃO ,  REQUISITOS ,  PERCENTAGEM ,  RECEITA BRUTA ,  EXPORTAÇÃO ,  CRITERIOS ,  CALCULO ,  CARGA TRIBUTARIA ,  COMBUSTIVEL ,  OBJETIVO ,  DEFINIÇÃO ,  ALIQUOTA . ALTERAÇÃO ,  LEI FEDERAL ,  LIMITAÇÃO ,  VALORES ,  AUTORIZAÇÃO ,  EXECUTIVO ,  ANTECIPAÇÃO ,  RECEITA ,  Fundo Social (FS) ,  DESTINAÇÃO ,  RECURSOS FINANCEIROS ,  EDUCAÇÃO ,  SAUDE ,  EXERCICIO FINANCEIRO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/614dc26f-ce9d-40bc-a8d2-f6d12ca4a626",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-08-12",
+    "situacaoAtual": "TRANSFORMADA EM NORMA JURÍDICA",
+    "siglaSituacaoAtual": "TNJR",
+    "dataSituacaoAtual": "2026-08-28",
+    "classificacoes": [
+      {
+        "codigo": 33685865,
+        "descricao": "Administração Pública Indireta",
+        "descricaoHierarquia": "Administração Pública / Organização Administrativa / Administração Pública Indireta"
+      },
+      {
+        "codigo": 33769191,
+        "descricao": "Sistema Financeiro Nacional",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Sistema Financeiro Nacional"
+      },
+      {
+        "codigo": 33805617,
+        "descricao": "Direito Penal e Penitenciário",
+        "descricaoHierarquia": "Jurídico / Direito Penal e Penitenciário"
+      },
+      {
+        "codigo": 33809333,
+        "descricao": "Direitos Humanos e Minorias",
+        "descricaoHierarquia": "Política Social / Proteção Social / Direitos Humanos e Minorias"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Paulo Pimenta",
+        "sexo": "M",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 3726,
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputado Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 9095354,
+    "identificacaoProcessoInicial": "PLP 114/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9095354,
+        "sigla": "PLP",
+        "numero": "00114",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9095397,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "587",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      },
+      {
+        "idOutroProcesso": 9095417,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "588",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "despachos": [
+      {
+        "id": 10296330,
+        "data": "2026-08-12",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9093858,
+          "numero": 1,
+          "data": "2026-08-12",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9095385,
+            "tipo": "AO_PLENARIO_03_2023",
+            "descricao": "Ao Plenário",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": null,
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1998,
+                  "sigla": "PLEN",
+                  "casa": "SF",
+                  "nome": "Plenário do Senado Federal"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55304,
+        "siglaEnteControleAtual": "SEXPE",
+        "nomeEnteControleAtual": "Secretaria de Expediente",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-08-12",
+            "fim": "2026-08-12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 25,
+            "sigla": "APRVD",
+            "descricao": "APROVADA",
+            "inicio": "2026-08-12",
+            "fim": "2026-08-12",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 57,
+            "sigla": "RMSAN",
+            "descricao": "REMETIDA À SANÇÃO",
+            "inicio": "2026-08-14",
+            "fim": "2026-08-28",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55126,
+              "sigla": "PR",
+              "nome": "Presidência da República"
+            }
+          },
+          {
+            "idTipo": 64,
+            "sigla": "TNJR",
+            "descricao": "TRANSFORMADA EM NORMA JURÍDICA",
+            "inicio": "2026-08-28",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2306673,
+            "data": "2026-08-12 19:16:15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 114/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10296327,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260177260628",
+                "descricao": "-",
+                "data": "2026-08-12T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/096838ca-31b1-4084-8f96-3a137d101c18"
+              },
+              {
+                "id": 10296317,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 114/2026",
+                "descricao": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio e excepcionaliza os benefícios tributários destinados à Política Nacional de Minerais Críticos e Estratégicos, ao Programa de Desenvolvimento da Indústria de Fertilizantes e à realização da Copa do Mundo Feminina, e dá outras providências.",
+                "data": "2026-08-12T19:14:51",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/614dc26f-ce9d-40bc-a8d2-f6d12ca4a626"
+              }
+            ]
+          },
+          {
+            "id": 2306655,
+            "data": "2026-08-12 19:24:15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Designada Relatora de Plenário a Senadora Teresa Leitão."
+          },
+          {
+            "id": 2306656,
+            "data": "2026-08-12 19:29:39",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 587, de 2026, de Líderes, que solicita urgência para a matéria. ",
+            "documentosAssociados": [
+              {
+                "id": 10296333,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 587/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 114/2026, nos termos do arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-08-12T19:25:11",
+                "autoria": "Líder do Governo Teresa Leitão (PT/PE), Líder do Bloco Parlamentar Pelo Brasil Weverton (PDT/MA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2d1fc906-0035-469b-afe5-9adde9f00bf8"
+              }
+            ]
+          },
+          {
+            "id": 2306657,
+            "data": "2026-08-12 19:32:16",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 1, do Senador Flávio Arns.",
+            "documentosAssociados": [
+              {
+                "id": 10296391,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 1 PLEN - PLP 114/2026",
+                "descricao": "Emenda de redação ao PLP 114, de 2026.",
+                "data": "2026-08-12T00:00:00",
+                "autoria": "Senador Flávio Arns (PSB/PR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4b742243-a425-4a70-9575-1b50c626734a"
+              }
+            ]
+          },
+          {
+            "id": 2306675,
+            "data": "2026-08-12 19:37:42",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido Relatório da Senadora Teresa Leitão.",
+            "documentosAssociados": [
+              {
+                "id": 10296367,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF265916263058",
+                "descricao": "Parecer ao PLP dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do",
+                "data": "2026-08-12T19:37:16",
+                "autoria": "Senadora Teresa Leitão (PT/PE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/030ac0c4-0456-49b3-bb22-c63f89ae3d7a"
+              }
+            ]
+          },
+          {
+            "id": 2306676,
+            "data": "2026-08-12 19:40:07",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento n° 588, de 2026, da Liderança do PL em Exercício, que solicita destaque para votação em separado do art. 13.",
+            "documentosAssociados": [
+              {
+                "id": 10296385,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 588/2026",
+                "descricao": "Requer, pela Liderança do PL, destaque para votação em separado do art. 13 do Projeto de Lei Complementar nº 114/2026.",
+                "data": "2026-08-12T19:33:15",
+                "autoria": "Senador Efraim Filho (PL/PB)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f148bf8c-b11d-4664-ae09-42cab8162fef"
+              }
+            ]
+          },
+          {
+            "id": 2307566,
+            "data": "2026-08-14 15:24:21",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Anexado o texto revisado. ",
+            "documentosAssociados": [
+              {
+                "id": 10299139,
+                "tipo": "Minuta",
+                "siglaTipo": "MINUTA",
+                "identificacao": "Minuta - SF267199690258",
+                "data": "2026-08-14T15:24:15",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/cbd25a67-9901-409d-97eb-08b98b0e90b3"
+              }
+            ]
+          },
+          {
+            "id": 2307584,
+            "data": "2026-08-14 18:34:20",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF nº 1099, de 2026, à Ministra de Estado Chefe da Casa Civil da Presidência da República, pelo qual se encaminhou a Mensagem SF nº 202, de 2026, ao Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 14/08/2026 às 18:34:20.",
+            "documentosAssociados": [
+              {
+                "id": 10298950,
+                "tipo": "Mensagem",
+                "siglaTipo": "MENSAGEM",
+                "identificacao": "MPSF 202/2026",
+                "descricao": "Encaminha à Sanção o Projeto de Lei Complementar n°114, de 2026.",
+                "data": "2026-08-14T00:00:00",
+                "autoria": "Presidente do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b43588b6-40ed-4393-8f0e-5d38d7964ad5"
+              },
+              {
+                "id": 10298953,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 1099/2026",
+                "descricao": "Encaminha a Mensagem do Excelentíssimo Senhor Presidente do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei Complementar n° 114 , de 2026.",
+                "data": "2026-08-14T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9b0eaf18-1ee1-4135-a813-e1bceb80dc74"
+              },
+              {
+                "id": 10299121,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "Autógrafo - PLP 114/2026",
+                "descricao": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio e excepcionaliza os benefícios tributários destinados à Política Nacional de Minerais Críticos e Estratégicos, ao Programa de Desenvolvimento da Indústria de Fertilizantes e à realização da Copa do Mundo Feminina, e dá outras providências.",
+                "data": "2026-08-14T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ada6a643-b9ef-4b58-acb4-c97afd154753"
+              }
+            ]
+          },
+          {
+            "id": 2307586,
+            "data": "2026-08-14 18:40:23",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF n.º 1100, de 2026, ao Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto foi encaminhado à sanção presidencial.",
+            "documentosAssociados": [
+              {
+                "id": 10298966,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 1100/2026",
+                "descricao": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei Complementar n°114, de 2026.",
+                "data": "2026-08-14T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/84e4fc64-1b3f-4032-aa2d-368a23400c0f"
+              }
+            ]
+          },
+          {
+            "id": 2310646,
+            "data": "2026-08-28 08:54:26",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "(PR) PRESIDÊNCIA DA REPÚBLICA.\r\nSANCIONADA. LEI COMPLEMENTAR 235 DE 2026.\r\nDOU (Diário Oficial da União) - 28/08/2026 - Seção I - págs. 1 e 2.\r\nSancionada em 27/08/2026.",
+            "idSituacaoIniciada": 64,
+            "siglaSituacaoIniciada": "TNJR"
+          },
+          {
+            "id": 2311569,
+            "data": "2026-09-01 15:00:37",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encaminhada à publicação a Mensagem da Presidência da República nº 729, de 2026, na origem, que restitui o autógrafo do Projeto de Lei Complementar nº 114, de 2026, sancionado e convertido na Lei Complementar nº 235, de 27 de agosto de 2026.  \nSerá feita a devida comunicação à Câmara dos Deputados. "
+          },
+          {
+            "id": 2311799,
+            "data": "2026-09-01 19:41:06",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF nº 1.210, de 2026, ao Primeiro-Secretário da Câmara dos Deputados comunicando, para os devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 729, de 2026, na origem, restituindo autógrafos do Projeto de Lei Complementar n° 114, de 2026, sancionado e transformado na Lei Complementar nº 235, de 27 de agosto de 2026.\nÀ COARQ.\n",
+            "documentosAssociados": [
+              {
+                "id": 10309566,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 1210/2026",
+                "descricao": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei Complementar n° 114/2026.",
+                "data": "2026-09-01T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0dc3a8e4-e3a1-4bac-ae32-6a144c659734"
+              }
+            ]
+          },
+          {
+            "id": 2306950,
+            "data": "2026-09-01 21:15:11",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária - semipresencial - de 12 de agosto de 2026)  \nEncaminhado à publicação - e aprovado – o Requerimento nº 587, de 2026, por meio do qual se solicita urgência para a matéria. \nEncaminhado à publicação o Parecer nº 140, de 2026-Plen/SF, proferido pela Senadora Teresa Leitão, favorável à matéria e à Emenda nº 1 (de redação). \nEncerrada a discussão da matéria. \nEncaminhado à publicação - e deferido – o Requerimento nº 588, de 2026, de destaque, para votação em separado, do art. 13 do projeto. \n\nAprovado o projeto, com a Emenda nº 1 (de redação), ressalvado o destaque, após o seguinte resultado: sim – 61; não - 2; Presidente – 1; total – 64.  \n\nAprovado o art. 13 do projeto, destacado, após o seguinte resultado: sim – 43; não - 20; Presidente – 1; total – 64. \nEncaminhado à publicação o Parecer nº 141, de 2026-Plen/SF, da Comissão Diretora, no qual consta a redação final da matéria.  \nAprovada a redação final.  \nA matéria vai à sanção. \nSerá feita a devida comunicação à Câmara dos Deputados. ",
+            "documentosAssociados": [
+              {
+                "id": 10296777,
+                "tipo": "Listagem ou relatório descritivo",
+                "siglaTipo": "LISTAGEM_RELATORIO",
+                "identificacao": "Listagem ou relatório descritivo - SF266972558356",
+                "descricao": "Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque.",
+                "data": "2026-08-12T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/04b73e09-bd1e-4d24-a482-eebfe2e809b6"
+              },
+              {
+                "id": 10296780,
+                "tipo": "Listagem ou relatório descritivo",
+                "siglaTipo": "LISTAGEM_RELATORIO",
+                "identificacao": "Listagem ou relatório descritivo - SF264604479276",
+                "descricao": "Votação nominal do art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.",
+                "data": "2026-08-12T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/65164f22-f950-48c5-8f95-d09ca9943a4a"
+              },
+              {
+                "id": 10296735,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 140/2026 - PLEN",
+                "descricao": "Parecer nº 140, de 2026-Plen/SF.",
+                "data": "2026-08-12T00:00:00",
+                "autoria": "Senadora Teresa Leitão (PT/PE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a0e6b433-a892-494c-ab89-83922785e740"
+              },
+              {
+                "id": 10296738,
+                "tipo": "Parecer de redação",
+                "siglaTipo": "PARECER_REDACAO",
+                "identificacao": "P.S 141/2026 - PLEN",
+                "descricao": "Parecer nº 141, de 2026-Plen/SF (Redação Final).",
+                "data": "2026-08-12T00:00:00",
+                "autoria": "Comissão Diretora do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1d49c468-d9f9-49b3-986f-9567900aed97"
+              }
+            ]
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10296755,
+            "dataEnvio": "2026-08-12 20:29:01",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-08-12 21:13:06",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10296745,
+            "dataEnvio": "2026-08-12 21:44:10",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-08-13 10:25:47",
+            "enteDestino": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10299094,
+            "dataEnvio": "2026-08-14 15:14:44",
+            "enteOrigem": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "dataRecebimento": "2026-08-14 15:23:40",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10308873,
+            "dataEnvio": "2026-09-01 12:33:35",
+            "enteOrigem": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "dataRecebimento": "2026-09-01 14:20:43",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10309397,
+            "dataEnvio": "2026-09-01 14:51:00",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-09-01 15:00:14",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10309485,
+            "dataEnvio": "2026-09-01 15:02:18",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-09-01 15:34:35",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "ordensDoDia": [
+      {
+        "codigoSessao": 581816,
+        "dataSessao": "2026-08-12T14:00:00",
+        "casaSessao": "SF",
+        "codigoSessaoLegislativa": 874,
+        "siglaTipoSessao": "DOR",
+        "numeroSessao": "113",
+        "tipoApreciacao": "-"
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-08-12",
+      "siglaTipo": "APROVADA_NO_PLENARIO",
+      "tipoDeliberacao": "Aprovada pelo Plenário",
+      "idDestino": 3,
+      "siglaDestino": "SANCAO",
+      "destino": "À sanção"
+    },
+    "normaGerada": {
+      "codigo": 43717839,
+      "siglaTipo": "LCP",
+      "tipo": "Lei Complementar",
+      "numero": 235,
+      "anoAssinatura": "2026",
+      "dataAssinatura": "2026-08-27",
+      "descricao": "Lei Complementar nº 235 de 27/08/2026",
+      "dataPublicacao": "2026-08-28",
+      "siglaVeiculoPublicacao": "DOU",
+      "veiculoPublicacao": "[Diário Oficial da União  de 28/08/2026] (p. 1, col. 1)"
+    },
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-11-11T17:42:23.286000"
+  }
+}

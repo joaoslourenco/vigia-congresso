@@ -1,0 +1,1329 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8989880",
+  "data": {
+    "id": 8989880,
+    "codigoMateria": 172550,
+    "identificacao": "PLP 11/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "11",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7644780,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera o art. 4º, §8º, inciso V, da Lei Complementar nº 224, de 26 de dezembro de 2025.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10151595,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-04",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  EXCEÇÃO ,  REDUÇÃO ,  INCENTIVO ,  BENEFICIO ,  NATUREZA TRIBUTARIA ,  SOCIEDADE CIVIL ,  RETIRADA ,  REQUISITOS .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/6ff3ae10-1685-4903-a574-6dfb342dec63",
+      "autoria": [
+        {
+          "autor": "Flávio Arns",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 345,
+          "uf": "PR",
+          "siglaPartido": "PSB",
+          "partido": "Partido Socialista Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Flávio Arns (PSB/PR)"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-02-04",
+    "situacaoAtual": "REMETIDA À CÂMARA DOS DEPUTADOS",
+    "siglaSituacaoAtual": "RMCD",
+    "dataSituacaoAtual": "2026-05-28",
+    "classificacoes": [
+      {
+        "codigo": 33685895,
+        "descricao": "Terceiro Setor, Parcerias Público-Privadas e Desestatização",
+        "descricaoHierarquia": "Administração Pública / Terceiro Setor, Parcerias Público-Privadas e Desestatização"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33809032,
+        "descricao": "Proteção Social",
+        "descricaoHierarquia": "Política Social / Proteção Social"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Flávio Arns",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 345,
+        "uf": "PR",
+        "siglaPartido": "PSB",
+        "partido": "Partido Socialista Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8989880,
+    "identificacaoProcessoInicial": "PLP 11/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9056083,
+        "sigla": "PLP",
+        "numero": "00011",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9011599,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "185",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      },
+      {
+        "idOutroProcesso": 9042064,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "356",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "despachos": [
+      {
+        "id": 10213755,
+        "data": "2026-05-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9040151,
+          "numero": 1,
+          "data": "2026-05-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9040209,
+            "tipo": "AO_PLENARIO_03_2023",
+            "descricao": "Ao Plenário",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": null,
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1998,
+                  "sigla": "PLEN",
+                  "casa": "SF",
+                  "nome": "Plenário do Senado Federal"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55304,
+        "siglaEnteControleAtual": "SEXPE",
+        "nomeEnteControleAtual": "Secretaria de Expediente",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-04",
+            "fim": "2026-03-16",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 95,
+            "sigla": "AGINCL(RQ)",
+            "descricao": "AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO",
+            "inicio": "2026-03-16",
+            "fim": "2026-05-01",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 78,
+            "sigla": "INCLOD",
+            "descricao": "INCLUÍDA EM ORDEM DO DIA",
+            "inicio": "2026-05-01",
+            "fim": "2026-05-19",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 8,
+            "sigla": "PRONDEPLEN",
+            "descricao": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+            "inicio": "2026-05-19",
+            "fim": "2026-05-22",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 78,
+            "sigla": "INCLOD",
+            "descricao": "INCLUÍDA EM ORDEM DO DIA",
+            "inicio": "2026-05-22",
+            "fim": "2026-05-26",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 8,
+            "sigla": "PRONDEPLEN",
+            "descricao": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+            "inicio": "2026-05-26",
+            "fim": "2026-05-27",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 78,
+            "sigla": "INCLOD",
+            "descricao": "INCLUÍDA EM ORDEM DO DIA",
+            "inicio": "2026-05-27",
+            "fim": "2026-05-27",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 25,
+            "sigla": "APRVD",
+            "descricao": "APROVADA",
+            "inicio": "2026-05-27",
+            "fim": "2026-05-28",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 52,
+            "sigla": "RMCD",
+            "descricao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+            "inicio": "2026-05-28",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2272377,
+            "data": "2026-02-04 12:23:35",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 11/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10151634,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265174357344",
+                "descricao": "-",
+                "data": "2026-02-04T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3adc2839-d448-4b13-b555-dd4b485af9e6"
+              },
+              {
+                "id": 10151595,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 11/2026",
+                "descricao": "Altera o art. 4º, §8º, inciso V, da Lei Complementar nº 224, de 26 de dezembro de 2025.",
+                "data": "2026-02-04T12:22:25",
+                "autoria": "Senador Flávio Arns (PSB/PR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6ff3ae10-1685-4903-a574-6dfb342dec63"
+              }
+            ]
+          },
+          {
+            "id": 2277919,
+            "data": "2026-03-16 12:19:01",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 185, de 2026, do Senador Flávio Arns e outros Senadores, solicitando urgência para a matéria.",
+            "documentosAssociados": [
+              {
+                "id": 10179982,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 185/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 11/2026, nos termos do art. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-03-16T12:12:10",
+                "autoria": "Senador Flávio Arns (PSB/PR), Senador Eduardo Girão (NOVO/CE), Senador Carlos Portinho (PL/RJ), Senadora Leila Barros (PDT/DF), Senador Lucas Barreto (PSD/AP), Senadora Damares Alves (REPUBLICANOS/DF), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Confúcio Moura (MDB/RO), Senador Bruno Bonetti (PL/RJ), Senadora Mara Gabrilli (PSD/SP), Senador Jaime Bagattoli (PL/RO), Senador Jorge Kajuru (PSB/GO), Senador Luis Carlos Heinze (PP/RS), Senador Oriovisto Guimarães (PSDB/PR), Senadora Professora Dorinha Seabra (UNIÃO/TO), Senador Nelsinho Trad (PSD/MS), Senador Laércio Oliveira (PP/SE), Senador Wellington Fagundes (PL/MT), Senadora Margareth Buzetti (PP/MT), Senador Chico Rodrigues (PSB/RR), Senadora Soraya Thronicke (PODEMOS/MS), Senador Cleitinho (REPUBLICANOS/MG), Senador Sergio Moro (UNIÃO/PR), Senador Izalci Lucas (PL/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b0c264c0-bc5d-4df8-a56a-cfec8cae0b4f"
+              }
+            ]
+          },
+          {
+            "id": 2277923,
+            "data": "2026-03-16 14:00:30",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encaminhado à publicação o Requerimento nº 185, de 2026, do Senador Flávio Arns e outros senadores, que solicita urgência para o Projeto de Lei Complementar nº 11, de 2026, nos termos do art. 336, III, do Regimento Interno.  \r\nO Requerimento será incluído em Ordem do Dia, oportunamente."
+          },
+          {
+            "id": 2277941,
+            "data": "2026-03-16 16:10:48",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Aguardando inclusão em Ordem do Dia do Requerimento nº 185, de 2026, do Senador Flávio Arns e outros Senadores, solicitando urgência para a matéria.\r\nVotação, em turno único."
+          },
+          {
+            "id": 2284078,
+            "data": "2026-05-01 19:47:37",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 06/05/2026.\r\n(Pendente de apreciação do Requerimento nº 185, de 2026, do Senador Flávio Arns e outros Senadores, que solicita urgência para a matéria, nos termos do art. 336, III, e 338, III, do Regimento Interno do Senado Federal).",
+            "idSituacaoIniciada": 78,
+            "siglaSituacaoIniciada": "INCLOD"
+          },
+          {
+            "id": 2284185,
+            "data": "2026-05-04 15:34:23",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Designada Relatora de Plenário a Senadora Professora Dorinha Seabra."
+          },
+          {
+            "id": 2284464,
+            "data": "2026-05-05 16:07:49",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 1, da Senadora Roberta Acioly.",
+            "documentosAssociados": [
+              {
+                "id": 10215013,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 1 PLEN - PLP 11/2026",
+                "descricao": "Emenda ao PLP 11/2026.",
+                "data": "2026-05-05T15:53:08",
+                "autoria": "Senadora Roberta Acioly (REPUBLICANOS/RR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3371c632-b5ad-4cc6-b360-e16a30503498"
+              }
+            ]
+          },
+          {
+            "id": 2284534,
+            "data": "2026-05-06 08:04:44",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 2, da Senadora Leila Barros.",
+            "documentosAssociados": [
+              {
+                "id": 10215209,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 2 PLEN - PLP 11/2026",
+                "descricao": "Emenda ao PLP 11/2026.",
+                "data": "2026-05-05T21:27:44",
+                "autoria": "Senadora Leila Barros (PDT/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2059edc7-b986-4596-abe3-15824cc76a62"
+              }
+            ]
+          },
+          {
+            "id": 2284587,
+            "data": "2026-05-06 14:16:04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 3, da Senadora Damares Alves.",
+            "documentosAssociados": [
+              {
+                "id": 10215665,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 3 PLEN - PLP 11/2026",
+                "descricao": "Emenda  ao PLP 11/2026 - Altera o §8º do art. 4º da Lei Complementar nº 224/2025, para excepcionar da redução linear os benefícios fiscais concedidos às pessoas com deficiência na aquisição de veí...",
+                "data": "2026-05-06T14:12:03",
+                "autoria": "Senadora Damares Alves (REPUBLICANOS/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/826fa44c-6c6c-4b63-80a8-b57a774b1f51"
+              }
+            ]
+          },
+          {
+            "id": 2284620,
+            "data": "2026-05-06 15:39:41",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 4, do Senador Carlos Portinho.",
+            "documentosAssociados": [
+              {
+                "id": 10215781,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 4 PLEN - PLP 11/2026",
+                "descricao": "Emenda ao PLP 11/2026 - XIV",
+                "data": "2026-05-06T15:34:51",
+                "autoria": "Senador Carlos Portinho (PL/RJ)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9b55d27e-9692-4228-af94-25a42939b1b4"
+              }
+            ]
+          },
+          {
+            "id": 2284654,
+            "data": "2026-05-06 16:07:21",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Requerimento n° 356, de 2026, do Senador Carlos Portinho, de apoiamento à Emenda n° 2 ao Projeto de Lei Complementar nº 11/2026, nos termos do art. 243, do Regimento Interno do Senado Federal.",
+            "documentosAssociados": [
+              {
+                "id": 10215788,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 356/2026",
+                "descricao": "Requer a inclusão de apoiamento a Emenda n° 2 ao Projeto de Lei Complementar nº 11/2026.",
+                "data": "2026-05-06T15:49:27",
+                "autoria": "Senador Carlos Portinho (PL/RJ)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a386ceb8-d455-4fef-84e1-7da9ea3c1186"
+              }
+            ]
+          },
+          {
+            "id": 2284655,
+            "data": "2026-05-06 16:13:03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Relatório da Senadora Professora Dorinha Seabra.",
+            "documentosAssociados": [
+              {
+                "id": 10215896,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF267585197400",
+                "descricao": "Parecer ao PLP 11-2026 - PLENÁRIO 3 - Senadora Professora Dorinha Seabra - UNIÃO/TO",
+                "data": "2026-05-06T16:12:45",
+                "autoria": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/cdd079e0-de13-4ecd-a724-f9c4ef898048"
+              }
+            ]
+          },
+          {
+            "id": 2284727,
+            "data": "2026-05-06 17:42:52",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária - semipresencial - de 6 de maio de 2026) \r\nMatéria retirada da pauta da presente sessão."
+          },
+          {
+            "id": 2285064,
+            "data": "2026-05-07 16:35:05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 5, do Senador Izalci Lucas.",
+            "documentosAssociados": [
+              {
+                "id": 10218025,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 5 PLEN - PLP 11/2026",
+                "descricao": "Emenda  ao PLP 11/2026 incentivos Lei do Bem",
+                "data": "2026-05-07T16:23:20",
+                "autoria": "Senador Izalci Lucas (PL/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e46ed834-0d1d-463a-b6d2-5190f682f1a7"
+              }
+            ]
+          },
+          {
+            "id": 2286582,
+            "data": "2026-05-15 17:34:41",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 19/05/2026.\r\n(Pendente de apreciação do Requerimento nº 185, de 2026, do Senador Flávio Arns e outros Senadores, que solicita urgência para a matéria, nos termos do art. 336, III, e 338, III, do Regimento Interno do Senado Federal)."
+          },
+          {
+            "id": 2286880,
+            "data": "2026-05-19 12:15:13",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido novo Relatório da Senadora Professora Dorinha Seabra.",
+            "documentosAssociados": [
+              {
+                "id": 10225527,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF262922309272",
+                "descricao": "Parecer ao PLP 11-2026 - PLENÁRIO 4 - Senadora Professora Dorinha Seabra - UNIÃO/TO",
+                "data": "2026-05-19T12:09:36",
+                "autoria": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1b046d7c-730c-457f-99cf-013219951ee3"
+              }
+            ]
+          },
+          {
+            "id": 2286908,
+            "data": "2026-05-19 14:50:03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido novo Relatório da Senadora Professora Dorinha Seabra.",
+            "documentosAssociados": [
+              {
+                "id": 10225695,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF267213301315",
+                "descricao": "Parecer ao PLP 11-2026 - PLENÁRIO 5 - Senadora Professora Dorinha Seabra - UNIÃO/TO",
+                "data": "2026-05-19T14:47:39",
+                "autoria": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/30622bc8-b5b3-4dc4-9555-c3acdf2bbf52"
+              }
+            ]
+          },
+          {
+            "id": 2286956,
+            "data": "2026-05-19 17:47:38",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária realizada em 19/05/2026) \r\nA matéria foi retirada de pauta."
+          },
+          {
+            "id": 2287732,
+            "data": "2026-05-22 17:42:32",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 26/05/2026.\r\n(Pendente de apreciação do Requerimento nº 185, de 2026, do Senador Flávio Arns e outros Senadores, que solicita urgência para a matéria, nos termos do art. 336, III, e 338, III, do Regimento Interno do Senado Federal).",
+            "idSituacaoIniciada": 78,
+            "siglaSituacaoIniciada": "INCLOD"
+          },
+          {
+            "id": 2287935,
+            "data": "2026-05-26 13:43:44",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 6, do Senador Camilo Santana.",
+            "documentosAssociados": [
+              {
+                "id": 10231100,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 6 PLEN - PLP 11/2026",
+                "descricao": "Emenda  ao PLP 11/2026 (plenário 26-05-26)",
+                "data": "2026-05-26T13:33:40",
+                "autoria": "Senador Camilo Santana (PT/CE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2db25116-6d13-42c8-a251-a2bba77a88dc"
+              }
+            ]
+          },
+          {
+            "id": 2288022,
+            "data": "2026-05-26 17:39:27",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária de 26 de maio de 2026) \r\nA matéria é retirada da pauta da presente sessão."
+          },
+          {
+            "id": 2288044,
+            "data": "2026-05-27 08:49:54",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 27/05/2026.\r\n(Pendente de apreciação do Requerimento nº 185, de 2026, do Senador Flávio Arns e outros Senadores, que solicita urgência para a matéria, nos termos do art. 336, III, e 338, III, do Regimento Interno do Senado Federal).",
+            "idSituacaoIniciada": 78,
+            "siglaSituacaoIniciada": "INCLOD"
+          },
+          {
+            "id": 2288114,
+            "data": "2026-05-27 11:17:04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebida a Emenda nº 7, do Senador Nelsinho Trad.",
+            "documentosAssociados": [
+              {
+                "id": 10233416,
+                "tipo": "Avulso de emendas",
+                "siglaTipo": "AVULSO_EMENDAS",
+                "identificacao": "Avulso de emendas - SF261993255650",
+                "descricao": "-",
+                "data": "2026-05-27T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d80cfb71-40ba-498e-b561-df6e6decb35a"
+              },
+              {
+                "id": 10231945,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 7 PLEN - PLP 11/2026",
+                "descricao": "Emenda  ao PLP 11/2026 - tratamento tributário livros",
+                "data": "2026-05-27T10:58:30",
+                "autoria": "Senador Nelsinho Trad (PSD/MS)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a7c5b54b-c7f8-4b66-b576-f2f3334e3d44"
+              }
+            ]
+          },
+          {
+            "id": 2288312,
+            "data": "2026-05-27 17:46:09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido novo Relatório da Senadora Professora Dorinha Seabra.",
+            "documentosAssociados": [
+              {
+                "id": 10233041,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF266997119752",
+                "descricao": "Parecer de Plenário PLP 11-2026 - versão final",
+                "data": "2026-05-27T17:45:44",
+                "autoria": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/38e71ad1-f693-49b3-b1a2-c11079ee674f"
+              }
+            ]
+          },
+          {
+            "id": 2288354,
+            "data": "2026-05-27 19:29:19",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária de 27 de maio de 2026) \r\nEncaminhadas à publicação as Emendas n°s 1 a 7, de Plenário. \r\nAprovado o Requerimento n° 185, de 2026, de urgência para o projeto. \r\nA Senadora Professora Dorinha Seabra profere o Parecer n° 84, de 2026 – PLEN/SF, favorável ao Projeto de Lei Complementar e pelo acatamento parcial das Emendas nºs 2 a 4, na forma das Emendas nºs 8 a 11, que apresenta, e pela rejeição das demais Emendas apresentadas. \r\nEncerrada a discussão. \r\nAprovado o Projeto, com as Emendas n°s 8 a 11, nos termos do Parecer de Plenário, com o seguinte resultado: Sim - 69, Não - 0 , Abstenções - 0 , Presidente – 1, Total - 70 . \r\nEncaminhado à publicação o Parecer n° 85, de 2026 – PLEN/SF, oferecendo a Redação Final do Projeto. \r\nAprovada a Redação Final, o Projeto de Lei Complementar n° 11, de 2026 vai à Câmara dos Deputados.",
+            "idSituacaoIniciada": 25,
+            "siglaSituacaoIniciada": "APRVD",
+            "documentosAssociados": [
+              {
+                "id": 10233430,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 84/2026 - PLEN",
+                "descricao": "Parecer n° 84, de 2026 – PLEN/SF",
+                "data": "2026-05-27T00:00:00",
+                "autoria": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5f49215f-7ea5-46bb-a16c-2badb8ad169f"
+              },
+              {
+                "id": 10233434,
+                "tipo": "Parecer de redação",
+                "siglaTipo": "PARECER_REDACAO",
+                "identificacao": "P.S 85/2026 - PLEN",
+                "descricao": "Parecer n° 85, de 2026 – PLEN/SF, oferecendo a Redação Final do Projeto",
+                "data": "2026-05-27T00:00:00",
+                "autoria": "Comissão Diretora do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/794f0749-6a27-4086-b10c-68ad5e54ad9c"
+              }
+            ]
+          },
+          {
+            "id": 2288489,
+            "data": "2026-05-28 11:38:00",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Anexado o texto revisado.",
+            "documentosAssociados": [
+              {
+                "id": 10234186,
+                "tipo": "Minuta",
+                "siglaTipo": "MINUTA",
+                "identificacao": "Minuta - SF266254530461",
+                "data": "2026-05-28T11:37:57",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d82bf071-fda2-48ab-b7a5-c34ff61c7164"
+              }
+            ]
+          },
+          {
+            "id": 2288572,
+            "data": "2026-05-28 18:46:15",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF nº 470, de 2026, ao Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo do projeto para revisão, nos termos do art. 65 da Constituição Federal.",
+            "idSituacaoIniciada": 52,
+            "siglaSituacaoIniciada": "RMCD",
+            "documentosAssociados": [
+              {
+                "id": 10233875,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 470/2026",
+                "descricao": "Encaminha à revisão da Câmara dos Deputados o Projeto de Lei Complementar n° 11, de 2026.",
+                "data": "2026-05-28T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1697fb27-0100-4a04-bdbf-6beb3228ae4e"
+              },
+              {
+                "id": 10234149,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "Autógrafo - PLP 11/2026",
+                "descricao": "Altera o art. 4º, §8º, inciso V, da Lei Complementar nº 224, de 26 de dezembro de 2025.",
+                "data": "2026-05-28T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/84d9eabe-907c-4861-915f-4e8c1925af37"
+              }
+            ]
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10180075,
+            "dataEnvio": "2026-03-16 12:42:41",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-03-16 13:57:02",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10180136,
+            "dataEnvio": "2026-03-16 14:09:36",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-03-16 14:13:00",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10216196,
+            "dataEnvio": "2026-05-06 17:12:15",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-06 17:30:42",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10216284,
+            "dataEnvio": "2026-05-06 17:44:20",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-06 17:45:21",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10225936,
+            "dataEnvio": "2026-05-19 17:45:10",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-19 17:47:35",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10225967,
+            "dataEnvio": "2026-05-19 17:52:01",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-19 18:04:49",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10231403,
+            "dataEnvio": "2026-05-26 17:17:55",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-26 17:29:23",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10231418,
+            "dataEnvio": "2026-05-26 17:44:19",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-26 18:00:18",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10233419,
+            "dataEnvio": "2026-05-27 19:25:23",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-27 19:28:09",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10233526,
+            "dataEnvio": "2026-05-27 19:36:21",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-28 08:52:01",
+            "enteDestino": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10233890,
+            "dataEnvio": "2026-05-28 10:49:42",
+            "enteOrigem": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "dataRecebimento": null,
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10234099,
+            "dataEnvio": "2026-05-28 11:15:18",
+            "enteOrigem": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "dataRecebimento": "2026-05-28 11:18:37",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "ordensDoDia": [
+      {
+        "codigoSessao": 559002,
+        "dataSessao": "2026-05-27T14:00:00",
+        "casaSessao": "SF",
+        "codigoSessaoLegislativa": 874,
+        "siglaTipoSessao": "DOR",
+        "numeroSessao": "65",
+        "tipoApreciacao": "-"
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-05-27",
+      "siglaTipo": "APROVADA_NO_PLENARIO",
+      "tipoDeliberacao": "Aprovada pelo Plenário",
+      "idDestino": 1,
+      "siglaDestino": "CAMARA",
+      "destino": "À Câmara dos Deputados"
+    },
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-28T18:42:41.937000"
+  }
+}

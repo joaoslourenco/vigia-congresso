@@ -1,0 +1,415 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
+  "data": {
+    "id": 8994746,
+    "codigoMateria": 172719,
+    "identificacao": "PLP 33/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "33",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7645786,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera o art. 4º da Lei Complementar nº 224, de 26 de dezembro de 2025, para incluir as entidades de prática esportiva sem fins lucrativos no rol de exceções à redução de benefícios tributários.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10159516,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-23",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  INCLUSÃO ,  ENTIDADE ,  INSTITUIÇÃO ESPORTIVA ,  INSTITUIÇÃO BENEFICENTE ,  RELAÇÃO ,  EXCEÇÃO ,  REDUÇÃO ,  BENEFICIO FISCAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/353dbe54-6da1-4d25-976e-17ed778df8a4",
+      "autoria": [
+        {
+          "autor": "Eduardo Gomes",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 3777,
+          "uf": "TO",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Eduardo Gomes (PL/TO)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-23",
+    "situacaoAtual": "MATÉRIA COM A RELATORIA",
+    "siglaSituacaoAtual": "RELATOR",
+    "dataSituacaoAtual": "2026-11-10",
+    "classificacoes": [
+      {
+        "codigo": 33685895,
+        "descricao": "Terceiro Setor, Parcerias Público-Privadas e Desestatização",
+        "descricaoHierarquia": "Administração Pública / Terceiro Setor, Parcerias Público-Privadas e Desestatização"
+      },
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Eduardo Gomes",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 3777,
+        "uf": "TO",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8994746,
+    "identificacaoProcessoInicial": "PLP 33/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10342278,
+        "data": "2026-11-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9120257,
+          "numero": 1,
+          "data": "2026-11-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9121658,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 2615,
+                  "sigla": "CEsp",
+                  "casa": "SF",
+                  "nome": "Comissão de Esporte"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 2615,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CEsp",
+        "nomeColegiadoControleAtual": "Comissão de Esporte",
+        "idEnteControleAtual": 7361419,
+        "siglaEnteControleAtual": "SACESPO",
+        "nomeEnteControleAtual": "Secretaria de apoio à comissão de esporte",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-23",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-04",
+            "fim": "2026-11-06",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-06",
+            "fim": "2026-11-10",
+            "colegiado": {
+              "codigo": 2615,
+              "casa": "SF",
+              "sigla": "CEsp",
+              "nome": "Comissão de Esporte"
+            },
+            "enteAdministrativo": {
+              "id": 7361419,
+              "casa": "SF",
+              "sigla": "SACESPO",
+              "nome": "Secretaria de apoio à comissão de esporte"
+            }
+          },
+          {
+            "idTipo": 91,
+            "sigla": "RELATOR",
+            "descricao": "MATÉRIA COM A RELATORIA",
+            "inicio": "2026-11-10",
+            "colegiado": {
+              "codigo": 2615,
+              "casa": "SF",
+              "sigla": "CEsp",
+              "nome": "Comissão de Esporte"
+            },
+            "enteAdministrativo": {
+              "id": 7361419,
+              "casa": "SF",
+              "sigla": "SACESPO",
+              "nome": "Secretaria de apoio à comissão de esporte"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2273834,
+            "data": "2026-02-23 07:43:52",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 33/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10159537,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266344296474",
+                "descricao": "-",
+                "data": "2026-02-23T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/31100ecb-cb41-4a49-bb69-5242f6d4ca18"
+              },
+              {
+                "id": 10159516,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 33/2026",
+                "descricao": "Altera o art. 4º da Lei Complementar nº 224, de 26 de dezembro de 2025, para incluir as entidades de prática esportiva sem fins lucrativos no rol de exceções à redução de benefícios tributários.",
+                "data": "2026-02-23T07:43:35",
+                "autoria": "Senador Eduardo Gomes (PL/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/353dbe54-6da1-4d25-976e-17ed778df8a4"
+              }
+            ]
+          },
+          {
+            "id": 2323451,
+            "data": "2026-11-04 17:46:56",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai à CEsp e à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2324438,
+            "data": "2026-11-06 09:27:09",
+            "colegiado": {
+              "codigo": 2615,
+              "casa": "SF",
+              "sigla": "CEsp",
+              "nome": "Comissão de Esporte"
+            },
+            "enteAdministrativo": {
+              "id": 7361419,
+              "casa": "SF",
+              "sigla": "SACESPO",
+              "nome": "Secretaria de apoio à comissão de esporte"
+            },
+            "descricao": "Recebido, nesta data, na Comissão de Esporte. Aguardando designação de relator.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          },
+          {
+            "id": 2325311,
+            "data": "2026-11-10 15:09:00",
+            "colegiado": {
+              "codigo": 2615,
+              "casa": "SF",
+              "sigla": "CEsp",
+              "nome": "Comissão de Esporte"
+            },
+            "enteAdministrativo": {
+              "id": 7361419,
+              "casa": "SF",
+              "sigla": "SACESPO",
+              "nome": "Secretaria de apoio à comissão de esporte"
+            },
+            "descricao": "Distribuído ao Senador Plínio Valério, para emitir relatório.",
+            "idSituacaoIniciada": 91,
+            "siglaSituacaoIniciada": "RELATOR"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10341772,
+            "dataEnvio": "2026-11-04 15:57:32",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-04 17:46:52",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10342347,
+            "dataEnvio": "2026-11-04 18:04:32",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": null,
+            "enteDestino": {
+              "id": 7361419,
+              "casa": "SF",
+              "sigla": "SACESPO",
+              "nome": "Secretaria de apoio à comissão de esporte"
+            },
+            "colegiadoDestino": {
+              "codigo": 2615,
+              "casa": "SF",
+              "sigla": "CEsp",
+              "nome": "Comissão de Esporte"
+            }
+          },
+          {
+            "id": 10342337,
+            "dataEnvio": "2026-11-04 18:05:22",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-06 09:25:54",
+            "enteDestino": {
+              "id": 7361419,
+              "casa": "SF",
+              "sigla": "SACESPO",
+              "nome": "Secretaria de apoio à comissão de esporte"
+            },
+            "colegiadoDestino": {
+              "codigo": 2615,
+              "casa": "SF",
+              "sigla": "CEsp",
+              "nome": "Comissão de Esporte"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-10T15:45:14.009000"
+  }
+}

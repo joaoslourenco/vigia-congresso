@@ -1,0 +1,355 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9057179",
+  "data": {
+    "id": 9057179,
+    "codigoMateria": 174392,
+    "identificacao": "PLP 150/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "150",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7659735,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir produtos sem glúten entre as hipóteses de redução a zero das alíquotas da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS).",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10235563,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-05-29",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  TRIBUTOS ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  CRITERIOS ,  REDUÇÃO ,  ALIQUOTA ,  ABRANGENCIA ,  PRODUTO ALIMENTICIO ,  PÃO ,  FARINHA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/b2711992-934d-4af7-94af-fea2d9e50e13",
+      "autoria": [
+        {
+          "autor": "Comissão de Direitos Humanos e Legislação Participativa",
+          "siglaTipo": "COMISSAO_SENADO",
+          "descricaoTipo": "COMISSAO_SENADO",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 3947422,
+          "siglaEnte": "CDH",
+          "casaEnte": "SF",
+          "ente": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+      ],
+      "resumoAutoria": "Comissão de Direitos Humanos e Legislação Participativa"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-05-29",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-10",
+    "classificacoes": [
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Comissão de Direitos Humanos e Legislação Participativa",
+        "siglaTipo": "COMISSAO_SENADO",
+        "descricaoTipo": "COMISSAO_SENADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "idEnte": 3947422,
+        "siglaEnte": "CDH",
+        "casaEnte": "SF",
+        "ente": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+    ],
+    "idProcessoCasaInicial": 9057179,
+    "identificacaoProcessoInicial": "PLP 150/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 8831376,
+        "tipoRelacao": "CONCLUSAO_PARECER_GERAL",
+        "sigla": "SUG",
+        "numero": "5",
+        "ano": 2025,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "CDH",
+        "enteIdentificador": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-29",
+            "fim": "2026-05-29",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 88,
+            "sigla": "AGREMESA",
+            "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+            "inicio": "2026-05-29",
+            "fim": "2026-06-10",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-10",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2288720,
+            "data": "2026-05-29 16:14:50",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 150/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10235568,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF267454915572",
+                "descricao": "-",
+                "data": "2026-05-29T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/276bb11a-ec14-4694-b443-8d071d303d07"
+              },
+              {
+                "id": 10235563,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 150/2026",
+                "descricao": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir produtos sem glúten entre as hipóteses de redução a zero das alíquotas da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS).",
+                "data": "2026-05-29T16:14:01",
+                "autoria": "Comissão de Direitos Humanos e Legislação Participativa",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b2711992-934d-4af7-94af-fea2d9e50e13"
+              }
+            ]
+          },
+          {
+            "id": 2288727,
+            "data": "2026-05-29 18:18:02",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Apresentado como conclusão do Parecer nº 74, de 2026-CDH sobre a SUG 5/2025.\r\nO projeto ficará perante a Mesa durante cinco dias úteis para recebimento de emendas, nos termos do art. 235, II, “f”, do Regimento Interno.",
+            "idSituacaoIniciada": 88,
+            "siglaSituacaoIniciada": "AGREMESA"
+          },
+          {
+            "id": 2288915,
+            "data": "2026-05-29 18:24:55",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Prazo: Apresentação de Emendas a projeto de autoria de Comissão (Art. 235, II, \"f\", do RISF). De 01/06/2026 a 09/06/2026. Perante a Mesa."
+          },
+          {
+            "id": 2290318,
+            "data": "2026-06-10 09:17:01",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encerrou-se em 9 de junho o prazo para apresentação de emendas ao Projeto de Lei Complementar n° 150, de 2026. \r\nNão foram apresentadas emendas perante a Mesa.  \r\nA matéria será despachada oportunamente.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10235589,
+            "dataEnvio": "2026-05-29 16:19:18",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-29 18:17:54",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10235601,
+            "dataEnvio": "2026-05-29 18:26:58",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-29 18:31:45",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10241536,
+            "dataEnvio": "2026-06-10 08:41:49",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-06-10 09:16:57",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10241558,
+            "dataEnvio": "2026-06-10 09:20:29",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-06-10 12:30:48",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-08-27T02:41:53.978000"
+  }
+}

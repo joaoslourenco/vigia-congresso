@@ -1,0 +1,603 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8987995",
+  "data": {
+    "id": 8987995,
+    "codigoMateria": 172465,
+    "identificacao": "PLP 6/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "6",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7644370,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10149448,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-03",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  EXCEÇÃO ,  REDUÇÃO ,  INCENTIVO ,  BENEFICIO ,  NATUREZA TRIBUTARIA ,  INOVAÇÃO ,  TECNOLOGIA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/89e6b43e-c953-4265-ad04-aa3e4924a69f",
+      "autoria": [
+        {
+          "autor": "Izalci Lucas",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 4770,
+          "uf": "DF",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Izalci Lucas (PL/DF)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-03",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-05-28",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33805092,
+        "descricao": "Ciência, Tecnologia e Informática",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Ciência, Tecnologia e Informática"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Izalci Lucas",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4770,
+        "uf": "DF",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8987995,
+    "identificacaoProcessoInicial": "PLP 6/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10213942,
+        "data": "2026-05-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9040151,
+          "numero": 1,
+          "data": "2026-05-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9040400,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1363,
+                  "sigla": "CCT",
+                  "casa": "SF",
+                  "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 38,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAE",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+        "idEnteControleAtual": 13530,
+        "siglaEnteControleAtual": "SACAE",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-03",
+            "fim": "2026-05-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-05-04",
+            "fim": "2026-05-08",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-05-08",
+            "fim": "2026-05-08",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            }
+          },
+          {
+            "idTipo": 91,
+            "sigla": "RELATOR",
+            "descricao": "MATÉRIA COM A RELATORIA",
+            "inicio": "2026-05-08",
+            "fim": "2026-05-12",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            }
+          },
+          {
+            "idTipo": 42,
+            "sigla": "PRONTPAUT",
+            "descricao": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "inicio": "2026-05-12",
+            "fim": "2026-05-22",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            }
+          },
+          {
+            "idTipo": 138,
+            "sigla": "INPAUTA",
+            "descricao": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "inicio": "2026-05-22",
+            "fim": "2026-05-27",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            }
+          },
+          {
+            "idTipo": 89,
+            "sigla": "APRVPAR",
+            "descricao": "APROVADO PARECER NA COMISSÃO",
+            "inicio": "2026-05-27",
+            "fim": "2026-05-27",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-05-28",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2271885,
+            "data": "2026-02-03 08:04:50",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 6/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10149454,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF267499460700",
+                "descricao": "-",
+                "data": "2026-02-03T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/337f0653-1a53-45d4-93f8-94d80fc4c51e"
+              },
+              {
+                "id": 10149448,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 6/2026",
+                "descricao": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+                "data": "2026-02-03T08:04:35",
+                "autoria": "Senador Izalci Lucas (PL/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/89e6b43e-c953-4265-ad04-aa3e4924a69f"
+              }
+            ]
+          },
+          {
+            "id": 2284202,
+            "data": "2026-05-04 18:14:50",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A presente matéria vai à CCT e, em seguida, à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2285247,
+            "data": "2026-05-08 11:56:14",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "descricao": "Recebido nesta data na Comissão.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          },
+          {
+            "id": 2285271,
+            "data": "2026-05-08 13:44:50",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "descricao": "Distribuído ao Senador Astronauta Marcos Pontes, para emitir relatório.",
+            "idSituacaoIniciada": 91,
+            "siglaSituacaoIniciada": "RELATOR"
+          },
+          {
+            "id": 2285750,
+            "data": "2026-05-12 20:24:31",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "descricao": "Recebido do senador Astronauta Marcos Pontes relatório com voto favorável ao projeto.",
+            "idSituacaoIniciada": 42,
+            "siglaSituacaoIniciada": "PRONTPAUT",
+            "documentosAssociados": [
+              {
+                "id": 10221089,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF267834327078",
+                "descricao": "Da COMISSÃO DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E INFORMÁTICA, sobre o Projeto de Lei Complementar n° 6, de 2026, do Senador Izalci Lucas, que Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+                "data": "2026-05-12T20:23:59",
+                "autoria": "Senador Astronauta Marcos Pontes (PL/SP)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/21013c29-c0e9-4f76-87ff-fd94aa800e2e"
+              }
+            ]
+          },
+          {
+            "id": 2287556,
+            "data": "2026-05-22 14:27:34",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "descricao": "Matéria constante da Pauta da 13ª Reunião da Comissão de Ciência, Tecnologia, Inovação e Informática, agendada para o dia 27/05/2026.",
+            "idSituacaoIniciada": 138,
+            "siglaSituacaoIniciada": "INPAUTA"
+          },
+          {
+            "id": 2288118,
+            "data": "2026-05-27 10:43:32",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "descricao": "Na 13ª Reunião (Extraordinária), realizada nesta data, a Comissão aprova o relatório, que passa a constituir o parecer da Comissão, favorável ao Projeto.\r\nA matéria será encaminhada à Comissão de Assuntos Econômicos.",
+            "idSituacaoIniciada": 89,
+            "siglaSituacaoIniciada": "APRVPAR",
+            "documentosAssociados": [
+              {
+                "id": 10232469,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 129/2026 - CCT",
+                "descricao": "Da COMISSÃO DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E INFORMÁTICA, sobre o Projeto de Lei Complementar n° 6, de 2026, do Senador Izalci Lucas, que Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para que a redução de incentivos e benefícios de natureza tributária, financeira ou creditícia não se aplique sobre os incentivos previstos nos arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 2005 – Lei do Bem.",
+                "data": "2026-05-27T00:00:00",
+                "autoria": "Comissão de Ciência, Tecnologia, Inovação e Informática",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6d87c272-5c8d-4695-8dd3-75f4198705d9"
+              }
+            ]
+          },
+          {
+            "id": 2288194,
+            "data": "2026-05-27 15:29:17",
+            "colegiado": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            },
+            "enteAdministrativo": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "descricao": "Encerrada a relatoria do Senador Astronauta Marcos Pontes por deliberação da matéria."
+          },
+          {
+            "id": 2288420,
+            "data": "2026-05-28 08:59:05",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10213773,
+            "dataEnvio": "2026-05-04 15:57:30",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-04 18:14:47",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10213931,
+            "dataEnvio": "2026-05-04 18:16:52",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-08 11:43:22",
+            "enteDestino": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "colegiadoDestino": {
+              "codigo": 1363,
+              "casa": "SF",
+              "sigla": "CCT",
+              "nome": "Comissão de Ciência, Tecnologia, Inovação e Informática"
+            }
+          },
+          {
+            "id": 10233488,
+            "dataEnvio": "2026-05-27 20:35:40",
+            "enteOrigem": {
+              "id": 55315,
+              "casa": "SF",
+              "sigla": "SACCT",
+              "nome": "Secretaria de Apoio à Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática"
+            },
+            "dataRecebimento": "2026-05-28 08:58:44",
+            "enteDestino": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "colegiadoDestino": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-09-22T17:46:16.194000"
+  }
+}

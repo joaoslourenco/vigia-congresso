@@ -1,0 +1,349 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8991779",
+  "data": {
+    "id": 8991779,
+    "codigoMateria": 172613,
+    "identificacao": "PLP 18/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "18",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7645162,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera o § 3º do art. 127 da Lei Complementar nº 214, de 16 de janeiro de 2025, para estender a exceção ali prevista às profissões de arquitetos e urbanistas e de engenheiros e agrônomos.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10153804,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-09",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  DIREITO ,  REDUÇÃO ,  ALIQUOTA ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  REQUISITOS ,  EXCEÇÃO ,  ARQUITETO ,  ENGENHEIRO ,  AGRONOMO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/54fad6b9-d6fa-48e4-bcab-6bb47ae67c96",
+      "autoria": [
+        {
+          "autor": "Luis Carlos Heinze",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 1186,
+          "uf": "RS",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Luis Carlos Heinze (PP/RS)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-09",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-05-12",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 34246838,
+        "descricao": "Serviços",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Indústria, Comércio e Serviços / Serviços"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Luis Carlos Heinze",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 1186,
+        "uf": "RS",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8991779,
+    "identificacaoProcessoInicial": "PLP 18/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10220026,
+        "data": "2026-05-11",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9045458,
+          "numero": 1,
+          "data": "2026-05-11",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9045808,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 40,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAS",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Sociais",
+        "idEnteControleAtual": 55313,
+        "siglaEnteControleAtual": "SACAS",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Sociais",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-09",
+            "fim": "2026-05-11",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-05-11",
+            "fim": "2026-05-12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-05-12",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2272956,
+            "data": "2026-02-09 09:52:12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 18/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10153811,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF262539792780",
+                "descricao": "-",
+                "data": "2026-02-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c978d089-7666-4569-811f-ab3950fb6624"
+              },
+              {
+                "id": 10153804,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 18/2026",
+                "descricao": "Altera o § 3º do art. 127 da Lei Complementar nº 214, de 16 de janeiro de 2025, para estender a exceção ali prevista às profissões de arquitetos e urbanistas e de engenheiros e agrônomos.",
+                "data": "2026-02-09T09:49:24",
+                "autoria": "Senador Luis Carlos Heinze (PP/RS)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/54fad6b9-d6fa-48e4-bcab-6bb47ae67c96"
+              }
+            ]
+          },
+          {
+            "id": 2285529,
+            "data": "2026-05-11 19:10:58",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A presente matéria vai à CAS e à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2285549,
+            "data": "2026-05-12 08:18:27",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10219983,
+            "dataEnvio": "2026-05-11 18:27:09",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-11 19:10:55",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10220067,
+            "dataEnvio": "2026-05-11 20:16:41",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-05-12 08:18:23",
+            "enteDestino": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "colegiadoDestino": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-08-24T11:25:44.746000"
+  }
+}

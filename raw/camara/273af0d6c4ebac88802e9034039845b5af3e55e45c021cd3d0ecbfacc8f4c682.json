@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649667,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 279,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições",
+    "dataApresentacao": "2026-10-30T15:58",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-10-30T15:58",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 279/2026 (Projeto de Lei Complementar), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Lei de Responsabilidade Fiscal (2000); Lei das Eleições (1997); Conduta vedada; Poder Executivo; concessão; Benefício assistencial; Aumento salarial; Aposentadoria; Pensão; Ano eleitoral; Eleições; ente federado",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187884",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9077550",
+  "data": {
+    "id": 9077550,
+    "codigoMateria": 174941,
+    "identificacao": "PLP 197/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "197",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7664538,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei nº 12.715, de 17 de setembro de 2012, a fim de prorrogar os incentivos fiscais destinados ao Programa Nacional de Apoio à Atenção Oncológica (PRONON) e ao Programa Nacional de Apoio à Atenção à Saúde da Pessoa com Deficiência (PRONAS/PCD).",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10265630,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-03",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  PRORROGAÇÃO ,  INCENTIVO FISCAL ,  POLITICAS PUBLICAS ,  PROGRAMA NACIONAL ,  ATENÇÃO ,  CANCER ,  SAUDE ,  PESSOA COM DEFICIENCIA ,  POSSIBILIDADE ,  DEDUÇÃO ,  BASE DE CALCULO ,  IMPOSTO DE RENDA ,  PESSOA FISICA ,  PESSOA JURIDICA ,  VALOR ,  DOAÇÃO ,  PATROCINIO ,  SERVIÇO DE SAUDE ,  APROVAÇÃO ,  MINISTERIO DA SAUDE (MS) .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/803f6d23-bd0e-46cf-b673-e08ec7c6e077",
+      "autoria": [
+        {
+          "autor": "Mara Gabrilli",
+          "sexo": "F",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5376,
+          "uf": "SP",
+          "siglaPartido": "PSD",
+          "partido": "Partido Social Democrático",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senadora",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senadora Mara Gabrilli (PSD/SP)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-03",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-03",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33804970,
+        "descricao": "Imposto de Renda (IR)",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Imposto de Renda (IR)"
+      },
+      {
+        "codigo": 33808942,
+        "descricao": "Saúde",
+        "descricaoHierarquia": "Política Social / Saúde"
+      },
+      {
+        "codigo": 33809423,
+        "descricao": "Pessoas com Deficiência",
+        "descricaoHierarquia": "Política Social / Proteção Social / Pessoas com Deficiência"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Mara Gabrilli",
+        "sexo": "F",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5376,
+        "uf": "SP",
+        "siglaPartido": "PSD",
+        "partido": "Partido Social Democrático",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senadora",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9077550,
+    "identificacaoProcessoInicial": "PLP 197/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2296599,
+            "data": "2026-07-03 16:08:38",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 197/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10265693,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF268154689093",
+                "descricao": "-",
+                "data": "2026-07-03T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0ef03eb8-2c02-461b-a06c-488dfaf1aa17"
+              },
+              {
+                "id": 10265630,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 197/2026",
+                "descricao": "Altera a Lei nº 12.715, de 17 de setembro de 2012, a fim de prorrogar os incentivos fiscais destinados ao Programa Nacional de Apoio à Atenção Oncológica (PRONON) e ao Programa Nacional de Apoio à Atenção à Saúde da Pessoa com Deficiência (PRONAS/PCD).",
+                "data": "2026-07-03T16:07:11",
+                "autoria": "Senadora Mara Gabrilli (PSD/SP)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/803f6d23-bd0e-46cf-b673-e08ec7c6e077"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-10T17:30:02.220000"
+  }
+}

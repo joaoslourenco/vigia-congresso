@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9084300",
+  "data": {
+    "id": 9084300,
+    "codigoMateria": 175150,
+    "identificacao": "PLP 207/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "207",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7666033,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para excluir os benefícios concedidos para pessoas jurídicas na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene) da redução dos incentivos e dos benefícios tributários prevista em seu art. 4º.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10276736,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-14",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  RESSALVA ,  REDUÇÃO ,  INCENTIVO FISCAL ,  CONTRIBUIÇÃO SOCIAL ,  PROGRAMA DE INTEGRAÇÃO SOCIAL E PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVIDOR PUBLICO (PIS-PASEP) ,  CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS) ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  IMPOSTO DE RENDA ,  IMPOSTO DE IMPORTAÇÃO ,  IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI) ,  CONTRIBUIÇÃO PREVIDENCIARIA ,  BENEFICIO ,  PESSOA JURIDICA ,  AREA ,  ATUAÇÃO ,  SUPERINTENDENCIA DO DESENVOLVIMENTO DO NORDESTE (SUDENE) .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/da38df06-26a6-4b7a-a2f3-12970fe5cf9b",
+      "autoria": [
+        {
+          "autor": "Ciro Nogueira",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 739,
+          "uf": "PI",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Ciro Nogueira (PP/PI)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-14",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-14",
+    "classificacoes": [
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Ciro Nogueira",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 739,
+        "uf": "PI",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9084300,
+    "identificacaoProcessoInicial": "PLP 207/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-14",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2300252,
+            "data": "2026-07-14 16:44:04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 207/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10276718,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF264900774114",
+                "descricao": "-",
+                "data": "2026-07-14T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/dee8c3b2-e9df-42eb-85ee-190facb21f99"
+              },
+              {
+                "id": 10276736,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 207/2026",
+                "descricao": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para excluir os benefícios concedidos para pessoas jurídicas na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene) da redução dos incentivos e dos benefícios tributários prevista em seu art. 4º.",
+                "data": "2026-07-14T16:43:45",
+                "autoria": "Senador Ciro Nogueira (PP/PI)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/da38df06-26a6-4b7a-a2f3-12970fe5cf9b"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-22T10:30:02.309000"
+  }
+}

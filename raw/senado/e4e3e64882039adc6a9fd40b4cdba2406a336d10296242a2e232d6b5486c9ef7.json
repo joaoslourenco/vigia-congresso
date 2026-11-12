@@ -1,0 +1,180 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9039191",
+  "data": {
+    "id": 9039191,
+    "codigoMateria": 173841,
+    "identificacao": "PEC 7/2026",
+    "sigla": "PEC",
+    "descricaoSigla": "Proposta de Emenda à Constituição",
+    "numero": "7",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7655682,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera os arts. 167 e 204 da Constituição Federal para dispor sobre o financiamento mínimo e conjunto das ações e serviços da assistência social pela União, pelos Estados, pelo Distrito Federal e pelos Municípios; e dá outras providências.",
+      "tipoNormaIndicada": "EMC"
+    },
+    "documento": {
+      "id": 10212986,
+      "siglaTipo": "PROPOSTA_EMENDA_CONSTITUICAO",
+      "tipo": "Proposta de Emenda à Constituição",
+      "dataApresentacao": "2026-04-30",
+      "indexacao": " ALTERAÇÃO ,  CONSTITUIÇÃO FEDERAL ,  EXCEÇÃO ,  PROIBIÇÃO ,  RECEITA VINCULADA ,  IMPOSTOS ,  RECURSOS ,  ORÇAMENTO DA SEGURIDADE SOCIAL ,  AÇÕES ,  SERVIÇO SOCIAL ,  ASSISTENCIA SOCIAL ,  INCLUSÃO ,  DIRETRIZ ,  FINANCIAMENTO ,  UNIÃO FEDERAL ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  OBRIGATORIEDADE ,  APLICAÇÃO ,  VALOR ,  RECEITA CORRENTE ,  RECEITA LIQUIDA ,  DEDUÇÃO ,  RECEBIMENTO ,  TRANSFERENCIA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/313d7430-5a85-4f11-ba74-941f9cb593ee",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-05-04",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-05-04",
+    "classificacoes": [
+      {
+        "codigo": 33768987,
+        "descricao": "Organização Federativa",
+        "descricaoHierarquia": "Organização do Estado / Organização Federativa"
+      },
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33809363,
+        "descricao": "Assistência Social",
+        "descricaoHierarquia": "Política Social / Proteção Social / Assistência Social"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Danilo Cabral",
+        "sexo": "M",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5292,
+        "siglaPartido": "PSB",
+        "partido": "Partido Socialista Brasileiro",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputado Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 9039190,
+    "identificacaoProcessoInicial": "PEC 383/2017",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9039190,
+        "sigla": "PEC",
+        "numero": "00383",
+        "ano": 2017,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2284118,
+            "data": "2026-05-04 09:13:15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuada a Proposta de Emenda à Constituição nº 7/2026 proveniente da Câmara dos Deputados. A proposta vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10212986,
+                "tipo": "Proposta de Emenda à Constituição",
+                "siglaTipo": "PROPOSTA_EMENDA_CONSTITUICAO",
+                "identificacao": "PEC 7/2026",
+                "descricao": "Altera os arts. 167 e 204 da Constituição Federal para dispor sobre o financiamento mínimo e conjunto das ações e serviços da assistência social pela União, pelos Estados, pelo Distrito Federal e pelos Municípios; e dá outras providências.",
+                "data": "2026-04-30T11:59:19",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/313d7430-5a85-4f11-ba74-941f9cb593ee"
+              },
+              {
+                "id": 10213505,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF261237500810",
+                "descricao": "-",
+                "data": "2026-05-04T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c427f8f2-a10a-4857-a052-e62a754e94d8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-06-01T13:39:01.529000"
+  }
+}

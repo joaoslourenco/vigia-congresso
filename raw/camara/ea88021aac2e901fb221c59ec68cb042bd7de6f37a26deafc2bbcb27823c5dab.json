@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649648,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 278,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino.",
+    "dataApresentacao": "2026-10-30T10:01",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-10-30T10:01",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 278/2026 (Projeto de Lei Complementar), pelos Deputado Jonas Donizette (PSB/SP) e outros, que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Lei das Inelegibilidades (1990); Inelegibilidade; Candidato a cargo eletivo; Condenação criminal; Lesão corporal; Violência contra a mulher",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187863",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648"
+    }
+  ]
+}

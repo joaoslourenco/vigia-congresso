@@ -1,0 +1,629 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9105948",
+  "data": {
+    "id": 9105948,
+    "codigoMateria": 175732,
+    "identificacao": "PLP 74/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "74",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7670891,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 229, de 30 de março de 2026, para incluir o regime especial de tributação para serviços de datacenter, o programa federal de financiamento de ações de apoio às pessoas com câncer e às pessoas com deficiência, bem como a desoneração do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) das sociedades resseguradoras locais entre as exceções às regras aplicáveis à concessão de benefícios tributários e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10314568,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-09-03",
+      "dataLeitura": "2026-09-03",
+      "casaLeitura": "SF",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  DISPENSA ,  MUNICIPIOS ,  CUMPRIMENTO ,  REQUISITOS ,  OBJETIVO ,  RECEBIMENTO ,  TRANSFERENCIA ,  RECURSOS PUBLICOS ,  CRITERIOS ,  QUANTIDADE ,  POPULAÇÃO ,  HABITANTE . ALTERAÇÃO ,  LEI COMPLEMENTAR ,  CRITERIOS ,  PROPOSIÇÃO LEGISLATIVA ,  PROJETO DE LEI ,  CONCESSÃO ,  AMPLIAÇÃO ,  BENEFICIO FISCAL ,  DISPENSA ,  CUMPRIMENTO ,  REQUISITOS ,  RENUNCIA ,  RECEITA TRIBUTARIA ,  LEI DE RESPONSABILIDADE FISCAL ,  LEI DE DIRETRIZES ORÇAMENTARIAS (LDO) ,  HIPOTESE ,  REGIME ESPECIAL ,  TRIBUTAÇÃO ,  SERVIÇO ,  TECNOLOGIA DIGITAL ,  PROCESSAMENTO DE DADOS ,  POLITICA PUBLICA ,  PROGRAMA NACIONAL ,  APOIO ,  PORTADOR ,  CANCER ,  PESSOA COM DEFICIENCIA ,  DESONERAÇÃO TRIBUTARIA ,  IMPOSTO DE RENDA ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  EMPRESA ,  RESSEGURO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/baba307a-6527-4950-8ac4-09eb5ee9a8e2",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-09-03",
+    "situacaoAtual": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+    "siglaSituacaoAtual": "TNJRVETO",
+    "dataSituacaoAtual": "2026-09-15",
+    "classificacoes": [
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "José Guimarães",
+        "sexo": "M",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4588,
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputado Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 9105947,
+    "identificacaoProcessoInicial": "PLP 74/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9105947,
+        "sigla": "PLP",
+        "numero": "00074",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9106001,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "671",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      },
+      {
+        "idOutroProcesso": 9109118,
+        "tipoRelacao": "VETO",
+        "sigla": "VET",
+        "numero": "50",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "casaIdentificadora": "CN",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Congresso Nacional"
+      }
+    ],
+    "despachos": [
+      {
+        "id": 10315067,
+        "data": "2026-09-03",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9105297,
+          "numero": 120,
+          "data": "2026-09-03",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Sessão Deliberativa Ordinária",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9106014,
+            "tipo": "AO_PLENARIO_03_2023",
+            "descricao": "Ao Plenário",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": null,
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1998,
+                  "sigla": "PLEN",
+                  "casa": "SF",
+                  "nome": "Plenário do Senado Federal"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55304,
+        "siglaEnteControleAtual": "SEXPE",
+        "nomeEnteControleAtual": "Secretaria de Expediente",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-09-03",
+            "fim": "2026-09-03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 25,
+            "sigla": "APRVD",
+            "descricao": "APROVADA",
+            "inicio": "2026-09-03",
+            "fim": "2026-09-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 57,
+            "sigla": "RMSAN",
+            "descricao": "REMETIDA À SANÇÃO",
+            "inicio": "2026-09-04",
+            "fim": "2026-09-15",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55126,
+              "sigla": "PR",
+              "nome": "Presidência da República"
+            }
+          },
+          {
+            "idTipo": 92,
+            "sigla": "TNJRVETO",
+            "descricao": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+            "inicio": "2026-09-15",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2313118,
+            "data": "2026-09-03 18:28:07",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 74/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10315009,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF267679343513",
+                "descricao": "-",
+                "data": "2026-09-03T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/be058ecf-c2e0-4976-87a4-337325509f79"
+              },
+              {
+                "id": 10314568,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 74/2026",
+                "descricao": "Altera a Lei Complementar nº 229, de 30 de março de 2026, para incluir o regime especial de tributação para serviços de datacenter, o programa federal de financiamento de ações de apoio às pessoas com câncer e às pessoas com deficiência, bem como a desoneração do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) das sociedades resseguradoras locais entre as exceções às regras aplicáveis à concessão de benefícios tributários e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).",
+                "data": "2026-09-03T18:27:49",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/baba307a-6527-4950-8ac4-09eb5ee9a8e2"
+              }
+            ]
+          },
+          {
+            "id": 2313121,
+            "data": "2026-09-03 19:14:33",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 671, de 2026, de Líderes, que solicita urgência para a matéria. ",
+            "documentosAssociados": [
+              {
+                "id": 10315037,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 671/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 74, de 2026, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-09-03T19:10:43",
+                "autoria": "Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder do Bloco Parlamentar Pelo Brasil Weverton (PDT/MA), Líder do Governo Teresa Leitão (PT/PE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ecb7dc03-8c4f-42cd-938a-3d166ce7552a"
+              }
+            ]
+          },
+          {
+            "id": 2313123,
+            "data": "2026-09-03 19:20:27",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Designado Relator de Plenário o Senador Camilo Santana."
+          },
+          {
+            "id": 2313139,
+            "data": "2026-09-03 19:48:24",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido Relatório do Senador Camilo Santana.",
+            "documentosAssociados": [
+              {
+                "id": 10315090,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF269977428660",
+                "descricao": "Relatório PLEN - PLP 74/2026 - REDATA",
+                "data": "2026-09-03T19:47:13",
+                "autoria": "Senador Camilo Santana (PT/CE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ec7f9e03-e780-4962-b836-bacec493a2ed"
+              }
+            ]
+          },
+          {
+            "id": 2313142,
+            "data": "2026-09-03 20:12:14",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Continuação, em 3 de setembro de 2026, da Sessão Deliberativa Ordinária iniciada em 1º de setembro de 2026) \nEncaminhado à publicação e aprovado o Requerimento nº 671, de 2026, de Líderes, que solicita urgência para a matéria. \nEncaminhado à publicação o Parecer nº 202, de 2026-PLEN-SF, proferido pelo Senador Camilo Santana, favorável ao projeto, com emendas, que apresenta. \nEncerrada a discussão da matéria.   \nAprovado o projeto com as Emendas nºs 1 e 2, de redação, após o seguinte resultado: sim – 66; não - 0; Presidente – 1; total – 67.   \nEncaminhado à publicação o Parecer nº 203, de 2026-PLEN/SF, da Comissão Diretora, oferecendo a redação final.   \nAprovada a redação final.    \nA matéria vai à sanção.  \nSerá feita a devida comunicação à Câmara dos Deputados. ",
+            "idSituacaoIniciada": 25,
+            "siglaSituacaoIniciada": "APRVD",
+            "documentosAssociados": [
+              {
+                "id": 10315112,
+                "tipo": "Listagem ou relatório descritivo",
+                "siglaTipo": "LISTAGEM_RELATORIO",
+                "identificacao": "Listagem ou relatório descritivo - SF260713285339",
+                "descricao": "Votação nominal ao Projeto de Lei Complementar nº 74, de 2026",
+                "data": "2026-09-03T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/adcde708-f5ff-467b-b2d1-76e7ed0127d2"
+              },
+              {
+                "id": 10315115,
+                "tipo": "Parecer de redação",
+                "siglaTipo": "PARECER_REDACAO",
+                "identificacao": "P.S 203/2026 - PLEN",
+                "descricao": "Parecer nº 203, de 2026-PLEN/SF",
+                "data": "2026-09-03T00:00:00",
+                "autoria": "Comissão Diretora do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9e048f57-c8eb-4bdc-aec2-83f74680537c"
+              },
+              {
+                "id": 10315104,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 1 PLEN - PLP 74/2026",
+                "descricao": "Emendas nº 1, de redação",
+                "data": "2026-09-03T00:00:00",
+                "autoria": "Senador Camilo Santana (PT/CE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/720919fd-9927-42a9-9d0e-b42370491b9a"
+              },
+              {
+                "id": 10315108,
+                "tipo": "Emenda",
+                "siglaTipo": "EMENDA",
+                "identificacao": "EMENDA 2 PLEN - PLP 74/2026",
+                "descricao": "Emendas nº 2, de redação",
+                "data": "2026-09-03T00:00:00",
+                "autoria": "Senador Camilo Santana (PT/CE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7fda7fc4-1e3b-4283-a505-71f8038ba76b"
+              },
+              {
+                "id": 10315098,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 202/2026 - PLEN",
+                "descricao": "Parecer nº 202, de 2026-PLEN-SF",
+                "data": "2026-09-03T00:00:00",
+                "autoria": "Senador Camilo Santana (PT/CE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/474314d5-b01f-4960-8ed8-3bc7fd5483eb"
+              }
+            ]
+          },
+          {
+            "id": 2313464,
+            "data": "2026-09-04 13:01:02",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Anexado o texto revisado.",
+            "documentosAssociados": [
+              {
+                "id": 10315857,
+                "tipo": "Minuta",
+                "siglaTipo": "MINUTA",
+                "identificacao": "Minuta - SF269201808007",
+                "data": "2026-09-04T13:00:52",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1e9602d6-c54d-4e52-b0b8-31c0a785a504"
+              }
+            ]
+          },
+          {
+            "id": 2313686,
+            "data": "2026-09-04 19:18:49",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Recebido pela Casa Civil, em 04/09/2026 às 19:18:49, Ofício SF nº 1304, de 2026, à Ministra de Estado Chefe da Casa Civil da Presidência da República, pelo qual se encaminhou a Mensagem SF nº 232, de 2026, ao Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 04/09/2026 às 19:18:49.",
+            "documentosAssociados": [
+              {
+                "id": 10315962,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "Autógrafo - PLP 74/2026",
+                "descricao": "Altera a Lei Complementar nº 229, de 30 de março de 2026, para incluir o regime especial de tributação para serviços de datacenter, o programa federal de financiamento de ações de apoio às pessoas com câncer e às pessoas com deficiência, bem como a desoneração do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) das sociedades resseguradoras locais entre as exceções às regras aplicáveis à concessão de benefícios tributários e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).",
+                "data": "2026-09-04T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/beab207c-f6a4-45db-ab96-6405d3b5537a"
+              },
+              {
+                "id": 10315823,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 1304/2026",
+                "descricao": "Encaminha a Mensagem do Excelentíssimo Senhor Presidente do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei Complementar n° 74, de 2026.",
+                "data": "2026-09-04T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6f7a5f2e-77a0-4632-9ae4-71efedd44efa"
+              },
+              {
+                "id": 10315820,
+                "tipo": "Mensagem",
+                "siglaTipo": "MENSAGEM",
+                "identificacao": "MPSF 232/2026",
+                "descricao": "Encaminha à Sanção o Projeto de Lei Complementar n° 74, de 2026.",
+                "data": "2026-09-04T00:00:00",
+                "autoria": "Presidente do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ee28696c-4f38-4463-ad01-8e5c804551ec"
+              }
+            ]
+          },
+          {
+            "id": 2313779,
+            "data": "2026-09-08 10:04:32",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF n.º 1.305, de 2026, ao Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto foi encaminhado à sanção presidencial.",
+            "documentosAssociados": [
+              {
+                "id": 10315826,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 1305/2026",
+                "descricao": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei Complementar n° 74, de 2026.",
+                "data": "2026-09-04T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/939e7c17-be3e-4a19-acf4-7abec74a5773"
+              }
+            ]
+          },
+          {
+            "id": 2315463,
+            "data": "2026-09-15 12:00:00",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "(PR) PRESIDÊNCIA DA REPÚBLICA.\r\nSANCIONADA. LEI COMPLEMENTAR 237 DE 2026. (vetada parcialmente: vide MSG 751 de 2026).\r\nDOUE (Diário Oficial da União - Edição Extra) - 15/09/2026 - Seção I - págs. 1 e 1.\r\nSancionada em 15/09/2026.\r\n\r\nÀ COARQ.",
+            "idSituacaoIniciada": 92,
+            "siglaSituacaoIniciada": "TNJRVETO"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10315074,
+            "dataEnvio": "2026-09-03 20:05:08",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-09-03 20:06:24",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10315121,
+            "dataEnvio": "2026-09-03 20:30:01",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-09-04 07:57:21",
+            "enteDestino": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10315845,
+            "dataEnvio": "2026-09-04 12:45:11",
+            "enteOrigem": {
+              "id": 7359809,
+              "casa": "SF",
+              "sigla": "NRELE",
+              "nome": "Núcleo de Redação Legislativa"
+            },
+            "dataRecebimento": "2026-09-04 13:00:06",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "ordensDoDia": [
+      {
+        "codigoSessao": 588590,
+        "dataSessao": "2026-09-03T14:00:00",
+        "casaSessao": "SF",
+        "codigoSessaoLegislativa": 874,
+        "siglaTipoSessao": "DOR",
+        "numeroSessao": "120",
+        "tipoApreciacao": "-"
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-09-03",
+      "siglaTipo": "APROVADA_NO_PLENARIO",
+      "tipoDeliberacao": "Aprovada pelo Plenário",
+      "idDestino": 3,
+      "siglaDestino": "SANCAO",
+      "destino": "À sanção"
+    },
+    "normaGerada": {
+      "codigo": 43892883,
+      "siglaTipo": "LCP",
+      "tipo": "Lei Complementar",
+      "numero": 237,
+      "anoAssinatura": "2026",
+      "dataAssinatura": "2026-09-15",
+      "descricao": "Lei Complementar nº 237 de 15/09/2026",
+      "dataPublicacao": "2026-09-15",
+      "siglaVeiculoPublicacao": "DOUE",
+      "veiculoPublicacao": "[Diário Oficial da União - Edição Extra  de 15/09/2026 - nº 174-C] (p. 1, col. 1)"
+    },
+    "ultimaInformacaoAtualizada": "DOCUMENTO",
+    "dthUltimaAtualizacao": "2026-09-17T12:40:03.731000"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9084571",
+  "data": {
+    "id": 9084571,
+    "codigoMateria": 175165,
+    "identificacao": "PLP 209/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "209",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7666087,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para incluir requisitos mínimos a serem observados em legislações que tratem de limite de despesas.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10277049,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-14",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  INCLUSÃO ,  REQUISITOS ,  LEGISLAÇÃO ,  LIMITAÇÃO ,  DESPESA PUBLICA ,  UNIÃO FEDERAL ,  ABRANGENCIA ,  ORGÃOS ,  PODERES CONSTITUCIONAIS ,  CRESCIMENTO ,  CORREÇÃO MONETARIA ,  META FISCAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/2bc08f54-0fd9-4add-926a-48aa74036e8a",
+      "autoria": [
+        {
+          "autor": "Ciro Nogueira",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 739,
+          "uf": "PI",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Ciro Nogueira (PP/PI)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-14",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-14",
+    "classificacoes": [
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Ciro Nogueira",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 739,
+        "uf": "PI",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9084571,
+    "identificacaoProcessoInicial": "PLP 209/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-14",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2300335,
+            "data": "2026-07-14 20:14:00",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 209/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10277030,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF267990367115",
+                "descricao": "-",
+                "data": "2026-07-14T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e5c9066c-6048-4ee2-a132-e6473ed8deb8"
+              },
+              {
+                "id": 10277049,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 209/2026",
+                "descricao": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para incluir requisitos mínimos a serem observados em legislações que tratem de limite de despesas.",
+                "data": "2026-07-14T20:13:19",
+                "autoria": "Senador Ciro Nogueira (PP/PI)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2bc08f54-0fd9-4add-926a-48aa74036e8a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-22T10:30:05.207000"
+  }
+}

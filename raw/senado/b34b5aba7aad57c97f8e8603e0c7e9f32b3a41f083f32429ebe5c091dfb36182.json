@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9047077",
+  "data": {
+    "id": 9047077,
+    "codigoMateria": 174137,
+    "identificacao": "PLP 138/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "138",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7657348,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, que “estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal”, a fim de destinar parte da Receita Corrente Líquida às Defensorias Públicas.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10221895,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-05-13",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  RECONHECIMENTO ,  DEFENSORIA PUBLICA ,  PRERROGATIVA ,  AUTONOMIA ,  EXECUÇÃO FINANCEIRA ,  EXECUÇÃO ORÇAMENTARIA ,  RECEBIMENTO ,  PERCENTAGEM ,  RECEITA CORRENTE ,  RECEITA LIQUIDA ,  ACRESCIMO ,  DISPOSITIVOS ,  PRAZO ,  REPARTIÇÃO FISCAL ,  LIMITAÇÃO ,  DESPESA ,  PESSOAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/1b2496da-1621-49da-add3-2cb9c2a2d66f",
+      "autoria": [
+        {
+          "autor": "Jorge Kajuru",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5895,
+          "uf": "GO",
+          "siglaPartido": "PSB",
+          "partido": "Partido Socialista Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Jorge Kajuru (PSB/GO)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-05-13",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-05-13",
+    "classificacoes": [
+      {
+        "codigo": 33769152,
+        "descricao": "Defensoria Pública",
+        "descricaoHierarquia": "Organização do Estado / Funções Essenciais à Justiça / Defensoria Pública"
+      },
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      },
+      {
+        "codigo": 33805857,
+        "descricao": "Execução Financeira e Orçamentária",
+        "descricaoHierarquia": "Orçamento Público / Orçamento Anual / Execução Financeira e Orçamentária"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Jorge Kajuru",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5895,
+        "uf": "GO",
+        "siglaPartido": "PSB",
+        "partido": "Partido Socialista Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9047077,
+    "identificacaoProcessoInicial": "PLP 138/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-13",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2285880,
+            "data": "2026-05-13 14:44:36",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 138/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10221885,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265776120216",
+                "descricao": "-",
+                "data": "2026-05-13T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/616c5073-2ed4-474d-9b9b-6f729c80af1b"
+              },
+              {
+                "id": 10221895,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 138/2026",
+                "descricao": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, que “estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal”, a fim de destinar parte da Receita Corrente Líquida às Defensorias Públicas.",
+                "data": "2026-05-13T14:44:03",
+                "autoria": "Senador Jorge Kajuru (PSB/GO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1b2496da-1621-49da-add3-2cb9c2a2d66f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-10-15T14:09:19.320000"
+  }
+}

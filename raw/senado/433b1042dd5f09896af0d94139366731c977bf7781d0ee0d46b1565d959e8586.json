@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9062388",
+  "data": {
+    "id": 9062388,
+    "codigoMateria": 174553,
+    "identificacao": "PLP 169/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "169",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7661028,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 5.172, de 25 de outubro de 1966, e a Lei Complementar nº 105, de 10 de janeiro de 2001, para dispor sobre o compartilhamento de informações sigilosas para a avaliação da evolução patrimonial dos servidores públicos federais.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10243031,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-06-10",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  POSSIBILIDADE ,  BANCO CENTRAL DO BRASIL (BACEN) ,  INSTITUIÇÃO FINANCEIRA ,  COMISSÃO DE VALORES MOBILIARIOS (CVM) ,  COMPARTILHAMENTO ,  INFORMAÇÕES ,  LEGISLATIVO ,  ORGÃO ,  CONTROLE INTERNO ,  EXECUTIVO ,  SOLICITAÇÃO ,  NECESSIDADE ,  APROVAÇÃO ,  PLENARIO ,  CAMARA DOS DEPUTADOS ,  SENADO ,  COMISSÃO PARLAMENTAR DE INQUERITO (CPI) . ALTERAÇÃO ,  CODIGO TRIBUTARIO NACIONAL ,  EXCEÇÃO ,  SIGILO ,  INFORMAÇÕES ,  HIPOTESE ,  REQUISIÇÃO ,  ORGÃO ,  CONTROLE INTERNO ,  AVALIAÇÃO ,  EVOLUÇÃO ,  PATRIMONIO ,  SERVIDOR PUBLICO CIVIL ,  FISCALIZAÇÃO ,  IRREGULARIDADE ,  GARANTIA ,  IMPESSOALIDADE .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/136165b6-d0c1-4c4d-bf6e-74340d9ab5f4",
+      "autoria": [
+        {
+          "autor": "Alessandro Vieira",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5982,
+          "uf": "SE",
+          "siglaPartido": "MDB",
+          "partido": "Movimento Democrático Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Alessandro Vieira (MDB/SE)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-06-10",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-10",
+    "classificacoes": [
+      {
+        "codigo": 33686120,
+        "descricao": "Transparência e Governança Públicas",
+        "descricaoHierarquia": "Administração Pública / Transparência e Governança Públicas"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Alessandro Vieira",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5982,
+        "uf": "SE",
+        "siglaPartido": "MDB",
+        "partido": "Movimento Democrático Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9062388,
+    "identificacaoProcessoInicial": "PLP 169/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-10",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2290699,
+            "data": "2026-06-10 16:00:45",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 169/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10243099,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF263968566476",
+                "descricao": "-",
+                "data": "2026-06-10T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c195afb4-18ad-4d84-b046-aa58c8d2de92"
+              },
+              {
+                "id": 10243031,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 169/2026",
+                "descricao": "Altera a Lei Complementar nº 5.172, de 25 de outubro de 1966, e a Lei Complementar nº 105, de 10 de janeiro de 2001, para dispor sobre o compartilhamento de informações sigilosas para a avaliação da evolução patrimonial dos servidores públicos federais.",
+                "data": "2026-06-10T15:57:57",
+                "autoria": "Senador Alessandro Vieira (MDB/SE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/136165b6-d0c1-4c4d-bf6e-74340d9ab5f4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-18T19:15:04.305000"
+  }
+}

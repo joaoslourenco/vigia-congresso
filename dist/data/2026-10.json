@@ -1,0 +1,332 @@
+{
+  "month": "2026-10",
+  "days": {
+    "2026-10-29": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    }
+  },
+  "proposals": [
+    {
+      "id": "senado-processo-9104654",
+      "officialMatterId": "175716",
+      "officialProcessId": "9104654",
+      "house": "Senado",
+      "type": "PEC",
+      "number": 17,
+      "year": 2026,
+      "presentedAt": "2026-09-02",
+      "officialSummary": "Altera os arts. 14 e 101 da Constituição Federal, para dispor sobre os requisitos de escolha dos Ministros do Supremo Tribunal Federal e sobre sua inelegibilidade para qualquer cargo eletivo, pelo prazo de cinco anos após deixarem a função.",
+      "authorSummary": "Senador Zequinha Marinho (PODEMOS/PA), Senador Luis Carlos Heinze (PP/RS), Senador Styvenson Valentim (PODEMOS/RN), Senadora Damares Alves (REPUBLICANOS/DF), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Carlos Viana (PSD/MG), Senador Marcos Rogério (PL/RO), Senador Izalci Lucas (PL/DF), Senador Sergio Moro (PL/PR), Senador Alan Rick (REPUBLICANOS/AC), Senador Marcos do Val (AVANTE/ES), Senador Carlos Portinho (PL/RJ), Senador Jorge Seif (PL/SC), Senador Rogerio Marinho (PL/RN), Senador Flávio Bolsonaro (PL/RJ), Senador Marcio Bittar (PL/AC), Senador Astronauta Marcos Pontes (PL/SP), Senador Jaime Bagattoli (PL/RO), Senador Vanderlan Cardoso (PSD/GO), Senador Oriovisto Guimarães (PSDB/PR), Senador Irajá (PSD/TO), Senador Plínio Valério (PSDB/AM), Senador Cleitinho (REPUBLICANOS/MG), Senador Magno Malta (PL/ES), Senador Flávio Arns (PSB/PR), Senador Jayme Campos (UNIÃO/MT), Senador Jorge Kajuru (PSB/GO)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-3806",
+          "name": "Zequinha Marinho",
+          "party": "PODEMOS",
+          "state": "PA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-1186",
+          "name": "Luis Carlos Heinze",
+          "party": "PP",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 2,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5959",
+          "name": "Styvenson Valentim",
+          "party": "PODEMOS",
+          "state": "RN",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 3,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6335",
+          "name": "Damares Alves",
+          "party": "REPUBLICANOS",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 4,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6341",
+          "name": "Hamilton Mourão",
+          "party": "REPUBLICANOS",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 5,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5990",
+          "name": "Carlos Viana",
+          "party": "PSD",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 6,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5422",
+          "name": "Marcos Rogério",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 7,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 8,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6331",
+          "name": "Sergio Moro",
+          "party": "PL",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 9,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5672",
+          "name": "Alan Rick",
+          "party": "REPUBLICANOS",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 10,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5942",
+          "name": "Marcos do Val",
+          "party": "AVANTE",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 11,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5936",
+          "name": "Carlos Portinho",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 12,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6342",
+          "name": "Jorge Seif",
+          "party": "PL",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 13,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4694",
+          "name": "Rogerio Marinho",
+          "party": "PL",
+          "state": "RN",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 14,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5894",
+          "name": "Flávio Bolsonaro",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 15,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-285",
+          "name": "Marcio Bittar",
+          "party": "PL",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 16,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6009",
+          "name": "Astronauta Marcos Pontes",
+          "party": "PL",
+          "state": "SP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 17,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6340",
+          "name": "Jaime Bagattoli",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 18,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5899",
+          "name": "Vanderlan Cardoso",
+          "party": "PSD",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 19,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5924",
+          "name": "Oriovisto Guimarães",
+          "party": "PSDB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 20,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5385",
+          "name": "Irajá",
+          "party": "PSD",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 21,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5502",
+          "name": "Plínio Valério",
+          "party": "PSDB",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 22,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6337",
+          "name": "Cleitinho",
+          "party": "REPUBLICANOS",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 23,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-631",
+          "name": "Magno Malta",
+          "party": "PL",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 24,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-345",
+          "name": "Flávio Arns",
+          "party": "PSB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 25,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4531",
+          "name": "Jayme Campos",
+          "party": "UNIÃO",
+          "state": "MT",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 26,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5895",
+          "name": "Jorge Kajuru",
+          "party": "PSB",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 27,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175716",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9104654",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-10-29",
+          "description": "Recebido o Requerimento nº  733, de 2026, do Senador Veneziano Vital do Rêgo, solicitando tramitação conjunta da PEC 16/2019 com a PEC 77/2019, a PEC 41/2023, a PEC 51/2023, a PEC 39/2025, a PEC 45/2025, a PEC 47/2025 e a PEC 17/2026."
+        }
+      ],
+      "collectedAt": "2026-11-12T00:10:37.209Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": true,
+      "summary": "A proposta busca dispor sobre os requisitos de escolha dos Ministros do Supremo Tribunal Federal e sobre sua inelegibilidade para qualquer cargo eletivo, pelo prazo de cinco anos após deixarem a função. Inelegibilidade é o impedimento legal para uma pessoa disputar eleições.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "328769bba72d41fd7eac27cd0e35a99eebeee1850a77c46846d2f6968259f683"
+    }
+  ],
+  "events": [
+    {
+      "id": "senado-informe-2322161",
+      "proposalId": "senado-processo-9104654",
+      "date": "2026-10-29",
+      "occurredAt": "2026-10-29 11:14:53",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº  733, de 2026, do Senador Veneziano Vital do Rêgo, solicitando tramitação conjunta da PEC 16/2019 com a PEC 77/2019, a PEC 41/2023, a PEC 51/2023, a PEC 39/2025, a PEC 45/2025, a PEC 47/2025 e a PEC 17/2026.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T00:10:37.209Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9104654",
+      "conflict": true,
+      "vote": null
+    }
+  ]
+}

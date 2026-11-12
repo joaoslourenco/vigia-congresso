@@ -1,0 +1,333 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9027422",
+  "data": {
+    "id": 9027422,
+    "codigoMateria": 173491,
+    "identificacao": "PLP 87/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "87",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7652881,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 108, de 29 de maio de 2001, para exigir que investimentos que envolvam valores iguais ou superiores a cinco por cento dos recursos garantidores de entidades fechadas de previdência complementar de que tratam os §§ 3º a 6º do art. 202 da Constituição Federal sejam aprovados pela maioria absoluta dos respectivos conselhos deliberativos, dentre outras providências.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10196299,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-04-06",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  FIXAÇÃO ,  COMPOSIÇÃO ,  CONSELHO DELIBERATIVO ,  EXIGENCIA ,  INVESTIMENTO ,  VALORES ,  RECURSOS ,  ENTIDADE ,  PREVIDENCIA COMPLEMENTAR ,  QUORUM ,  APROVAÇÃO ,  MAIORIA ,  CRITERIOS .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/18282f2f-078f-4d1d-ae7c-863085305343",
+      "autoria": [
+        {
+          "autor": "Esperidião Amin",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 22,
+          "uf": "SC",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Esperidião Amin (PP/SC)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-04-06",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-04-14",
+    "classificacoes": [
+      {
+        "codigo": 33809273,
+        "descricao": "Previdência Complementar",
+        "descricaoHierarquia": "Política Social / Previdência Social / Previdência Complementar"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Esperidião Amin",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 22,
+        "uf": "SC",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9027422,
+    "identificacaoProcessoInicial": "PLP 87/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10204027,
+        "data": "2026-04-14",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "colegiado": {}
+        },
+        "providencias": [
+          {
+            "id": 9032451,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 38,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAE",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+        "idEnteControleAtual": 13530,
+        "siglaEnteControleAtual": "SACAE",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-04-06",
+            "fim": "2026-04-14",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-04-14",
+            "fim": "2026-04-14",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-04-14",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2280679,
+            "data": "2026-04-06 19:07:48",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 87/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10196308,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265572777457",
+                "descricao": "-",
+                "data": "2026-04-06T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a42acf26-c9bd-4e71-a072-071d5abc70cf"
+              },
+              {
+                "id": 10196299,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 87/2026",
+                "descricao": "Altera a Lei Complementar nº 108, de 29 de maio de 2001, para exigir que investimentos que envolvam valores iguais ou superiores a cinco por cento dos recursos garantidores de entidades fechadas de previdência complementar de que tratam os §§ 3º a 6º do art. 202 da Constituição Federal sejam aprovados pela maioria absoluta dos respectivos conselhos deliberativos, dentre outras providências.",
+                "data": "2026-04-06T19:05:50",
+                "autoria": "Senador Esperidião Amin (PP/SC)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/18282f2f-078f-4d1d-ae7c-863085305343"
+              }
+            ]
+          },
+          {
+            "id": 2282002,
+            "data": "2026-04-14 09:51:57",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A presente matéria vai à CAE e à CAS.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2282220,
+            "data": "2026-04-14 15:43:28",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10203580,
+            "dataEnvio": "2026-04-13 18:44:18",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-04-14 09:51:02",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10204039,
+            "dataEnvio": "2026-04-14 10:05:28",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-04-14 15:41:34",
+            "enteDestino": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "colegiadoDestino": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-19T16:20:52.691000"
+  }
+}

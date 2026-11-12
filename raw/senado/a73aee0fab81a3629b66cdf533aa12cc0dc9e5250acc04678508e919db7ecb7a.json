@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9068639",
+  "data": {
+    "id": 9068639,
+    "codigoMateria": 174770,
+    "identificacao": "PLP 178/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "178",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7662384,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), para estabelecer restrições à publicidade governamental no ano eleitoral.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10250661,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-06-18",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  PERIODO ,  ANO ,  ELEIÇÕES ,  PROIBIÇÃO ,  ENTE FEDERADO ,  LEGISLATIVO ,  JUDICIARIO ,  MINISTERIO PUBLICO ,  DESPESA ,  PUBLICIDADE ,  GOVERNO ,  RESSALVA ,  INTERESSE PUBLICO . ALTERAÇÃO ,  LEI FEDERAL ,  REQUISITOS ,  DIVULGAÇÃO ,  PUBLICIDADE ,  GOVERNO ,  ANO ,  ELEIÇÕES ,  REGISTRO ,  JUSTIFICAÇÃO ,  SITE ,  INTERNET ,  COMPETENCIA ,  REGULAMENTAÇÃO ,  TRIBUNAL SUPERIOR ELEITORAL (TSE) . ALTERAÇÃO ,  LEI FEDERAL ,  PROIBIÇÃO ,  AGENTE PUBLICO ,  PERIODO ,  ELEIÇÕES ,  PUBLICIDADE ,  ATO ,  OBRAS ,  PROGRAMA ,  ORGÃO PUBLICO ,  DIVULGAÇÃO ,  PRONUNCIAMENTO ,  RADIODIFUSÃO ,  TELEVISÃO ,  AUMENTO ,  EMPENHO ,  DESPESA ,  RESPONSABILIDADE SOLIDARIA ,  ORDENADOR DE DESPESA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/5a335e2e-d23e-42d8-91db-c0fe8a9f015c",
+      "autoria": [
+        {
+          "autor": "Angelo Coronel",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5967,
+          "uf": "BA",
+          "siglaPartido": "REPUBLICANOS",
+          "partido": "Republicanos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Angelo Coronel (REPUBLICANOS/BA)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-06-18",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-18",
+    "classificacoes": [
+      {
+        "codigo": 33686120,
+        "descricao": "Transparência e Governança Públicas",
+        "descricaoHierarquia": "Administração Pública / Transparência e Governança Públicas"
+      },
+      {
+        "codigo": 33805737,
+        "descricao": "Eleições",
+        "descricaoHierarquia": "Jurídico / Direito Eleitoral / Eleições"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Angelo Coronel",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5967,
+        "uf": "BA",
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9068639,
+    "identificacaoProcessoInicial": "PLP 178/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-18",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2292427,
+            "data": "2026-06-18 11:22:05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 178/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10250643,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265178119102",
+                "descricao": "-",
+                "data": "2026-06-18T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8448aabb-0886-4ac9-a3aa-f696aff0085c"
+              },
+              {
+                "id": 10250661,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 178/2026",
+                "descricao": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), para estabelecer restrições à publicidade governamental no ano eleitoral.",
+                "data": "2026-06-18T11:21:47",
+                "autoria": "Senador Angelo Coronel (REPUBLICANOS/BA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5a335e2e-d23e-42d8-91db-c0fe8a9f015c"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-25T18:00:09.228000"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9097244",
+  "data": {
+    "id": 9097244,
+    "codigoMateria": 175516,
+    "identificacao": "PLP 80/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "80",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7668820,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10299231,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-08-14",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  PRORROGAÇÃO ,  PRAZO DETERMINADO ,  VIGENCIA ,  ISENÇÃO FISCAL ,  INCIDENCIA ,  ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE (AFRMM) ,  NAVEGAÇÃO DE CABOTAGEM ,  MERCADORIA ,  ORIGEM ,  DESTINO ,  PORTO ,  REGIÃO NORTE ,  REGIÃO NORDESTE .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/f330b26c-9595-4d37-a103-685ffe0a0c37",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-08-17",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-08-17",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33805197,
+        "descricao": "Transporte Hidroviário",
+        "descricaoHierarquia": "Infraestrutura / Viação e Transportes / Transporte Hidroviário"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Benes Leocádio",
+        "sexo": "M",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6045,
+        "siglaPartido": "UNIÃO",
+        "partido": "União Brasil",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputado Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 9097243,
+    "identificacaoProcessoInicial": "PLP 80/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9097243,
+        "sigla": "PLP",
+        "numero": "00080",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-08-17",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2307704,
+            "data": "2026-08-17 09:04:30",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 80/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10299231,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 80/2026",
+                "descricao": "Altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País.",
+                "data": "2026-08-14T16:38:43",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f330b26c-9595-4d37-a103-685ffe0a0c37"
+              },
+              {
+                "id": 10299503,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF265197990270",
+                "descricao": "-",
+                "data": "2026-08-17T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/13ed0354-41e7-465d-bb72-898ad7fff8df"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-08-20T15:30:01.153000"
+  }
+}

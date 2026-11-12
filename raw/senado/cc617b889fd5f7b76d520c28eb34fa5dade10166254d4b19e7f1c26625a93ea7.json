@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9114400",
+  "data": {
+    "id": 9114400,
+    "codigoMateria": 175966,
+    "identificacao": "PLP 268/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "268",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7672744,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para tornar inelegíveis, pelo prazo de 8 (oito) anos contados do afastamento, os que tenham ocupado o cargo de Ministro do Supremo Tribunal Federal.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10330725,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-10-15",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  FIXAÇÃO ,  PERIODO ,  INELEGIBILIDADE ,  MINISTRO ,  SUPREMO TRIBUNAL FEDERAL (STF) ,  HIPOTESE ,  AFASTAMENTO ,  APOSENTADORIA ,  EXONERAÇÃO ,  DESTITUIÇÃO ,  ABRANGENCIA ,  CRIME DE RESPONSABILIDADE .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/f7d2a5b1-a10c-46ec-8277-1a1414bbbb51",
+      "autoria": [
+        {
+          "autor": "Astronauta Marcos Pontes",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 6009,
+          "uf": "SP",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Astronauta Marcos Pontes (PL/SP)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-10-15",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-10-15",
+    "classificacoes": [
+      {
+        "codigo": 33685970,
+        "descricao": "Agentes Políticos",
+        "descricaoHierarquia": "Administração Pública / Agentes Públicos / Agentes Políticos"
+      },
+      {
+        "codigo": 33769077,
+        "descricao": "Poder Judiciário",
+        "descricaoHierarquia": "Organização do Estado / Poder Judiciário"
+      },
+      {
+        "codigo": 33805707,
+        "descricao": "Direito Eleitoral",
+        "descricaoHierarquia": "Jurídico / Direito Eleitoral"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Astronauta Marcos Pontes",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6009,
+        "uf": "SP",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9114400,
+    "identificacaoProcessoInicial": "PLP 268/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-10-15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2319676,
+            "data": "2026-10-15 10:20:36",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 268/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10330730,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260808405934",
+                "descricao": "-",
+                "data": "2026-10-15T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/788c603c-26fa-407f-847a-3619b5127d4a"
+              },
+              {
+                "id": 10330725,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 268/2026",
+                "descricao": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para tornar inelegíveis, pelo prazo de 8 (oito) anos contados do afastamento, os que tenham ocupado o cargo de Ministro do Supremo Tribunal Federal.",
+                "data": "2026-10-15T10:20:14",
+                "autoria": "Senador Astronauta Marcos Pontes (PL/SP)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f7d2a5b1-a10c-46ec-8277-1a1414bbbb51"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-10-26T15:15:20.261000"
+  }
+}

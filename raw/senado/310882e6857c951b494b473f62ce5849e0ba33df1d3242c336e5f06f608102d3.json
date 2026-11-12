@@ -1,0 +1,205 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9064862",
+  "data": {
+    "id": 9064862,
+    "codigoMateria": 174647,
+    "identificacao": "PLP 174/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "174",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7661518,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Institui a Região Integrada de Desenvolvimento do Araguaia-Xingu – RIDE Araguaia-Xingu e cria o Programa Especial de Desenvolvimento do Araguaia-Xingu.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10246049,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-06-15",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  AUTORIZAÇÃO ,  EXECUTIVO ,  INTEGRAÇÃO ,  REGIÃO ,  DESENVOLVIMENTO ,  ARAGUAIA ,  XINGU ,  AMBITO ,  MUNICIPIO ,  JACAREACANGA (PA) ,  NOVO PROGRESSO (PA) ,  ALTAMIRA (PA) ,  SÃO FELIX DO XINGU (PA) ,  CUMARU DO NORTE (PA) ,  SANTANA DO ARAGUAIA (PA) ,  SANTA TEREZINHA (MT) ,  SANTA CRUZ DO XINGU (MT) ,  VILA RICA (MT) ,  PEIXOTO DE AZEVEDO (MT) ,  GUARANTÃ DO NORTE (MT) ,  PARANAITA (MT) ,  ALTA FLORESTA (MT) ,  MATUPA (MT) ,  NOVO MUNDO (MT) ,  OBJETIVO ,  ARTICULAÇÃO ,  AÇÃO ADMINISTRATIVA ,  UNIÃO FEDERAL ,  ESTADO DE MATO GROSSO (MT) ,  ESTADO DO PARA (PA) ,  MUNICIPIOS ,  PARTICIPANTE ,  DETERMINAÇÃO ,  EXECUÇÃO ,  PROGRAMA ESPECIAL ,  DESENVOLVIMENTO REGIONAL ,  REDUÇÃO ,  DESIGUALDADE REGIONAL ,  COORDENAÇÃO ,  ATIVIDADE ,  CONSELHO ADMINISTRATIVO ,  COMPOSIÇÃO ,  COMPETENCIA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/3cdfe2eb-ff4d-4d81-83dc-bc9b4c7ad080",
+      "autoria": [
+        {
+          "autor": "Wellington Fagundes",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 1173,
+          "uf": "MT",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        },
+        {
+          "autor": "Zequinha Marinho",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 2,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 3806,
+          "uf": "PA",
+          "siglaPartido": "PODE",
+          "partido": "Podemos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Wellington Fagundes (PL/MT), Senador Zequinha Marinho (PODEMOS/PA)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-06-15",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-15",
+    "classificacoes": [
+      {
+        "codigo": 33805047,
+        "descricao": "Desenvolvimento Regional",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Desenvolvimento Regional"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Wellington Fagundes",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 1173,
+        "uf": "MT",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      },
+      {
+        "autor": "Zequinha Marinho",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 2,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 3806,
+        "uf": "PA",
+        "siglaPartido": "PODE",
+        "partido": "Podemos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9064862,
+    "identificacaoProcessoInicial": "PLP 174/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2291449,
+            "data": "2026-06-15 12:59:35",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 174/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10246072,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF268436322006",
+                "descricao": "-",
+                "data": "2026-06-15T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9f0f100d-aade-4c95-b6f0-3e4f3cd81338"
+              },
+              {
+                "id": 10246049,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 174/2026",
+                "descricao": "Institui a Região Integrada de Desenvolvimento do Araguaia-Xingu – RIDE Araguaia-Xingu e cria o Programa Especial de Desenvolvimento do Araguaia-Xingu.",
+                "data": "2026-06-15T12:59:20",
+                "autoria": "Senador Wellington Fagundes (PL/MT), Senador Zequinha Marinho (PODEMOS/PA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3cdfe2eb-ff4d-4d81-83dc-bc9b4c7ad080"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-19T16:15:04.007000"
+  }
+}

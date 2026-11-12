@@ -1,0 +1,359 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9000000",
+  "data": {
+    "id": 9000000,
+    "codigoMateria": 172842,
+    "identificacao": "PLP 39/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "39",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7646663,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Regulamenta a ordem de pagamento dos precatórios, de forma a defender os mais vulneráveis; os idosos, os portadores de doença grave, as pessoas com deficiência, os povos originários, as mulheres vítimas de violência doméstica e os integrantes da agricultura familiar, com base no art. 100, § 15.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10165318,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-03-02",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  REGULAMENTAÇÃO ,  CONSTITUIÇÃO FEDERAL ,  CRITERIOS ,  ORDEM ,  PAGAMENTO ,  PRECATORIO ,  PRIORIDADE ,  PESSOAS ,  VULNERABILIDADE ,  PESSOA IDOSA ,  PORTADOR ,  DOENÇA GRAVE ,  PESSOA COM DEFICIENCIA ,  MULHER ,  VITIMA ,  VIOLENCIA DOMESTICA ,  AGRICULTOR ,  AGRICULTURA FAMILIAR ,  INDIO ,  QUILOMBOLA ,  REQUISIÇÃO DE PEQUENO VALOR (RPV) .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/66156029-d94a-47b3-bd18-d46ad867802e",
+      "autoria": [
+        {
+          "autor": "Mecias de Jesus",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 6027,
+          "uf": "RR",
+          "siglaPartido": "REPUBLICANOS",
+          "partido": "Republicanos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Mecias de Jesus (REPUBLICANOS/RR)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-03-02",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-05",
+    "classificacoes": [
+      {
+        "codigo": 33769077,
+        "descricao": "Poder Judiciário",
+        "descricaoHierarquia": "Organização do Estado / Poder Judiciário"
+      },
+      {
+        "codigo": 33804805,
+        "descricao": "Dívida Pública",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas / Dívida Pública"
+      },
+      {
+        "codigo": 33809378,
+        "descricao": "Idosos",
+        "descricaoHierarquia": "Política Social / Proteção Social / Idosos"
+      },
+      {
+        "codigo": 33809423,
+        "descricao": "Pessoas com Deficiência",
+        "descricaoHierarquia": "Política Social / Proteção Social / Pessoas com Deficiência"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Mecias de Jesus",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6027,
+        "uf": "RR",
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9000000,
+    "identificacaoProcessoInicial": "PLP 39/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10342255,
+        "data": "2026-11-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9120257,
+          "numero": 1,
+          "data": "2026-11-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9121664,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 834,
+                  "sigla": "CDH",
+                  "casa": "SF",
+                  "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 834,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CDH",
+        "nomeColegiadoControleAtual": "Comissão de Direitos Humanos e Legislação Participativa",
+        "idEnteControleAtual": 55302,
+        "siglaEnteControleAtual": "SACDH",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-03-02",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-04",
+            "fim": "2026-11-05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-05",
+            "colegiado": {
+              "codigo": 834,
+              "casa": "SF",
+              "sigla": "CDH",
+              "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "enteAdministrativo": {
+              "id": 55302,
+              "casa": "SF",
+              "sigla": "SACDH",
+              "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2275342,
+            "data": "2026-03-02 18:42:35",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 39/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10165341,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266055618576",
+                "descricao": "-",
+                "data": "2026-03-02T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/28c7d62f-11a3-4ff3-b126-ee7ad0569d18"
+              },
+              {
+                "id": 10165318,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 39/2026",
+                "descricao": "Regulamenta a ordem de pagamento dos precatórios, de forma a defender os mais vulneráveis; os idosos, os portadores de doença grave, as pessoas com deficiência, os povos originários, as mulheres vítimas de violência doméstica e os integrantes da agricultura familiar, com base no art. 100, § 15.",
+                "data": "2026-03-02T18:42:21",
+                "autoria": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/66156029-d94a-47b3-bd18-d46ad867802e"
+              }
+            ]
+          },
+          {
+            "id": 2323484,
+            "data": "2026-11-04 17:48:12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai à CDH e à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2324004,
+            "data": "2026-11-05 13:16:13",
+            "colegiado": {
+              "codigo": 834,
+              "casa": "SF",
+              "sigla": "CDH",
+              "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "enteAdministrativo": {
+              "id": 55302,
+              "casa": "SF",
+              "sigla": "SACDH",
+              "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "descricao": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10341788,
+            "dataEnvio": "2026-11-04 15:58:16",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-04 17:48:09",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10342363,
+            "dataEnvio": "2026-11-04 18:06:13",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-05 13:16:03",
+            "enteDestino": {
+              "id": 55302,
+              "casa": "SF",
+              "sigla": "SACDH",
+              "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "colegiadoDestino": {
+              "codigo": 834,
+              "casa": "SF",
+              "sigla": "CDH",
+              "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-06T08:16:22.532000"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "dados": [
+    {
+      "id": 2649422,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649422",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 275,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF).",
+      "dataApresentacao": "2026-10-28T17:49"
+    },
+    {
+      "id": 2649538,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 276,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer prazo para o julgamento definitivo dos processos relativos à elegibilidade de candidatas e candidatos.",
+      "dataApresentacao": "2026-10-29T12:41"
+    },
+    {
+      "id": 2649647,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 277,
+      "ano": 2026,
+      "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, condicionando a realização de despesas com shows e eventos artísticos pelos entes da Federação à quitação da folha de pagamento de pessoal e dos encargos previdenciários e ao cumprimento dos mínimos constitucionais em saúde e educação, e exige a transparência prévia dessas contratações.",
+      "dataApresentacao": "2026-10-30T09:41"
+    },
+    {
+      "id": 2649648,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 278,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino.",
+      "dataApresentacao": "2026-10-30T10:01"
+    },
+    {
+      "id": 2649667,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 279,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições",
+      "dataApresentacao": "2026-10-30T15:58"
+    },
+    {
+      "id": 2649712,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 280,
+      "ano": 2026,
+      "ementa": "Altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001.",
+      "dataApresentacao": "2026-11-03T11:36"
+    },
+    {
+      "id": 2649733,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 281,
+      "ano": 2026,
+      "ementa": "Institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020",
+      "dataApresentacao": "2026-11-03T12:53"
+    },
+    {
+      "id": 2650684,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650684",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 283,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para incluir entre as causas de inelegibilidade a condenação por crime praticado mediante violência contra a mulher.",
+      "dataApresentacao": "2026-11-04T14:18"
+    },
+    {
+      "id": 2651228,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651228",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 285,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para autorizar que o aproveitamento de créditos relativos à Contribuição sobre Bens e Serviços (CBS) passíveis de ressarcimento ou restituição seja realizado mediante compensação com débitos relativos a tributos administrados pela Secretaria Especial da Receita Federal do Brasil.",
+      "dataApresentacao": "2026-11-05T16:19"
+    },
+    {
+      "id": 2651858,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651858",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 287,
+      "ano": 2026,
+      "ementa": "Exclui os investimentos públicos dos limites de despesas primárias e os protege da limitação de empenho e movimentação financeira no âmbito da União.",
+      "dataApresentacao": "2026-11-09T17:33"
+    },
+    {
+      "id": 2651866,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651866",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 288,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para ampliar o intervalo de tolerância para verificação do cumprimento das metas anuais de resultado primário da União.",
+      "dataApresentacao": "2026-11-09T18:30"
+    },
+    {
+      "id": 2652023,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652023",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 291,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 87, de 13 de setembro de 1996, para excluir da incidência do ICMS a energia elétrica injetada na rede por microgeração e minigeração distribuída e posteriormente compensada, e dá outras providências.",
+      "dataApresentacao": "2026-11-10T12:01"
+    },
+    {
+      "id": 2652026,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652026",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 292,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para ampliar o limite de emendas de bancada estadual ao projeto de lei orçamentária anual e excluir desse limite as emendas integralmente classificadas na modalidade de aplicação direta.",
+      "dataApresentacao": "2026-11-10T12:03"
+    },
+    {
+      "id": 2652227,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 293,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, a fim de dispor sobre a realização de despesas com eventos de entretenimento nos casos de não atingimento de indicadores mínimos de atendimento em saúde e educação.",
+      "dataApresentacao": "2026-11-10T17:05"
+    },
+    {
+      "id": 2652510,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 294,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir as alíquotas do Simples Nacional, instituir carência tributária para empresas nascentes, simplificar obrigações acessórias, estabelecer o respectivo mecanismo de compensação fiscal, e dar outras providências.",
+      "dataApresentacao": "2026-11-10T17:40"
+    },
+    {
+      "id": 2652512,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 295,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e a Lei nº 14.601, de 19 de junho de 2023, para instituir a Rampa de Emancipação Empreendedora, estabelecer salvaguardas assistenciais ao microempreendedorismo, estipular critérios de isonomia em compras públicas, instituir linhas de fomento creditício de inclusão produtiva, e dar outras providências.",
+      "dataApresentacao": "2026-11-10T17:42"
+    },
+    {
+      "id": 2652677,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 296,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Liberdade Econômica 2.0, aperfeiçoando as garantias da livre iniciativa e do livre exercício de atividades econômicas e alterando as Leis nº 13.874, de 20 de setembro de 2019, nº 11.598, de 3 de dezembro de 2007, nº 9.784, de 29 de janeiro de 1999, e nº 14.129, de 29 de março de 2021, e a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir a burocracia, ampliar a segurança jurídica, disciplinar prazos e simplificar procedimentos para o exercício de atividades econômicas.",
+      "dataApresentacao": "2026-11-10T21:26"
+    },
+    {
+      "id": 2652867,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652867",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 297,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes Fortunas.",
+      "dataApresentacao": "2026-11-11T12:14"
+    },
+    {
+      "id": 2652890,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 298,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para reduzir o crescimento real dos limites da despesa primária, altera a Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar da limitação de empenho e pagamento apenas as despesas que constituam obrigações constitucionais do ente, que constituam obrigações legais do ente relativas ao pagamento de pessoal e ao pagamento do serviço da dívida, relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, e as ressalvadas pela lei de diretrizes orçamentárias, e altera a Lei Complementar nº 235, de 27 de agosto de 2026, para vedar a contabilização, para efeito de cálculo de obrigações de programação de despesa previstas em legislação específica, indexadas ao disposto no inciso IV do art. 2º da Lei Complementar nº 101, de 4 de maio de 2000, da receita de que trata o art. 46 da Lei nº 12.351, de 22 de dezembro de 2010, observadas as vinculações da referida lei.",
+      "dataApresentacao": "2026-11-11T15:07"
+    },
+    {
+      "id": 2652977,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 300,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento.",
+      "dataApresentacao": "2026-11-11T16:55"
+    },
+    {
+      "id": 2652992,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992",
+      "siglaTipo": "PLP",
+      "codTipo": 140,
+      "numero": 301,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015.",
+      "dataApresentacao": "2026-11-11T17:39"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PLP&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&itens=100&ordem=ASC&ordenarPor=id"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PLP&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PLP&dataApresentacaoInicio=2026-10-28&dataApresentacaoFim=2026-11-11&ordem=ASC&ordenarPor=id&pagina=1&itens=100"
+    }
+  ]
+}

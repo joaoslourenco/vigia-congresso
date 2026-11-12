@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649712,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 280,
+    "ano": 2026,
+    "ementa": "Altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001.",
+    "dataApresentacao": "2026-11-03T11:36",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-03T11:36",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 280/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Valadares (PL/SE), que \"Altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Lei do Sigilo Bancário (2001); critério; Compartilhamento de dados; Informação sigilosa; Instituição financeira; Bolsa de valores; Mercado de balcão organizado; Entidade Privada de Autorregulação (EPA)",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187978",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712"
+    }
+  ]
+}

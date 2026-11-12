@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649538,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 276,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer prazo para o julgamento definitivo dos processos relativos à elegibilidade de candidatas e candidatos.",
+    "dataApresentacao": "2026-10-29T12:41",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-10-29T12:41",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 276/2026 (Projeto de Lei Complementar), pelo Deputado Chico Alencar (PSOL/RJ -Fdr PSOL-REDE), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer prazo para o julgamento definitivo dos processos relativos à elegibilidade de candidatas e candidatos\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Lei das Inelegibilidades (1990); Prazo; julgamento; Elegibilidade; Candidato; Registro da candidatura; Tribunal Superior Eleitoral (TSE)",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187516",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649538"
+    }
+  ]
+}

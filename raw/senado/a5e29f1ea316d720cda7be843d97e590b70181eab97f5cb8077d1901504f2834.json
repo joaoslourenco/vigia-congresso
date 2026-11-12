@@ -1,0 +1,418 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8993995",
+  "data": {
+    "id": 8993995,
+    "codigoMateria": 172685,
+    "identificacao": "PLP 27/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "27",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7645629,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar transferências voluntárias da União destinadas ao custeio de shows e eventos festivos de entretenimento, sem prejuízo das políticas públicas culturais e turísticas, e para reforçar os mecanismos de transparência e controle nas transferências voluntárias.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10158260,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-13",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  PROIBIÇÃO ,  TRANSFERENCIA ,  UNIÃO FEDERAL ,  DESTINAÇÃO ,  CUSTEIO ,  EVENTO ,  ESPETACULO PUBLICO ,  RESSALVA ,  POLITICAS PUBLICAS ,  CULTURA ,  TURISMO ,  REFORÇO ,  DIVULGAÇÃO ,  INFORMAÇÕES ,  TRANSPARENCIA ,  CONTROLE .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/9731917e-59b7-413f-8142-e98d80cf87f6",
+      "autoria": [
+        {
+          "autor": "Eduardo Girão",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5976,
+          "uf": "CE",
+          "siglaPartido": "NOVO",
+          "partido": "Partido Novo",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Eduardo Girão (NOVO/CE)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-13",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-09",
+    "classificacoes": [
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      },
+      {
+        "codigo": 33805857,
+        "descricao": "Execução Financeira e Orçamentária",
+        "descricaoHierarquia": "Orçamento Público / Orçamento Anual / Execução Financeira e Orçamentária"
+      },
+      {
+        "codigo": 33808987,
+        "descricao": "Cultura",
+        "descricaoHierarquia": "Política Social / Cultura"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Eduardo Girão",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5976,
+        "uf": "CE",
+        "siglaPartido": "NOVO",
+        "partido": "Partido Novo",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8993995,
+    "identificacaoProcessoInicial": "PLP 27/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "processosApensados": [
+      {
+        "id": 8991481,
+        "identificacao": "PL 370/2026",
+        "tramitando": "Sim",
+        "tipoApensamento": "Tramitação conjunta",
+        "dataApensamento": "2026-11-04"
+      },
+      {
+        "id": 8991481,
+        "identificacao": "PL 370/2026",
+        "tramitando": "Sim",
+        "tipoApensamento": "Tramitação conjunta",
+        "dataApensamento": "2026-11-04",
+        "dataDesapensamento": "2026-11-05"
+      }
+    ],
+    "despachos": [
+      {
+        "id": 10342412,
+        "data": "2026-11-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "colegiado": {}
+        },
+        "providencias": [
+          {
+            "id": 9121870,
+            "tipo": "TRAMITACAO_CONJUNTA",
+            "descricao": "Tramitação Conjunta",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": null
+          },
+          {
+            "id": 9121872,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 3,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 47,
+                  "sigla": "CE",
+                  "casa": "SF",
+                  "nome": "Comissão de Educação e Cultura"
+                }
+              },
+              {
+                "ordem": 3,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 34,
+                  "sigla": "CCJ",
+                  "casa": "SF",
+                  "nome": "Comissão de Constituição, Justiça e Cidadania"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 38,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAE",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Econômicos",
+        "idEnteControleAtual": 13530,
+        "siglaEnteControleAtual": "SACAE",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Econômicos",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-13",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-04",
+            "fim": "2026-11-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-09",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2273630,
+            "data": "2026-02-13 20:57:36",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 27/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10158266,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF261023906850",
+                "descricao": "-",
+                "data": "2026-02-13T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a475c7d7-85b0-4277-ae37-3692b6e06b29"
+              },
+              {
+                "id": 10158260,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 27/2026",
+                "descricao": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar transferências voluntárias da União destinadas ao custeio de shows e eventos festivos de entretenimento, sem prejuízo das políticas públicas culturais e turísticas, e para reforçar os mecanismos de transparência e controle nas transferências voluntárias.",
+                "data": "2026-02-13T20:57:16",
+                "autoria": "Senador Eduardo Girão (NOVO/CE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9731917e-59b7-413f-8142-e98d80cf87f6"
+              }
+            ]
+          },
+          {
+            "id": 2323726,
+            "data": "2026-11-04 18:24:06",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta do Projeto de Lei nº 370, de 2026 e Projeto de Lei Complementar nº 27, de 2026, por tratarem de tema correlato. \nAs matérias passam a tramitar em conjunto e vão ao exame da Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Educação e Cultura, e à Comissão de Constituição, Justiça e Cidadania. ",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2323726,
+            "data": "2026-11-04 18:24:06",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta do Projeto de Lei nº 370, de 2026 e Projeto de Lei Complementar nº 27, de 2026, por tratarem de tema correlato. \nAs matérias passam a tramitar em conjunto e vão ao exame da Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Educação e Cultura, e à Comissão de Constituição, Justiça e Cidadania. ",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2324875,
+            "data": "2026-11-09 08:57:22",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          },
+          {
+            "id": 2324875,
+            "data": "2026-11-09 08:57:22",
+            "colegiado": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            },
+            "enteAdministrativo": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10341887,
+            "dataEnvio": "2026-11-04 16:25:47",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-04 18:19:28",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10345530,
+            "dataEnvio": "2026-11-07 06:21:10",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-09 08:48:13",
+            "enteDestino": {
+              "id": 13530,
+              "casa": "SF",
+              "sigla": "SACAE",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Econômicos"
+            },
+            "colegiadoDestino": {
+              "codigo": 38,
+              "casa": "SF",
+              "sigla": "CAE",
+              "nome": "Comissão de Assuntos Econômicos"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-09T11:45:28.369000"
+  }
+}

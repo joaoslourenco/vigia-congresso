@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9104876",
+  "data": {
+    "id": 9104876,
+    "codigoMateria": 175719,
+    "identificacao": "PLP 247/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "247",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7670613,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 227, de 13 de janeiro de 2026, para estabelecer diretrizes nacionais para que os Estados e o Distrito Federal autorizem a instituição de regime de isenção condicionada do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) incidente sobre a transmissão de participações societárias em empresas familiares produtivas.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10313248,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-09-02",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  CRITERIOS ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  ISENÇÃO FISCAL ,  IMPOSTO SOBRE A TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE QUAISQUER BENS OU DIREITOS (ITCMD) ,  HIPOTESE ,  TRANSFERENCIA ,  CAUSA MORTIS ,  DOAÇÃO ,  QUOTAS ,  AÇÕES ,  PARTICIPAÇÃO ,  SOCIO ,  EMPRESA ,  FAMILIA ,  REQUISITOS ,  BENEFICIARIO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/7fddd79b-9b99-4099-bbe1-0e77d9e9f8a2",
+      "autoria": [
+        {
+          "autor": "Esperidião Amin",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 22,
+          "uf": "SC",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Esperidião Amin (PP/SC)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-09-02",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-09-02",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Esperidião Amin",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 22,
+        "uf": "SC",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9104876,
+    "identificacaoProcessoInicial": "PLP 247/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-09-02",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2312443,
+            "data": "2026-09-02 20:42:20",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 247/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10313254,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF261415078900",
+                "descricao": "-",
+                "data": "2026-09-02T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/adbe5fbc-b60d-4b29-828b-4b6230a8439e"
+              },
+              {
+                "id": 10313248,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 247/2026",
+                "descricao": "Altera a Lei Complementar nº 227, de 13 de janeiro de 2026, para estabelecer diretrizes nacionais para que os Estados e o Distrito Federal autorizem a instituição de regime de isenção condicionada do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) incidente sobre a transmissão de participações societárias em empresas familiares produtivas.",
+                "data": "2026-09-02T20:41:54",
+                "autoria": "Senador Esperidião Amin (PP/SC)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7fddd79b-9b99-4099-bbe1-0e77d9e9f8a2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-09-16T18:45:47.903000"
+  }
+}

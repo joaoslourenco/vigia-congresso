@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649733,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 281,
+    "ano": 2026,
+    "ementa": "Institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020",
+    "dataApresentacao": "2026-11-03T12:53",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-03T12:53",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 281/2026 (Projeto de Lei Complementar), pelo Deputado Baleia Rossi (MDB/SP), que \"Institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Lei complementar; Lei federal; Tributação; parcelamento; Repactuação; Débito tributário; Fundo de Garantia do Tempo de Serviço (FGTS); Santa Casa de Misericórdia; Hospital filantrópico; Entidade beneficente; Sistema Único de Saúde (SUS); Certificado de Entidade Beneficente de Assistência Social (Cebas)",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3188071",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733"
+    }
+  ]
+}

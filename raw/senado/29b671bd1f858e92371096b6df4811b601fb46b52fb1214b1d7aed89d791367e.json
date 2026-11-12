@@ -1,0 +1,359 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9011510",
+  "data": {
+    "id": 9011510,
+    "codigoMateria": 173062,
+    "identificacao": "PLP 58/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "58",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7649551,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei nº 9.717, de 27 de novembro de 1998, para aperfeiçoar as regras gerais de organização e funcionamento dos Regimes Próprios de Previdência Social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, estabelecer obrigatoriedade de equacionamento de déficit atuarial, reforçar mecanismos de arrecadação e governança, e aprimorar os instrumentos de regulação e supervisão.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10179894,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-03-16",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  DIRETRIZES GERAIS ,  ORGANIZAÇÃO ,  FUNCIONAMENTO ,  REGIME PROPRIO DE PREVIDENCIA SOCIAL (RPPS) ,  SERVIDOR PUBLICO CIVIL ,  AMBITO ,  UNIÃO FEDERAL ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  FIXAÇÃO ,  OBRIGATORIEDADE ,  EQUILIBRIO ,  DEFICIT ,  REFORÇO ,  ARRECADAÇÃO ,  GOVERNANÇA PUBLICA ,  INSTRUMENTO ,  REGULAÇÃO ,  SUPERVISÃO ,  REALIZAÇÃO ,  AVALIAÇÃO ,  EXERCICIO FINANCEIRO ,  OBRIGAÇÕES ,  FUTURO ,  CRITERIOS ,  PREVISÃO ,  COMPETENCIA ,  ENTIDADE ,  GESTÃO ,  ADMINISTRAÇÃO ,  OPERAÇÃO ,  FUNDOS ,  COMPOSIÇÃO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/bf58a292-acdd-4be9-a7af-5118f11dfdeb",
+      "autoria": [
+        {
+          "autor": "Jorge Kajuru",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5895,
+          "uf": "GO",
+          "siglaPartido": "PSB",
+          "partido": "Partido Socialista Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Jorge Kajuru (PSB/GO)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-03-16",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-05",
+    "classificacoes": [
+      {
+        "codigo": 33804820,
+        "descricao": "Fundos Públicos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas / Fundos Públicos"
+      },
+      {
+        "codigo": 33809258,
+        "descricao": "Regimes Próprios de Previdência Social",
+        "descricaoHierarquia": "Política Social / Previdência Social / Regimes Próprios de Previdência Social"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Jorge Kajuru",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5895,
+        "uf": "GO",
+        "siglaPartido": "PSB",
+        "partido": "Partido Socialista Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9011510,
+    "identificacaoProcessoInicial": "PLP 58/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10342257,
+        "data": "2026-11-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9120257,
+          "numero": 1,
+          "data": "2026-11-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9121670,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1956,
+                  "sigla": "CTFC",
+                  "casa": "SF",
+                  "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              },
+              {
+                "ordem": 3,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1956,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CTFC",
+        "nomeColegiadoControleAtual": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+        "idEnteControleAtual": 5225770,
+        "siglaEnteControleAtual": "SACTFC",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-03-16",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-04",
+            "fim": "2026-11-05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-05",
+            "colegiado": {
+              "codigo": 1956,
+              "casa": "SF",
+              "sigla": "CTFC",
+              "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+            },
+            "enteAdministrativo": {
+              "id": 5225770,
+              "casa": "SF",
+              "sigla": "SACTFC",
+              "nome": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2277910,
+            "data": "2026-03-16 10:27:53",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 58/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10179940,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260487965084",
+                "descricao": "-",
+                "data": "2026-03-16T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/09f9e05b-f75d-42c9-a900-cf731676984e"
+              },
+              {
+                "id": 10179894,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 58/2026",
+                "descricao": "Altera a Lei nº 9.717, de 27 de novembro de 1998, para aperfeiçoar as regras gerais de organização e funcionamento dos Regimes Próprios de Previdência Social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, estabelecer obrigatoriedade de equacionamento de déficit atuarial, reforçar mecanismos de arrecadação e governança, e aprimorar os instrumentos de regulação e supervisão.",
+                "data": "2026-03-16T10:23:07",
+                "autoria": "Senador Jorge Kajuru (PSB/GO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bf58a292-acdd-4be9-a7af-5118f11dfdeb"
+              }
+            ]
+          },
+          {
+            "id": 2323485,
+            "data": "2026-11-04 17:49:13",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai à CTFC, à CAS e à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2324017,
+            "data": "2026-11-05 13:57:13",
+            "colegiado": {
+              "codigo": 1956,
+              "casa": "SF",
+              "sigla": "CTFC",
+              "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+            },
+            "enteAdministrativo": {
+              "id": 5225770,
+              "casa": "SF",
+              "sigla": "SACTFC",
+              "nome": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+            },
+            "descricao": "Recebido na CTFC.\nA matéria aguarda designação de relator.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10341790,
+            "dataEnvio": "2026-11-04 15:58:42",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-04 17:49:06",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10342338,
+            "dataEnvio": "2026-11-04 18:07:13",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-05 13:57:07",
+            "enteDestino": {
+              "id": 5225770,
+              "casa": "SF",
+              "sigla": "SACTFC",
+              "nome": "Secretaria de Apoio à Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+            },
+            "colegiadoDestino": {
+              "codigo": 1956,
+              "casa": "SF",
+              "sigla": "CTFC",
+              "nome": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-05T14:07:08.538000"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dados": [
+    {
+      "dataHora": "2026-11-05T16:19",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 285/2026 (Projeto de Lei Complementar), pelo Deputado Julio Cesar Ribeiro (REPUBLIC/DF), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para autorizar que o aproveitamento de créditos relativos à Contribuição sobre Bens e Serviços (CBS) passíveis de ressarcimento ou restituição seja realizado mediante compensação com débitos relativos a tributos administrados pela Secretaria Especial da Receita Federal do Brasil. \".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3190674",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651228/tramitacoes"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2652512,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 295,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e a Lei nº 14.601, de 19 de junho de 2023, para instituir a Rampa de Emancipação Empreendedora, estabelecer salvaguardas assistenciais ao microempreendedorismo, estipular critérios de isonomia em compras públicas, instituir linhas de fomento creditício de inclusão produtiva, e dar outras providências.",
+    "dataApresentacao": "2026-11-10T17:42",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-10T17:42",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": null,
+      "codSituacao": null,
+      "despacho": "Apresentação do PLP n. 295/2026 (Projeto de Lei Complementar), pelo Deputado Mauricio Neves (PP/SP), que \"Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e a Lei nº 14.601, de 19 de junho de 2023, para instituir a Rampa de Emancipação Empreendedora, estabelecer salvaguardas assistenciais ao microempreendedorismo, estipular critérios de isonomia em compras públicas, instituir linhas de fomento creditício de inclusão produtiva, e dar outras providências\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (2006); Lei do Programa Bolsa Família (2023); preservação; Bolsa Família; Beneficiário; Vulnerabilidade social; Microempreendedor Individual (MEI); transição; Inclusão produtiva; Empreendedorismo; Contratação pública; Linha de crédito; Microempresa; Pequena empresa",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193158",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652512"
+    }
+  ]
+}

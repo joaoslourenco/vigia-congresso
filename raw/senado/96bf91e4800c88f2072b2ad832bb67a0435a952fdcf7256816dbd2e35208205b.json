@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8994396",
+  "data": {
+    "id": 8994396,
+    "codigoMateria": 172706,
+    "identificacao": "PLP 30/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "30",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7645700,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Disciplina o Fundo Garantidor de Créditos (FGC), estabelece medidas prudenciais preventivas contra a alavancagem excessiva com base no FGC e disciplina a qualidade do capital regulamentar das instituições financeiras.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10158969,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-19",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  DISCIPLINA ,  FUNDO GARANTIDOR DE CREDITO (FGC) ,  FIXAÇÃO ,  MEDIDA PREVENTIVA ,  EXCESSO ,  FINANCIAMENTO ,  QUALIDADE ,  CAPITAL MINIMO ,  REGULAMENTAÇÃO ,  INSTITUIÇÃO FINANCEIRA ,  COMPETENCIA ,  CONSELHO MONETARIO NACIONAL (CMN) ,  DIRETRIZES GERAIS .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/9f07d66f-7226-4020-a11d-f1065a9eac76",
+      "autoria": [
+        {
+          "autor": "Renan Calheiros",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 70,
+          "uf": "AL",
+          "siglaPartido": "MDB",
+          "partido": "Movimento Democrático Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Renan Calheiros (MDB/AL)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-19",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-02-19",
+    "classificacoes": [
+      {
+        "codigo": 33769191,
+        "descricao": "Sistema Financeiro Nacional",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Sistema Financeiro Nacional"
+      },
+      {
+        "codigo": 33805017,
+        "descricao": "Fiscalização e Controle da Atividade Econômica",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Fiscalização e Controle da Atividade Econômica"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Renan Calheiros",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 70,
+        "uf": "AL",
+        "siglaPartido": "MDB",
+        "partido": "Movimento Democrático Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8994396,
+    "identificacaoProcessoInicial": "PLP 30/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-19",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2273726,
+            "data": "2026-02-19 17:03:12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 30/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10159004,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF269604514480",
+                "descricao": "-",
+                "data": "2026-02-19T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/15ea46b9-0432-4503-8cb1-a361de858200"
+              },
+              {
+                "id": 10158969,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 30/2026",
+                "descricao": "Disciplina o Fundo Garantidor de Créditos (FGC), estabelece medidas prudenciais preventivas contra a alavancagem excessiva com base no FGC e disciplina a qualidade do capital regulamentar das instituições financeiras.",
+                "data": "2026-02-19T17:02:57",
+                "autoria": "Senador Renan Calheiros (MDB/AL)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9f07d66f-7226-4020-a11d-f1065a9eac76"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-09-01T07:31:48.811000"
+  }
+}

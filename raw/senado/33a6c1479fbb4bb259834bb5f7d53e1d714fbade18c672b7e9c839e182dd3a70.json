@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9119724",
+  "data": {
+    "id": 9119724,
+    "codigoMateria": 176169,
+    "identificacao": "PLP 282/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "282",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7673817,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir a verificação anual de excesso de arrecadação da Contribuição sobre Bens e Serviços (CBS) e assegurar a transparência do cálculo das alíquotas de referência.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10339462,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-11-03",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  CONFERENCIA ,  ANO ,  EXCESSO DE ARRECADAÇÃO ,  Contribuição Social sobre Bens e Serviços (CBS) ,  DEVOLUÇÃO ,  GARANTIA ,  PUBLICIDADE ,  CALCULO ,  ALIQUOTA ,  REFERENCIA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/6605d34c-04fb-4f56-b534-a6a1620d9d41",
+      "autoria": [
+        {
+          "autor": "Izalci Lucas",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 4770,
+          "uf": "DF",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Izalci Lucas (PL/DF)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-11-03",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-11-03",
+    "classificacoes": [
+      {
+        "codigo": 33805002,
+        "descricao": "Administração Tributária",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Administração Tributária"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Izalci Lucas",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4770,
+        "uf": "DF",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9119724,
+    "identificacaoProcessoInicial": "PLP 282/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-11-03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2322896,
+            "data": "2026-11-03 15:45:18",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 282/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10339442,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266508769698",
+                "descricao": "-",
+                "data": "2026-11-03T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1b9ff727-9b1d-4c98-98a6-d65c404f4080"
+              },
+              {
+                "id": 10339462,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 282/2026",
+                "descricao": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir a verificação anual de excesso de arrecadação da Contribuição sobre Bens e Serviços (CBS) e assegurar a transparência do cálculo das alíquotas de referência.",
+                "data": "2026-11-03T15:41:47",
+                "autoria": "Senador Izalci Lucas (PL/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6605d34c-04fb-4f56-b534-a6a1620d9d41"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "ALTERACAO_GERAL",
+    "dthUltimaAtualizacao": "2026-11-04T14:06:22.603000"
+  }
+}

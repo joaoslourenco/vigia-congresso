@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9109525",
+  "data": {
+    "id": 9109525,
+    "codigoMateria": 175827,
+    "identificacao": "PLP 260/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "260",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7671682,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 222, de 26 de novembro de 2025, para prever tratamento prioritário, reserva mínima de recursos incentivados e critérios de desconcentração para projetos estruturantes destinados à promoção, ao desenvolvimento e à ampliação da prática esportiva por mulheres.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10322494,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-09-21",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  INCENTIVO FISCAL ,  ESPORTE ,  AMBITO ,  UNIÃO FEDERAL ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  MUNICIPIOS ,  TRIBUTOS ,  IMPOSTO DE RENDA ,  IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS (ICMS) ,  IMPOSTO SOBRE SERVIÇO (ISS) ,  CRITERIOS ,  ABRANGENCIA ,  PRIORIDADE ,  INCENTIVO ,  PROJETO ,  PRATICA ESPORTIVA ,  MULHER ,  FIXAÇÃO ,  PERCENTAGEM ,  RENUNCIA ,  RECEITA TRIBUTARIA ,  OBRIGATORIEDADE ,  DESTINAÇÃO ,  ESPORTE FEMININO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/234939c1-cf81-402a-915b-3c9070771a86",
+      "autoria": [
+        {
+          "autor": "Eduardo Gomes",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 3777,
+          "uf": "TO",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Eduardo Gomes (PL/TO)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-09-21",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-09-21",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33809017,
+        "descricao": "Desporto e Lazer",
+        "descricaoHierarquia": "Política Social / Desporto e Lazer"
+      },
+      {
+        "codigo": 33809408,
+        "descricao": "Mulheres",
+        "descricaoHierarquia": "Política Social / Proteção Social / Mulheres"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Eduardo Gomes",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 3777,
+        "uf": "TO",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9109525,
+    "identificacaoProcessoInicial": "PLP 260/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-09-21",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2316196,
+            "data": "2026-09-21 15:39:00",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 260/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10322500,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF264378938610",
+                "descricao": "-",
+                "data": "2026-09-21T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a80a6171-651a-4e9b-97bb-86e0166d6736"
+              },
+              {
+                "id": 10322494,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 260/2026",
+                "descricao": "Altera a Lei Complementar nº 222, de 26 de novembro de 2025, para prever tratamento prioritário, reserva mínima de recursos incentivados e critérios de desconcentração para projetos estruturantes destinados à promoção, ao desenvolvimento e à ampliação da prática esportiva por mulheres.",
+                "data": "2026-09-21T15:38:10",
+                "autoria": "Senador Eduardo Gomes (PL/TO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/234939c1-cf81-402a-915b-3c9070771a86"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-09-25T15:00:01.898000"
+  }
+}

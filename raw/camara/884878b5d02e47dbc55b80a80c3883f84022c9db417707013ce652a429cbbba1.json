@@ -1,0 +1,90 @@
+{
+  "dados": [
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676",
+      "nome": "Andreia Siqueira",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 4,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220528",
+      "nome": "Dr. Victor Linhalis",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 7,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160548",
+      "nome": "Jonas Donizette",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 1,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/139285",
+      "nome": "Lídice da Mata",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 8,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220662",
+      "nome": "Lucas Ramos",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 3,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220668",
+      "nome": "Maria Arraes",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 2,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160517",
+      "nome": "Paulo Folletto",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 5,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220667",
+      "nome": "Pedro Campos",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 6,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141533",
+      "nome": "Rodrigo Rollemberg",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 9,
+      "proponente": 1
+    },
+    {
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204534",
+      "nome": "Tabata Amaral",
+      "codTipo": 10000,
+      "tipo": "Deputado(a)",
+      "ordemAssinatura": 10,
+      "proponente": 1
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649648/autores"
+    }
+  ]
+}

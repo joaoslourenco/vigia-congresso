@@ -1,0 +1,26 @@
+{
+  "dados": [
+    {
+      "dataHora": "2026-11-10T12:01",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": null,
+      "codSituacao": null,
+      "despacho": "Apresentação do PLP n. 291/2026 (Projeto de Lei Complementar), pelo Deputado Rubens Pereira Júnior (PT/MA -Fdr PT-PCdoB-PV), que \"Altera a Lei Complementar nº 87, de 13 de setembro de 1996, para excluir da incidência do ICMS a energia elétrica injetada na rede por microgeração e minigeração distribuída e posteriormente compensada, e dá outras providências\".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3192452",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652023/tramitacoes"
+    }
+  ]
+}

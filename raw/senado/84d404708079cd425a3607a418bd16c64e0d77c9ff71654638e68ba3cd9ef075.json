@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9122817",
+  "data": {
+    "id": 9122817,
+    "codigoMateria": 176228,
+    "identificacao": "PLP 286/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "286",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7674346,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Institui a Lei de Credibilidade Fiscal, com trajetória plurianual de resultado primário de cumprimento certificado de forma independente, medidas de correção em caso de descumprimento e instrumentos de coordenação entre as políticas fiscal e monetária; e altera a Lei Complementar nº 200, de 30 de agosto de 2023, a Lei Complementar nº 101, de 4 de maio de 2000, a Lei nº 1.079, de 10 de abril de 1950, e a Lei nº 10.028, de 19 de outubro de 2000.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10344182,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-11-05",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  INCLUSÃO ,  HIPOTESE ,  CRIME DE RESPONSABILIDADE ,  TRANSFERENCIA VOLUNTARIA ,  LEI ORÇAMENTARIA ANUAL (LOA) . CRIAÇÃO ,  LEI COMPLEMENTAR ,  CREDIBILIDADE ,  META FISCAL ,  ACOMPANHAMENTO ,  RESULTADO ,  CERTIFICADO ,  CUMPRIMENTO ,  INSTITUIÇÃO FISCAL INDEPENDENTE (IFI) ,  PROVIDENCIA ,  CORRELAÇÃO ,  HIPOTESE ,  DESCUMPRIMENTO ,  DISCIPLINAMENTO ,  CRITERIOS ,  EQUIDADE ,  REGIÃO ,  REDUÇÃO ,  BENEFICIO ,  NATUREZA TRIBUTARIA ,  NATUREZA FINANCEIRA ,  NATUREZA CREDITICIA ,  INSTRUMENTO ,  TRANSPARENCIA ,  COORDENAÇÃO ,  POLITICA FISCAL ,  POLITICA MONETARIA ,  DEFINIÇÃO ,  CRIME DE RESPONSABILIDADE ,  INFRAÇÃO ADMINISTRATIVA . ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE DIRETRIZES ORÇAMENTARIAS (LDO) ,  CONTEUDO ,  META FISCAL ,  RESULTADO ,  COMPATIBILIDADE ,  ESTABILIZAÇÃO ,  DIVIDA PUBLICA ,  PRODUTO INTERNO BRUTO (PIB) ,  ESTAGIO ,  PROVIDENCIA ,  CORREÇÃO ,  HIPOTESE ,  DESCUMPRIMENTO ,  EQUIDADE ,  REGIÃO ,  EXECUTIVO ,  DEMONSTRAÇÃO ,  CUMPRIMENTO ,  RELATORIO ,  BIMESTRE ,  AVALIAÇÃO ,  INSTITUIÇÃO FISCAL INDEPENDENTE (IFI) ,  SUSPENSÃO ,  EXCEÇÃO ,  BENEFICIO DE PRESTAÇÃO CONTINUADA (BPC) ,  Programa Bolsa Família (2023) ,  EXCLUSÃO ,  INFRAÇÃO ,  AGENTE . ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  PROJETO DE LEI ORÇAMENTARIA ,  ANEXO ,  META FISCAL ,  INCLUSÃO ,  CONTEUDO ,  DOCUMENTO . ALTERAÇÃO ,  LEI FEDERAL ,  INCLUSÃO ,  INFRAÇÃO ADMINISTRATIVA ,  FINANÇAS PUBLICAS .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/054055cb-8d82-4312-8e7c-742156322907",
+      "autoria": [
+        {
+          "autor": "Alessandro Vieira",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5982,
+          "uf": "SE",
+          "siglaPartido": "MDB",
+          "partido": "Movimento Democrático Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Alessandro Vieira (MDB/SE)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-11-05",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-11-05",
+    "classificacoes": [
+      {
+        "codigo": 33260515,
+        "descricao": "Orçamento Público",
+        "descricaoHierarquia": "Orçamento Público"
+      },
+      {
+        "codigo": 33686000,
+        "descricao": "Crime de Responsabilidade",
+        "descricaoHierarquia": "Administração Pública / Agentes Públicos / Crime de Responsabilidade"
+      },
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Alessandro Vieira",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5982,
+        "uf": "SE",
+        "siglaPartido": "MDB",
+        "partido": "Movimento Democrático Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9122817,
+    "identificacaoProcessoInicial": "PLP 286/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-11-05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2324129,
+            "data": "2026-11-05 17:29:30",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 286/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10344189,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266377836578",
+                "descricao": "-",
+                "data": "2026-11-05T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/889a9d24-4c43-445a-8731-8398176c51e1"
+              },
+              {
+                "id": 10344182,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 286/2026",
+                "descricao": "Institui a Lei de Credibilidade Fiscal, com trajetória plurianual de resultado primário de cumprimento certificado de forma independente, medidas de correção em caso de descumprimento e instrumentos de coordenação entre as políticas fiscal e monetária; e altera a Lei Complementar nº 200, de 30 de agosto de 2023, a Lei Complementar nº 101, de 4 de maio de 2000, a Lei nº 1.079, de 10 de abril de 1950, e a Lei nº 10.028, de 19 de outubro de 2000.",
+                "data": "2026-11-05T17:29:17",
+                "autoria": "Senador Alessandro Vieira (MDB/SE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/054055cb-8d82-4312-8e7c-742156322907"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-11-11T15:01:24.790000"
+  }
+}

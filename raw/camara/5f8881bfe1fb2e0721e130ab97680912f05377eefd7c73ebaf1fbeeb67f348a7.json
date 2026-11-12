@@ -1,0 +1,26 @@
+{
+  "dados": [
+    {
+      "dataHora": "2026-10-30T15:58",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 279/2026 (Projeto de Lei Complementar), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições\".",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187884",
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667/tramitacoes"
+    }
+  ]
+}

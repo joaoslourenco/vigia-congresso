@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9079259",
+  "data": {
+    "id": 9079259,
+    "codigoMateria": 174996,
+    "identificacao": "PLP 199/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "199",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7664964,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos para os Corpos de Bombeiros Militares dos Estados e do Distrito Federal.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10268756,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-07",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  NORMAS ,  PROPOSIÇÃO ,  EXECUÇÃO ,  EMENDA PARLAMENTAR ,  DESPESA ,  AMBITO ,  LEI ORÇAMENTARIA ANUAL (LOA) ,  DESTINAÇÃO ,  ALIQUOTA MINIMA ,  EMENDA INDIVIDUAL ,  PROTEÇÃO ,  VIDA ,  DEFESA CIVIL ,  ATENDIMENTO ,  CORPO DE BOMBEIROS ,  BOMBEIRO MILITAR ,  ESTADOS ,  DISTRITO FEDERAL (DF) ,  ATIVIDADE ,  BUSCA E SALVAMENTO ,  RESGATE ,  PREVENÇÃO ,  RESPOSTA ,  DESASTRE ,  EVENTO ,  SEGURANÇA CLIMATICA ,  MUDANÇA CLIMATICA ,  INCENDIO ,  INUNDAÇÃO ,  SECA ,  PROIBIÇÃO ,  APLICAÇÃO DE RECURSOS ,  PAGAMENTO ,  PESSOAL ,  ENCARGO SOCIAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/22977e77-fb8d-4898-9ea9-26def6a76a65",
+      "autoria": [
+        {
+          "autor": "Humberto Costa",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5008,
+          "uf": "PE",
+          "siglaPartido": "PT",
+          "partido": "Partido dos Trabalhadores",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Humberto Costa (PT/PE)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-07",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-07",
+    "classificacoes": [
+      {
+        "codigo": 33260515,
+        "descricao": "Orçamento Público",
+        "descricaoHierarquia": "Orçamento Público"
+      },
+      {
+        "codigo": 33809453,
+        "descricao": "Calamidade Pública e Emergência Social",
+        "descricaoHierarquia": "Política Social / Proteção Social / Calamidade Pública e Emergência Social"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Humberto Costa",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5008,
+        "uf": "PE",
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9079259,
+    "identificacaoProcessoInicial": "PLP 199/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-07",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2297873,
+            "data": "2026-07-07 17:50:23",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 199/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10268763,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF264159657933",
+                "descricao": "-",
+                "data": "2026-07-07T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2001ad1d-7026-49bd-90ac-5e234fe0c160"
+              },
+              {
+                "id": 10268756,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 199/2026",
+                "descricao": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos para os Corpos de Bombeiros Militares dos Estados e do Distrito Federal.",
+                "data": "2026-07-07T17:49:53",
+                "autoria": "Senador Humberto Costa (PT/PE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/22977e77-fb8d-4898-9ea9-26def6a76a65"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-17T11:30:05.633000"
+  }
+}

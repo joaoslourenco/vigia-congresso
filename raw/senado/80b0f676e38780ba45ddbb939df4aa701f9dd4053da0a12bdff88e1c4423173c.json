@@ -1,0 +1,173 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9081569",
+  "data": {
+    "id": 9081569,
+    "codigoMateria": 175168,
+    "identificacao": "PLP 210/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "210",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7665439,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 73, de 10 de fevereiro de 1993, para atualizar a estrutura organizacional da Advocacia-Geral da União; e revoga dispositivos das Leis nºs 9.028, de 12 de abril de 1995; e 10.480, de 2 de julho de 2002.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10271502,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-08",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI ORGANICA ,  ADVOCACIA-GERAL DA UNIÃO (AGU) ,  ATUALIZAÇÃO ,  ORGANIZAÇÃO ADMINISTRATIVA ,  REFORMULAÇÃO ,  CLASSIFICAÇÃO ,  COMPOSIÇÃO ,  PROCURADORIA-GERAL ,  PROCURADORIA REGIONAL ,  PROCURADORIA DA FAZENDA NACIONAL ,  PROCURADORIA ,  BANCO CENTRAL DO BRASIL (BACEN) ,  CONSULTORIA JURIDICA ,  MEMBROS ,  ADVOGADO-GERAL DA UNIÃO ,  PROCURADOR FEDERAL ,  COMPETENCIA ,  FUNCIONAMENTO ,  ORGÃO DE DIREÇÃO ,  DIREÇÃO SUPERIOR ,  ORGÃO EXECUTOR ,  CONSELHO SUPERIOR .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/96c3b1fb-361f-4504-980f-be0f086f78eb",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-15",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-15",
+    "classificacoes": [
+      {
+        "codigo": 33685850,
+        "descricao": "Administração Pública Direta",
+        "descricaoHierarquia": "Administração Pública / Organização Administrativa / Administração Pública Direta"
+      },
+      {
+        "codigo": 33685880,
+        "descricao": "Cargos e Funções Públicos",
+        "descricaoHierarquia": "Administração Pública / Organização Administrativa / Cargos e Funções Públicos"
+      },
+      {
+        "codigo": 33769122,
+        "descricao": "Advocacia Pública",
+        "descricaoHierarquia": "Organização do Estado / Funções Essenciais à Justiça / Advocacia Pública"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Presidência da República",
+        "siglaTipo": "PRESIDENTE_REPUBLICA",
+        "descricaoTipo": "PRESIDENTE_REPUBLICA",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "idEnte": 55126,
+        "siglaEnte": "PR",
+        "ente": "Presidência da República"
+      }
+    ],
+    "idProcessoCasaInicial": 9081568,
+    "identificacaoProcessoInicial": "PLP 337/2017",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9081568,
+        "sigla": "PLP",
+        "numero": "00337",
+        "ano": 2017,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2300447,
+            "data": "2026-07-15 08:31:02",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 210/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10271502,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 210/2026",
+                "descricao": "Altera a Lei Complementar nº 73, de 10 de fevereiro de 1993, para atualizar a estrutura organizacional da Advocacia-Geral da União; e revoga dispositivos das Leis nºs 9.028, de 12 de abril de 1995; e 10.480, de 2 de julho de 2002.",
+                "data": "2026-07-08T17:12:11",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/96c3b1fb-361f-4504-980f-be0f086f78eb"
+              },
+              {
+                "id": 10277209,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF268775289440",
+                "descricao": "-",
+                "data": "2026-07-15T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e182776d-0265-41d7-bcff-d280a5bd3a28"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "DOCUMENTO",
+    "dthUltimaAtualizacao": "2026-08-14T15:44:16.621000"
+  }
+}

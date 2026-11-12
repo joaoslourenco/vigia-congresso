@@ -1,0 +1,349 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8990997",
+  "data": {
+    "id": 8990997,
+    "codigoMateria": 172575,
+    "identificacao": "PLP 16/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "16",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7645002,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre o reconhecimento da deficiência auditiva para os efeitos que especifica.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10152858,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-05",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  DIREITO ,  REDUÇÃO ,  ALIQUOTA ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  AQUISIÇÃO ,  AUTOMOVEL ,  RECONHECIMENTO ,  PESSOA COM DEFICIENCIA ,  DEFICIENCIA FISICA ,  SURDO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/9e07949b-75f4-4546-a4ea-932a7d429972",
+      "autoria": [
+        {
+          "autor": "Flávio Arns",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 345,
+          "uf": "PR",
+          "siglaPartido": "PSB",
+          "partido": "Partido Socialista Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Flávio Arns (PSB/PR)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-05",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-05",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33809423,
+        "descricao": "Pessoas com Deficiência",
+        "descricaoHierarquia": "Política Social / Proteção Social / Pessoas com Deficiência"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Flávio Arns",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 345,
+        "uf": "PR",
+        "siglaPartido": "PSB",
+        "partido": "Partido Socialista Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8990997,
+    "identificacaoProcessoInicial": "PLP 16/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10342274,
+        "data": "2026-11-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9120257,
+          "numero": 1,
+          "data": "2026-11-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9121643,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 834,
+                  "sigla": "CDH",
+                  "casa": "SF",
+                  "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 834,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CDH",
+        "nomeColegiadoControleAtual": "Comissão de Direitos Humanos e Legislação Participativa",
+        "idEnteControleAtual": 55302,
+        "siglaEnteControleAtual": "SACDH",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-05",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-04",
+            "fim": "2026-11-05",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-05",
+            "colegiado": {
+              "codigo": 834,
+              "casa": "SF",
+              "sigla": "CDH",
+              "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "enteAdministrativo": {
+              "id": 55302,
+              "casa": "SF",
+              "sigla": "SACDH",
+              "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2272501,
+            "data": "2026-02-05 13:43:34",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 16/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10152837,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF261386557210",
+                "descricao": "-",
+                "data": "2026-02-05T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/91c90db5-e57b-47b8-9ee2-10c1a47c65eb"
+              },
+              {
+                "id": 10152858,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 16/2026",
+                "descricao": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre o reconhecimento da deficiência auditiva para os efeitos que especifica.",
+                "data": "2026-02-05T13:43:23",
+                "autoria": "Senador Flávio Arns (PSB/PR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9e07949b-75f4-4546-a4ea-932a7d429972"
+              }
+            ]
+          },
+          {
+            "id": 2323482,
+            "data": "2026-11-04 17:44:53",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai à CDH e à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2323979,
+            "data": "2026-11-05 12:59:38",
+            "colegiado": {
+              "codigo": 834,
+              "casa": "SF",
+              "sigla": "CDH",
+              "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "enteAdministrativo": {
+              "id": 55302,
+              "casa": "SF",
+              "sigla": "SACDH",
+              "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "descricao": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10341762,
+            "dataEnvio": "2026-11-04 15:56:43",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-04 17:44:49",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10342329,
+            "dataEnvio": "2026-11-04 18:02:23",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-05 12:55:28",
+            "enteDestino": {
+              "id": 55302,
+              "casa": "SF",
+              "sigla": "SACDH",
+              "nome": "Secretaria de Apoio à Comissão de Direitos Humanos e Legislação Participativa"
+            },
+            "colegiadoDestino": {
+              "codigo": 834,
+              "casa": "SF",
+              "sigla": "CDH",
+              "nome": "Comissão de Direitos Humanos e Legislação Participativa"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-06T08:15:59.692000"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9046369",
+  "data": {
+    "id": 9046369,
+    "codigoMateria": 174115,
+    "identificacao": "PLP 135/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "135",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7657163,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei nº 4.595, de 31 de dezembro de 1964, para dispor sobre o Fundo Garantidor de Créditos (FGC) e elevar o limite individual da garantia de depósitos e demais créditos.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10220801,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-05-12",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  SISTEMA FINANCEIRO NACIONAL ,  FUNDO GARANTIDOR DE CREDITO (FGC) ,  REGIME JURIDICO ,  ASSOCIAÇÃO CIVIL  ,  ASSOCIAÇÃO PRIVADA ,  AUSENCIA ,  LUCRO ,  CONTRIBUIÇÃO ,  INSTITUIÇÃO FINANCEIRA ,  OBJETIVO ,  GARANTIA ,  OPERAÇÃO FINANCEIRA ,  CREDITOS ,  FIXAÇÃO ,  COBERTURA ,  PESSOA FISICA ,  PESSOA JURIDICA ,  VALOR ,  REVISÃO ,  QUADRIENIO ,  COMPETENCIA ,  REGULAMENTAÇÃO ,  CONSELHO MONETARIO NACIONAL (CMN) .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/7e8047d1-ce3a-4207-9eda-f36d4066fd8a",
+      "autoria": [
+        {
+          "autor": "Ciro Nogueira",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 739,
+          "uf": "PI",
+          "siglaPartido": "PP",
+          "partido": "Progressistas",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Ciro Nogueira (PP/PI)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-05-12",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-05-12",
+    "classificacoes": [
+      {
+        "codigo": 33769191,
+        "descricao": "Sistema Financeiro Nacional",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Sistema Financeiro Nacional"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Ciro Nogueira",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 739,
+        "uf": "PI",
+        "siglaPartido": "PP",
+        "partido": "Progressistas",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9046369,
+    "identificacaoProcessoInicial": "PLP 135/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2285681,
+            "data": "2026-05-12 16:27:41",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 135/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10220810,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266805202848",
+                "descricao": "-",
+                "data": "2026-05-12T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/fac208a7-3500-466a-9865-9cfb33b89fc4"
+              },
+              {
+                "id": 10220801,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 135/2026",
+                "descricao": "Altera a Lei nº 4.595, de 31 de dezembro de 1964, para dispor sobre o Fundo Garantidor de Créditos (FGC) e elevar o limite individual da garantia de depósitos e demais créditos.",
+                "data": "2026-05-12T16:27:06",
+                "autoria": "Senador Ciro Nogueira (PP/PI)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7e8047d1-ce3a-4207-9eda-f36d4066fd8a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-05-27T14:45:03.559000"
+  }
+}

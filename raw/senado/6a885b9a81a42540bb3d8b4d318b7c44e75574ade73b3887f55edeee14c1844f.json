@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9110630",
+  "data": {
+    "id": 9110630,
+    "codigoMateria": 175869,
+    "identificacao": "PLP 263/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "263",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7671907,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a não incidência do Imposto sobre Bens e Serviços – IBS e da Contribuição sobre Bens e Serviços – CBS sobre contribuições e operações internas no âmbito das entidades civis sem fins lucrativos e de seus sistemas de representação, bem como para vedar a retenção desses valores pelo mecanismo de pagamento fracionado, e dá outras providências.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10324362,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-09-25",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  EXCLUSÃO ,  INCIDENCIA ,  CONTRIBUIÇÃO ,  ASSOCIADO ,  CUSTEIO ,  ASSOCIAÇÃO CIVIL  ,  ASSOCIAÇÃO PRIVADA ,  REPASSE ,  RATEIO ,  DESPESA ,  REMUNERAÇÃO ,  CESSÃO DE DIREITOS ,  LICENCIAMENTO ,  TECNOLOGIA ,  SOFTWARE ,  BANCO DE DADOS ,  PROIBIÇÃO ,  FRACIONAMENTO ,  PAGAMENTO ,  RETENÇÃO ,  FONTE .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/35fe9e37-c083-4bf0-a666-5a7211d5c22e",
+      "autoria": [
+        {
+          "autor": "Wellington Fagundes",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 1173,
+          "uf": "MT",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Wellington Fagundes (PL/MT)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-09-25",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-09-25",
+    "classificacoes": [
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Wellington Fagundes",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 1173,
+        "uf": "MT",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9110630,
+    "identificacaoProcessoInicial": "PLP 263/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-09-25",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2317079,
+            "data": "2026-09-25 14:44:43",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 263/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10324334,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260577297394",
+                "descricao": "-",
+                "data": "2026-09-25T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/08153db7-8c9d-4fff-8187-7ca6df2fa207"
+              },
+              {
+                "id": 10324362,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 263/2026",
+                "descricao": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a não incidência do Imposto sobre Bens e Serviços – IBS e da Contribuição sobre Bens e Serviços – CBS sobre contribuições e operações internas no âmbito das entidades civis sem fins lucrativos e de seus sistemas de representação, bem como para vedar a retenção desses valores pelo mecanismo de pagamento fracionado, e dá outras providências.",
+                "data": "2026-09-25T14:44:23",
+                "autoria": "Senador Wellington Fagundes (PL/MT)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/35fe9e37-c083-4bf0-a666-5a7211d5c22e"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-09-30T12:15:02.506000"
+  }
+}

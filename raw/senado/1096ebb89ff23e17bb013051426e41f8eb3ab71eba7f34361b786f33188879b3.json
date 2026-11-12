@@ -1,0 +1,174 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9106823",
+  "data": {
+    "id": 9106823,
+    "codigoMateria": 175748,
+    "identificacao": "PLP 250/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "250",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7671062,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para excluir o Fundo Constitucional do Distrito Federal (FCDF) do alcance das vedações previstas em seu art. 14.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10317002,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-09-08",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL (FCDF) ,  INAPLICABILIDADE ,  CARATER EXCEPCIONAL ,  NORMAS ,  PROIBIÇÃO ,  CRESCIMENTO ,  DESPESA ORÇAMENTARIA ,  HIPOTESE ,  OCORRENCIA ,  DEFICIT .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/4acffbda-a4ce-44fb-b441-de3513be59de",
+      "autoria": [
+        {
+          "autor": "Leila Barros",
+          "sexo": "F",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5979,
+          "uf": "DF",
+          "siglaPartido": "PDT",
+          "partido": "Partido Democrático Trabalhista",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senadora",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senadora Leila Barros (PDT/DF)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-09-08",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-09-08",
+    "classificacoes": [
+      {
+        "codigo": 33260515,
+        "descricao": "Orçamento Público",
+        "descricaoHierarquia": "Orçamento Público"
+      },
+      {
+        "codigo": 33804820,
+        "descricao": "Fundos Públicos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas / Fundos Públicos"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Leila Barros",
+        "sexo": "F",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5979,
+        "uf": "DF",
+        "siglaPartido": "PDT",
+        "partido": "Partido Democrático Trabalhista",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senadora",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9106823,
+    "identificacaoProcessoInicial": "PLP 250/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-09-08",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2313823,
+            "data": "2026-09-08 12:24:49",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 250/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10316989,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF264264375180",
+                "descricao": "-",
+                "data": "2026-09-08T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1e552cae-f36a-4ac1-be47-309a4eb8947c"
+              },
+              {
+                "id": 10317002,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 250/2026",
+                "descricao": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para excluir o Fundo Constitucional do Distrito Federal (FCDF) do alcance das vedações previstas em seu art. 14.",
+                "data": "2026-09-08T12:24:37",
+                "autoria": "Senadora Leila Barros (PDT/DF)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4acffbda-a4ce-44fb-b441-de3513be59de"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-09-11T15:45:12.243000"
+  }
+}

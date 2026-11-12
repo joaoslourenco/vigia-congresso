@@ -1,0 +1,727 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9035554",
+  "data": {
+    "id": 9035554,
+    "codigoMateria": 173694,
+    "identificacao": "PLP 55/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "55",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7654787,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Estabelece condições à concessão de isenção do Imposto sobre Serviços de Qualquer Natureza (ISS) para fatos geradores relacionados à organização ou à realização da Copa do Mundo Feminina da FIFA 2027.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10208417,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-04-16",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  CRITERIOS ,  CONCESSÃO ,  ISENÇÃO ,  IMPOSTO SOBRE SERVIÇO (ISS) ,  FATO GERADOR ,  CORRELAÇÃO ,  ORGANIZAÇÃO ,  REALIZAÇÃO ,  EVENTO ,  CAMPEONATO MUNDIAL ,  FUTEBOL ,  ESPORTE FEMININO ,  FEDERAÇÃO INTERNACIONAL DE FUTEBOL ASSOCIATION (FIFA) ,  BENEFICIARIO ,  PESSOA JURIDICA ,  NECESSIDADE ,  LEI FEDERAL ,  ATIVIDADE ESPECIFICA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/4d8bff39-de92-49c2-80c1-ec60512f8755",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-04-17",
+    "situacaoAtual": "TRANSFORMADA EM NORMA JURÍDICA",
+    "siglaSituacaoAtual": "TNJR",
+    "dataSituacaoAtual": "2026-06-29",
+    "classificacoes": [
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33809017,
+        "descricao": "Desporto e Lazer",
+        "descricaoHierarquia": "Política Social / Desporto e Lazer"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Presidência da República",
+        "siglaTipo": "PRESIDENTE_REPUBLICA",
+        "descricaoTipo": "PRESIDENTE_REPUBLICA",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "idEnte": 55126,
+        "siglaEnte": "PR",
+        "ente": "Presidência da República"
+      }
+    ],
+    "idProcessoCasaInicial": 9035553,
+    "identificacaoProcessoInicial": "PLP 55/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9035553,
+        "sigla": "PLP",
+        "numero": "00055",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9060679,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "439",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "despachos": [
+      {
+        "id": 10239268,
+        "data": "2026-06-08",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9059085,
+          "numero": 1,
+          "data": "2026-06-08",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9059583,
+            "tipo": "AO_PLENARIO_03_2023",
+            "descricao": "Ao Plenário",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": null,
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1998,
+                  "sigla": "PLEN",
+                  "casa": "SF",
+                  "nome": "Plenário do Senado Federal"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55304,
+        "siglaEnteControleAtual": "SEXPE",
+        "nomeEnteControleAtual": "Secretaria de Expediente",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-04-17",
+            "fim": "2026-06-03",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 78,
+            "sigla": "INCLOD",
+            "descricao": "INCLUÍDA EM ORDEM DO DIA",
+            "inicio": "2026-06-03",
+            "fim": "2026-06-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 89,
+            "sigla": "APRVPAR",
+            "descricao": "APROVADO PARECER NA COMISSÃO",
+            "inicio": "2026-06-09",
+            "fim": "2026-06-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 25,
+            "sigla": "APRVD",
+            "descricao": "APROVADA",
+            "inicio": "2026-06-09",
+            "fim": "2026-06-15",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 57,
+            "sigla": "RMSAN",
+            "descricao": "REMETIDA À SANÇÃO",
+            "inicio": "2026-06-15",
+            "fim": "2026-06-29",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55126,
+              "sigla": "PR",
+              "nome": "Presidência da República"
+            }
+          },
+          {
+            "idTipo": 64,
+            "sigla": "TNJR",
+            "descricao": "TRANSFORMADA EM NORMA JURÍDICA",
+            "inicio": "2026-06-29",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2283063,
+            "data": "2026-04-17 09:51:54",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 55/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10208417,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 55/2026",
+                "descricao": "Estabelece condições à concessão de isenção do Imposto sobre Serviços de Qualquer Natureza (ISS) para fatos geradores relacionados à organização ou à realização da Copa do Mundo Feminina da FIFA 2027.",
+                "data": "2026-04-16T18:28:26",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4d8bff39-de92-49c2-80c1-ec60512f8755"
+              },
+              {
+                "id": 10208597,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260967285955",
+                "descricao": "-",
+                "data": "2026-04-17T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a34f7182-ea91-474b-ba89-2d1c97fe3dbc"
+              }
+            ]
+          },
+          {
+            "id": 2289524,
+            "data": "2026-06-03 19:54:56",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 09/06/2026.\r\n(Pendente de apresentação de requerimento de urgência para a matéria).",
+            "idSituacaoIniciada": 78,
+            "siglaSituacaoIniciada": "INCLOD"
+          },
+          {
+            "id": 2289997,
+            "data": "2026-06-08 15:54:59",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Designado Relator de Plenário o Senador Romário."
+          },
+          {
+            "id": 2289947,
+            "data": "2026-06-09 14:07:55",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 439, de 2026, de iniciativa de Líderes, que solicita urgência para a matéria.",
+            "documentosAssociados": [
+              {
+                "id": 10240594,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 439/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 55/2026, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-06-09T14:00:33",
+                "autoria": "Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder do PL Carlos Portinho (PL/RJ)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c0b5971d-2e28-4213-9a78-12b4865fe561"
+              }
+            ]
+          },
+          {
+            "id": 2290098,
+            "data": "2026-06-09 15:01:46",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Relatório do Senador Romário.",
+            "documentosAssociados": [
+              {
+                "id": 10240705,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF265262635985",
+                "descricao": "Parecer ao PLP 55/2026",
+                "data": "2026-06-09T14:59:19",
+                "autoria": "Senador Romário (PL/RJ)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a54834dd-2ffc-4db0-85f5-fd456f4de271"
+              }
+            ]
+          },
+          {
+            "id": 2290224,
+            "data": "2026-06-09 18:17:25",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encerrada a relatoria do Senador Romário por deliberação da matéria.",
+            "idSituacaoIniciada": 89,
+            "siglaSituacaoIniciada": "APRVPAR"
+          },
+          {
+            "id": 2290232,
+            "data": "2026-06-09 18:34:24",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária de 9 de junho de 2026)     \r\nEncaminhado à publicação e aprovado o Requerimento nº 439, de 2026, de iniciativa de Líderes, que solicita urgência para a matéria. \r\nEncaminhado à publicação o Parecer nº 88, de 2026 - Plen/SF, do Senador Romário, favorável ao projeto.  \r\nEncerrada a discussão da matéria. \r\nAprovado o projeto, com o seguinte resultado: Sim - 58, Não - 1, Presidente - 1, Total - 60.    \r\nA matéria vai à sanção.  \r\nSerá feita a devida comunicação à Câmara dos Deputados.",
+            "idSituacaoIniciada": 25,
+            "siglaSituacaoIniciada": "APRVD",
+            "documentosAssociados": [
+              {
+                "id": 10241205,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 88/2026 - PLEN",
+                "descricao": "Parecer nº 88, de 2026 - Plen/SF",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Senador Romário (PL/RJ)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c0ca7241-b3a2-4667-9ac7-8363cf11715d"
+              }
+            ]
+          },
+          {
+            "id": 2290254,
+            "data": "2026-06-09 19:11:38",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Anexado o texto revisado.",
+            "documentosAssociados": [
+              {
+                "id": 10241409,
+                "tipo": "Minuta",
+                "siglaTipo": "MINUTA",
+                "identificacao": "Minuta - SF263670604185",
+                "data": "2026-06-09T19:19:57",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/26cc58a1-87fe-47cf-a3f0-eefad74bfe76"
+              }
+            ]
+          },
+          {
+            "id": 2291424,
+            "data": "2026-06-15 11:55:09",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Recebido pela Casa Civil, em 15/06/2026 às 11:55:09, Ofício SF nº 619, de 2026, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, pelo qual se encaminhou a Mensagem SF nº 135, de 2026, ao Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 15/06/2026 às 11:55:09.",
+            "documentosAssociados": [
+              {
+                "id": 10241300,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 619/2026",
+                "descricao": "Encaminha a Mensagem do Excelentíssimo Senhor Presidente do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei Complementar n° 55, de 2026.",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/af352f1d-f939-43b1-b72c-26dd3b8830e6"
+              },
+              {
+                "id": 10241296,
+                "tipo": "Mensagem",
+                "siglaTipo": "MENSAGEM",
+                "identificacao": "MPSF 135/2026",
+                "descricao": "Encaminha à Sanção o Projeto de Lei Complementar n° 55, de 2026.",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Presidente do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0be71828-a1e7-4409-aa4f-8494d90a6dee"
+              },
+              {
+                "id": 10241406,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "Autógrafo - PLP 55/2026",
+                "descricao": "Estabelece condições à concessão de isenção do Imposto sobre Serviços de Qualquer Natureza (ISS) para fatos geradores relacionados à organização ou à realização da Copa do Mundo Feminina da FIFA 2027.",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/badb48cf-8bc1-4661-a4d0-d65cd53c9d8f"
+              }
+            ]
+          },
+          {
+            "id": 2291520,
+            "data": "2026-06-15 17:51:49",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF n.º 620, de 2026, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto foi encaminhado à sanção presidencial.",
+            "documentosAssociados": [
+              {
+                "id": 10241328,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 620/2026",
+                "descricao": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei Complementar n° 55, de 2026.",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c1629e5d-8655-412c-aa96-d59f39c08cd2"
+              }
+            ]
+          },
+          {
+            "id": 2295052,
+            "data": "2026-06-29 12:00:00",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "(PR) PRESIDÊNCIA DA REPÚBLICA.\r\nSANCIONADA. LEI COMPLEMENTAR 232 DE 2026.\r\nDOU (Diário Oficial da União) - 29/06/2026 - Seção I - págs. 2 e 2.\r\nSancionada em 26/06/2026.",
+            "idSituacaoIniciada": 64,
+            "siglaSituacaoIniciada": "TNJR"
+          },
+          {
+            "id": 2296294,
+            "data": "2026-07-02 18:13:58",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encaminhada à publicação a Mensagem da Presidência da República nº 557, de 2026, na origem, que restitui autógrafo do Projeto de Lei Complementar nº 55, de 2026, sancionado e convertido na Lei Complementar nº 232, de 26 de junho de 2026. \nSerá feita a devida comunicação à Câmara dos Deputados. "
+          },
+          {
+            "id": 2296531,
+            "data": "2026-07-03 13:59:28",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF nº 792, de 2026, ao Primeiro-Secretário da Câmara dos Deputados comunicando, para os devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 557, de 2026, na origem, restituindo autógrafos do Projeto de Lei Complementar n° 55, de 2026, sancionado e transformado na Lei Complementar nº 232, de 26 de junho de 2026.\nÀ COARQ.\n",
+            "documentosAssociados": [
+              {
+                "id": 10264493,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 792/2026",
+                "descricao": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei Complementar n° 55, de 2026.",
+                "data": "2026-07-02T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/cda66a4f-8832-4fbd-bf25-e9cee2fb41ad"
+              }
+            ]
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10241160,
+            "dataEnvio": "2026-06-09 18:05:48",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-06-09 18:14:18",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10241327,
+            "dataEnvio": "2026-06-09 18:42:09",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-06-09 19:10:30",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10264321,
+            "dataEnvio": "2026-07-02 16:43:30",
+            "enteOrigem": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "dataRecebimento": "2026-07-02 17:19:47",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10264414,
+            "dataEnvio": "2026-07-02 17:39:06",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-07-02 18:08:48",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10264501,
+            "dataEnvio": "2026-07-02 18:29:31",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-07-02 19:15:44",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "ordensDoDia": [
+      {
+        "codigoSessao": 564647,
+        "dataSessao": "2026-06-09T14:00:00",
+        "casaSessao": "SF",
+        "codigoSessaoLegislativa": 874,
+        "siglaTipoSessao": "DOR",
+        "numeroSessao": "76",
+        "tipoApreciacao": "-"
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-06-09",
+      "siglaTipo": "APROVADA_NO_PLENARIO",
+      "tipoDeliberacao": "Aprovada pelo Plenário",
+      "idDestino": 3,
+      "siglaDestino": "SANCAO",
+      "destino": "À sanção"
+    },
+    "normaGerada": {
+      "codigo": 43453414,
+      "siglaTipo": "LCP",
+      "tipo": "Lei Complementar",
+      "numero": 232,
+      "anoAssinatura": "2026",
+      "dataAssinatura": "2026-06-26",
+      "descricao": "Lei Complementar nº 232 de 26/06/2026",
+      "dataPublicacao": "2026-06-29",
+      "siglaVeiculoPublicacao": "DOU",
+      "veiculoPublicacao": "[Diário Oficial da União  de 29/06/2026] (p. 2, col. 2)"
+    },
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-09-18T17:32:35.302000"
+  }
+}

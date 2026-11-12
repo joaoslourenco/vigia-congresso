@@ -2062,16 +2062,28 @@
         {
           "date": "2026-11-11",
           "description": "Autuado o Projeto de Lei Complementar nº 299/2026. O projeto vai à publicação."
+        },
+        {
+          "date": "2026-11-11",
+          "description": "Recebido o Requerimento nº 770, de 2026, de Líderes, que solicita urgência para a matéria."
+        },
+        {
+          "date": "2026-11-11",
+          "description": "Designado Relator de Plenário o Senador Eduardo Braga."
+        },
+        {
+          "date": "2026-11-11",
+          "description": "Recebido o Relatório do Senador Eduardo Braga."
         }
       ],
-      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "collectedAt": "2026-11-12T00:10:37.209Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca dar ao governo federal novas ferramentas de gestão para preservar a estabilidade da economia e favorecer o desenvolvimento social e econômico. Governo federal, aqui, é o Poder Executivo, responsável pela administração do país. A ementa não descreve quais ferramentas seriam criadas nem como seriam usadas; esses limites precisam ser conferidos no texto completo.",
       "summaryMethod": "editorial",
-      "aiSummary": true,
       "summaryLabel": "Resumo elaborado com auxílio de IA",
-      "summarySourceHash": "a32765b56cdc9604febf77f05ee3161b709a70cfa0bf56bea933018bde5fe34a"
+      "summarySourceHash": "a32765b56cdc9604febf77f05ee3161b709a70cfa0bf56bea933018bde5fe34a",
+      "aiSummary": true
     }
   ],
   "events": [
@@ -2161,6 +2173,51 @@
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
       "collectedAt": "2026-11-11T20:34:30.197Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326125",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 18:49:06",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 770, de 2026, de Líderes, que solicita urgência para a matéria.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T00:10:37.209Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326126",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 18:51:04",
+      "kind": "Tramitação",
+      "description": "Designado Relator de Plenário o Senador Eduardo Braga.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T00:10:37.209Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326129",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 18:52:36",
+      "kind": "Tramitação",
+      "description": "Recebido o Relatório do Senador Eduardo Braga.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-12T00:10:37.209Z",
       "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
       "conflict": false,
       "vote": null

@@ -1,0 +1,179 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9055436",
+  "data": {
+    "id": 9055436,
+    "codigoMateria": 174359,
+    "identificacao": "PLP 146/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "146",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7659332,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para ajustar os incentivos federais aplicáveis ao setor agropecuário, e dá outras providências.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10233352,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-05-27",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  REDUÇÃO ,  INCENTIVO FISCAL ,  TRIBUTOS ,  PROGRAMA DE INTEGRAÇÃO SOCIAL E PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVIDOR PUBLICO (PIS-PASEP) ,  IMPORTAÇÃO ,  PRODUTO ,  SERVIÇO ,  PAIS ESTRANGEIRO ,  CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS) ,  IMPOSTO DE RENDA ,  PESSOA JURIDICA ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  IMPOSTO DE IMPORTAÇÃO ,  IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI) ,  CONTRIBUIÇÃO PREVIDENCIARIA ,  ACRESCIMO ,  HIPOTESE ,  MANUTENÇÃO ,  BENEFICIO FISCAL ,  ISENÇÃO FISCAL ,  SETOR ,  AGROPECUARIA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/0a561748-59b7-4cc8-85ed-5d8d69b44d11",
+      "autoria": [
+        {
+          "autor": "Jaime Bagattoli",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 6340,
+          "uf": "RO",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Jaime Bagattoli (PL/RO)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-05-27",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-05-27",
+    "classificacoes": [
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33805062,
+        "descricao": "Agropecuária e Abastecimento",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Agropecuária e Abastecimento"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Jaime Bagattoli",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6340,
+        "uf": "RO",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9055436,
+    "identificacaoProcessoInicial": "PLP 146/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-27",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2288324,
+            "data": "2026-05-27 19:10:58",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 146/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10233336,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF264717144546",
+                "descricao": "-",
+                "data": "2026-05-27T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/288d1ad7-4d23-4972-bebf-4dc5863f9827"
+              },
+              {
+                "id": 10233352,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 146/2026",
+                "descricao": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para ajustar os incentivos federais aplicáveis ao setor agropecuário, e dá outras providências.",
+                "data": "2026-05-27T19:10:47",
+                "autoria": "Senador Jaime Bagattoli (PL/RO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0a561748-59b7-4cc8-85ed-5d8d69b44d11"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-08T19:45:16.977000"
+  }
+}

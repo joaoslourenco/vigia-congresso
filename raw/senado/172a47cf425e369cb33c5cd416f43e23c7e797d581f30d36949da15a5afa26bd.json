@@ -1,0 +1,360 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9082174",
+  "data": {
+    "id": 9082174,
+    "codigoMateria": 175108,
+    "identificacao": "PLP 203/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "203",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7665556,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para instituir o regime do Microempreendedor Profissional (MEP), estabelecendo limites de faturamento, alíquotas diferenciadas e medidas de combate à precarização do trabalho.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10272465,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-09",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  REGIME JURIDICO ,  TRIBUTAÇÃO SIMPLIFICADA ,  PROFISSIONAL LIBERAL ,  PRESTAÇÃO DE SERVIÇO ,  TRABALHO INTELECTUAL ,  ATIVIDADE CIENTIFICA ,  ATIVIDADE ARTISTICA ,  CORRELAÇÃO ,  MICROEMPRESA ,  MICROEMPREENDEDOR INDIVIDUAL ,  REQUISITOS ,  ENQUADRAMENTO ,  FIXAÇÃO ,  ALIQUOTA ,  SUBSTITUIÇÃO ,  IMPOSTO DE RENDA ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  CONTRIBUIÇÃO PREVIDENCIARIA ,  OBRIGATORIEDADE ,  RECOLHIMENTO ,  Imposto sobre Bens e Serviços (IBS) ,  Contribuição Social sobre Bens e Serviços (CBS) ,  IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS (ICMS) ,  IMPOSTO SOBRE SERVIÇO (ISS) .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/c371f2d3-67d4-47e8-a04b-02635eed57ec",
+      "autoria": [
+        {
+          "autor": "Comissão de Direitos Humanos e Legislação Participativa",
+          "siglaTipo": "COMISSAO_SENADO",
+          "descricaoTipo": "COMISSAO_SENADO",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 3947422,
+          "siglaEnte": "CDH",
+          "casaEnte": "SF",
+          "ente": "Comissão de Direitos Humanos e Legislação Participativa"
+        }
+      ],
+      "resumoAutoria": "Comissão de Direitos Humanos e Legislação Participativa"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-09",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-17",
+    "classificacoes": [
+      {
+        "codigo": 33804895,
+        "descricao": "Micro e Pequenas Empresas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Indústria, Comércio e Serviços / Micro e Pequenas Empresas"
+      },
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Comissão de Direitos Humanos e Legislação Participativa",
+        "siglaTipo": "COMISSAO_SENADO",
+        "descricaoTipo": "COMISSAO_SENADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "idEnte": 3947422,
+        "siglaEnte": "CDH",
+        "casaEnte": "SF",
+        "ente": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+    ],
+    "idProcessoCasaInicial": 9082174,
+    "identificacaoProcessoInicial": "PLP 203/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 8991357,
+        "tipoRelacao": "CONCLUSAO_PARECER_GERAL",
+        "sigla": "SUG",
+        "numero": "3",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "CDH",
+        "enteIdentificador": "Comissão de Direitos Humanos e Legislação Participativa"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-09",
+            "fim": "2026-07-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 88,
+            "sigla": "AGREMESA",
+            "descricao": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+            "inicio": "2026-07-09",
+            "fim": "2026-07-17",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-17",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2298712,
+            "data": "2026-07-09 09:23:16",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 203/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10272468,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF264775810245",
+                "descricao": "-",
+                "data": "2026-07-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b22c1c00-0121-4a8a-87d0-855285dd1b5d"
+              },
+              {
+                "id": 10272465,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 203/2026",
+                "descricao": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para instituir o regime do Microempreendedor Profissional (MEP), estabelecendo limites de faturamento, alíquotas diferenciadas e medidas de combate à precarização do trabalho.",
+                "data": "2026-07-09T09:22:13",
+                "autoria": "Comissão de Direitos Humanos e Legislação Participativa",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c371f2d3-67d4-47e8-a04b-02635eed57ec"
+              }
+            ]
+          },
+          {
+            "id": 2298777,
+            "data": "2026-07-09 10:05:43",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "O Projeto de Lei Complementar nº 203, de 2026 ficará perante a Mesa durante cinco dias úteis para recebimento de emendas, nos termos do art. 235, II, “f”, do Regimento Interno. \n(Apresentado como conclusão do Parecer nº 109, de 2026-CDH, referente à SUG nº 3, de 2026)",
+            "idSituacaoIniciada": 88,
+            "siglaSituacaoIniciada": "AGREMESA"
+          },
+          {
+            "id": 2298778,
+            "data": "2026-07-09 10:10:18",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Prazo: Apresentação de Emendas a projeto de autoria de Comissão (Art. 235, II, \"f\", do RISF). De 10/07/2026 a 16/07/2026. Perante a Mesa."
+          },
+          {
+            "id": 2301502,
+            "data": "2026-07-17 10:55:54",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encerrou-se - em 16 de julho de 2026 - o prazo para apresentação de emendas ao Projeto de Lei Complementar n° 203, de 2026. \nNão foram apresentadas emendas perante a Mesa.  \nA matéria será despachada oportunamente. ",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10272471,
+            "dataEnvio": "2026-07-09 09:26:56",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-07-09 10:05:38",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10272713,
+            "dataEnvio": "2026-07-09 10:13:08",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-07-09 10:49:39",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10280907,
+            "dataEnvio": "2026-07-17 10:39:28",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-07-17 10:55:46",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10280962,
+            "dataEnvio": "2026-07-17 11:13:37",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-07-17 12:23:16",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-10-13T19:38:28.826000"
+  }
+}

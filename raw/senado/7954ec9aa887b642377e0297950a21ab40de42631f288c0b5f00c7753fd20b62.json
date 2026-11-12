@@ -1,0 +1,180 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9059453",
+  "data": {
+    "id": 9059453,
+    "codigoMateria": 174480,
+    "identificacao": "PLP 21/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "21",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7660292,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir o Regime Especial de Tributação para Associações Desportivas (Retad).",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10239202,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-06-08",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  CRIAÇÃO ,  REGIME ESPECIAL ,  TRIBUTAÇÃO ,  INSTITUIÇÃO ESPORTIVA ,  CARATER FACULTATIVO ,  SOCIEDADE CIVIL ,  RESTRIÇÃO ,  PESSOA JURIDICA ,  SUBSISTEMA ,  ENTIDADE ,  COMITE OLIMPICO BRASILEIRO (COB) ,  COMITE PARALIMPICO ,  COMITE BRASILEIRO DE CLUBES (CBC) ,  UNIFICAÇÃO ,  RECOLHIMENTO ,  IMPOSTO DE RENDA ,  CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LIQUIDO (CSLL) ,  SEGURIDADE SOCIAL ,  Contribuição Social sobre Bens e Serviços (CBS) ,  Imposto sobre Bens e Serviços (IBS) ,  BASE DE CALCULO ,  FIXAÇÃO ,  ALIQUOTA ,  INCIDENCIA ,  EXCLUSÃO ,  RECEITA ,  ORIGEM ,  CONTRIBUIÇÃO ,  ASSOCIADO ,  DOAÇÃO ,  RECURSOS ,  LOTERIA ,  APOSTA DE QUOTA FIXA ,  RECURSOS PUBLICOS ,  CRITERIOS ,  DISTRIBUIÇÃO ,  RECEITA TRIBUTARIA ,  ENTE FEDERADO ,  AUTORIZAÇÃO ,  DEDUÇÃO ,  INVESTIMENTO ,  FOMENTO ,  ESPORTE ,  OLIMPIADAS ,  PARAOLIMPIADA ,  LIMITAÇÃO ,  PERCENTAGEM ,  DEFINIÇÃO ,  NORMAS ,  IMPORTAÇÃO ,  DIREITOS ,  ATLETAS ,  PAIS ESTRANGEIRO ,  CESSÃO ,  EXPORTAÇÃO ,  IMUNIDADE TRIBUTARIA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/b8f50d36-faf8-4f6a-affa-4e4e656a687b",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-06-09",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-09",
+    "classificacoes": [
+      {
+        "codigo": 33804940,
+        "descricao": "Tributos",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      },
+      {
+        "codigo": 33809017,
+        "descricao": "Desporto e Lazer",
+        "descricaoHierarquia": "Política Social / Desporto e Lazer"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Roberto Duarte",
+        "sexo": "M",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6477,
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputado Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 9059452,
+    "identificacaoProcessoInicial": "PLP 21/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9059452,
+        "sigla": "PLP",
+        "numero": "00021",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2289889,
+            "data": "2026-06-09 09:55:52",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 21/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10239202,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 21/2026",
+                "descricao": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir o Regime Especial de Tributação para Associações Desportivas (Retad).",
+                "data": "2026-06-08T14:52:40",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b8f50d36-faf8-4f6a-affa-4e4e656a687b"
+              },
+              {
+                "id": 10239858,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF263415670493",
+                "descricao": "-",
+                "data": "2026-06-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bdb53808-64c4-4fe3-96fe-e42b9e1c2e78"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-23T19:00:02.799000"
+  }
+}

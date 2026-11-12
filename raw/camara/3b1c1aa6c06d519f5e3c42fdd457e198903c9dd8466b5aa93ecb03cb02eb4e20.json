@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2652890,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 298,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para reduzir o crescimento real dos limites da despesa primária, altera a Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar da limitação de empenho e pagamento apenas as despesas que constituam obrigações constitucionais do ente, que constituam obrigações legais do ente relativas ao pagamento de pessoal e ao pagamento do serviço da dívida, relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, e as ressalvadas pela lei de diretrizes orçamentárias, e altera a Lei Complementar nº 235, de 27 de agosto de 2026, para vedar a contabilização, para efeito de cálculo de obrigações de programação de despesa previstas em legislação específica, indexadas ao disposto no inciso IV do art. 2º da Lei Complementar nº 101, de 4 de maio de 2000, da receita de que trata o art. 46 da Lei nº 12.351, de 22 de dezembro de 2010, observadas as vinculações da referida lei.",
+    "dataApresentacao": "2026-11-11T15:07",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-11T15:07",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": null,
+      "codSituacao": null,
+      "despacho": "Apresentação do PLP n. 298/2026 (Projeto de Lei Complementar), pelo Deputado Mauro Benevides Filho (UNIÃO/CE), que \"Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para reduzir o crescimento real dos limites da despesa primária, altera a Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar da limitação de empenho e pagamento apenas as despesas que constituam obrigações constitucionais do ente, que constituam obrigações legais do ente relativas ao pagamento de pessoal e ao pagamento do serviço da dívida, relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, e as ressalvadas pela lei de diretrizes orçamentárias, e altera a Lei Complementar nº 235, de 27 de agosto de 2026, para vedar a contabilização, para efeito de cálculo de obrigações de programação de despesa previstas em legislação específica, indexadas ao disposto no inciso IV do art. 2º da Lei Complementar nº 101, de 4 de maio de 2000, da receita de que trata o art. 46 da Lei nº 12.351, de 22 de dezembro de 2010, observadas as vinculações da referida lei\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": null,
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193896",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652890"
+    }
+  ]
+}

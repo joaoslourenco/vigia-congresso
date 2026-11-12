@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2649647,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 277,
+    "ano": 2026,
+    "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, condicionando a realização de despesas com shows e eventos artísticos pelos entes da Federação à quitação da folha de pagamento de pessoal e dos encargos previdenciários e ao cumprimento dos mínimos constitucionais em saúde e educação, e exige a transparência prévia dessas contratações.",
+    "dataApresentacao": "2026-10-30T09:41",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-10-30T09:41",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "codSituacao": 905,
+      "despacho": "Apresentação do PLP n. 277/2026 (Projeto de Lei Complementar), pelo Deputado Rubens Pereira Júnior (PT/MA -Fdr PT-PCdoB-PV), que \"Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, condicionando a realização de despesas com shows e eventos artísticos pelos entes da Federação à quitação da folha de pagamento de pessoal e dos encargos previdenciários e ao cumprimento dos mínimos constitucionais em saúde e educação, e exige a transparência prévia dessas contratações\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "diretrizes; Responsabilidade fiscal; gestão; Despesa pública; Contratação pública; Show; Evento cultural; Espetáculo; município; Transparência pública",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3187862",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649647"
+    }
+  ]
+}

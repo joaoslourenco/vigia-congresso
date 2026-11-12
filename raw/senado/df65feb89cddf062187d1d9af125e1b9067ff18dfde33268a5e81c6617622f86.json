@@ -1,0 +1,169 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9082762",
+  "data": {
+    "id": 9082762,
+    "codigoMateria": 175121,
+    "identificacao": "PLP 205/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "205",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7665690,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre incentivos não financeiros à capilarização da atuação da Defensoria Pública e da advocacia dativa.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10273417,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-09",
+      "indexacao": " CRIAÇÃO ,  LEI COMPLEMENTAR ,  CRITERIOS ,  INCENTIVO ,  AMPLIAÇÃO ,  ATUAÇÃO ,  ADVOCACIA ,  DEFENSORIA PUBLICA ,  GRATUIDADE ,  ASSISTENCIA JURIDICA ,  ACESSO ,  JUSTIÇA ,  POPULAÇÃO ,  VULNERAVEL ,  BAIXA RENDA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/14535455-484c-4308-9496-3ff3a318e444",
+      "autoria": [
+        {
+          "autor": "Eduardo Braga",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 4994,
+          "uf": "AM",
+          "siglaPartido": "MDB",
+          "partido": "Movimento Democrático Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Eduardo Braga (MDB/AM)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-09",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-07-09",
+    "classificacoes": [
+      {
+        "codigo": 33769152,
+        "descricao": "Defensoria Pública",
+        "descricaoHierarquia": "Organização do Estado / Funções Essenciais à Justiça / Defensoria Pública"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Eduardo Braga",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4994,
+        "uf": "AM",
+        "siglaPartido": "MDB",
+        "partido": "Movimento Democrático Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9082762,
+    "identificacaoProcessoInicial": "PLP 205/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2299005,
+            "data": "2026-07-09 16:43:12",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 205/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10273444,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF261892149650",
+                "descricao": "-",
+                "data": "2026-07-09T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/99d3894c-7953-4015-823b-4f16ca648122"
+              },
+              {
+                "id": 10273417,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 205/2026",
+                "descricao": "Dispõe sobre incentivos não financeiros à capilarização da atuação da Defensoria Pública e da advocacia dativa.",
+                "data": "2026-07-09T16:42:19",
+                "autoria": "Senador Eduardo Braga (MDB/AM)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/14535455-484c-4308-9496-3ff3a318e444"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-17T20:00:07.760000"
+  }
+}

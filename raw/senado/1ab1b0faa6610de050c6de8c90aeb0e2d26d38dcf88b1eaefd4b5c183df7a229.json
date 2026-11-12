@@ -1,0 +1,339 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9038714",
+  "data": {
+    "id": 9038714,
+    "codigoMateria": 173814,
+    "identificacao": "PLP 123/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "123",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7655580,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 187, de 16 de dezembro de 2021, para dispor sobre regime excepcional de manutenção da certificação de entidades beneficentes de saúde prestadoras de serviços ao Sistema Único de Saúde (SUS) em situações de impossibilidade temporária de comprovação de regularidade fiscal.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10212480,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-04-29",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  REGULAMENTAÇÃO ,  LIMITAÇÃO ,  TRIBUTAÇÃO ,  INSTITUIÇÃO BENEFICENTE ,  SAUDE ,  EDUCAÇÃO ,  ASSISTENCIA SOCIAL ,  IMUNIDADE TRIBUTARIA ,  CONTRIBUIÇÃO ,  SEGURIDADE SOCIAL ,  REQUISITOS ,  PROCESSO ,  CERTIFICADO ,  POSSIBILIDADE ,  SUSPENSÃO ,  PRAZO DETERMINADO ,  EXIGENCIA ,  COMPROVAÇÃO ,  CERTIFICADO DE REGULARIDADE ,  NATUREZA FISCAL ,  CELEBRAÇÃO ,  TERMO DE COMPROMISSO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/c4efcac8-c71b-4735-a6dd-80d8e9f1541f",
+      "autoria": [
+        {
+          "autor": "Hamilton Mourão",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 6341,
+          "uf": "RS",
+          "siglaPartido": "REPUBLICANOS",
+          "partido": "Republicanos",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Hamilton Mourão (REPUBLICANOS/RS)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-04-29",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-09",
+    "classificacoes": [
+      {
+        "codigo": 34951911,
+        "descricao": "Contribuição Previdenciária",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Contribuição Previdenciária"
+      },
+      {
+        "codigo": 34999627,
+        "descricao": "Contribuição Social",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Contribuição Social"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Hamilton Mourão",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6341,
+        "uf": "RS",
+        "siglaPartido": "REPUBLICANOS",
+        "partido": "Republicanos",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9038714,
+    "identificacaoProcessoInicial": "PLP 123/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10346357,
+        "data": "2026-11-09",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9123628,
+          "numero": 1,
+          "data": "2026-11-09",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9123946,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 40,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAS",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Sociais",
+        "idEnteControleAtual": 55313,
+        "siglaEnteControleAtual": "SACAS",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Sociais",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-04-29",
+            "fim": "2026-11-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-09",
+            "fim": "2026-11-09",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-09",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2283874,
+            "data": "2026-04-29 17:53:59",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 123/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10212508,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF261706329359",
+                "descricao": "-",
+                "data": "2026-04-29T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c1dca494-45c0-4e01-ab5f-f79d1c65f8ad"
+              },
+              {
+                "id": 10212480,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 123/2026",
+                "descricao": "Altera a Lei Complementar nº 187, de 16 de dezembro de 2021, para dispor sobre regime excepcional de manutenção da certificação de entidades beneficentes de saúde prestadoras de serviços ao Sistema Único de Saúde (SUS) em situações de impossibilidade temporária de comprovação de regularidade fiscal.",
+                "data": "2026-04-29T17:49:01",
+                "autoria": "Senador Hamilton Mourão (REPUBLICANOS/RS)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c4efcac8-c71b-4735-a6dd-80d8e9f1541f"
+              }
+            ]
+          },
+          {
+            "id": 2325047,
+            "data": "2026-11-09 17:36:44",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A presente matéria vai à Comissão de Assuntos Sociais. ",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2325094,
+            "data": "2026-11-09 18:39:21",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10346251,
+            "dataEnvio": "2026-11-09 16:48:46",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-09 17:36:41",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10346396,
+            "dataEnvio": "2026-11-09 17:48:54",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-09 18:39:14",
+            "enteDestino": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "colegiadoDestino": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-10T10:25:22.004000"
+  }
+}

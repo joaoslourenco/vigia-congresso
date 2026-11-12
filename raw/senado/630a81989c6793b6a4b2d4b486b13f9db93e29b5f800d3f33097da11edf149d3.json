@@ -1,0 +1,349 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8990439",
+  "data": {
+    "id": 8990439,
+    "codigoMateria": 172557,
+    "identificacao": "PLP 12/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "12",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7644893,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para incluir as atividades de cantaria e trabalho em pedreiras entre as ocupações permitidas ao Microempreendedor Individual (MEI).",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10152216,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-02-04",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  ESTATUTO DA MICROEMPRESA ,  PEQUENA EMPRESA ,  INCLUSÃO ,  ATIVIDADE ,  TRABALHO ,  CORTE ,  PEDRA ,  PEDREIRA ,  MICROEMPREENDEDOR INDIVIDUAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/40387751-4cdf-4ac5-89b5-a7b09f5b012e",
+      "autoria": [
+        {
+          "autor": "Rogério Carvalho",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5352,
+          "uf": "SE",
+          "siglaPartido": "PT",
+          "partido": "Partido dos Trabalhadores",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Rogério Carvalho (PT/SE)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-02-04",
+    "situacaoAtual": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+    "siglaSituacaoAtual": "AGDREL",
+    "dataSituacaoAtual": "2026-11-04",
+    "classificacoes": [
+      {
+        "codigo": 33804895,
+        "descricao": "Micro e Pequenas Empresas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Indústria, Comércio e Serviços / Micro e Pequenas Empresas"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Rogério Carvalho",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5352,
+        "uf": "SE",
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 8990439,
+    "identificacaoProcessoInicial": "PLP 12/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "despachos": [
+      {
+        "id": 10342247,
+        "data": "2026-11-04",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 9120257,
+          "numero": 1,
+          "data": "2026-11-04",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 9121630,
+            "tipo": "ANALISE",
+            "descricao": "Análise",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": "MATERIA",
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 40,
+                  "sigla": "CAS",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Sociais"
+                }
+              },
+              {
+                "ordem": 2,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 38,
+                  "sigla": "CAE",
+                  "casa": "SF",
+                  "nome": "Comissão de Assuntos Econômicos"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 40,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "CAS",
+        "nomeColegiadoControleAtual": "Comissão de Assuntos Sociais",
+        "idEnteControleAtual": 55313,
+        "siglaEnteControleAtual": "SACAS",
+        "nomeEnteControleAtual": "Secretaria de Apoio à Comissão de Assuntos Sociais",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-04",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 177,
+            "sigla": "MATDESP",
+            "descricao": "MATÉRIA DESPACHADA",
+            "inicio": "2026-11-04",
+            "fim": "2026-11-04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 87,
+            "sigla": "AGDREL",
+            "descricao": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "inicio": "2026-11-04",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2272220,
+            "data": "2026-02-04 16:07:37",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 12/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10152242,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF260088383104",
+                "descricao": "-",
+                "data": "2026-02-04T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/af1ec83e-c823-4b93-a858-7d4447afe293"
+              },
+              {
+                "id": 10152216,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 12/2026",
+                "descricao": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para incluir as atividades de cantaria e trabalho em pedreiras entre as ocupações permitidas ao Microempreendedor Individual (MEI).",
+                "data": "2026-02-04T16:07:23",
+                "autoria": "Senador Rogério Carvalho (PT/SE)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/40387751-4cdf-4ac5-89b5-a7b09f5b012e"
+              }
+            ]
+          },
+          {
+            "id": 2323449,
+            "data": "2026-11-04 17:42:49",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "A matéria vai à CAS e à CAE.",
+            "idSituacaoIniciada": 177,
+            "siglaSituacaoIniciada": "MATDESP"
+          },
+          {
+            "id": 2323694,
+            "data": "2026-11-04 18:13:58",
+            "colegiado": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            },
+            "enteAdministrativo": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "descricao": "Matéria aguardando distribuição.",
+            "idSituacaoIniciada": 87,
+            "siglaSituacaoIniciada": "AGDREL"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10341768,
+            "dataEnvio": "2026-11-04 15:56:06",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-11-04 17:42:45",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10342326,
+            "dataEnvio": "2026-11-04 18:00:56",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-11-04 18:13:54",
+            "enteDestino": {
+              "id": 55313,
+              "casa": "SF",
+              "sigla": "SACAS",
+              "nome": "Secretaria de Apoio à Comissão de Assuntos Sociais"
+            },
+            "colegiadoDestino": {
+              "codigo": 40,
+              "casa": "SF",
+              "sigla": "CAS",
+              "nome": "Comissão de Assuntos Sociais"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-11-05T20:01:53.133000"
+  }
+}

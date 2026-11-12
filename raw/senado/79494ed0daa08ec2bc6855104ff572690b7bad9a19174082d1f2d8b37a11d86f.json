@@ -1,0 +1,744 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/8993967",
+  "data": {
+    "id": 8993967,
+    "codigoMateria": 172696,
+    "identificacao": "PLP 14/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "14",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7645622,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera as Leis nºs 11.196, de 21 de novembro de 2005, e 10.865, de 30 de abril de 2004.",
+      "tipoNormaIndicada": "LEI"
+    },
+    "documento": {
+      "id": 10158147,
+      "siglaTipo": "PROJETO_LEI_ORDINARIA",
+      "tipo": "Projeto de Lei Ordinária",
+      "dataApresentacao": "2026-02-13",
+      "indexacao": " ALTERAÇÃO ,  LEI FEDERAL ,  REDUÇÃO ,  ALIQUOTA ,  CONTRIBUIÇÃO ,  PROGRAMA DE INTEGRAÇÃO SOCIAL E PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVIDOR PUBLICO (PIS-PASEP) ,  CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS) ,  HIPOTESE ,  INDUSTRIA QUIMICA ,  INDUSTRIA PETROQUIMICA .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/573263ae-b720-4c26-ab07-572589bdbd8a",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-02-19",
+    "classificacoes": [
+      {
+        "codigo": 33804880,
+        "descricao": "Indústria",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Indústria, Comércio e Serviços / Indústria"
+      },
+      {
+        "codigo": 33804955,
+        "descricao": "Desoneração Fiscal",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Tributos / Desoneração Fiscal"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Carlos Zarattini",
+        "sexo": "M",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 4729,
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputado Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 8993966,
+    "identificacaoProcessoInicial": "PLP 14/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 8993966,
+        "sigla": "PLP",
+        "numero": "00014",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 8997750,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "111",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "despachos": [
+      {
+        "id": 10162779,
+        "data": "2026-02-25",
+        "siglaTipoMotivacao": "DECISAO_PRESID",
+        "tipoMotivacao": "Decisão da Presidência",
+        "cancelado": "Não",
+        "encontroLegislativo": {
+          "id": 8997858,
+          "numero": 1,
+          "data": "2026-02-25",
+          "casa": "SF",
+          "tipo": "SES",
+          "descricao": "Eventos Independentes de Sessão",
+          "colegiado": {
+            "codigo": 1998,
+            "casa": "SF",
+            "sigla": "PLEN",
+            "nome": "Plenário do Senado Federal"
+          }
+        },
+        "providencias": [
+          {
+            "id": 8997870,
+            "tipo": "AO_PLENARIO_03_2023",
+            "descricao": "Ao Plenário",
+            "ordem": 1,
+            "analiseTempo": "SUCESSIVA",
+            "analiseConteudo": null,
+            "reexame": "Não",
+            "unidadesDestinatarias": [
+              {
+                "ordem": 1,
+                "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+                "colegiado": {
+                  "codigo": 1998,
+                  "sigla": "PLEN",
+                  "casa": "SF",
+                  "nome": "Plenário do Senado Federal"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 55299,
+        "siglaEnteControleAtual": "COARQ",
+        "nomeEnteControleAtual": "Coordenação de Arquivo",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-02-19",
+            "fim": "2026-02-25",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 25,
+            "sigla": "APRVD",
+            "descricao": "APROVADA",
+            "inicio": "2026-02-25",
+            "fim": "2026-02-27",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          },
+          {
+            "idTipo": 57,
+            "sigla": "RMSAN",
+            "descricao": "REMETIDA À SANÇÃO",
+            "inicio": "2026-02-27",
+            "fim": "2026-03-20",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55126,
+              "sigla": "PR",
+              "nome": "Presidência da República"
+            }
+          },
+          {
+            "idTipo": 64,
+            "sigla": "TNJR",
+            "descricao": "TRANSFORMADA EM NORMA JURÍDICA",
+            "inicio": "2026-03-20",
+            "fim": "2026-03-25",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2273672,
+            "data": "2026-02-19 14:22:43",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei nº 14/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10158147,
+                "tipo": "Projeto de Lei Ordinária",
+                "siglaTipo": "PROJETO_LEI_ORDINARIA",
+                "identificacao": "PLP 14/2026",
+                "descricao": "Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera as Leis nºs 11.196, de 21 de novembro de 2005, e 10.865, de 30 de abril de 2004.",
+                "data": "2026-02-13T17:43:44",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/573263ae-b720-4c26-ab07-572589bdbd8a"
+              },
+              {
+                "id": 10158644,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF268912970626",
+                "descricao": "-",
+                "data": "2026-02-19T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e67538b9-5fd7-40f2-ba04-416273855d8e"
+              }
+            ]
+          },
+          {
+            "id": 2274635,
+            "data": "2026-02-25 13:33:11",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 111, de 2026, de Líderes, solicitando urgência para a matéria.",
+            "documentosAssociados": [
+              {
+                "id": 10162630,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 111/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 14/2026, nos termos do art. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-02-25T13:10:46",
+                "autoria": "Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder do Bloco Parlamentar Pelo Brasil Weverton (PDT/MA), Líder do Bloco Parlamentar Aliança Dr. Hiran (PP/RR)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/429213b5-9437-4df2-b0b0-693a0ebedd4c"
+              }
+            ]
+          },
+          {
+            "id": 2274662,
+            "data": "2026-02-25 14:29:04",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Designada Relatora de Plenário a Senadora Daniella Ribeiro."
+          },
+          {
+            "id": 2274768,
+            "data": "2026-02-25 16:31:50",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o relatório da Senadora Daniella Ribeiro.",
+            "documentosAssociados": [
+              {
+                "id": 10163183,
+                "tipo": "Relatório Legislativo",
+                "siglaTipo": "RELATORIO",
+                "identificacao": "Relatório Legislativo - SF260171619945",
+                "descricao": "Relatório PLP 14/2026",
+                "data": "2026-02-25T16:31:18",
+                "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0f4d6391-33ed-4df3-8a37-6aec3a736e50"
+              }
+            ]
+          },
+          {
+            "id": 2274803,
+            "data": "2026-02-25 17:27:00",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "(Sessão Deliberativa Ordinária de 25 de fevereiro de 2026) \r\nEncaminhado à publicação - e aprovado - o Requerimento nº 111, de 2026, por meio do qual se solicita urgência para a matéria.   \r\nEncaminhado à publicação o Parecer nº 7, de 2026-Plen/SF, proferido pela Senadora Daniella Ribeiro, favorável ao projeto.  \r\nEncerrada a discussão da matéria. \r\nAprovado o projeto, após o seguinte resultado: sim – 59; não - 3; abstenção - 1; Presidente – 1; total – 64.  \r\nA matéria vai à sanção. \r\nSerá feita a devida comunicação à Câmara dos Deputados.",
+            "idSituacaoIniciada": 25,
+            "siglaSituacaoIniciada": "APRVD",
+            "documentosAssociados": [
+              {
+                "id": 10163237,
+                "tipo": "Parecer",
+                "siglaTipo": "PARECER",
+                "identificacao": "P.S 7/2026 - PLEN",
+                "descricao": "Parecer nº 7, de 2026-Plen/SF.",
+                "data": "2026-02-25T00:00:00",
+                "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e6cfb7c8-3481-47c0-913b-a9482e08c5fd"
+              }
+            ]
+          },
+          {
+            "id": 2274857,
+            "data": "2026-02-26 10:46:06",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Anexado o texto revisado.",
+            "documentosAssociados": [
+              {
+                "id": 10163700,
+                "tipo": "Minuta",
+                "siglaTipo": "MINUTA",
+                "identificacao": "Minuta - SF262816061374",
+                "data": "2026-02-26T10:44:58",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8f5e5eda-9dc5-4638-a464-37d17dc99d42"
+              }
+            ]
+          },
+          {
+            "id": 2274988,
+            "data": "2026-02-27 07:47:28",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Recebido pela Casa Civil, em 27/02/2026 às 07:47:28, Ofício SF nº 62, de 2026, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, pelo qual se encaminhou a Mensagem SF nº 6, de 2026, ao Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 27/02/2026 às 07:47:28.",
+            "documentosAssociados": [
+              {
+                "id": 10163508,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 62/2026",
+                "descricao": "Encaminha a Mensagem do Excelentíssimo Senhor Presidente do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei Complementar n° 14, de 2026.",
+                "data": "2026-02-25T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a2fd2c2c-8fb4-4110-bb53-cf7abe4bb530"
+              },
+              {
+                "id": 10163520,
+                "tipo": "Mensagem",
+                "siglaTipo": "MENSAGEM",
+                "identificacao": "MPSF 6/2026",
+                "descricao": "Encaminha à Sanção o Projeto de Lei Complementar n° 14, de 2026.",
+                "data": "2026-02-25T00:00:00",
+                "autoria": "Presidente do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a3a93a0a-b36b-4a30-8502-869067b2bdf3"
+              },
+              {
+                "id": 10163726,
+                "tipo": "Projeto de Lei Ordinária",
+                "siglaTipo": "PROJETO_LEI_ORDINARIA",
+                "identificacao": "Autógrafo - PLP 14/2026",
+                "descricao": "Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera as Leis nºs 11.196, de 21 de novembro de 2005, e 10.865, de 30 de abril de 2004.",
+                "data": "2026-02-26T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/dbb79f68-5890-4482-b13f-694e08a02ab5"
+              }
+            ]
+          },
+          {
+            "id": 2274992,
+            "data": "2026-02-27 09:00:08",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF n.º 63, de 2026, ao Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto foi encaminhado à sanção presidencial.",
+            "documentosAssociados": [
+              {
+                "id": 10163523,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 63/2026",
+                "descricao": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei Complementar n° 14, de 2026.",
+                "data": "2026-02-25T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ce978020-c275-4931-971b-d5993eee601a"
+              }
+            ]
+          },
+          {
+            "id": 2278818,
+            "data": "2026-03-20 09:50:18",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "(PR) PRESIDÊNCIA DA REPÚBLICA.\r\nSANCIONADA. LEI COMPLEMENTAR 228 DE 2026.\r\nDOU (Diário Oficial da União) - 20/03/2026 - Seção I - págs. 4 e 5.\r\nSancionada em 19/03/2026.",
+            "idSituacaoIniciada": 64,
+            "siglaSituacaoIniciada": "TNJR"
+          },
+          {
+            "id": 2279167,
+            "data": "2026-03-24 11:17:07",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encaminhada à publicação a Mensagem da Presidência da República nº 197, de 2026, na origem, que restitui autógrafo do Projeto de Lei Complementar nº 14, de 2026, sancionado e convertido na Lei Complementar nº 228, de 19 de março de 2026.  \r\nSerá feita a devida comunicação à Câmara dos Deputados."
+          },
+          {
+            "id": 2279338,
+            "data": "2026-03-25 10:13:09",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "Remetido Ofício SF nº 146, de 2026, ao Primeiro-Secretário da Câmara dos Deputados comunicando, para os devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 197, de 2026, na origem, restituindo autógrafos do Projeto de Lei Complementar n° 14, de 2026, sancionado e transformado na Lei Complementar nº 228, de 19 de março 2026.\r\n\r\nÀ COARQ.",
+            "documentosAssociados": [
+              {
+                "id": 10187169,
+                "tipo": "Ofício",
+                "siglaTipo": "OFICIO",
+                "identificacao": "OFSF 146/2026",
+                "descricao": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei Complementar n° 14, de 2026.",
+                "data": "2026-03-24T00:00:00",
+                "autoria": "Primeiro-Secretário do Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/73489340-e4ce-464a-a26c-48e5376076c6"
+              }
+            ]
+          },
+          {
+            "id": 2279339,
+            "data": "2026-03-25 10:19:46",
+            "colegiado": {},
+            "enteAdministrativo": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "descricao": "A matéria vai ao arquivo.",
+            "documentosAssociados": [
+              {
+                "id": 10188288,
+                "tipo": "Listagem ou relatório descritivo",
+                "siglaTipo": "LISTAGEM_RELATORIO",
+                "identificacao": "Listagem ou relatório descritivo - SF265699789114",
+                "descricao": "Relatório de eventos e documentos do processo PLP 14/2026",
+                "data": "2026-03-25T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/83f67169-9a17-482c-b0e9-dd0423ad5366"
+              }
+            ]
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10162697,
+            "dataEnvio": "2026-02-25 13:52:56",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-02-25 17:07:40",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10163283,
+            "dataEnvio": "2026-02-25 17:18:42",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-02-25 17:18:57",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10163308,
+            "dataEnvio": "2026-02-25 17:20:42",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-02-25 17:26:20",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10163329,
+            "dataEnvio": "2026-02-25 17:31:43",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-02-25 18:54:11",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10186925,
+            "dataEnvio": "2026-03-24 09:04:36",
+            "enteOrigem": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "dataRecebimento": "2026-03-24 09:05:04",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          },
+          {
+            "id": 10186976,
+            "dataEnvio": "2026-03-24 09:27:43",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-03-24 11:17:04",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10187104,
+            "dataEnvio": "2026-03-24 11:19:17",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-03-24 11:57:38",
+            "enteDestino": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10188291,
+            "dataEnvio": "2026-03-25 10:19:46",
+            "enteOrigem": {
+              "id": 55304,
+              "casa": "SF",
+              "sigla": "SEXPE",
+              "nome": "Secretaria de Expediente"
+            },
+            "dataRecebimento": "2026-03-25 10:19:49",
+            "enteDestino": {
+              "id": 55299,
+              "casa": "SF",
+              "sigla": "COARQ",
+              "nome": "Coordenação de Arquivo"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "ordensDoDia": [
+      {
+        "codigoSessao": 550470,
+        "dataSessao": "2026-02-25T14:00:00",
+        "casaSessao": "SF",
+        "codigoSessaoLegislativa": 874,
+        "siglaTipoSessao": "DOR",
+        "numeroSessao": "5",
+        "tipoApreciacao": "-"
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-02-25",
+      "siglaTipo": "APROVADA_NO_PLENARIO",
+      "tipoDeliberacao": "Aprovada pelo Plenário",
+      "idDestino": 3,
+      "siglaDestino": "SANCAO",
+      "destino": "À sanção"
+    },
+    "normaGerada": {
+      "codigo": 42916365,
+      "siglaTipo": "LCP",
+      "tipo": "Lei Complementar",
+      "numero": 228,
+      "anoAssinatura": "2026",
+      "dataAssinatura": "2026-03-19",
+      "descricao": "Lei Complementar nº 228 de 19/03/2026",
+      "dataPublicacao": "2026-03-20",
+      "siglaVeiculoPublicacao": "DOU",
+      "veiculoPublicacao": "[Diário Oficial da União  de 20/03/2026] (p. 4, col. 2)"
+    },
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-04-08T14:53:18.801000"
+  }
+}

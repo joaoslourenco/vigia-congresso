@@ -1,0 +1,184 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9070516",
+  "data": {
+    "id": 9070516,
+    "codigoMateria": 174855,
+    "identificacao": "PLP 184/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "184",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7662764,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer condicionantes à realização de novas obras públicas quando houver obras paralisadas ou inacabadas no mesmo Município.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10253269,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-06-23",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  CRIAÇÃO ,  REQUISITOS ,  REALIZAÇÃO ,  OBRA PUBLICA ,  SERVIÇO DE ENGENHARIA ,  MUNICIPIO ,  PERIODO ,  PARALISAÇÃO ,  DIVERSIDADE ,  OBRAS ,  LOCALIDADE ,  GARANTIA ,  PRIORIDADE ,  EXECUÇÃO ORÇAMENTARIA ,  RETOMADA ,  CONCLUSÃO ,  PROJETO ,  PREVENÇÃO ,  MULTIPLICAÇÃO ,  OBRA CIVIL ,  DEFINIÇÃO ,  PROIBIÇÃO ,  EXCEÇÃO ,  TRANSPARENCIA ,  FISCALIZAÇÃO ,  APLICAÇÃO ,  NORMAS ,  CONTRATAÇÃO ,  CONVENIO ,  CONTRATO DE REPASSE ,  TERMO DE COMPROMISSO .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/6c88bea7-e9b8-4a43-8a22-59531fa1baf6",
+      "autoria": [
+        {
+          "autor": "Wellington Fagundes",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 1173,
+          "uf": "MT",
+          "siglaPartido": "PL",
+          "partido": "Partido Liberal",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Wellington Fagundes (PL/MT)"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-06-23",
+    "situacaoAtual": "AGUARDANDO DESPACHO",
+    "siglaSituacaoAtual": "AGDESP",
+    "dataSituacaoAtual": "2026-06-23",
+    "classificacoes": [
+      {
+        "codigo": 33686030,
+        "descricao": "Licitação e Contratos",
+        "descricaoHierarquia": "Administração Pública / Licitação e Contratos"
+      },
+      {
+        "codigo": 33686120,
+        "descricao": "Transparência e Governança Públicas",
+        "descricaoHierarquia": "Administração Pública / Transparência e Governança Públicas"
+      },
+      {
+        "codigo": 33769032,
+        "descricao": "Fiscalização e Controle",
+        "descricaoHierarquia": "Organização do Estado / Fiscalização e Controle"
+      },
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Wellington Fagundes",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 1173,
+        "uf": "MT",
+        "siglaPartido": "PL",
+        "partido": "Partido Liberal",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9070516,
+    "identificacaoProcessoInicial": "PLP 184/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-06-23",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2293054,
+            "data": "2026-06-23 10:06:55",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 184/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10253277,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266914160217",
+                "descricao": "-",
+                "data": "2026-06-23T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/539d6015-58f2-4026-ac44-a7281279404a"
+              },
+              {
+                "id": 10253269,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 184/2026",
+                "descricao": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer condicionantes à realização de novas obras públicas quando houver obras paralisadas ou inacabadas no mesmo Município.",
+                "data": "2026-06-23T10:06:15",
+                "autoria": "Senador Wellington Fagundes (PL/MT)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6c88bea7-e9b8-4a43-8a22-59531fa1baf6"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-07-01T12:00:01.934000"
+  }
+}

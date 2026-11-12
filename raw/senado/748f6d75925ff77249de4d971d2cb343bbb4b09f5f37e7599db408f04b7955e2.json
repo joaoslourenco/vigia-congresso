@@ -1,0 +1,319 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9085145",
+  "data": {
+    "id": 9085145,
+    "codigoMateria": 175224,
+    "identificacao": "PLP 41/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "41",
+    "ano": 2026,
+    "objetivo": "Revisora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7666228,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos para ações de enfrentamento do feminicídio e de garantia da vida de meninas e mulheres; e altera a Lei Complementar nº 212, de 13 de janeiro de 2025.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10277878,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-07-15",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  Programa de Pleno Pagamento de Dívidas dos Estados (Propag) ,  INCLUSÃO ,  INVESTIMENTO ,  ATIVIDADE ,  PROTEÇÃO ,  MULHER ,  CRIANÇA ,  COMBATE ,  VIOLENCIA ,  GENERO ,  DETERMINAÇÃO ,  APLICAÇÃO ,  ALIQUOTA MINIMA ,  POLITICAS PUBLICAS ,  CRIAÇÃO ,  OBRIGAÇÕES ,  ENTE FEDERADO . CRIAÇÃO ,  LEI COMPLEMENTAR ,  SISTEMA NACIONAL ,  COMBATE ,  VIOLENCIA ,  MULHER ,  COOPERAÇÃO ,  DESCENTRALIZAÇÃO ,  INTEGRAÇÃO ,  ENTE FEDERADO ,  COORDENAÇÃO ,  MINISTERIO DAS MULHERES ,  INCENTIVO ,  POLITICAS PUBLICAS ,  ATIVIDADE ,  PROTEÇÃO ,  INSTRUMENTO ,  LEI MARIA DA PENHA ,  DIRETRIZES GERAIS ,  GOVERNANÇA PUBLICA ,  MONITORAMENTO ,  CONTROLE ,  AVALIAÇÃO ,  TRANSPARENCIA ,  ELABORAÇÃO ,  PLANO DE AÇÃO ,  EXECUÇÃO ,  FONTE ,  CUSTEIO ,  Programa de Pleno Pagamento de Dívidas dos Estados (Propag) ,  DESTINAÇÃO ,  RECURSOS FINANCEIROS ,  PREVENÇÃO ,  FEMINICIDIO ,  GARANTIA ,  VIDA HUMANA ,  PRESTAÇÃO DE CONTAS .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/3ab1cc70-5b21-4473-90aa-079d382721b7",
+      "autoria": [
+        {
+          "autor": "Câmara dos Deputados",
+          "siglaTipo": "CAMARA",
+          "descricaoTipo": "CAMARA",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "idEnte": 2,
+          "siglaEnte": "CD",
+          "casaEnte": "CD",
+          "ente": "Câmara dos Deputados"
+        }
+      ],
+      "resumoAutoria": "Câmara dos Deputados"
+    },
+    "tramitando": "Sim",
+    "dataInicioEfetivo": "2026-07-17",
+    "situacaoAtual": "AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO",
+    "siglaSituacaoAtual": "AGINCL(RQ)",
+    "dataSituacaoAtual": "2026-09-02",
+    "classificacoes": [
+      {
+        "codigo": 33809408,
+        "descricao": "Mulheres",
+        "descricaoHierarquia": "Política Social / Proteção Social / Mulheres"
+      },
+      {
+        "codigo": 33809619,
+        "descricao": "Segurança Pública",
+        "descricaoHierarquia": "Soberania, Defesa Nacional e Ordem Pública / Defesa do Estado e das Instituições Democráticas / Segurança Pública"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Jack Rocha",
+        "sexo": "F",
+        "siglaTipo": "DEPUTADO",
+        "descricaoTipo": "DEPUTADO",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 6421,
+        "siglaPartido": "PT",
+        "partido": "Partido dos Trabalhadores",
+        "siglaCargo": "DEPUTADO",
+        "cargo": "Deputada Federal",
+        "idEnte": 2,
+        "siglaEnte": "CD",
+        "casaEnte": "CD",
+        "ente": "Câmara dos Deputados"
+      }
+    ],
+    "idProcessoCasaInicial": 9085144,
+    "identificacaoProcessoInicial": "PLP 41/2026",
+    "siglaCasaIniciadora": "CD",
+    "comissaoMpv": "{}",
+    "outrosNumeros": [
+      {
+        "idOutroProcesso": 9085144,
+        "sigla": "PLP",
+        "numero": "00041",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "externaAoCongresso": "Não",
+        "casaIdentificadora": "CD",
+        "siglaEnteIdentificador": "CD",
+        "enteIdentificador": "Câmara dos Deputados"
+      }
+    ],
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9103626,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "650",
+        "ano": 2026,
+        "tramitando": "Sim",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "codigoColegiadoControleAtual": 1998,
+        "casaColegiadoControleAtual": "SF",
+        "siglaColegiadoControleAtual": "PLEN",
+        "nomeColegiadoControleAtual": "Plenário do Senado Federal",
+        "idEnteControleAtual": 55312,
+        "siglaEnteControleAtual": "SLSF",
+        "nomeEnteControleAtual": "Secretaria Legislativa do Senado Federal",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-07-17",
+            "fim": "2026-09-02",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 95,
+            "sigla": "AGINCL(RQ)",
+            "descricao": "AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO",
+            "inicio": "2026-09-02",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2301762,
+            "data": "2026-07-17 15:10:28",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 41/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10277878,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 41/2026",
+                "descricao": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos para ações de enfrentamento do feminicídio e de garantia da vida de meninas e mulheres; e altera a Lei Complementar nº 212, de 13 de janeiro de 2025.",
+                "data": "2026-07-15T14:25:21",
+                "autoria": "Câmara dos Deputados",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3ab1cc70-5b21-4473-90aa-079d382721b7"
+              },
+              {
+                "id": 10281623,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF266701128384",
+                "descricao": "-",
+                "data": "2026-07-17T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b09f79bd-5875-4da9-ad9e-08e2a01d22a4"
+              }
+            ]
+          },
+          {
+            "id": 2311989,
+            "data": "2026-09-02 12:45:31",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 650, de 2026, de Líder, que solicita urgência para a matéria. ",
+            "documentosAssociados": [
+              {
+                "id": 10311305,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 650/2026",
+                "descricao": "Requer urgência para o Projeto de Lei Complementar nº 41, de 2026, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.",
+                "data": "2026-09-02T12:35:17",
+                "autoria": "Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4b5a2695-c2f7-477f-86e9-092c14f4e96a"
+              }
+            ]
+          },
+          {
+            "id": 2312051,
+            "data": "2026-09-02 14:31:45",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encaminhado à publicação o Requerimento nº 650, de 2026, o qual será incluído em Ordem do Dia, oportunamente."
+          },
+          {
+            "id": 2312054,
+            "data": "2026-09-02 14:37:17",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Aguardando inclusão em Ordem do Dia do Requerimento nº 650, de 2026, que solicita urgência para a matéria, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.\nVotação, em turno único.",
+            "idSituacaoIniciada": 95,
+            "siglaSituacaoIniciada": "AGINCL(RQ)"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10311348,
+            "dataEnvio": "2026-09-02 12:54:08",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-09-02 14:30:58",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          },
+          {
+            "id": 10311955,
+            "dataEnvio": "2026-09-02 14:35:03",
+            "enteOrigem": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "dataRecebimento": "2026-09-02 14:37:12",
+            "enteDestino": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "colegiadoDestino": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            }
+          }
+        ]
+      }
+    ],
+    "deliberacao": {},
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "EVENTO_LEGISLATIVO",
+    "dthUltimaAtualizacao": "2026-09-02T14:58:16.931000"
+  }
+}

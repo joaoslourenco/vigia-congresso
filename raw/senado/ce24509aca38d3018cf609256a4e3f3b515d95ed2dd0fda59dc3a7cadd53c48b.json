@@ -1,0 +1,282 @@
+{
+  "source": "https://legis.senado.leg.br/dadosabertos/processo/9046618",
+  "data": {
+    "id": 9046618,
+    "codigoMateria": 174126,
+    "identificacao": "PLP 137/2026",
+    "sigla": "PLP",
+    "descricaoSigla": "Projeto de Lei Complementar",
+    "numero": "137",
+    "ano": 2026,
+    "objetivo": "Iniciadora",
+    "casaIdentificadora": "SF",
+    "siglaEnteIdentificador": "SF",
+    "identificacaoExterna": {},
+    "conteudo": {
+      "id": 7657214,
+      "idTipo": 11,
+      "siglaTipo": "NORMA_GERAL",
+      "tipo": "Norma Geral",
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, que “estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal”, a fim de destinar parte da Receita Corrente Líquida às Defensorias Públicas.",
+      "tipoNormaIndicada": "LCP"
+    },
+    "documento": {
+      "id": 10221224,
+      "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+      "tipo": "Projeto de Lei Complementar",
+      "dataApresentacao": "2026-05-13",
+      "indexacao": " ALTERAÇÃO ,  LEI COMPLEMENTAR ,  LEI DE RESPONSABILIDADE FISCAL ,  INCLUSÃO ,  DEFENSORIA PUBLICA ,  PRERROGATIVA ,  AUTONOMIA ,  EXECUÇÃO FINANCEIRA ,  EXECUÇÃO ORÇAMENTARIA ,  DESTINAÇÃO ,  PERCENTAGEM ,  RECEITA CORRENTE ,  RECEITA LIQUIDA ,  ACRESCIMO ,  DISPOSITIVOS ,  PRAZO ,  REPARTIÇÃO FISCAL ,  LIMITAÇÃO ,  DESPESA ,  PESSOAL .",
+      "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/08247ae3-9013-49ad-95b7-939eb8ecec03",
+      "autoria": [
+        {
+          "autor": "Jorge Kajuru",
+          "sexo": "M",
+          "siglaTipo": "SENADOR",
+          "descricaoTipo": "SENADOR",
+          "ordem": 1,
+          "outrosAutoresNaoInformados": "Não",
+          "codigoParlamentar": 5895,
+          "uf": "GO",
+          "siglaPartido": "PSB",
+          "partido": "Partido Socialista Brasileiro",
+          "siglaCargo": "SENADOR",
+          "cargo": "Senador",
+          "idEnte": 1,
+          "siglaEnte": "SF",
+          "casaEnte": "SF",
+          "ente": "Senado Federal"
+        }
+      ],
+      "resumoAutoria": "Senador Jorge Kajuru (PSB/GO)"
+    },
+    "tramitando": "Não",
+    "dataInicioEfetivo": "2026-05-13",
+    "situacaoAtual": "RETIRADA PELO AUTOR",
+    "siglaSituacaoAtual": "RTPA",
+    "dataSituacaoAtual": "2026-05-13",
+    "classificacoes": [
+      {
+        "codigo": 33769152,
+        "descricao": "Defensoria Pública",
+        "descricaoHierarquia": "Organização do Estado / Funções Essenciais à Justiça / Defensoria Pública"
+      },
+      {
+        "codigo": 33804790,
+        "descricao": "Finanças Públicas",
+        "descricaoHierarquia": "Economia e Desenvolvimento / Finanças Públicas"
+      },
+      {
+        "codigo": 33805857,
+        "descricao": "Execução Financeira e Orçamentária",
+        "descricaoHierarquia": "Orçamento Público / Orçamento Anual / Execução Financeira e Orçamentária"
+      }
+    ],
+    "autoriaIniciativa": [
+      {
+        "autor": "Jorge Kajuru",
+        "sexo": "M",
+        "siglaTipo": "SENADOR",
+        "descricaoTipo": "SENADOR",
+        "ordem": 1,
+        "outrosAutoresNaoInformados": "Não",
+        "codigoParlamentar": 5895,
+        "uf": "GO",
+        "siglaPartido": "PSB",
+        "partido": "Partido Socialista Brasileiro",
+        "siglaCargo": "SENADOR",
+        "cargo": "Senador",
+        "idEnte": 1,
+        "siglaEnte": "SF",
+        "casaEnte": "SF",
+        "ente": "Senado Federal"
+      }
+    ],
+    "idProcessoCasaInicial": 9046618,
+    "identificacaoProcessoInicial": "PLP 137/2026",
+    "siglaCasaIniciadora": "SF",
+    "comissaoMpv": "{}",
+    "processosRelacionados": [
+      {
+        "idOutroProcesso": 9047023,
+        "tipoRelacao": "REFERENCIA",
+        "sigla": "RQS",
+        "numero": "372",
+        "ano": 2026,
+        "tramitando": "Não",
+        "casaIdentificadora": "SF",
+        "siglaEnteIdentificador": "PLEN",
+        "enteIdentificador": "Plenário do Senado Federal"
+      }
+    ],
+    "autuacoes": [
+      {
+        "numero": 1,
+        "descricao": "Autuação Principal",
+        "idEnteControleAtual": 13594,
+        "siglaEnteControleAtual": "SEADI",
+        "nomeEnteControleAtual": "Secretaria de Atas e Diários",
+        "situacoes": [
+          {
+            "idTipo": 175,
+            "sigla": "AGDESP",
+            "descricao": "AGUARDANDO DESPACHO",
+            "inicio": "2026-05-13",
+            "fim": "2026-05-13",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            }
+          },
+          {
+            "idTipo": 60,
+            "sigla": "RTPA",
+            "descricao": "RETIRADA PELO AUTOR",
+            "inicio": "2026-05-13",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            }
+          }
+        ],
+        "informesLegislativos": [
+          {
+            "id": 2285771,
+            "data": "2026-05-13 10:16:56",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Autuado o Projeto de Lei Complementar nº 137/2026. O projeto vai à publicação.",
+            "idSituacaoIniciada": 175,
+            "siglaSituacaoIniciada": "AGDESP",
+            "documentosAssociados": [
+              {
+                "id": 10221230,
+                "tipo": "Avulso inicial da matéria",
+                "siglaTipo": "AVULSO_INICIAL",
+                "identificacao": "Avulso inicial da matéria - SF268882470800",
+                "descricao": "-",
+                "data": "2026-05-13T00:00:00",
+                "autoria": "Senado Federal",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/718be2e5-5fee-41ab-aefa-16b0d188712b"
+              },
+              {
+                "id": 10221224,
+                "tipo": "Projeto de Lei Complementar",
+                "siglaTipo": "PROJETO_LEI_COMPLEMENTAR",
+                "identificacao": "PLP 137/2026",
+                "descricao": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, que “estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal”, a fim de destinar parte da Receita Corrente Líquida às Defensorias Públicas.",
+                "data": "2026-05-13T10:16:38",
+                "autoria": "Senador Jorge Kajuru (PSB/GO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/08247ae3-9013-49ad-95b7-939eb8ecec03"
+              }
+            ]
+          },
+          {
+            "id": 2285879,
+            "data": "2026-05-13 14:39:52",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "descricao": "Recebido o Requerimento nº 372, de 2026, do Senador Jorge Kajuru, de retirada da matéria em caráter definitivo.",
+            "documentosAssociados": [
+              {
+                "id": 10221820,
+                "tipo": "Requerimento",
+                "siglaTipo": "REQUERIMENTO",
+                "identificacao": "RQS 372/2026",
+                "descricao": "Requer a retirada definitiva do Projeto de Lei Complementar nº 137/2026.",
+                "data": "2026-05-13T14:11:50",
+                "autoria": "Senador Jorge Kajuru (PSB/GO)",
+                "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/310fbed0-2f53-4f0c-a4a5-92385644901e"
+              }
+            ]
+          },
+          {
+            "id": 2285871,
+            "data": "2026-05-13 15:02:08",
+            "colegiado": {
+              "codigo": 1998,
+              "casa": "SF",
+              "sigla": "PLEN",
+              "nome": "Plenário do Senado Federal"
+            },
+            "enteAdministrativo": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "descricao": "Encaminhado à publicação o Requerimento nº 372, de 2026, do Senador Jorge Kajuru, de retirada, em caráter definitivo, do Projeto de Lei Complementar nº 137, de 2026. \r\nA Presidência defere o Requerimento e encaminha o Projeto de Lei Complementar nº 137, de 2026, ao Arquivo.",
+            "idSituacaoIniciada": 60,
+            "siglaSituacaoIniciada": "RTPA"
+          }
+        ],
+        "movimentacoes": [
+          {
+            "id": 10221874,
+            "dataEnvio": "2026-05-13 14:43:47",
+            "enteOrigem": {
+              "id": 55312,
+              "casa": "SF",
+              "sigla": "SLSF",
+              "nome": "Secretaria Legislativa do Senado Federal"
+            },
+            "dataRecebimento": "2026-05-13 15:02:02",
+            "enteDestino": {
+              "id": 13594,
+              "casa": "SF",
+              "sigla": "SEADI",
+              "nome": "Secretaria de Atas e Diários"
+            },
+            "colegiadoDestino": {}
+          }
+        ]
+      }
+    ],
+    "deliberacao": {
+      "data": "2026-05-13",
+      "siglaTipo": "RETIRADO_PELO_AUTOR",
+      "tipoDeliberacao": "Retirada pelo autor",
+      "idDestino": 4,
+      "siglaDestino": "ARQUIVO",
+      "destino": "Ao arquivo"
+    },
+    "normaGerada": {},
+    "ultimaInformacaoAtualizada": "PUBLICACAO_OFICIAL",
+    "dthUltimaAtualizacao": "2026-06-22T15:53:31.549000"
+  }
+}

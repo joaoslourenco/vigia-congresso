@@ -1,0 +1,46 @@
+{
+  "dados": {
+    "id": 2652510,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510",
+    "siglaTipo": "PLP",
+    "codTipo": 140,
+    "numero": 294,
+    "ano": 2026,
+    "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir as alíquotas do Simples Nacional, instituir carência tributária para empresas nascentes, simplificar obrigações acessórias, estabelecer o respectivo mecanismo de compensação fiscal, e dar outras providências.",
+    "dataApresentacao": "2026-11-10T17:40",
+    "uriOrgaoNumerador": null,
+    "statusProposicao": {
+      "dataHora": "2026-11-10T17:40",
+      "sequencia": 1,
+      "siglaOrgao": "MESA",
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+      "uriUltimoRelator": null,
+      "regime": ".",
+      "descricaoTramitacao": "Apresentação de Proposição",
+      "codTipoTramitacao": "100",
+      "descricaoSituacao": null,
+      "codSituacao": null,
+      "despacho": "Apresentação do PLP n. 294/2026 (Projeto de Lei Complementar), pelo Deputado Mauricio Neves (PP/SP), que \"Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir as alíquotas do Simples Nacional, instituir carência tributária para empresas nascentes, simplificar obrigações acessórias, estabelecer o respectivo mecanismo de compensação fiscal, e dar outras providências\".",
+      "url": null,
+      "ambito": "Regimental",
+      "apreciacao": "Indefinida"
+    },
+    "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510/autores",
+    "descricaoTipo": "Projeto de Lei Complementar",
+    "ementaDetalhada": null,
+    "keywords": "alteração; Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (2006); redução; Alíquota; Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (SIMPLES NACIONAL); Período de carência; tributação; critério; simplificação; Obrigação tributária acessória; Microempresa; Pequena empresa; Compensação fiscal; Benefício fiscal",
+    "uriPropPrincipal": null,
+    "uriPropAnterior": null,
+    "uriPropPosterior": null,
+    "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3193156",
+    "urnFinal": null,
+    "texto": null,
+    "justificativa": null
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652510"
+    }
+  ]
+}
