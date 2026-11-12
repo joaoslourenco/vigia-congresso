@@ -1,0 +1,75 @@
+name: Atualizar dados e publicar site
+on:
+  schedule:
+    - cron: '30 9 * * *' # 06h30 em Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: vigia-congresso-publicacao
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    outputs:
+      collection_outcome: ${{ steps.collection.outcome }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - name: Testar coletores e resumos
+        run: node --test scripts/*.test.mjs
+      - name: Definir janela de revisão
+        run: |
+          node --input-type=module <<'JS' >> "$GITHUB_ENV"
+          const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+          const d=new Date(today+'T12:00:00Z');d.setUTCDate(d.getUTCDate()-14);
+          console.log('COLLECTION_FROM='+d.toISOString().slice(0,10));
+          console.log('COLLECTION_TO='+today);
+          console.log('SENADO_YEAR='+today.slice(0,4));
+          JS
+      - name: Coletar fontes oficiais
+        id: collection
+        continue-on-error: true
+        run: node scripts/collect.mjs
+      - name: Preparar resumos acessíveis
+        run: node scripts/summarize.mjs
+      - name: Validar antes de publicar
+        run: |
+          node --check dist/app.js
+          node scripts/validate.mjs
+      - name: Gravar somente alterações reais
+        run: |
+          git config user.name "vigia-congresso[bot]"
+          git config user.email "vigia-congresso[bot]@users.noreply.github.com"
+          git add raw dist/data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: atualizar fontes oficiais e resumos"
+            git push
+          fi
+      # Publicação no mesmo workflow, sem depender de push feito pelo GITHUB_TOKEN.
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+  publicar:
+    needs: atualizar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Sinalizar fonte incompleta
+        if: needs.atualizar.outputs.collection_outcome == 'failure'
+        run: |
+          echo 'Site publicado com dados preservados e cobertura parcial. Confira os erros da coleta.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1

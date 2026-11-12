@@ -1,0 +1,2634 @@
+{
+  "month": "2026-11",
+  "days": {
+    "2026-11-11": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-10": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-09": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-06": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-05": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-04": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-03": {
+      "status": "partial",
+      "sources": {
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    }
+  },
+  "proposals": [
+    {
+      "id": "senado-processo-8990439",
+      "officialMatterId": "172557",
+      "officialProcessId": "8990439",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 12,
+      "year": 2026,
+      "presentedAt": "2026-02-04",
+      "officialSummary": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), para incluir as atividades de cantaria e trabalho em pedreiras entre as ocupações permitidas ao Microempreendedor Individual (MEI).",
+      "authorSummary": "Senador Rogério Carvalho (PT/SE)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5352",
+          "name": "Rogério Carvalho",
+          "party": "PT",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172557",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/8990439",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "description": "A matéria vai à CAS e à CAE."
+        },
+        {
+          "date": "2026-11-04",
+          "description": "Matéria aguardando distribuição."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta permite que trabalhadores de cantaria e de pedreiras se formalizem como microempreendedores individuais (MEI). Cantaria é o trabalho de cortar e preparar pedras para uso em construções. A mudança inclui essas atividades entre as ocupações autorizadas nesse regime simplificado de formalização.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "c844e3c305dbd19ef9a9f6ce58284cebdce0068eb7826a30e792e5a5655060ee",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-8990673",
+      "officialMatterId": "172563",
+      "officialProcessId": "8990673",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 13,
+      "year": 2026,
+      "presentedAt": "2026-02-04",
+      "officialSummary": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para garantir a prioridade de repasses ao Programa Farmácia Popular do Brasil, vedar o seu contingenciamento e estabelecer restrições de gastos em caso de inadimplência.",
+      "authorSummary": "Senador Cleitinho (REPUBLICANOS/MG)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-6337",
+          "name": "Cleitinho",
+          "party": "REPUBLICANOS",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172563",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/8990673",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "description": "A matéria vai à CAS e à CAE."
+        },
+        {
+          "date": "2026-11-04",
+          "description": "Matéria aguardando distribuição."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta dá prioridade aos repasses de dinheiro ao Programa Farmácia Popular, que facilita o acesso a medicamentos. Ela busca impedir o contingenciamento desses recursos — o bloqueio temporário de despesas previstas no orçamento — e prevê restrições a outros gastos quando houver atraso no repasse. A ementa não detalha quais seriam essas restrições.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "f6991271498dddb671856b73c3cdeb1a3cbbdf1533680b204ff4231539baddfe",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-8990997",
+      "officialMatterId": "172575",
+      "officialProcessId": "8990997",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 16,
+      "year": 2026,
+      "presentedAt": "2026-02-05",
+      "officialSummary": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre o reconhecimento da deficiência auditiva para os efeitos que especifica.",
+      "authorSummary": "Senador Flávio Arns (PSB/PR)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-345",
+          "name": "Flávio Arns",
+          "party": "PSB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172575",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/8990997",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "description": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n"
+        },
+        {
+          "date": "2026-11-04",
+          "description": "A matéria vai à CDH e à CAE."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta altera a lei da reforma tributária para tratar do reconhecimento da deficiência auditiva nas situações previstas pelo projeto. A ementa, que é a descrição oficial resumida, não informa quais critérios de reconhecimento nem quais efeitos seriam modificados. Esses detalhes precisam ser conferidos no texto completo; não é possível concluir, só pela ementa, que um benefício específico será concedido.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "0229c8e23cfbaa8f10fb4b6cd2b6113fccb79871f55d47343b5b484388b7fa69",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-8993995",
+      "officialMatterId": "172685",
+      "officialProcessId": "8993995",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 27,
+      "year": 2026,
+      "presentedAt": "2026-02-13",
+      "officialSummary": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para vedar transferências voluntárias da União destinadas ao custeio de shows e eventos festivos de entretenimento, sem prejuízo das políticas públicas culturais e turísticas, e para reforçar os mecanismos de transparência e controle nas transferências voluntárias.",
+      "authorSummary": "Senador Eduardo Girão (NOVO/CE)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5976",
+          "name": "Eduardo Girão",
+          "party": "NOVO",
+          "state": "CE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172685",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/8993995",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "description": "Matéria aguardando distribuição."
+        },
+        {
+          "date": "2026-11-04",
+          "description": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta do Projeto de Lei nº 370, de 2026 e Projeto de Lei Complementar nº 27, de 2026, por tratarem de tema correlato. \nAs matérias passam a tramitar em conjunto e vão ao exame da Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Educação e Cultura, e à Comissão de Constituição, Justiça e Cidadania. "
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta proíbe que repasses voluntários da União sejam usados para pagar shows e eventos festivos de entretenimento. Esses repasses são transferências de dinheiro federal a outros entes públicos que não decorrem de uma obrigação constitucional ou legal. O texto também busca ampliar a transparência e o controle desse dinheiro, preservando as políticas públicas de cultura e turismo mencionadas na proposta.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "a3d0dc76447ec8a0b9dc6f0da68fdabafa053153da375729b6a8efe5e78560a7",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-8994746",
+      "officialMatterId": "172719",
+      "officialProcessId": "8994746",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 33,
+      "year": 2026,
+      "presentedAt": "2026-02-23",
+      "officialSummary": "Altera o art. 4º da Lei Complementar nº 224, de 26 de dezembro de 2025, para incluir as entidades de prática esportiva sem fins lucrativos no rol de exceções à redução de benefícios tributários.",
+      "authorSummary": "Senador Eduardo Gomes (PL/TO)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-3777",
+          "name": "Eduardo Gomes",
+          "party": "PL",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172719",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
+      "stage": "MATÉRIA COM A RELATORIA",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "description": "Distribuído ao Senador Plínio Valério, para emitir relatório."
+        },
+        {
+          "date": "2026-11-06",
+          "description": "Recebido, nesta data, na Comissão de Esporte. Aguardando designação de relator."
+        },
+        {
+          "date": "2026-11-04",
+          "description": "A matéria vai à CEsp e à CAE."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta inclui entidades esportivas sem fins lucrativos entre as exceções à redução de benefícios tributários prevista em lei. Em termos práticos, essas entidades poderiam ficar fora do corte abrangido pela mudança. Benefícios tributários são tratamentos que reduzem ou dispensam a cobrança de tributos em determinadas situações; as condições exatas precisam ser consultadas no texto.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "b09e65c15e4785476508245b88dcaca9a406995bb27e0f878d698937da6ed5a5",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9000000",
+      "officialMatterId": "172842",
+      "officialProcessId": "9000000",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 39,
+      "year": 2026,
+      "presentedAt": "2026-03-02",
+      "officialSummary": "Regulamenta a ordem de pagamento dos precatórios, de forma a defender os mais vulneráveis; os idosos, os portadores de doença grave, as pessoas com deficiência, os povos originários, as mulheres vítimas de violência doméstica e os integrantes da agricultura familiar, com base no art. 100, § 15.",
+      "authorSummary": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-6027",
+          "name": "Mecias de Jesus",
+          "party": "REPUBLICANOS",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172842",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9000000",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "description": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n"
+        },
+        {
+          "date": "2026-11-04",
+          "description": "A matéria vai à CDH e à CAE."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta estabelece regras para a ordem de pagamento dos precatórios, que são dívidas do poder público cujo pagamento foi determinado pela Justiça. O objetivo declarado é proteger grupos vulneráveis, incluindo idosos, pessoas com doença grave ou deficiência, povos originários, mulheres vítimas de violência doméstica e integrantes da agricultura familiar. A ementa não detalha a prioridade de cada grupo nem os critérios de aplicação.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "1ff13bff449c27cd1e2e18b2e7d79872cc99681253b4f2dadc6c05c8bdbd3b52",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9004358",
+      "officialMatterId": "172921",
+      "officialProcessId": "9004358",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 45,
+      "year": 2026,
+      "presentedAt": "2026-03-05",
+      "officialSummary": "Altera o art. 51 da Lei Complementar nº 214, de 16 de janeiro de 2025, acrescentando ao seu §2º o inciso III, a fim de resguardar o direito pleno de imunidade das instituições filantrópicas (com atuação na educação, saúde e assistência social, inclusive as organizações assistenciais e beneficentes das entidades religiosas) e evitar que haja substancial aumento de carga tributária para o segmento, na implementação da reforma da tributação.",
+      "authorSummary": "Senador Izalci Lucas (PL/DF)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172921",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "description": "Na 52ª Reunião, extraordinária, realizada nesta data, a Comissão de Assuntos Sociais aprova o relatório do senador Flávio Arns, que passa a constituir o parecer da CAS, favorável ao projeto, com as Emendas nº 1-CAS e 2-CAS. A Comissão aprova, ainda, a apresentação ao Plenário do Senado do Requerimento nº 100, de 2026-CAS, de urgência para a matéria."
+        },
+        {
+          "date": "2026-11-11",
+          "description": "Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 11:22.\nApresentado requerimento (Urgência para matéria) na Comissão nesta data às 12:22."
+        },
+        {
+          "date": "2026-11-11",
+          "description": "Encerrada a relatoria do Senador Flávio Arns por deliberação da matéria."
+        },
+        {
+          "date": "2026-11-11",
+          "description": "Matéria aguardando distribuição."
+        },
+        {
+          "date": "2026-11-09",
+          "description": "Matéria constante da Pauta da 52ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 11/11/2026."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca proteger a imunidade tributária de instituições filantrópicas que atuam em educação, saúde e assistência social, incluindo organizações assistenciais e beneficentes ligadas a entidades religiosas. Imunidade é uma proteção da Constituição contra a cobrança de determinados tributos nas situações abrangidas por ela. O projeto altera a regulamentação da reforma tributária com o objetivo declarado de evitar aumento da carga de tributos para esse segmento.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "e43f43bbbe2f25cf809269cef6f70bb1790e6982a3cedc9627c1c2c4d2335c25",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9011510",
+      "officialMatterId": "173062",
+      "officialProcessId": "9011510",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 58,
+      "year": 2026,
+      "presentedAt": "2026-03-16",
+      "officialSummary": "Altera a Lei nº 9.717, de 27 de novembro de 1998, para aperfeiçoar as regras gerais de organização e funcionamento dos Regimes Próprios de Previdência Social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, estabelecer obrigatoriedade de equacionamento de déficit atuarial, reforçar mecanismos de arrecadação e governança, e aprimorar os instrumentos de regulação e supervisão.",
+      "authorSummary": "Senador Jorge Kajuru (PSB/GO)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5895",
+          "name": "Jorge Kajuru",
+          "party": "PSB",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173062",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9011510",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "description": "Recebido na CTFC.\nA matéria aguarda designação de relator."
+        },
+        {
+          "date": "2026-11-04",
+          "description": "A matéria vai à CTFC, à CAS e à CAE."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta modifica as regras dos regimes de previdência dos servidores públicos da União, dos estados, do Distrito Federal e dos municípios. Ela exige medidas para enfrentar o déficit atuarial: a diferença estimada entre os recursos disponíveis e o dinheiro necessário para pagar aposentadorias e outros compromissos futuros. Também pretende melhorar a arrecadação, a gestão, a regulação e a fiscalização desses regimes.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "fd05df4c4dbf48ac7c74f30324a20b60f3680fc34c0e74293a5991e3a5db3cd7",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9038714",
+      "officialMatterId": "173814",
+      "officialProcessId": "9038714",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 123,
+      "year": 2026,
+      "presentedAt": "2026-04-29",
+      "officialSummary": "Altera a Lei Complementar nº 187, de 16 de dezembro de 2021, para dispor sobre regime excepcional de manutenção da certificação de entidades beneficentes de saúde prestadoras de serviços ao Sistema Único de Saúde (SUS) em situações de impossibilidade temporária de comprovação de regularidade fiscal.",
+      "authorSummary": "Senador Hamilton Mourão (REPUBLICANOS/RS)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-6341",
+          "name": "Hamilton Mourão",
+          "party": "REPUBLICANOS",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173814",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9038714",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "description": "A presente matéria vai à Comissão de Assuntos Sociais. "
+        },
+        {
+          "date": "2026-11-09",
+          "description": "Matéria aguardando distribuição."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta cria um regime excepcional para manter a certificação de entidades beneficentes de saúde que prestam serviços ao SUS quando houver impossibilidade temporária de comprovar a regularidade fiscal. Regularidade fiscal é a situação de cumprimento das obrigações tributárias exigidas para essa comprovação. A ementa não informa o prazo da exceção nem todas as condições; isso precisa ser verificado no texto completo.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "f24bdeb4040ff63441834e5af28d224b00acd3ced018004301ecd39edded968e",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9107861",
+      "officialMatterId": "175782",
+      "officialProcessId": "9107861",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 257,
+      "year": 2026,
+      "presentedAt": "2026-09-11",
+      "officialSummary": "Altera a Lei Complementar nº 150, de 1º de junho de 2015, para equiparar o seguro-desemprego do empregado doméstico ao dos demais trabalhadores empregados.",
+      "authorSummary": "Senador Carlos Portinho (PL/RJ)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5936",
+          "name": "Carlos Portinho",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175782",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9107861",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "description": "A matéria vai à Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Assuntos Sociais. "
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Matéria aguardando distribuição."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca equiparar o seguro-desemprego dos empregados domésticos ao dos demais trabalhadores empregados. Seguro-desemprego é a assistência financeira temporária prevista para as situações de desemprego abrangidas pelas regras do programa. A ementa não informa quais valores, prazos ou requisitos seriam alterados, por isso esses pontos precisam ser conferidos no texto.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "53bf4a7203b4ab810689ed61de05b74137cd7b70bc41af00ae0e6bae8c46abfe",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9119724",
+      "officialMatterId": "176169",
+      "officialProcessId": "9119724",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 282,
+      "year": 2026,
+      "presentedAt": "2026-11-03",
+      "officialSummary": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir a verificação anual de excesso de arrecadação da Contribuição sobre Bens e Serviços (CBS) e assegurar a transparência do cálculo das alíquotas de referência.",
+      "authorSummary": "Senador Izalci Lucas (PL/DF)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176169",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9119724",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "description": "Autuado o Projeto de Lei Complementar nº 282/2026. O projeto vai à publicação."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta determina uma verificação anual de eventual arrecadação acima do esperado com a Contribuição sobre Bens e Serviços (CBS), tributo federal da reforma do consumo. Também exige transparência no cálculo das alíquotas de referência, que são os percentuais de referência usados no desenho dessa tributação. A ementa não informa qual consequência uma arrecadação maior teria sobre as alíquotas.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "c64f48ee271e1800fb1b0b3ee507b860e4d90098e8715d8ec51af9e4a217a985",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9120051",
+      "officialMatterId": "176178",
+      "officialProcessId": "9120051",
+      "house": "Senado",
+      "type": "PEC",
+      "number": 19,
+      "year": 2026,
+      "presentedAt": "2026-11-03",
+      "officialSummary": "Dá nova redação ao art. 228 da Constituição Federal para alterar a maioridade penal.",
+      "authorSummary": "Senador Rogerio Marinho (PL/RN) e outros.",
+      "authors": [
+        {
+          "id": "senado-parlamentar-4694",
+          "name": "Rogerio Marinho",
+          "party": "PL",
+          "state": "RN",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5936",
+          "name": "Carlos Portinho",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 2,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-3777",
+          "name": "Eduardo Gomes",
+          "party": "PL",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 3,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5942",
+          "name": "Marcos do Val",
+          "party": "AVANTE",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 4,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-3806",
+          "name": "Zequinha Marinho",
+          "party": "PODE",
+          "state": "PA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 5,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5070",
+          "name": "Wilder Morais",
+          "party": "PL",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 6,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4811",
+          "name": "Laércio Oliveira",
+          "party": "PP",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 7,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5967",
+          "name": "Angelo Coronel",
+          "party": "REPUBLICANOS",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 8,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5985",
+          "name": "Nelsinho Trad",
+          "party": "PSD",
+          "state": "MS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 9,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 10,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5899",
+          "name": "Vanderlan Cardoso",
+          "party": "PSD",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 11,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6340",
+          "name": "Jaime Bagattoli",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 12,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5959",
+          "name": "Styvenson Valentim",
+          "party": "PODE",
+          "state": "RN",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 13,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5974",
+          "name": "Sargento Reginauro",
+          "party": "PSDB",
+          "state": "CE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 14,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5924",
+          "name": "Oriovisto Guimarães",
+          "party": "PSDB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 15,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-1173",
+          "name": "Wellington Fagundes",
+          "party": "PL",
+          "state": "MT",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 16,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6341",
+          "name": "Hamilton Mourão",
+          "party": "REPUBLICANOS",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 17,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4642",
+          "name": "Efraim Filho",
+          "party": "PL",
+          "state": "PB",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 18,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6025",
+          "name": "Roberta Acioly",
+          "party": "REPUBLICANOS",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 19,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-1186",
+          "name": "Luis Carlos Heinze",
+          "party": "PP",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 20,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6331",
+          "name": "Sergio Moro",
+          "party": "PL",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 21,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-739",
+          "name": "Ciro Nogueira",
+          "party": "PP",
+          "state": "PI",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 22,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5736",
+          "name": "Tereza Cristina",
+          "party": "PP",
+          "state": "MS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 23,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-22",
+          "name": "Esperidião Amin",
+          "party": "PP",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 24,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5793",
+          "name": "Dr. Hiran",
+          "party": "PP",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 25,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5672",
+          "name": "Alan Rick",
+          "party": "REPUBLICANOS",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 26,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-631",
+          "name": "Magno Malta",
+          "party": "PL",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 27,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5894",
+          "name": "Flávio Bolsonaro",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 28,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5257",
+          "name": "Renzo Braz",
+          "party": "PP",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 29,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5422",
+          "name": "Marcos Rogério",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 30,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-285",
+          "name": "Marcio Bittar",
+          "party": "PL",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 31,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-475",
+          "name": "Confúcio Moura",
+          "party": "MDB",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 32,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6008",
+          "name": "Giordano",
+          "party": "PODE",
+          "state": "SP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 33,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6337",
+          "name": "Cleitinho",
+          "party": "REPUBLICANOS",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 34,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6009",
+          "name": "Astronauta Marcos Pontes",
+          "party": "PL",
+          "state": "SP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 35,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4531",
+          "name": "Jayme Campos",
+          "party": "UNIÃO",
+          "state": "MT",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 36,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5990",
+          "name": "Carlos Viana",
+          "party": "PSD",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 37,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176178",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9120051",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "description": "Recebido o Requerimento nº 747, de 2026, de Líderes, que solicita calendário especial para a matéria."
+        },
+        {
+          "date": "2026-11-03",
+          "description": "Autuada a Proposta de Emenda à Constituição nº 19/2026. A proposta vai à publicação"
+        },
+        {
+          "date": "2026-11-03",
+          "description": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta das Propostas de Emenda à Constituição nºs 19 e 20,  de 2026, por tratarem de tema correlato. \nA matéria retorna à Secretaria-Geral da Mesa."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta pretende mudar a idade a partir da qual uma pessoa responde criminalmente pelas regras aplicáveis aos adultos, chamada de maioridade penal. Para isso, altera o artigo 228 da Constituição. A ementa não informa qual idade seria adotada nem em quais condições; esses detalhes precisam ser conferidos no texto completo, sem presumir um limite que não foi informado.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "2d26548682f1afadc759c520484c5033e07007b2300235bc681dc3c71837318b",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9120058",
+      "officialMatterId": "176179",
+      "officialProcessId": "9120058",
+      "house": "Senado",
+      "type": "PEC",
+      "number": 20,
+      "year": 2026,
+      "presentedAt": "2026-11-03",
+      "officialSummary": "Dá nova redação ao art. 228 da Constituição Federal para alterar a maioridade penal.",
+      "authorSummary": "Senador Camilo Santana (PT/CE)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-6336",
+          "name": "Camilo Santana",
+          "party": "PT",
+          "state": "CE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5523",
+          "name": "Otto Alencar",
+          "party": "PSD",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 2,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-742",
+          "name": "Marcelo Castro",
+          "party": "MDB",
+          "state": "PI",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 3,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5525",
+          "name": "Omar Aziz",
+          "party": "PSD",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 4,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4994",
+          "name": "Eduardo Braga",
+          "party": "MDB",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 5,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5748",
+          "name": "Veneziano Vital do Rêgo",
+          "party": "MDB",
+          "state": "PB",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 6,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4639",
+          "name": "Beto Faro",
+          "party": "PT",
+          "state": "PA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 7,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-470",
+          "name": "Chico Rodrigues",
+          "party": "PSB",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 8,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5895",
+          "name": "Jorge Kajuru",
+          "party": "PSB",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 9,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5718",
+          "name": "Eliziane Gama",
+          "party": "PSD",
+          "state": "MA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 10,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-4560",
+          "name": "Sérgio Petecão",
+          "party": "PSD",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 11,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5953",
+          "name": "Fabiano Contarato",
+          "party": "PT",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 12,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6295",
+          "name": "Carlos Fávaro",
+          "party": "PSD",
+          "state": "MT",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 13,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5973",
+          "name": "Cid Gomes",
+          "party": "PSB",
+          "state": "CE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 14,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5207",
+          "name": "Renan Filho",
+          "party": "MDB",
+          "state": "AL",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 15,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6337",
+          "name": "Cleitinho",
+          "party": "REPUBLICANOS",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 16,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5998",
+          "name": "Daniella Ribeiro",
+          "party": "PP",
+          "state": "PB",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 17,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-6358",
+          "name": "Ana Paula Lobato",
+          "party": "PSB",
+          "state": "MA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 18,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-345",
+          "name": "Flávio Arns",
+          "party": "PSB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 19,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5352",
+          "name": "Rogério Carvalho",
+          "party": "PT",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 20,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-475",
+          "name": "Confúcio Moura",
+          "party": "MDB",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 21,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5385",
+          "name": "Irajá",
+          "party": "PSD",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 22,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5988",
+          "name": "Soraya Thronicke",
+          "party": "PSB",
+          "state": "MS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 23,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5977",
+          "name": "Leany Lemos",
+          "party": "PSB",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 24,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-35",
+          "name": "Jader Barbalho",
+          "party": "MDB",
+          "state": "PA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 25,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-70",
+          "name": "Renan Calheiros",
+          "party": "MDB",
+          "state": "AL",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 26,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5411",
+          "name": "Weverton",
+          "party": "PDT",
+          "state": "MA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 27,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        },
+        {
+          "id": "senado-parlamentar-5012",
+          "name": "Randolfe Rodrigues",
+          "party": "PT",
+          "state": "AP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 28,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176179",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9120058",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "description": "Recebido o Requerimento nº 747, de 2026, de Líderes, que solicita calendário especial para a matéria."
+        },
+        {
+          "date": "2026-11-03",
+          "description": "Autuada a Proposta de Emenda à Constituição nº 20/2026. A proposta vai à publicação"
+        },
+        {
+          "date": "2026-11-03",
+          "description": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta das Propostas de Emenda à Constituição nºs 19 e 20,  de 2026, por tratarem de tema correlato. \nA matéria retorna à Secretaria-Geral da Mesa."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta pretende mudar a maioridade penal, isto é, a idade a partir da qual uma pessoa passa a responder criminalmente pelas regras aplicáveis aos adultos. Ela altera o artigo 228 da Constituição, mas a ementa não especifica a idade proposta nem as condições de aplicação. O texto completo deve ser consultado para conhecer a mudança exata.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "2d26548682f1afadc759c520484c5033e07007b2300235bc681dc3c71837318b",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9120441",
+      "officialMatterId": "176190",
+      "officialProcessId": "9120441",
+      "house": "Senado",
+      "type": "PEC",
+      "number": 21,
+      "year": 2026,
+      "presentedAt": "2026-11-04",
+      "officialSummary": "Altera os arts. 37, 93, 103-B e 130-A da Constituição Federal para vedar a investidura em cargo, emprego ou função pública, inclusive no Conselho Nacional de Justiça e no Conselho Nacional do Ministério Público, bem como a promoção na magistratura, no Ministério Público e na Defensoria Pública, de condenados por crimes praticados contra a mulher.",
+      "authorSummary": "Senadora Daniella Ribeiro (PP/PB), Senadora Professora Dorinha Seabra (UNIÃO/TO), Senador Jorge Kajuru (PSB/GO), Senador Alessandro Vieira (MDB/SE), Senador Lucas Barreto (PSD/AP), Senador Ciro Nogueira (PP/PI), Senadora Tereza Cristina (PP/MS), Senador Sérgio Petecão (PSD/AC), Senadora Leany Lemos (PSB/DF), Senador Eduardo Braga (MDB/AM), Senador Flávio Arns (PSB/PR), Senador Alan Rick (REPUBLICANOS/AC), Senador Humberto Costa (PT/PE), Senador Angelo Coronel (REPUBLICANOS/BA), Senador Paulo Paim (PT/RS), Senador Laércio Oliveira (PP/SE), Senador Dr. Hiran (PP/RR), Senadora Teresa Leitão (PT/PE), Senador Jaques Wagner (PT/BA), Senador Rogério Carvalho (PT/SE), Senadora Eliziane Gama (PSD/MA), Senador Confúcio Moura (MDB/RO), Senadora Soraya Thronicke (PSB/MS), Senadora Jussara Lima (PSD/PI), Senador Izalci Lucas (PL/DF), Senador Nelsinho Trad (PSD/MS), Senador Plínio Valério (PSDB/AM), Senador Otto Alencar (PSD/BA)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5998",
+          "name": "Daniella Ribeiro",
+          "party": "PP",
+          "state": "PB",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5386",
+          "name": "Professora Dorinha Seabra",
+          "party": "UNIÃO",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 2,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5895",
+          "name": "Jorge Kajuru",
+          "party": "PSB",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 3,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5982",
+          "name": "Alessandro Vieira",
+          "party": "MDB",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 4,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5926",
+          "name": "Lucas Barreto",
+          "party": "PSD",
+          "state": "AP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 5,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-739",
+          "name": "Ciro Nogueira",
+          "party": "PP",
+          "state": "PI",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 6,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5736",
+          "name": "Tereza Cristina",
+          "party": "PP",
+          "state": "MS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 7,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4560",
+          "name": "Sérgio Petecão",
+          "party": "PSD",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 8,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5977",
+          "name": "Leany Lemos",
+          "party": "PSB",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 9,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4994",
+          "name": "Eduardo Braga",
+          "party": "MDB",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 10,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-345",
+          "name": "Flávio Arns",
+          "party": "PSB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 11,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5672",
+          "name": "Alan Rick",
+          "party": "REPUBLICANOS",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 12,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5008",
+          "name": "Humberto Costa",
+          "party": "PT",
+          "state": "PE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 13,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5967",
+          "name": "Angelo Coronel",
+          "party": "REPUBLICANOS",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 14,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-825",
+          "name": "Paulo Paim",
+          "party": "PT",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 15,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4811",
+          "name": "Laércio Oliveira",
+          "party": "PP",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 16,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5793",
+          "name": "Dr. Hiran",
+          "party": "PP",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 17,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6338",
+          "name": "Teresa Leitão",
+          "party": "PT",
+          "state": "PE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 18,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-581",
+          "name": "Jaques Wagner",
+          "party": "PT",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 19,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5352",
+          "name": "Rogério Carvalho",
+          "party": "PT",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 20,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5718",
+          "name": "Eliziane Gama",
+          "party": "PSD",
+          "state": "MA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 21,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-475",
+          "name": "Confúcio Moura",
+          "party": "MDB",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 22,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5988",
+          "name": "Soraya Thronicke",
+          "party": "PSB",
+          "state": "MS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 23,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6369",
+          "name": "Jussara Lima",
+          "party": "PSD",
+          "state": "PI",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 24,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 25,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5985",
+          "name": "Nelsinho Trad",
+          "party": "PSD",
+          "state": "MS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 26,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5502",
+          "name": "Plínio Valério",
+          "party": "PSDB",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 27,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5523",
+          "name": "Otto Alencar",
+          "party": "PSD",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 28,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176190",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9120441",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "description": "Autuada a Proposta de Emenda à Constituição nº 21/2026. A proposta vai à publicação"
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta impede que pessoas condenadas por crimes contra a mulher ingressem em cargos, empregos ou funções públicas, incluindo os conselhos nacionais de Justiça e do Ministério Público. Também busca impedir a promoção dessas pessoas na magistratura, no Ministério Público e na Defensoria Pública. Como modifica a Constituição, tramita como PEC; os critérios exatos das condenações abrangidas devem ser conferidos no texto completo.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "c2d48199b307581e9156b62940ce844ee3e10fff1c291dc0c19d5a0849a97051",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9121553",
+      "officialMatterId": "176206",
+      "officialProcessId": "9121553",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 284,
+      "year": 2026,
+      "presentedAt": "2026-11-04",
+      "officialSummary": "Estabelece as diretrizes e bases do planejamento do desenvolvimento nacional equilibrado de longo prazo; institui a Estratégia Nacional de Desenvolvimento de Longo Prazo e os Indicadores-Chave Nacionais; dispõe sobre a compatibilização do plano plurianual e da lei de diretrizes orçamentárias da União com o planejamento nacional de longo prazo; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para aprimorar as projeções fiscais a constar do Anexo de Metas Fiscais e para prever o Anexo de Alinhamento Estratégico nos projetos de lei de diretrizes orçamentárias da União.",
+      "authorSummary": "Senadora Leany Lemos (PSB/DF)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5977",
+          "name": "Leany Lemos",
+          "party": "PSB",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176206",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9121553",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-04",
+          "description": "Autuado o Projeto de Lei Complementar nº 284/2026. O projeto vai à publicação."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta organiza um planejamento de longo prazo para o desenvolvimento do país, com uma estratégia nacional e indicadores para acompanhar seus resultados. Ela busca alinhar esse planejamento ao Plano Plurianual, que define diretrizes e metas do governo por quatro anos, e à Lei de Diretrizes Orçamentárias, que orienta a elaboração do orçamento anual. Também prevê mudanças nas projeções fiscais e um documento que demonstre como o orçamento se conecta à estratégia nacional.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "c7a95e3b1a17752b616a652b4c22566fc934e914119fe6fd4432d70404a3609e",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9122817",
+      "officialMatterId": "176228",
+      "officialProcessId": "9122817",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 286,
+      "year": 2026,
+      "presentedAt": "2026-11-05",
+      "officialSummary": "Institui a Lei de Credibilidade Fiscal, com trajetória plurianual de resultado primário de cumprimento certificado de forma independente, medidas de correção em caso de descumprimento e instrumentos de coordenação entre as políticas fiscal e monetária; e altera a Lei Complementar nº 200, de 30 de agosto de 2023, a Lei Complementar nº 101, de 4 de maio de 2000, a Lei nº 1.079, de 10 de abril de 1950, e a Lei nº 10.028, de 19 de outubro de 2000.",
+      "authorSummary": "Senador Alessandro Vieira (MDB/SE)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5982",
+          "name": "Alessandro Vieira",
+          "party": "MDB",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176228",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9122817",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "description": "Autuado o Projeto de Lei Complementar nº 286/2026. O projeto vai à publicação."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta cria uma Lei de Credibilidade Fiscal, com um caminho de vários anos para o resultado primário do governo: a diferença entre receitas e despesas, sem considerar os juros da dívida. O cumprimento seria certificado de forma independente, e haveria medidas de correção em caso de descumprimento. O projeto também prevê mecanismos de coordenação entre a política fiscal, ligada às contas públicas, e a política monetária, ligada à moeda e aos juros.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "637321926cef560517ca0dfdd7c7f4179fdeb5b0ebf9123184df0e9838edc08b",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9124144",
+      "officialMatterId": "176259",
+      "officialProcessId": "9124144",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 289,
+      "year": 2026,
+      "presentedAt": "2026-11-10",
+      "officialSummary": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para tornar inelegíveis, desde a condenação por órgão colegiado até o transcurso do prazo de 8 (oito) anos após o cumprimento da pena, os que forem condenados por crimes praticados mediante violência contra a mulher.",
+      "authorSummary": "Senador Renan Calheiros (MDB/AL)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-70",
+          "name": "Renan Calheiros",
+          "party": "MDB",
+          "state": "AL",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176259",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9124144",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "description": "Autuado o Projeto de Lei Complementar nº 289/2026. O projeto vai à publicação."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta impede a candidatura de pessoas condenadas por crimes praticados com violência contra a mulher quando a condenação for decidida por um órgão colegiado, formado por mais de um julgador. O impedimento começaria nessa condenação e duraria até oito anos depois do cumprimento da pena. Essa restrição é chamada de inelegibilidade: a pessoa fica legalmente impedida de disputar eleições no período previsto.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "93453ece00e36129f9d05e103851cf94fd15b95ea0e2610ca082f42d6165759b",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9126043",
+      "officialMatterId": "176304",
+      "officialProcessId": "9126043",
+      "house": "Senado",
+      "type": "PEC",
+      "number": 23,
+      "year": 2026,
+      "presentedAt": "2026-11-11",
+      "officialSummary": "Altera o inciso V do art. 52 da Constituição Federal, para ampliar a competência do Senado Federal quanto à autorização de operações internas e externas de natureza financeira.",
+      "authorSummary": "Senador Marcio Bittar (PL/AC), Senadora Damares Alves (REPUBLICANOS/DF), Senador Izalci Lucas (PL/DF), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Lucas Barreto (PSD/AP), Senador Marcos do Val (PODE/ES), Senador Sergio Moro (UNIÃO/PR), Senador Zequinha Marinho (PODE/PA), Senador Magno Malta (PL/ES), Senador Marcos Rogério (PL/RO), Senador Dr. Hiran (PP/RR), Senador Jaime Bagattoli (PL/RO), Senador Cleitinho (REPUBLICANOS/MG), Senador Jorge Seif (PL/SC), Senador Flávio Bolsonaro (PL/RJ), Senador Astronauta Marcos Pontes (PL/SP), Senador Wellington Fagundes (PL/MT), Senador Efraim Filho (PL/PB), Senador Alan Rick (REPUBLICANOS/AC), Senador Hermes Klann (PL/SC), Senador Wilder Morais (PL/GO), Senador Sargento Reginauro (PSDB/CE), Senador Plínio Valério (PSDB/AM), Senador Laércio Oliveira (PP/SE), Senador Carlos Portinho (PL/RJ), Senador Rogerio Marinho (PL/RN), Senador Esperidião Amin (PP/SC), Senadora Roberta Acioly (REPUBLICANOS/RR), Senador Luis Carlos Heinze (PP/RS)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-285",
+          "name": "Marcio Bittar",
+          "party": "PL",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6335",
+          "name": "Damares Alves",
+          "party": "REPUBLICANOS",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 2,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 3,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6341",
+          "name": "Hamilton Mourão",
+          "party": "REPUBLICANOS",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 4,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5926",
+          "name": "Lucas Barreto",
+          "party": "PSD",
+          "state": "AP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 5,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5942",
+          "name": "Marcos do Val",
+          "party": "PODE",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 6,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6331",
+          "name": "Sergio Moro",
+          "party": "UNIÃO",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 7,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-3806",
+          "name": "Zequinha Marinho",
+          "party": "PODE",
+          "state": "PA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 8,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-631",
+          "name": "Magno Malta",
+          "party": "PL",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 9,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5422",
+          "name": "Marcos Rogério",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 10,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5793",
+          "name": "Dr. Hiran",
+          "party": "PP",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 11,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6340",
+          "name": "Jaime Bagattoli",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 12,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6337",
+          "name": "Cleitinho",
+          "party": "REPUBLICANOS",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 13,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6342",
+          "name": "Jorge Seif",
+          "party": "PL",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 14,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5894",
+          "name": "Flávio Bolsonaro",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 15,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6009",
+          "name": "Astronauta Marcos Pontes",
+          "party": "PL",
+          "state": "SP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 16,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-1173",
+          "name": "Wellington Fagundes",
+          "party": "PL",
+          "state": "MT",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 17,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4642",
+          "name": "Efraim Filho",
+          "party": "PL",
+          "state": "PB",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 18,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5672",
+          "name": "Alan Rick",
+          "party": "REPUBLICANOS",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 19,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5070",
+          "name": "Wilder Morais",
+          "party": "PL",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 20,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5974",
+          "name": "Sargento Reginauro",
+          "party": "PSDB",
+          "state": "CE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 21,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5502",
+          "name": "Plínio Valério",
+          "party": "PSDB",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 22,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4811",
+          "name": "Laércio Oliveira",
+          "party": "PP",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 23,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5936",
+          "name": "Carlos Portinho",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 24,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4694",
+          "name": "Rogerio Marinho",
+          "party": "PL",
+          "state": "RN",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 25,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-22",
+          "name": "Esperidião Amin",
+          "party": "PP",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 26,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6025",
+          "name": "Roberta Acioly",
+          "party": "REPUBLICANOS",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 27,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-1186",
+          "name": "Luis Carlos Heinze",
+          "party": "PP",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 28,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176304",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9126043",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "description": "Autuada a Proposta de Emenda à Constituição nº 23/2026. A proposta vai à publicação"
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": true,
+      "summary": "A proposta amplia as atribuições do Senado para autorizar operações financeiras realizadas dentro do Brasil e com o exterior. Ela modifica o artigo 52 da Constituição, que trata das competências dessa Casa. A ementa não identifica quais novas operações passariam a depender dessa autorização; esse alcance precisa ser conferido no texto completo.",
+      "summaryMethod": "editorial",
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "231ad3b6e910b05ff4950aea33a955c2567ba09a0950a141c1cc2346bac60b4d",
+      "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9127383",
+      "officialMatterId": "176328",
+      "officialProcessId": "9127383",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 299,
+      "year": 2026,
+      "presentedAt": "2026-11-11",
+      "officialSummary": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "authorSummary": "Senador Jaques Wagner (PT/BA)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-581",
+          "name": "Jaques Wagner",
+          "party": "PT",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "description": "Autuado o Projeto de Lei Complementar nº 299/2026. O projeto vai à publicação."
+        }
+      ],
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca dar ao governo federal novas ferramentas de gestão para preservar a estabilidade da economia e favorecer o desenvolvimento social e econômico. Governo federal, aqui, é o Poder Executivo, responsável pela administração do país. A ementa não descreve quais ferramentas seriam criadas nem como seriam usadas; esses limites precisam ser conferidos no texto completo.",
+      "summaryMethod": "editorial",
+      "aiSummary": true,
+      "summaryLabel": "Resumo elaborado com auxílio de IA",
+      "summarySourceHash": "a32765b56cdc9604febf77f05ee3161b709a70cfa0bf56bea933018bde5fe34a"
+    }
+  ],
+  "events": [
+    {
+      "id": "senado-informe-2325581",
+      "proposalId": "senado-processo-9004358",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 09:36:34",
+      "kind": "Tramitação",
+      "description": "Na 52ª Reunião, extraordinária, realizada nesta data, a Comissão de Assuntos Sociais aprova o relatório do senador Flávio Arns, que passa a constituir o parecer da CAS, favorável ao projeto, com as Emendas nº 1-CAS e 2-CAS. A Comissão aprova, ainda, a apresentação ao Plenário do Senado do Requerimento nº 100, de 2026-CAS, de urgência para a matéria.",
+      "stage": "APROVADO PARECER NA COMISSÃO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325710",
+      "proposalId": "senado-processo-9126043",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 11:50:46",
+      "kind": "Tramitação",
+      "description": "Autuada a Proposta de Emenda à Constituição nº 23/2026. A proposta vai à publicação",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9126043",
+      "conflict": true,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325724",
+      "proposalId": "senado-processo-9004358",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 11:51:00",
+      "kind": "Tramitação",
+      "description": "Encerrada a relatoria do Senador Flávio Arns por deliberação da matéria.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325767",
+      "proposalId": "senado-processo-9004358",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 11:22:44",
+      "kind": "Tramitação",
+      "description": "Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 11:22.\nApresentado requerimento (Urgência para matéria) na Comissão nesta data às 12:22.",
+      "stage": "MATÉRIA EM TRAMITAÇÃO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325927",
+      "proposalId": "senado-processo-9004358",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 14:50:41",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326013",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-11",
+      "occurredAt": "2026-11-11 16:59:17",
+      "kind": "Tramitação",
+      "description": "Autuado o Projeto de Lei Complementar nº 299/2026. O projeto vai à publicação.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325138",
+      "proposalId": "senado-processo-9124144",
+      "date": "2026-11-10",
+      "occurredAt": "2026-11-10 08:10:56",
+      "kind": "Tramitação",
+      "description": "Autuado o Projeto de Lei Complementar nº 289/2026. O projeto vai à publicação.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9124144",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325311",
+      "proposalId": "senado-processo-8994746",
+      "date": "2026-11-10",
+      "occurredAt": "2026-11-10 15:09:00",
+      "kind": "Tramitação",
+      "description": "Distribuído ao Senador Plínio Valério, para emitir relatório.",
+      "stage": "MATÉRIA COM A RELATORIA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324875",
+      "proposalId": "senado-processo-8993995",
+      "date": "2026-11-09",
+      "occurredAt": "2026-11-09 08:57:22",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8993995",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324918",
+      "proposalId": "senado-processo-9004358",
+      "date": "2026-11-09",
+      "occurredAt": "2026-11-09 09:47:27",
+      "kind": "Tramitação",
+      "description": "Matéria constante da Pauta da 52ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 11/11/2026.",
+      "stage": "INCLUÍDA NA PAUTA DA REUNIÃO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9004358",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325047",
+      "proposalId": "senado-processo-9038714",
+      "date": "2026-11-09",
+      "occurredAt": "2026-11-09 17:36:44",
+      "kind": "Tramitação",
+      "description": "A presente matéria vai à Comissão de Assuntos Sociais. ",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9038714",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2325094",
+      "proposalId": "senado-processo-9038714",
+      "date": "2026-11-09",
+      "occurredAt": "2026-11-09 18:39:21",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9038714",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324438",
+      "proposalId": "senado-processo-8994746",
+      "date": "2026-11-06",
+      "occurredAt": "2026-11-06 09:27:09",
+      "kind": "Tramitação",
+      "description": "Recebido, nesta data, na Comissão de Esporte. Aguardando designação de relator.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323979",
+      "proposalId": "senado-processo-8990997",
+      "date": "2026-11-05",
+      "occurredAt": "2026-11-05 12:59:38",
+      "kind": "Tramitação",
+      "description": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8990997",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324004",
+      "proposalId": "senado-processo-9000000",
+      "date": "2026-11-05",
+      "occurredAt": "2026-11-05 13:16:13",
+      "kind": "Tramitação",
+      "description": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9000000",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324017",
+      "proposalId": "senado-processo-9011510",
+      "date": "2026-11-05",
+      "occurredAt": "2026-11-05 13:57:13",
+      "kind": "Tramitação",
+      "description": "Recebido na CTFC.\nA matéria aguarda designação de relator.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9011510",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324068",
+      "proposalId": "senado-processo-9107861",
+      "date": "2026-11-05",
+      "occurredAt": "2026-11-05 15:22:39",
+      "kind": "Tramitação",
+      "description": "A matéria vai à Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Assuntos Sociais. ",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9107861",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324102",
+      "proposalId": "senado-processo-9107861",
+      "date": "2026-11-05",
+      "occurredAt": "2026-11-05 16:36:30",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9107861",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2324129",
+      "proposalId": "senado-processo-9122817",
+      "date": "2026-11-05",
+      "occurredAt": "2026-11-05 17:29:30",
+      "kind": "Tramitação",
+      "description": "Autuado o Projeto de Lei Complementar nº 286/2026. O projeto vai à publicação.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9122817",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323165",
+      "proposalId": "senado-processo-9120441",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 11:35:19",
+      "kind": "Tramitação",
+      "description": "Autuada a Proposta de Emenda à Constituição nº 21/2026. A proposta vai à publicação",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120441",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323420",
+      "proposalId": "senado-processo-9120051",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:10:22",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 747, de 2026, de Líderes, que solicita calendário especial para a matéria.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120051",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323421",
+      "proposalId": "senado-processo-9120058",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:10:22",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 747, de 2026, de Líderes, que solicita calendário especial para a matéria.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120058",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323437",
+      "proposalId": "senado-processo-9121553",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:24:38",
+      "kind": "Tramitação",
+      "description": "Autuado o Projeto de Lei Complementar nº 284/2026. O projeto vai à publicação.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9121553",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323449",
+      "proposalId": "senado-processo-8990439",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:42:49",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CAS e à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8990439",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323450",
+      "proposalId": "senado-processo-8990673",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:43:55",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CAS e à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8990673",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323451",
+      "proposalId": "senado-processo-8994746",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:46:56",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CEsp e à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323482",
+      "proposalId": "senado-processo-8990997",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:44:53",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CDH e à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8990997",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323484",
+      "proposalId": "senado-processo-9000000",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:48:12",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CDH e à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9000000",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323485",
+      "proposalId": "senado-processo-9011510",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 17:49:13",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CTFC, à CAS e à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9011510",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323694",
+      "proposalId": "senado-processo-8990439",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 18:13:58",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8990439",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323718",
+      "proposalId": "senado-processo-8990673",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 18:15:55",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8990673",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323726",
+      "proposalId": "senado-processo-8993995",
+      "date": "2026-11-04",
+      "occurredAt": "2026-11-04 18:24:06",
+      "kind": "Tramitação",
+      "description": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta do Projeto de Lei nº 370, de 2026 e Projeto de Lei Complementar nº 27, de 2026, por tratarem de tema correlato. \nAs matérias passam a tramitar em conjunto e vão ao exame da Comissão de Assuntos Econômicos, seguindo posteriormente à Comissão de Educação e Cultura, e à Comissão de Constituição, Justiça e Cidadania. ",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8993995",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2322896",
+      "proposalId": "senado-processo-9119724",
+      "date": "2026-11-03",
+      "occurredAt": "2026-11-03 15:45:18",
+      "kind": "Tramitação",
+      "description": "Autuado o Projeto de Lei Complementar nº 282/2026. O projeto vai à publicação.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9119724",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2322986",
+      "proposalId": "senado-processo-9120051",
+      "date": "2026-11-03",
+      "occurredAt": "2026-11-03 20:20:40",
+      "kind": "Tramitação",
+      "description": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta das Propostas de Emenda à Constituição nºs 19 e 20,  de 2026, por tratarem de tema correlato. \nA matéria retorna à Secretaria-Geral da Mesa.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120051",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2322987",
+      "proposalId": "senado-processo-9120058",
+      "date": "2026-11-03",
+      "occurredAt": "2026-11-03 20:20:40",
+      "kind": "Tramitação",
+      "description": "A Presidência determina, nos termos do artigo 48, §1º, do Regimento Interno, a tramitação conjunta das Propostas de Emenda à Constituição nºs 19 e 20,  de 2026, por tratarem de tema correlato. \nA matéria retorna à Secretaria-Geral da Mesa.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120058",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323001",
+      "proposalId": "senado-processo-9120051",
+      "date": "2026-11-03",
+      "occurredAt": "2026-11-03 19:50:02",
+      "kind": "Tramitação",
+      "description": "Autuada a Proposta de Emenda à Constituição nº 19/2026. A proposta vai à publicação",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120051",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2323002",
+      "proposalId": "senado-processo-9120058",
+      "date": "2026-11-03",
+      "occurredAt": "2026-11-03 19:51:33",
+      "kind": "Tramitação",
+      "description": "Autuada a Proposta de Emenda à Constituição nº 20/2026. A proposta vai à publicação",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-11T18:48:27.884Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9120058",
+      "conflict": false,
+      "vote": null
+    }
+  ]
+}
