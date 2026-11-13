@@ -2809,7 +2809,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2649667",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -2818,7 +2818,7 @@
           "description": "Apresentação do PLP n. 279/2026 (Projeto de Lei Complementar), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-13T17:56:30.549Z",
       "summary": "A proposta altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -3218,10 +3218,10 @@
       "occurredAt": "2026-10-30T15:58",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 279/2026 (Projeto de Lei Complementar), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições\".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-13T17:56:30.549Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649667/tramitacoes",
       "rapporteurId": null,
       "vote": null

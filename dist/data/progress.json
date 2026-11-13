@@ -8,7 +8,7 @@
       "actionAt": "2026-11-04T10:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:00.672Z",
+      "checkedAt": "2026-11-13T17:57:33.633Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2260638"
     },
     "camara-proposicao-2488594": {
@@ -19,7 +19,7 @@
       "actionAt": "2026-11-03T19:45",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/74856",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:00.955Z",
+      "checkedAt": "2026-11-13T17:57:34.226Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2488594"
     },
     "camara-proposicao-1228863": {
@@ -30,7 +30,7 @@
       "actionAt": "2026-11-11T14:30",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/74428",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:00.418Z",
+      "checkedAt": "2026-11-13T17:57:33.847Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/1228863"
     },
     "camara-proposicao-2140446": {
@@ -41,7 +41,7 @@
       "actionAt": "2026-11-04T12:48",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/141422",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:00.541Z",
+      "checkedAt": "2026-11-13T17:57:33.631Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2140446"
     },
     "camara-proposicao-2648653": {
@@ -52,7 +52,7 @@
       "actionAt": "2026-10-29T11:36",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:01.677Z",
+      "checkedAt": "2026-11-13T17:57:34.639Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2648653"
     },
     "camara-proposicao-2362526": {
@@ -63,7 +63,7 @@
       "actionAt": "2026-10-29T11:36",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:00.844Z",
+      "checkedAt": "2026-11-13T17:57:33.668Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2362526"
     },
     "camara-proposicao-2615068": {
@@ -74,7 +74,7 @@
       "actionAt": "2026-11-11T10:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:01.435Z",
+      "checkedAt": "2026-11-13T17:57:34.422Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2615068"
     },
     "camara-proposicao-2649422": {
@@ -85,7 +85,7 @@
       "actionAt": "2026-10-28T17:49",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:01.916Z",
+      "checkedAt": "2026-11-13T17:57:35.030Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649422"
     },
     "camara-proposicao-2649538": {
@@ -96,18 +96,18 @@
       "actionAt": "2026-10-29T12:41",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.047Z",
+      "checkedAt": "2026-11-13T17:57:34.847Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649538"
     },
     "camara-proposicao-2649667": {
-      "situation": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "situation": "Aguardando Autorização do Despacho",
       "body": "Mesa Diretora da Câmara dos Deputados (MESA)",
       "bodyUrl": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
       "lastAction": "Apresentação do PLP n. 279/2026 (Projeto de Lei Complementar), pelo Deputado Kim Kataguiri (MISSÃO/SP), que \"Altera a Lei Complementar nº 101, de 2000 (Lei de Responsabilidade Fiscal) e a Lei nº 9.504, de 1997 (Lei das Eleições), a fim de impedir a concessão de benefícios com a finalidade de influenciar as eleições\".",
       "actionAt": "2026-10-30T15:58",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.128Z",
+      "checkedAt": "2026-11-13T17:57:35.027Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649667"
     },
     "camara-proposicao-2649647": {
@@ -118,7 +118,7 @@
       "actionAt": "2026-10-30T09:41",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.263Z",
+      "checkedAt": "2026-11-13T17:57:35.220Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649647"
     },
     "senado-processo-9104654": {
@@ -127,7 +127,7 @@
       "lastAction": "Recebido o Requerimento nº  733, de 2026, do Senador Veneziano Vital do Rêgo, solicitando tramitação conjunta da PEC 16/2019 com a PEC 77/2019, a PEC 41/2023, a PEC 51/2023, a PEC 39/2025, a PEC 45/2025, a PEC 47/2025 e a PEC 17/2026.",
       "actionAt": "2026-10-29 11:14:53",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.338Z",
+      "checkedAt": "2026-11-13T17:57:36.201Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175716"
     },
     "camara-proposicao-2649648": {
@@ -138,7 +138,7 @@
       "actionAt": "2026-10-30T10:01",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.446Z",
+      "checkedAt": "2026-11-13T17:57:35.019Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649648"
     },
     "camara-proposicao-2194074": {
@@ -149,7 +149,7 @@
       "actionAt": "2026-11-10T19:52",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220578",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:02.653Z",
+      "checkedAt": "2026-11-13T17:57:35.801Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2194074"
     },
     "camara-proposicao-565008": {
@@ -160,7 +160,7 @@
       "actionAt": "2026-11-05T00:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:02.319Z",
+      "checkedAt": "2026-11-13T17:57:35.233Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/565008"
     },
     "camara-proposicao-1279086": {
@@ -171,7 +171,7 @@
       "actionAt": "2026-11-10T11:47",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220554",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.545Z",
+      "checkedAt": "2026-11-13T17:57:35.452Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/1279086"
     },
     "camara-proposicao-2222776": {
@@ -182,7 +182,7 @@
       "actionAt": "2026-11-09T13:45",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.045Z",
+      "checkedAt": "2026-11-13T17:57:36.185Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2222776"
     },
     "camara-proposicao-2251858": {
@@ -193,7 +193,7 @@
       "actionAt": "2026-11-09T13:45",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.089Z",
+      "checkedAt": "2026-11-13T17:57:36.198Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2251858"
     },
     "camara-proposicao-2196107": {
@@ -204,7 +204,7 @@
       "actionAt": "2026-11-09T13:45",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.115Z",
+      "checkedAt": "2026-11-13T17:57:36.018Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2196107"
     },
     "camara-proposicao-2087915": {
@@ -215,7 +215,7 @@
       "actionAt": "2026-11-11T09:30",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/178929",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:02.438Z",
+      "checkedAt": "2026-11-13T17:57:35.445Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2087915"
     },
     "camara-proposicao-2295251": {
@@ -226,7 +226,7 @@
       "actionAt": "2026-11-03T19:41",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/214694",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.290Z",
+      "checkedAt": "2026-11-13T17:57:36.400Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2295251"
     },
     "camara-proposicao-2355790": {
@@ -237,7 +237,7 @@
       "actionAt": "2026-11-11T10:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.566Z",
+      "checkedAt": "2026-11-13T17:57:36.997Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2355790"
     },
     "camara-proposicao-2308992": {
@@ -248,7 +248,7 @@
       "actionAt": "2026-11-09T13:45",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.788Z",
+      "checkedAt": "2026-11-13T17:57:36.397Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2308992"
     },
     "camara-proposicao-2363310": {
@@ -259,7 +259,7 @@
       "actionAt": "2026-11-04T18:56",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.893Z",
+      "checkedAt": "2026-11-13T17:57:37.424Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2363310"
     },
     "camara-proposicao-2341099": {
@@ -270,7 +270,7 @@
       "actionAt": "2026-11-04T17:36",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/104552",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.531Z",
+      "checkedAt": "2026-11-13T17:57:36.598Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2341099"
     },
     "camara-proposicao-2400108": {
@@ -281,7 +281,7 @@
       "actionAt": "2026-11-04T18:56",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:04.099Z",
+      "checkedAt": "2026-11-13T17:57:37.441Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2400108"
     },
     "camara-proposicao-2350914": {
@@ -292,7 +292,7 @@
       "actionAt": "2026-11-11T13:44",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204557",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:03.714Z",
+      "checkedAt": "2026-11-13T17:57:36.801Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2350914"
     },
     "camara-proposicao-2382012": {
@@ -303,7 +303,7 @@
       "actionAt": "2026-11-04T18:56",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:04.322Z",
+      "checkedAt": "2026-11-13T17:57:37.635Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2382012"
     },
     "camara-proposicao-2443533": {
@@ -314,7 +314,7 @@
       "actionAt": "2026-11-09T00:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220611",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:04.500Z",
+      "checkedAt": "2026-11-13T17:57:38.005Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2443533"
     },
     "camara-proposicao-2436224": {
@@ -325,7 +325,7 @@
       "actionAt": "2026-11-11T17:10",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220555",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:04.205Z",
+      "checkedAt": "2026-11-13T17:57:37.621Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2436224"
     },
     "camara-proposicao-2469516": {
@@ -336,7 +336,7 @@
       "actionAt": "2026-11-12T10:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:04.893Z",
+      "checkedAt": "2026-11-13T17:57:38.216Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2469516"
     },
     "camara-proposicao-2449678": {
@@ -347,7 +347,7 @@
       "actionAt": "2026-11-03T00:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220571",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:04.918Z",
+      "checkedAt": "2026-11-13T17:57:38.203Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2449678"
     },
     "camara-proposicao-2414847": {
@@ -358,7 +358,7 @@
       "actionAt": "2026-11-03T19:43",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220658",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:04.653Z",
+      "checkedAt": "2026-11-13T17:57:37.605Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2414847"
     },
     "camara-proposicao-2451871": {
@@ -369,7 +369,7 @@
       "actionAt": "2026-11-12T10:06",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/141485",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:05.162Z",
+      "checkedAt": "2026-11-13T17:57:38.403Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2451871"
     },
     "camara-proposicao-2498294": {
@@ -380,7 +380,7 @@
       "actionAt": "2026-11-04T17:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/188097",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:05.690Z",
+      "checkedAt": "2026-11-13T17:57:39.004Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2498294"
     },
     "camara-proposicao-2484039": {
@@ -391,7 +391,7 @@
       "actionAt": "2026-11-04T18:04",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:05.777Z",
+      "checkedAt": "2026-11-13T17:57:38.816Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2484039"
     },
     "camara-proposicao-2483205": {
@@ -402,7 +402,7 @@
       "actionAt": "2026-11-04T10:00",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:05.286Z",
+      "checkedAt": "2026-11-13T17:57:38.602Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2483205"
     },
     "camara-proposicao-2538208": {
@@ -413,7 +413,7 @@
       "actionAt": "2026-11-11T09:57",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:05.756Z",
+      "checkedAt": "2026-11-13T17:57:39.606Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2538208"
     },
     "camara-proposicao-2518140": {
@@ -424,7 +424,7 @@
       "actionAt": "2026-11-04T09:30",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204360",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:05.939Z",
+      "checkedAt": "2026-11-13T17:57:38.983Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2518140"
     },
     "camara-proposicao-2538327": {
@@ -435,7 +435,7 @@
       "actionAt": "2026-11-06T10:54",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/104552",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:06.609Z",
+      "checkedAt": "2026-11-13T17:57:39.388Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2538327"
     },
     "camara-proposicao-2567973": {
@@ -446,7 +446,7 @@
       "actionAt": "2025-10-07T14:46",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:06.688Z",
+      "checkedAt": "2026-11-13T17:57:40.208Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2567973"
     },
     "camara-proposicao-2636138": {
@@ -457,7 +457,7 @@
       "actionAt": "2026-11-03T19:41",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:06.899Z",
+      "checkedAt": "2026-11-13T17:57:40.588Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2636138"
     },
     "camara-proposicao-2579088": {
@@ -468,7 +468,7 @@
       "actionAt": "2026-11-10T18:20",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220571",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:06.127Z",
+      "checkedAt": "2026-11-13T17:57:39.788Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2579088"
     },
     "camara-proposicao-2602249": {
@@ -479,7 +479,7 @@
       "actionAt": "2026-11-05T12:20",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:06.371Z",
+      "checkedAt": "2026-11-13T17:57:40.189Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2602249"
     },
     "camara-proposicao-2649712": {
@@ -490,7 +490,7 @@
       "actionAt": "2026-11-03T11:36",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.284Z",
+      "checkedAt": "2026-11-13T17:57:40.586Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649712"
     },
     "camara-proposicao-2623565": {
@@ -501,7 +501,7 @@
       "actionAt": "2026-11-10T13:55",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.402Z",
+      "checkedAt": "2026-11-13T17:57:40.610Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2623565"
     },
     "camara-proposicao-2649733": {
@@ -512,7 +512,7 @@
       "actionAt": "2026-11-03T12:53",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.495Z",
+      "checkedAt": "2026-11-13T17:57:41.188Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2649733"
     },
     "camara-proposicao-2651858": {
@@ -523,7 +523,7 @@
       "actionAt": "2026-11-09T17:33",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.584Z",
+      "checkedAt": "2026-11-13T17:57:41.387Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2651858"
     },
     "camara-proposicao-2651228": {
@@ -534,7 +534,7 @@
       "actionAt": "2026-11-05T16:19",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.604Z",
+      "checkedAt": "2026-11-13T17:57:41.005Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2651228"
     },
     "camara-proposicao-2651866": {
@@ -545,7 +545,7 @@
       "actionAt": "2026-11-09T18:30",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.665Z",
+      "checkedAt": "2026-11-13T17:57:41.167Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2651866"
     },
     "camara-proposicao-2650684": {
@@ -556,7 +556,7 @@
       "actionAt": "2026-11-04T14:18",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.696Z",
+      "checkedAt": "2026-11-13T17:57:40.987Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2650684"
     },
     "camara-proposicao-2651984": {
@@ -567,7 +567,7 @@
       "actionAt": "2026-11-10T17:15",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.749Z",
+      "checkedAt": "2026-11-13T17:57:41.589Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2651984"
     },
     "camara-proposicao-2652026": {
@@ -578,7 +578,7 @@
       "actionAt": "2026-11-10T12:03",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.845Z",
+      "checkedAt": "2026-11-13T17:57:41.367Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652026"
     },
     "camara-proposicao-2651102": {
@@ -589,7 +589,7 @@
       "actionAt": "2026-11-05T09:35",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:07.889Z",
+      "checkedAt": "2026-11-13T17:57:40.819Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2651102"
     },
     "camara-proposicao-2652023": {
@@ -600,7 +600,7 @@
       "actionAt": "2026-11-10T12:01",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.089Z",
+      "checkedAt": "2026-11-13T17:57:41.352Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652023"
     },
     "camara-proposicao-2652227": {
@@ -611,7 +611,7 @@
       "actionAt": "2026-11-10T17:05",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.286Z",
+      "checkedAt": "2026-11-13T17:57:41.598Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652227"
     },
     "camara-proposicao-2652867": {
@@ -622,7 +622,7 @@
       "actionAt": "2026-11-11T12:14",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.385Z",
+      "checkedAt": "2026-11-13T17:57:41.800Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652867"
     },
     "camara-proposicao-2652890": {
@@ -633,7 +633,7 @@
       "actionAt": "2026-11-11T15:07",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.428Z",
+      "checkedAt": "2026-11-13T17:57:41.989Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652890"
     },
     "camara-proposicao-2652510": {
@@ -644,7 +644,7 @@
       "actionAt": "2026-11-10T17:40",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.486Z",
+      "checkedAt": "2026-11-13T17:57:41.572Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652510"
     },
     "camara-proposicao-2652992": {
@@ -655,7 +655,7 @@
       "actionAt": "2026-11-11T17:39",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.530Z",
+      "checkedAt": "2026-11-13T17:57:42.165Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652992"
     },
     "camara-proposicao-2652512": {
@@ -666,18 +666,18 @@
       "actionAt": "2026-11-10T17:42",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.689Z",
+      "checkedAt": "2026-11-13T17:57:41.802Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652512"
     },
     "camara-proposicao-354302": {
       "situation": "Pronta para Pauta",
       "body": "Mesa Diretora da Câmara dos Deputados (MESA)",
       "bodyUrl": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
-      "lastAction": "Apresentação do REQ n. 4446/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Célio Silveira (MDB/GO), que \"Requer a inclusão da Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82/2007, à qual está apensada a Proposta de Emenda à Constituição nº 17, de 2024\".",
-      "actionAt": "2026-11-12T11:20",
+      "lastAction": "Apresentação do REQ n. 4450/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Leur Lomanto Júnior (UNIÃO/BA), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82, de 2007, à qual foi apensada a Proposta de Emenda à Constituição nº 17, de 2024\".",
+      "actionAt": "2026-11-13T12:47",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/141562",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.626Z",
+      "checkedAt": "2026-11-13T17:57:42.190Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/354302"
     },
     "camara-proposicao-2652677": {
@@ -688,7 +688,7 @@
       "actionAt": "2026-11-10T21:26",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:08.885Z",
+      "checkedAt": "2026-11-13T17:57:41.782Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652677"
     },
     "senado-processo-8990439": {
@@ -697,7 +697,7 @@
       "lastAction": "Matéria aguardando distribuição.",
       "actionAt": "2026-11-04 18:13:58",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:08.923Z",
+      "checkedAt": "2026-11-13T17:57:43.248Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172557"
     },
     "senado-processo-8990997": {
@@ -706,7 +706,7 @@
       "lastAction": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n",
       "actionAt": "2026-11-05 12:59:38",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:08.971Z",
+      "checkedAt": "2026-11-13T17:57:43.841Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172575"
     },
     "senado-processo-8993995": {
@@ -715,7 +715,7 @@
       "lastAction": "Matéria aguardando distribuição.",
       "actionAt": "2026-11-09 08:57:22",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.006Z",
+      "checkedAt": "2026-11-13T17:57:44.041Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172685"
     },
     "senado-processo-8994746": {
@@ -724,7 +724,7 @@
       "lastAction": "Distribuído ao Senador Plínio Valério, para emitir relatório.",
       "actionAt": "2026-11-10 15:09:00",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.037Z",
+      "checkedAt": "2026-11-13T17:57:43.417Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172719"
     },
     "senado-processo-8990673": {
@@ -733,7 +733,7 @@
       "lastAction": "Matéria aguardando distribuição.",
       "actionAt": "2026-11-04 18:15:55",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.063Z",
+      "checkedAt": "2026-11-13T17:57:43.446Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172563"
     },
     "senado-processo-9000000": {
@@ -742,7 +742,7 @@
       "lastAction": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n",
       "actionAt": "2026-11-05 13:16:13",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.068Z",
+      "checkedAt": "2026-11-13T17:57:43.585Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172842"
     },
     "senado-processo-9004358": {
@@ -751,7 +751,7 @@
       "lastAction": "Matéria aguardando distribuição.",
       "actionAt": "2026-11-11 14:50:41",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.095Z",
+      "checkedAt": "2026-11-13T17:57:43.612Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172921"
     },
     "senado-processo-9011510": {
@@ -760,7 +760,7 @@
       "lastAction": "Recebido na CTFC.\nA matéria aguarda designação de relator.",
       "actionAt": "2026-11-05 13:57:13",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.099Z",
+      "checkedAt": "2026-11-13T17:57:43.754Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173062"
     },
     "senado-processo-9107861": {
@@ -769,7 +769,7 @@
       "lastAction": "Matéria aguardando distribuição.",
       "actionAt": "2026-11-05 16:36:30",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.132Z",
+      "checkedAt": "2026-11-13T17:57:43.921Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175782"
     },
     "senado-processo-9038714": {
@@ -778,7 +778,7 @@
       "lastAction": "Matéria aguardando distribuição.",
       "actionAt": "2026-11-09 18:39:21",
       "awaitingRapporteur": true,
-      "checkedAt": "2026-11-12T17:47:09.137Z",
+      "checkedAt": "2026-11-13T17:57:43.779Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173814"
     },
     "senado-processo-9119724": {
@@ -787,7 +787,7 @@
       "lastAction": "Autuado o Projeto de Lei Complementar nº 282/2026. O projeto vai à publicação.",
       "actionAt": "2026-11-03 15:45:18",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.163Z",
+      "checkedAt": "2026-11-13T17:57:43.945Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176169"
     },
     "senado-processo-9120051": {
@@ -796,7 +796,7 @@
       "lastAction": "Recebido o Requerimento nº 747, de 2026, de Líderes, que solicita calendário especial para a matéria.",
       "actionAt": "2026-11-04 17:10:22",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.167Z",
+      "checkedAt": "2026-11-13T17:57:44.008Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176178"
     },
     "senado-processo-9120058": {
@@ -805,7 +805,7 @@
       "lastAction": "Recebido o Requerimento nº 747, de 2026, de Líderes, que solicita calendário especial para a matéria.",
       "actionAt": "2026-11-04 17:10:22",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.196Z",
+      "checkedAt": "2026-11-13T17:57:44.088Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176179"
     },
     "camara-proposicao-2652977": {
@@ -816,7 +816,7 @@
       "actionAt": "2026-11-12T13:39",
       "lastRapporteurUrl": null,
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.153Z",
+      "checkedAt": "2026-11-13T17:57:41.975Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/2652977"
     },
     "senado-processo-9120441": {
@@ -825,7 +825,7 @@
       "lastAction": "Autuada a Proposta de Emenda à Constituição nº 21/2026. A proposta vai à publicação",
       "actionAt": "2026-11-04 11:35:19",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.200Z",
+      "checkedAt": "2026-11-13T17:57:44.111Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176190"
     },
     "senado-processo-9121553": {
@@ -834,7 +834,7 @@
       "lastAction": "Autuado o Projeto de Lei Complementar nº 284/2026. O projeto vai à publicação.",
       "actionAt": "2026-11-04 17:24:38",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.231Z",
+      "checkedAt": "2026-11-13T17:57:44.176Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176206"
     },
     "senado-processo-9124144": {
@@ -843,7 +843,7 @@
       "lastAction": "Autuado o Projeto de Lei Complementar nº 289/2026. O projeto vai à publicação.",
       "actionAt": "2026-11-10 08:10:56",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.234Z",
+      "checkedAt": "2026-11-13T17:57:44.254Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176259"
     },
     "senado-processo-9126043": {
@@ -852,16 +852,16 @@
       "lastAction": "Autuada a Proposta de Emenda à Constituição nº 23/2026. A proposta vai à publicação",
       "actionAt": "2026-11-11 11:50:46",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.268Z",
+      "checkedAt": "2026-11-13T17:57:44.280Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176304"
     },
     "senado-processo-9127383": {
-      "situation": "AGUARDANDO DESPACHO",
+      "situation": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
       "body": "Plenário do Senado Federal (PLEN)",
-      "lastAction": "Recebida a Emenda nº 19, do Senador Sergio Moro.",
-      "actionAt": "2026-11-12 14:36:48",
+      "lastAction": "(Sessão Deliberativa Ordinária de 11 de novembro de 2026 - semipresencial - continuação em 12 de novembro de 2026) \nEmendas nºs 1 a 74 e 76 encaminhadas à publicação. \nUrgência aprovada para a matéria (Requerimento nº 770/2026). Verificação de votação: (Sim: 40; Não: 38; Abstenção: 0; Presidente: 1; Total: 79). Ficam prejudicados os Requerimentos nºs 773 e 777, de 2026. \nMantida pelo Plenário, após recurso, a decisão da Presidência relativa à Questão de Ordem suscitada pelo Senador Magno Malta, com votos contrários dos Senadores Magno Malta, Rogério Marinho, Carlos Portinho, Astronauta Marcos Pontes, Laércio Oliveira, Tereza Cristina, Damares Alves e Esperidião Amin. \nParecer nº 221/2026-Plen/SF apresentado pelo Senador Eduardo Braga e encaminhado à publicação [favorável ao projeto, às Emendas nºs 11, 13, 16, 18, 20, 41, 42, 45 e 53; parcialmente favorável às Emendas nºs 2, 7, 14, 17, 21, 28, 31, 32, 38, 39, 44 e 48; nos termos da Emenda nº 75 (Substitutivo), que apresenta, pela prejudicialidade das Emendas nºs 1, 15, 23, 24, 25 e 30; e pela rejeição das demais emendas]. \nDiscussão da matéria encerrada. \nDestaque deferido para votação em separado do art. 7º do projeto -correspondente ao art. 6º do Substitutivo. (Requerimento nº 775/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 2º do projeto - correspondente ao art. 2º do Substitutivo. (Requerimento nº 776/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do projeto - correspondente ao art. 1º do Substitutivo. (Requerimento nº 783/2026 encaminhado à publicação). \nDestaque deferido para votação em separado da Emenda nº 40 do projeto (Requerimento nº 780/2026 encaminhado à publicação). \nDestaque prejudicado para votação em separado, da Emenda nº 69 (Requerimento nº 782/2026 encaminhado à publicação). \nSubstitutivo, emenda nº 75, aprovado, com adequação redacional, ressalvado os destaques (Sim: 45; Não: 31; Abstenção: 0; Presidente: 1; Total: 77). O projeto e as demais emendas ficam prejudicados. \nA continuação da votação da matéria fica transferida para a próxima terça-feira. \n\n ",
+      "actionAt": "2026-11-12 21:30:07",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.269Z",
+      "checkedAt": "2026-11-13T17:57:44.344Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328"
     },
     "camara-proposicao-361065": {
@@ -872,7 +872,7 @@
       "actionAt": "2026-11-06T11:10",
       "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/204559",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.337Z",
+      "checkedAt": "2026-11-13T17:57:42.605Z",
       "source": "https://www.camara.leg.br/propostas-legislativas/361065"
     },
     "senado-processo-9122817": {
@@ -881,8 +881,28 @@
       "lastAction": "Autuado o Projeto de Lei Complementar nº 286/2026. O projeto vai à publicação.",
       "actionAt": "2026-11-05 17:29:30",
       "awaitingRapporteur": false,
-      "checkedAt": "2026-11-12T17:47:09.488Z",
+      "checkedAt": "2026-11-13T17:57:44.208Z",
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176228"
+    },
+    "camara-proposicao-2483155": {
+      "situation": "Pronta para Pauta",
+      "body": "Comissão de Educação (CE)",
+      "bodyUrl": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2009",
+      "lastAction": "Parecer do Relator, Dep. Paulo Lemos (PT-AP), pela aprovação, com substitutivo.",
+      "actionAt": "2026-11-13T13:25",
+      "lastRapporteurUrl": "https://dadosabertos.camara.leg.br/api/v2/deputados/233592",
+      "awaitingRapporteur": false,
+      "checkedAt": "2026-11-13T17:57:38.382Z",
+      "source": "https://www.camara.leg.br/propostas-legislativas/2483155"
+    },
+    "senado-processo-9128515": {
+      "situation": "AGUARDANDO DESPACHO",
+      "body": "Plenário do Senado Federal (PLEN)",
+      "lastAction": "Autuado o Projeto de Lei Complementar nº 302/2026. O projeto vai à publicação.",
+      "actionAt": "2026-11-12 15:20:17",
+      "awaitingRapporteur": false,
+      "checkedAt": "2026-11-13T17:57:44.375Z",
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176351"
     }
   }
 }

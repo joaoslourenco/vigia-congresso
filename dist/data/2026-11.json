@@ -64,6 +64,13 @@
         "senado": "partial"
       },
       "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-13": {
+      "status": "partial",
+      "sources": {
+        "camara": "partial"
+      },
+      "reason": "Movimentações oficiais importadas; votos e cobertura histórica completa ainda pendentes."
     }
   },
   "proposals": [
@@ -607,13 +614,9 @@
         {
           "date": "2026-11-04",
           "description": "Aprovado o requerimento nº 53/2026,do Sr. Capitão Alden que requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 218, de 2020, que “institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica”, e o Projeto de Lei Complementar nº 241, de 2020, apensado."
-        },
-        {
-          "date": "2026-10-29",
-          "description": "Apresentação do REQ n. 53/2026 (Requerimento de Audiência Pública), pelo Deputado Capitão Alden (PL/BA), que \"Requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 218, de 2020, que “institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica”, e o Projeto de Lei Complementar nº 241, de 2020, apensado\"."
         }
       ],
-      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "collectedAt": "2026-11-13T17:56:30.549Z",
       "summary": "A proposta institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -3270,12 +3273,12 @@
           "description": "Devolvida pelo Relator sem Manifestação."
         }
       ],
-      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "collectedAt": "2026-11-13T17:56:30.549Z",
       "summary": "A proposta busca prever o repasse a hospitais veterinários públicos federais de percentual do valor total do prêmio recolhido a título de Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT) para custeio da assistência médico-veterinária e hospitalar de animais silvestres vitimados em acidentes de trânsito.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "dba1386630ec59f039b211bbc395899036ecda8650c82d69aafe1ff17f180784"
+      "summarySourceHash": "dba1386630ec59f039b211bbc395899036ecda8650c82d69aafe1ff17f180784",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2469516",
@@ -3311,12 +3314,117 @@
           "description": "Devolvida pelo Relator sem Manifestação."
         }
       ],
-      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "collectedAt": "2026-11-13T17:56:30.549Z",
       "summary": "A proposta dispõe sobre a regulamentação do art. 150, IV, da Constituição Federal, visando evitar o efeito de confisco em tributos com alíquotas excessivamente protecionistas. Alíquota é o percentual usado no cálculo de um tributo.",
+      "summaryMethod": "rules",
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "90ebf1efa08c42a8b820ddec2987c16d84b74b655e78ebb45fe270b1f215946c",
+      "aiSummary": false
+    },
+    {
+      "id": "camara-proposicao-2483155",
+      "officialMatterId": "2483155",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 15,
+      "year": 2025,
+      "presentedAt": "2025-02-06",
+      "officialSummary": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023 (Arcabouço fiscal) que “Institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico”, a fim de retirar os recursos destinados ao Programa Nacional de Alimentação Escolar (PNAE) do teto de gastos.",
+      "authors": [
+        {
+          "id": "camara-deputado-220704",
+          "name": "Carol Dartora",
+          "party": "PT",
+          "state": "PR",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 2,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg"
+        },
+        {
+          "id": "camara-deputado-206018",
+          "name": "Célia Xakriabá",
+          "party": "PSOL",
+          "state": "MG",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 3,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg"
+        },
+        {
+          "id": "camara-deputado-220645",
+          "name": "Erika Hilton",
+          "party": "PSOL",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 4,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg"
+        },
+        {
+          "id": "camara-deputado-220639",
+          "name": "Guilherme Boulos",
+          "party": "PSOL",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 5,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220639.jpg"
+        },
+        {
+          "id": "camara-deputado-221338",
+          "name": "Professora Luciene Cavalcante",
+          "party": "PSOL",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-02-03T10:46",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg"
+        },
+        {
+          "id": "camara-deputado-104552",
+          "name": "Socorro Neri",
+          "party": "PP",
+          "state": "AC",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 6,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2483155",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483155",
+      "stage": "Pronta para Pauta",
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-13",
+          "description": "Apresentação do PRL n. 2 CE (Parecer do Relator), pelo Deputado Paulo Lemos (PT/AP -Fdr PT-PCdoB-PV)."
+        },
+        {
+          "date": "2026-11-13",
+          "description": "Parecer do Relator, Dep. Paulo Lemos (PT-AP), pela aprovação, com substitutivo."
+        }
+      ],
+      "collectedAt": "2026-11-13T17:56:30.549Z",
+      "summary": "A proposta busca garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico”, a fim de retirar os recursos destinados ao Programa Nacional de Alimentação Escolar (PNAE) do teto de gastos.",
       "summaryMethod": "rules",
       "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "90ebf1efa08c42a8b820ddec2987c16d84b74b655e78ebb45fe270b1f215946c"
+      "summarySourceHash": "21dfa68dd2a371132906c86eab2b65dbd8d2d4bfdbce839da7c9e987038a4926"
     },
     {
       "id": "camara-proposicao-2483205",
@@ -7535,6 +7643,10 @@
       "conflict": false,
       "history": [
         {
+          "date": "2026-11-13",
+          "description": "Apresentação do REQ n. 4450/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Leur Lomanto Júnior (UNIÃO/BA), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82, de 2007, à qual foi apensada a Proposta de Emenda à Constituição nº 17, de 2024\"."
+        },
+        {
           "date": "2026-11-12",
           "description": "Apresentação do REQ n. 4446/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Célio Silveira (MDB/GO), que \"Requer a inclusão da Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82/2007, à qual está apensada a Proposta de Emenda à Constituição nº 17, de 2024\"."
         },
@@ -7559,7 +7671,7 @@
           "description": "Apresentação do REQ n. 4394/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Augusto Coutinho (REPUBLIC/PE), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição n° 82, de 2007, que “acresce os arts. 132-A e 135-A e altera o art.168 da Constituição Federal. \"."
         }
       ],
-      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "collectedAt": "2026-11-13T17:56:30.549Z",
       "summary": "A proposta acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -9665,7 +9777,7 @@
       ],
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
       "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
-      "stage": "AGUARDANDO DESPACHO",
+      "stage": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
       "history": [
         {
           "date": "2026-11-12",
@@ -9685,7 +9797,7 @@
         },
         {
           "date": "2026-11-12",
-          "description": "Recebido, em 12/11/2026, o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. "
+          "description": "Recebido o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. "
         },
         {
           "date": "2026-11-12",
@@ -9720,6 +9832,206 @@
           "description": "Recebida a Emenda nº 19, do Senador Sergio Moro."
         },
         {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 20 a 25, do Senador Izalci Lucas."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 26, do Senador Flávio Arns."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 27, da Senadora Leany Lemos."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 28, do Senador Flávio Arns e outros."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 29, do Senador Alessandro Vieira."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 30, do Senador Angelo Coronel."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 31, do Senador Plínio Valério."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 32, do Senador Sérgio Petecão."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 33, do Senador Alessandro Vieira."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 34 a 37, do Senador Izalci Lucas."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 38 e 39, do Senador Eduardo Gomes. "
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 40, do Senador Rogerio Marinho."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 41, do Senador Eduardo Gomes."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 773, de 2026, do Senador Rogerio Marinho, de oitiva da Comissão de Assuntos Econômicos."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 774, de 2026, da Liderança do PL, que solicita destaque para votação em separado da Emenda nº 22."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 42, da Senadora Tereza Cristina."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 43, do Senador Romário."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 44 a 48, do Senador Laércio Oliveira."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 775, de 2026, da Liderança do PL, que solicita destaque para votação em separado do art. 7° do projeto."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 49, do Senador Magno Malta."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 50, do Senador Alan Rick."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 776, de 2026, da Liderança do PL, que solicita destaque para votação em separado do art. 2° do projeto."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 51 e 52, do Senador Nelsinho Trad."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 53, do Senador Randolfe Rodrigues."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 54, do Senador Luis Carlos Heinze."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 55 e 56, do Senador Laércio Oliveira."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 57, do Senador Renan Calheiros."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 777, de 2026, do Senador Rogério Marinho, que solicita adiamento da votação da matéria por dez dias úteis. "
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 58, do Senador Astronauta Marcos Pontes."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 59, do Senador Humberto Costa."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 778, de 2026, da Liderança do Republicanos, que solicita destaque para votação em separado da Emenda nº 50."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 779, de 2026, da Liderança do PL, que solicita retirada do Requerimento nº 774, de 2026."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 60, do Senador Giordano."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 61 e 62, do Senador Lucas Barreto."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 780, de 2026, da Liderança do PL, que solicita destaque para votação em separado da Emenda nº 40."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 63 e 64, do Senador Magno Malta."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebidas as Emendas nºs 65 a 68, do Senador Wellington Fagundes."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 69, da Senadora Tereza Cristina."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 70, do Senador Astronauta Marcos Pontes."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 71, do Senador Efraim Filho."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido Relatório do Senador Eduardo Braga."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 72, da Senadora Leany Lemos."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 73, do Senador Alan Rick."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 782, de 2026, da Liderança do PP, que solicita destaque para votação em separado da Emenda nº 69."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 74, do Senador Efraim Filho."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido novo Relatório do Senador Eduardo Braga, com acolhimento parcial da Emenda nº 14, e atualização do parágrafo único do art. 6º D, constante do art. 1º do substitutivo apresentado, com a expressão \"ocorrerá nos termos da lei orçamentária anual\"."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebida a Emenda nº 76, do Senador Wilder Morais."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 783, de 2026, da Liderança do Republicanos, que solicita destaque para votação em separado, com vistas à supressão do art. 6º-F."
+        },
+        {
+          "date": "2026-11-12",
+          "description": "Recebido o Requerimento nº 784, de 2026, da Liderança do Republicanos, que solicita retirada do Requerimento nº 778, de 2026.  "
+        },
+        {
+          "date": "2026-11-12",
+          "description": "(Sessão Deliberativa Ordinária de 11 de novembro de 2026 - semipresencial - continuação em 12 de novembro de 2026) \nEmendas nºs 1 a 74 e 76 encaminhadas à publicação. \nUrgência aprovada para a matéria (Requerimento nº 770/2026). Verificação de votação: (Sim: 40; Não: 38; Abstenção: 0; Presidente: 1; Total: 79). Ficam prejudicados os Requerimentos nºs 773 e 777, de 2026. \nMantida pelo Plenário, após recurso, a decisão da Presidência relativa à Questão de Ordem suscitada pelo Senador Magno Malta, com votos contrários dos Senadores Magno Malta, Rogério Marinho, Carlos Portinho, Astronauta Marcos Pontes, Laércio Oliveira, Tereza Cristina, Damares Alves e Esperidião Amin. \nParecer nº 221/2026-Plen/SF apresentado pelo Senador Eduardo Braga e encaminhado à publicação [favorável ao projeto, às Emendas nºs 11, 13, 16, 18, 20, 41, 42, 45 e 53; parcialmente favorável às Emendas nºs 2, 7, 14, 17, 21, 28, 31, 32, 38, 39, 44 e 48; nos termos da Emenda nº 75 (Substitutivo), que apresenta, pela prejudicialidade das Emendas nºs 1, 15, 23, 24, 25 e 30; e pela rejeição das demais emendas]. \nDiscussão da matéria encerrada. \nDestaque deferido para votação em separado do art. 7º do projeto -correspondente ao art. 6º do Substitutivo. (Requerimento nº 775/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 2º do projeto - correspondente ao art. 2º do Substitutivo. (Requerimento nº 776/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do projeto - correspondente ao art. 1º do Substitutivo. (Requerimento nº 783/2026 encaminhado à publicação). \nDestaque deferido para votação em separado da Emenda nº 40 do projeto (Requerimento nº 780/2026 encaminhado à publicação). \nDestaque prejudicado para votação em separado, da Emenda nº 69 (Requerimento nº 782/2026 encaminhado à publicação). \nSubstitutivo, emenda nº 75, aprovado, com adequação redacional, ressalvado os destaques (Sim: 45; Não: 31; Abstenção: 0; Presidente: 1; Total: 77). O projeto e as demais emendas ficam prejudicados. \nA continuação da votação da matéria fica transferida para a próxima terça-feira. \n\n "
+        },
+        {
           "date": "2026-11-11",
           "description": "Autuado o Projeto de Lei Complementar nº 299/2026. O projeto vai à publicação."
         },
@@ -9736,7 +10048,7 @@
           "description": "Recebido o Relatório do Senador Eduardo Braga."
         }
       ],
-      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "collectedAt": "2026-11-13T17:57:26.520Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca dar ao governo federal novas ferramentas de gestão para preservar a estabilidade da economia e favorecer o desenvolvimento social e econômico. Governo federal, aqui, é o Poder Executivo, responsável pela administração do país. A ementa não descreve quais ferramentas seriam criadas nem como seriam usadas; esses limites precisam ser conferidos no texto completo.",
@@ -9744,9 +10056,95 @@
       "summaryLabel": "Resumo elaborado com auxílio de IA",
       "summarySourceHash": "a32765b56cdc9604febf77f05ee3161b709a70cfa0bf56bea933018bde5fe34a",
       "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9128515",
+      "officialMatterId": "176351",
+      "officialProcessId": "9128515",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 302,
+      "year": 2026,
+      "presentedAt": "2026-11-12",
+      "officialSummary": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para disciplinar a dedução, das metas de resultado primário, das despesas com subvenção econômica ao óleo diesel em caso de choque de preços internacionais, e a sua recomposição nos exercícios seguintes; e autoriza, em caráter excepcional, a dedução relativa ao exercício de 2026.",
+      "authorSummary": "Senador Alessandro Vieira (MDB/SE)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5982",
+          "name": "Alessandro Vieira",
+          "party": "MDB",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176351",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9128515",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-12",
+          "description": "Autuado o Projeto de Lei Complementar nº 302/2026. O projeto vai à publicação."
+        }
+      ],
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca disciplinar a dedução, das metas de resultado primário, das despesas com subvenção econômica ao óleo diesel em caso de choque de preços internacionais, e a sua recomposição nos exercícios seguintes; e autoriza, em caráter excepcional, a dedução relativa ao exercício de 2026. Resultado primário é a diferença entre receitas e despesas do governo, sem considerar os juros da dívida.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "afd7d77e1d3cdc739a8a66bcefb377ec0381eb3c540a3b764da7561d0b7ac902"
     }
   ],
   "events": [
+    {
+      "id": "camara-tramitacao-2483155-24",
+      "proposalId": "camara-proposicao-2483155",
+      "date": "2026-11-13",
+      "occurredAt": "2026-11-13T13:24",
+      "kind": "Tramitação",
+      "description": "Apresentação do PRL n. 2 CE (Parecer do Relator), pelo Deputado Paulo Lemos (PT/AP -Fdr PT-PCdoB-PV).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:56:30.549Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483155/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/233592",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2483155-25",
+      "proposalId": "camara-proposicao-2483155",
+      "date": "2026-11-13",
+      "occurredAt": "2026-11-13T13:25",
+      "kind": "Tramitação",
+      "description": "Parecer do Relator, Dep. Paulo Lemos (PT-AP), pela aprovação, com substitutivo.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:56:30.549Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483155/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/233592",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-354302-166",
+      "proposalId": "camara-proposicao-354302",
+      "date": "2026-11-13",
+      "occurredAt": "2026-11-13T12:47",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 4450/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Leur Lomanto Júnior (UNIÃO/BA), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82, de 2007, à qual foi apensada a Proposta de Emenda à Constituição nº 17, de 2024\".",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:56:30.549Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141562",
+      "vote": null
+    },
     {
       "id": "camara-tramitacao-2451871-21",
       "proposalId": "camara-proposicao-2451871",
@@ -9918,11 +10316,11 @@
       "date": "2026-11-12",
       "occurredAt": "2026-11-12 12:08:04",
       "kind": "Tramitação",
-      "description": "Recebido, em 12/11/2026, o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. ",
+      "description": "Recebido o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. ",
       "stage": null,
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T17:42:14.163Z",
+      "collectedAt": "2026-11-13T17:57:26.520Z",
       "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
       "conflict": false,
       "vote": null
@@ -9998,6 +10396,771 @@
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
       "collectedAt": "2026-11-12T17:42:14.163Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326470",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:01:32",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 28, do Senador Flávio Arns e outros.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326473",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:05:53",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 30, do Senador Angelo Coronel.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326474",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:10:34",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 31, do Senador Plínio Valério.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326475",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:12:16",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 32, do Senador Sérgio Petecão.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326497",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:40:02",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 20 a 25, do Senador Izalci Lucas.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326499",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:49:16",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 26, do Senador Flávio Arns.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326500",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 14:57:47",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 27, da Senadora Leany Lemos.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326503",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:03:45",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 29, do Senador Alessandro Vieira.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326517",
+      "proposalId": "senado-processo-9128515",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:20:17",
+      "kind": "Tramitação",
+      "description": "Autuado o Projeto de Lei Complementar nº 302/2026. O projeto vai à publicação.",
+      "stage": "AGUARDANDO DESPACHO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9128515",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326519",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:22:35",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 33, do Senador Alessandro Vieira.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326531",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:52:40",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 40, do Senador Rogerio Marinho.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326537",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:38:26",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 34 a 37, do Senador Izalci Lucas.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326539",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 15:44:03",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 38 e 39, do Senador Eduardo Gomes. ",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326583",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:04:05",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 41, do Senador Eduardo Gomes.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326622",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:15:10",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 773, de 2026, do Senador Rogerio Marinho, de oitiva da Comissão de Assuntos Econômicos.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326629",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:21:06",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 774, de 2026, da Liderança do PL, que solicita destaque para votação em separado da Emenda nº 22.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326641",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:29:20",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 43, do Senador Romário.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326648",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:51:41",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 776, de 2026, da Liderança do PL, que solicita destaque para votação em separado do art. 2° do projeto.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326650",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:59:19",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 53, do Senador Randolfe Rodrigues.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326653",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:01:57",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 54, do Senador Luis Carlos Heinze.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326654",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:06:31",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 57, do Senador Renan Calheiros.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326661",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:25:50",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 42, da Senadora Tereza Cristina.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326681",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:36:00",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 44 a 48, do Senador Laércio Oliveira.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326682",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:40:48",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 775, de 2026, da Liderança do PL, que solicita destaque para votação em separado do art. 7° do projeto.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326683",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:42:50",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 49, do Senador Magno Malta.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326685",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:48:25",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 50, do Senador Alan Rick.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326687",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 16:55:12",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 51 e 52, do Senador Nelsinho Trad.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326688",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:05:12",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 55 e 56, do Senador Laércio Oliveira.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326696",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:10:19",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 777, de 2026, do Senador Rogério Marinho, que solicita adiamento da votação da matéria por dez dias úteis. ",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326697",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:14:22",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 58, do Senador Astronauta Marcos Pontes.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326703",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:37:43",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 61 e 62, do Senador Lucas Barreto.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326704",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:39:52",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 780, de 2026, da Liderança do PL, que solicita destaque para votação em separado da Emenda nº 40.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326705",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:44:05",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 63 e 64, do Senador Magno Malta.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326706",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:46:32",
+      "kind": "Tramitação",
+      "description": "Recebidas as Emendas nºs 65 a 68, do Senador Wellington Fagundes.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326707",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:50:35",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 71, do Senador Efraim Filho.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326716",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:16:42",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 59, do Senador Humberto Costa.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326720",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:24:38",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 778, de 2026, da Liderança do Republicanos, que solicita destaque para votação em separado da Emenda nº 50.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326722",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:27:25",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 779, de 2026, da Liderança do PL, que solicita retirada do Requerimento nº 774, de 2026.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326723",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:31:45",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 60, do Senador Giordano.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326725",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:48:30",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 69, da Senadora Tereza Cristina.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326726",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:49:11",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 70, do Senador Astronauta Marcos Pontes.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326729",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 17:55:17",
+      "kind": "Tramitação",
+      "description": "Recebido Relatório do Senador Eduardo Braga.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326731",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:11:54",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 73, do Senador Alan Rick.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326736",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:06:33",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 72, da Senadora Leany Lemos.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326738",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:15:21",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 782, de 2026, da Liderança do PP, que solicita destaque para votação em separado da Emenda nº 69.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326747",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:56:19",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 76, do Senador Wilder Morais.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326760",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:32:10",
+      "kind": "Tramitação",
+      "description": "Recebida a Emenda nº 74, do Senador Efraim Filho.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326769",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:48:08",
+      "kind": "Tramitação",
+      "description": "Recebido novo Relatório do Senador Eduardo Braga, com acolhimento parcial da Emenda nº 14, e atualização do parágrafo único do art. 6º D, constante do art. 1º do substitutivo apresentado, com a expressão \"ocorrerá nos termos da lei orçamentária anual\".",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326773",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 18:56:27",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 783, de 2026, da Liderança do Republicanos, que solicita destaque para votação em separado, com vistas à supressão do art. 6º-F.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326776",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 19:05:24",
+      "kind": "Tramitação",
+      "description": "Recebido o Requerimento nº 784, de 2026, da Liderança do Republicanos, que solicita retirada do Requerimento nº 778, de 2026.  ",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2326784",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-12",
+      "occurredAt": "2026-11-12 21:30:07",
+      "kind": "Tramitação",
+      "description": "(Sessão Deliberativa Ordinária de 11 de novembro de 2026 - semipresencial - continuação em 12 de novembro de 2026) \nEmendas nºs 1 a 74 e 76 encaminhadas à publicação. \nUrgência aprovada para a matéria (Requerimento nº 770/2026). Verificação de votação: (Sim: 40; Não: 38; Abstenção: 0; Presidente: 1; Total: 79). Ficam prejudicados os Requerimentos nºs 773 e 777, de 2026. \nMantida pelo Plenário, após recurso, a decisão da Presidência relativa à Questão de Ordem suscitada pelo Senador Magno Malta, com votos contrários dos Senadores Magno Malta, Rogério Marinho, Carlos Portinho, Astronauta Marcos Pontes, Laércio Oliveira, Tereza Cristina, Damares Alves e Esperidião Amin. \nParecer nº 221/2026-Plen/SF apresentado pelo Senador Eduardo Braga e encaminhado à publicação [favorável ao projeto, às Emendas nºs 11, 13, 16, 18, 20, 41, 42, 45 e 53; parcialmente favorável às Emendas nºs 2, 7, 14, 17, 21, 28, 31, 32, 38, 39, 44 e 48; nos termos da Emenda nº 75 (Substitutivo), que apresenta, pela prejudicialidade das Emendas nºs 1, 15, 23, 24, 25 e 30; e pela rejeição das demais emendas]. \nDiscussão da matéria encerrada. \nDestaque deferido para votação em separado do art. 7º do projeto -correspondente ao art. 6º do Substitutivo. (Requerimento nº 775/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 2º do projeto - correspondente ao art. 2º do Substitutivo. (Requerimento nº 776/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do projeto - correspondente ao art. 1º do Substitutivo. (Requerimento nº 783/2026 encaminhado à publicação). \nDestaque deferido para votação em separado da Emenda nº 40 do projeto (Requerimento nº 780/2026 encaminhado à publicação). \nDestaque prejudicado para votação em separado, da Emenda nº 69 (Requerimento nº 782/2026 encaminhado à publicação). \nSubstitutivo, emenda nº 75, aprovado, com adequação redacional, ressalvado os destaques (Sim: 45; Não: 31; Abstenção: 0; Presidente: 1; Total: 77). O projeto e as demais emendas ficam prejudicados. \nA continuação da votação da matéria fica transferida para a próxima terça-feira. \n\n ",
+      "stage": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-13T17:57:26.520Z",
       "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
       "conflict": false,
       "vote": null
