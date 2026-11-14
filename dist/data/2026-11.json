@@ -3419,12 +3419,12 @@
           "description": "Parecer do Relator, Dep. Paulo Lemos (PT-AP), pela aprovação, com substitutivo."
         }
       ],
-      "collectedAt": "2026-11-13T17:56:30.549Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "summary": "A proposta busca garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico”, a fim de retirar os recursos destinados ao Programa Nacional de Alimentação Escolar (PNAE) do teto de gastos.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "21dfa68dd2a371132906c86eab2b65dbd8d2d4bfdbce839da7c9e987038a4926"
+      "summarySourceHash": "21dfa68dd2a371132906c86eab2b65dbd8d2d4bfdbce839da7c9e987038a4926",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2483205",
@@ -3905,7 +3905,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2615068",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068",
-      "stage": "Pronta para Pauta",
+      "stage": "Aguardando Deliberação",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -3914,7 +3914,7 @@
           "description": "Retirado de pauta, de ofício, em razão da ausência do Relator."
         }
       ],
-      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "summary": "A proposta estabelece normas gerais de direito financeiro, governança e responsabilidade na gestão dos fundos extra orçamentários, encargos e subsídios do setor elétrico, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -4056,7 +4056,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2649712",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -4065,7 +4065,7 @@
           "description": "Apresentação do PLP n. 280/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Valadares (PL/SE), que \"Altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "summary": "A proposta altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -4097,7 +4097,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2649733",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -4106,7 +4106,7 @@
           "description": "Apresentação do PLP n. 281/2026 (Projeto de Lei Complementar), pelo Deputado Baleia Rossi (MDB/SP), que \"Institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "summary": "A proposta institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -5548,6 +5548,88 @@
       "summaryLabel": "Texto oficial simplificado automaticamente",
       "summarySourceHash": "b5966106b29a3f1af04df048ba9483fb1cfee2e13a6339d5019314453ca2c7db",
       "aiSummary": false
+    },
+    {
+      "id": "camara-proposicao-2653937",
+      "officialMatterId": "2653937",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 303,
+      "year": 2026,
+      "presentedAt": "2026-11-13",
+      "officialSummary": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS).",
+      "authors": [
+        {
+          "id": "camara-deputado-220641",
+          "name": "Rodrigo Gambale",
+          "party": "PODE",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2653937",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653937",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-13",
+          "description": "Apresentação do PLP n. 303/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Gambale (PODE/SP), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS)\"."
+        }
+      ],
+      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "summary": "A proposta busca incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS). Alíquota é o percentual usado no cálculo de um tributo. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "2013b0c06e318e1d65a3b05c7bf6fc7307a31c18f42017ff619faaefbd69146b"
+    },
+    {
+      "id": "camara-proposicao-2653940",
+      "officialMatterId": "2653940",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 304,
+      "year": 2026,
+      "presentedAt": "2026-11-13",
+      "officialSummary": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências.",
+      "authors": [
+        {
+          "id": "camara-deputado-73778",
+          "name": "Luiz Carlos Hauly",
+          "party": "PODE",
+          "state": "PR",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-06-13T16:15",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/73778.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2653940",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653940",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-13",
+          "description": "Apresentação do PLP n. 304/2026 (Projeto de Lei Complementar), pelo Deputado Luiz Carlos Hauly (PODE/PR), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências\"."
+        }
+      ],
+      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "summary": "A proposta busca instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "a34a9f61ece6046e2197c545a3a736e318e794e38311318ef0c8a0eae5d09f25"
     },
     {
       "id": "camara-proposicao-354302",
@@ -10089,14 +10171,14 @@
           "description": "Autuado o Projeto de Lei Complementar nº 302/2026. O projeto vai à publicação."
         }
       ],
-      "collectedAt": "2026-11-13T17:57:26.520Z",
+      "collectedAt": "2026-11-14T20:58:48.729Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca disciplinar a dedução, das metas de resultado primário, das despesas com subvenção econômica ao óleo diesel em caso de choque de preços internacionais, e a sua recomposição nos exercícios seguintes; e autoriza, em caráter excepcional, a dedução relativa ao exercício de 2026. Resultado primário é a diferença entre receitas e despesas do governo, sem considerar os juros da dívida.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "afd7d77e1d3cdc739a8a66bcefb377ec0381eb3c540a3b764da7561d0b7ac902"
+      "summarySourceHash": "afd7d77e1d3cdc739a8a66bcefb377ec0381eb3c540a3b764da7561d0b7ac902",
+      "aiSummary": false
     }
   ],
   "events": [
@@ -10128,6 +10210,36 @@
       "collectedAt": "2026-11-13T17:56:30.549Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2483155/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/233592",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2653937-1",
+      "proposalId": "camara-proposicao-2653937",
+      "date": "2026-11-13",
+      "occurredAt": "2026-11-13T15:32",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 303/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Gambale (PODE/SP), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS)\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653937/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2653940-1",
+      "proposalId": "camara-proposicao-2653940",
+      "date": "2026-11-13",
+      "occurredAt": "2026-11-13T17:27",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 304/2026 (Projeto de Lei Complementar), pelo Deputado Luiz Carlos Hauly (PODE/PR), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653940/tramitacoes",
+      "rapporteurId": null,
       "vote": null
     },
     {
@@ -11352,10 +11464,10 @@
       "occurredAt": "2026-11-11T10:00",
       "kind": "Tramitação",
       "description": "Retirado de pauta, de ofício, em razão da ausência do Relator.",
-      "stage": "Pronta para Pauta",
+      "stage": "Aguardando Deliberação",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2615068/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
       "vote": null
@@ -13482,10 +13594,10 @@
       "occurredAt": "2026-11-03T11:36",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 280/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Valadares (PL/SE), que \"Altera o art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001\".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649712/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13497,10 +13609,10 @@
       "occurredAt": "2026-11-03T12:53",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 281/2026 (Projeto de Lei Complementar), pelo Deputado Baleia Rossi (MDB/SP), que \"Institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020\".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-14T20:58:00.049Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2649733/tramitacoes",
       "rapporteurId": null,
       "vote": null
