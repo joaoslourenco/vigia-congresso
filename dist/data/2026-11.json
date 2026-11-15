@@ -5583,12 +5583,12 @@
           "description": "Apresentação do PLP n. 303/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Gambale (PODE/SP), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS)\"."
         }
       ],
-      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "collectedAt": "2026-11-15T21:42:52.302Z",
       "summary": "A proposta busca incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS). Alíquota é o percentual usado no cálculo de um tributo. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "2013b0c06e318e1d65a3b05c7bf6fc7307a31c18f42017ff619faaefbd69146b"
+      "summarySourceHash": "2013b0c06e318e1d65a3b05c7bf6fc7307a31c18f42017ff619faaefbd69146b",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2653940",
@@ -5624,12 +5624,12 @@
           "description": "Apresentação do PLP n. 304/2026 (Projeto de Lei Complementar), pelo Deputado Luiz Carlos Hauly (PODE/PR), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências\"."
         }
       ],
-      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "collectedAt": "2026-11-15T21:42:52.302Z",
       "summary": "A proposta busca instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "a34a9f61ece6046e2197c545a3a736e318e794e38311318ef0c8a0eae5d09f25"
+      "summarySourceHash": "a34a9f61ece6046e2197c545a3a736e318e794e38311318ef0c8a0eae5d09f25",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-354302",

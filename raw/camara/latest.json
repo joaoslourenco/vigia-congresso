@@ -1,28 +1,7 @@
 {
   "from": "2026-11-01",
   "to": "2026-11-15",
-  "proposalsConsulted": 0,
-  "normalized": 0,
-  "errors": [
-    {
-      "type": "PLP",
-      "window": "dataInicio=2026-11-01&dataFim=2026-11-15",
-      "error": "HTTP 504"
-    },
-    {
-      "type": "PLP",
-      "window": "dataApresentacaoInicio=2026-11-01&dataApresentacaoFim=2026-11-15",
-      "error": "HTTP 504"
-    },
-    {
-      "type": "PEC",
-      "window": "dataInicio=2026-11-01&dataFim=2026-11-15",
-      "error": "HTTP 504"
-    },
-    {
-      "type": "PEC",
-      "window": "dataApresentacaoInicio=2026-11-01&dataApresentacaoFim=2026-11-15",
-      "error": "HTTP 504"
-    }
-  ]
+  "proposalsConsulted": 59,
+  "normalized": 59,
+  "errors": []
 }
