@@ -545,10 +545,20 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/160635.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/160635/historico"
     },
+    "camara-deputado-160641": {
+      "name": "Professora Marcivania",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/160641/historico"
+    },
     "camara-deputado-160666": {
       "name": "Félix Mendonça Júnior",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/160666/historico"
+    },
+    "camara-deputado-160673": {
+      "name": "Giovani Cherini",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/160673/historico"
     },
     "camara-deputado-160758": {
       "name": "Domingos Sávio",
@@ -1300,6 +1310,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220641/historico"
     },
+    "camara-deputado-220643": {
+      "name": "Sônia Guajajara",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220643.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220643/historico"
+    },
     "camara-deputado-220645": {
       "name": "Erika Hilton",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
@@ -1975,6 +1990,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74291.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74291/historico"
     },
+    "camara-deputado-74295": {
+      "name": "Inácio Arruda",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74295.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74295/historico"
+    },
     "camara-deputado-74309": {
       "name": "Zé Gerardo",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74309.jpg",
@@ -2149,6 +2169,11 @@
       "name": "Edmar Moreira",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74580.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74580/historico"
+    },
+    "camara-deputado-74581": {
+      "name": "Gilmar Machado",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74581.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/historico"
     },
     "camara-deputado-74586": {
       "name": "Maria do Carmo Lara",
