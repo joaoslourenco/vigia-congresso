@@ -625,6 +625,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178884/historico"
     },
+    "camara-deputado-178886": {
+      "name": "Juscelino Filho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178886/historico"
+    },
     "camara-deputado-178887": {
       "name": "Rubens Pereira Júnior",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
@@ -649,6 +654,11 @@
       "name": "Luciano Ducci",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178931.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178931/historico"
+    },
+    "camara-deputado-178933": {
+      "name": "Sergio Souza",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178933/historico"
     },
     "camara-deputado-178934": {
       "name": "Toninho Wandscheer",
@@ -799,6 +809,11 @@
       "name": "Gervásio Maia",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204394/historico"
+    },
+    "camara-deputado-204395": {
+      "name": "Pedro Lupion",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204395.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204395/historico"
     },
     "camara-deputado-204407": {
       "name": "Fernanda Melchionna",
