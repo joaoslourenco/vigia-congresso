@@ -7582,12 +7582,12 @@
           "description": "Apresentação do PLP n. 310/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Dispõe sobre normas gerais de planejamento, orçamento, monitoramento e avaliação de políticas públicas, regulamenta o § 9º do art. 165 da Constituição Federal, altera as Leis nºs 4.320, de 17 de março de 1964, e 10.180, de 6 de fevereiro de 2001, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-18T23:21:46.861Z",
       "summary": "A proposta dispõe sobre normas gerais de planejamento, orçamento, monitoramento e avaliação de políticas públicas, regulamenta o § 9º do art. 165 da Constituição Federal, altera as Leis nºs 4.320, de 17 de março de 1964, e 10.180, de 6 de fevereiro de 2001, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "b746c05c773240b471d625e9811d866773aa1ce74d5ece1ac48896f7fce1e8f9"
+      "summarySourceHash": "b746c05c773240b471d625e9811d866773aa1ce74d5ece1ac48896f7fce1e8f9",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2655019",
@@ -7623,12 +7623,12 @@
           "description": "Apresentação do PLP n. 311/2026 (Projeto de Lei Complementar), pelo Deputado Fábio Teruel (MDB/SP), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer limites e condições para despesas públicas municipais com eventos artísticos e festivos\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-18T23:21:46.861Z",
       "summary": "A proposta busca estabelecer limites e condições para despesas públicas municipais com eventos artísticos e festivos.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "142eaa9f1723f8393df675c884c055d7c5a9f6333dcae97ecb9fbc6a244ad789"
+      "summarySourceHash": "142eaa9f1723f8393df675c884c055d7c5a9f6333dcae97ecb9fbc6a244ad789",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2655210",
@@ -7664,12 +7664,12 @@
           "description": "Apresentação do PLP n. 312/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-18T23:21:46.861Z",
       "summary": "A proposta busca estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "a4aabc5804abfbd399401187a8385d68f576908d4c64ca63f205b6a426c23f48"
+      "summarySourceHash": "a4aabc5804abfbd399401187a8385d68f576908d4c64ca63f205b6a426c23f48",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-354302",
@@ -13246,14 +13246,14 @@
           "description": "Autuada a Proposta de Emenda à Constituição nº 24/2026. A proposta vai à publicação"
         }
       ],
-      "collectedAt": "2026-11-18T23:11:05.623Z",
+      "collectedAt": "2026-11-18T23:25:01.933Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta altera o inciso I, alínea b, do art. 102 e insere a alínea j no inciso I do art. 105 da Constituição Federal de 1988.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "ed82fbf4aca3fcc6e0090b024856c2fe3a0be56983f9bd9c1d3d7b223a17a21b"
+      "summarySourceHash": "ed82fbf4aca3fcc6e0090b024856c2fe3a0be56983f9bd9c1d3d7b223a17a21b",
+      "aiSummary": false
     }
   ],
   "events": [

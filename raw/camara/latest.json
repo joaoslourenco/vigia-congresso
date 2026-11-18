@@ -1,7 +1,13 @@
 {
   "from": "2026-11-04",
   "to": "2026-11-18",
-  "proposalsConsulted": 71,
-  "normalized": 71,
-  "errors": []
+  "proposalsConsulted": 27,
+  "normalized": 27,
+  "errors": [
+    {
+      "type": "PLP",
+      "window": "dataInicio=2026-11-04&dataFim=2026-11-18",
+      "error": "HTTP 504"
+    }
+  ]
 }
