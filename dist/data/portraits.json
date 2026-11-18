@@ -750,6 +750,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/191923/historico"
     },
+    "camara-deputado-198197": {
+      "name": "Greyce Elias",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/198197/historico"
+    },
     "camara-deputado-198783": {
       "name": "Emanuel Pinheiro Neto",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/198783.jpg",
@@ -1110,6 +1115,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220556/historico"
     },
+    "camara-deputado-220557": {
+      "name": "Daniela Reinehr",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220557.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220557/historico"
+    },
     "camara-deputado-220558": {
       "name": "Zé Trovão",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
@@ -1329,6 +1339,11 @@
       "name": "Simone Marquetto",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220651/historico"
+    },
+    "camara-deputado-220653": {
+      "name": "Fábio Teruel",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653/historico"
     },
     "camara-deputado-220659": {
       "name": "Dayany Bittencourt",
