@@ -375,21 +375,9 @@
         {
           "date": "2026-11-10",
           "description": "Apresentação do REQ n. 4429/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputada Flávia Morais (MDB/GO) e Deputado Adolfo Viana PSDB      , que \"Requer a urgência para a apreciação do PLP nº 65/2019. \"."
-        },
-        {
-          "date": "2026-11-05",
-          "description": "Encaminhada à publicação. Parecer da Comissão de Finanças e Tributação Publicado em avulso e no DCD de 06/11/2026, Letra C."
-        },
-        {
-          "date": "2026-11-05",
-          "description": "Parecer recebido para publicação."
-        },
-        {
-          "date": "2026-11-05",
-          "description": "Recebimento pelo(a) CCJC, com as proposições PLP-192/2019, PLP-41/2024 apensadas."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-20T22:50:10.368Z",
       "summary": "A proposta altera a Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -3149,12 +3137,12 @@
           "description": "Parecer da Relatora, Dep. Natália Bonavides (PT-RN), pela aprovação deste, com substitutivo."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-20T22:50:10.368Z",
       "summary": "A proposta busca instituir mecanismos de proteção à população LGBTQIA+ encarcerada.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "797751369f3dd4ed71b42ddeaffc9feb3515c8ed5d8cb5b9e13e8c48c071b6fd"
+      "summarySourceHash": "797751369f3dd4ed71b42ddeaffc9feb3515c8ed5d8cb5b9e13e8c48c071b6fd",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2443533",
@@ -6032,7 +6020,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2652677",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6041,7 +6029,7 @@
           "description": "Apresentação do PLP n. 296/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Institui a Lei da Liberdade Econômica 2.0, aperfeiçoando as garantias da livre iniciativa e do livre exercício de atividades econômicas e alterando as Leis nº 13.874, de 20 de setembro de 2019, nº 11.598, de 3 de dezembro de 2007, nº 9.784, de 29 de janeiro de 1999, e nº 14.129, de 29 de março de 2021, e a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir a burocracia, ampliar a segurança jurídica, disciplinar prazos e simplificar procedimentos para o exercício de atividades econômicas\"."
         }
       ],
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-20T22:50:10.368Z",
       "summary": "A proposta institui a Lei da Liberdade Econômica 2.0, aperfeiçoando as garantias da livre iniciativa e do livre exercício de atividades econômicas e alterando as Leis nº 13.874, de 20 de setembro de 2019, nº 11.598, de 3 de dezembro de 2007, nº 9.784, de 29 de janeiro de 1999, e nº 14.129, de 29 de março de 2021, e a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir a burocracia, ampliar a segurança jurídica, disciplinar prazos e simplificar procedimentos para o exercício de atividades econômicas.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7658,12 +7646,12 @@
           "description": "Apresentação do REQ n. 4504/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputado Paulo Pimenta (PT/RS -Fdr PT-PCdoB-PV) e outros, que \"Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei Complementar nº 299, de 2026\"."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-20T22:50:10.368Z",
       "summary": "A proposta busca conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "aeb5ce5c6daa75d67aa7ba4cb7d7f81de408e4d465abb65f7272f5bd510069e2"
+      "summarySourceHash": "aeb5ce5c6daa75d67aa7ba4cb7d7f81de408e4d465abb65f7272f5bd510069e2",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-354302",
@@ -9785,13 +9773,9 @@
         {
           "date": "2026-11-06",
           "description": "Apresentação do REQ n. 4397/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Rui Falcão (PT/SP -Fdr PT-PCdoB-PV), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição n° 82, de 2007, que “acresce os arts. 132-A e 135-A e altera o art.168 da Constituição Federal. \"."
-        },
-        {
-          "date": "2026-11-05",
-          "description": "Apresentação do REQ n. 4394/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Augusto Coutinho (REPUBLIC/PE), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição n° 82, de 2007, que “acresce os arts. 132-A e 135-A e altera o art.168 da Constituição Federal. \"."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-20T22:50:10.368Z",
       "summary": "A proposta acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -10012,13 +9996,9 @@
         {
           "date": "2026-11-17",
           "description": "Distribuído ao Senador Renzo Braz, para emitir relatório."
-        },
-        {
-          "date": "2026-11-05",
-          "description": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n"
         }
       ],
-      "collectedAt": "2026-11-19T23:16:54.961Z",
+      "collectedAt": "2026-11-20T22:51:01.217Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta altera a lei da reforma tributária para tratar do reconhecimento da deficiência auditiva nas situações previstas pelo projeto. A ementa, que é a descrição oficial resumida, não informa quais critérios de reconhecimento nem quais efeitos seriam modificados. Esses detalhes precisam ser conferidos no texto completo; não é possível concluir, só pela ementa, que um benefício específico será concedido.",
@@ -10143,13 +10123,9 @@
         {
           "date": "2026-11-17",
           "description": "Distribuído ao Senador Renzo Braz, para emitir relatório."
-        },
-        {
-          "date": "2026-11-05",
-          "description": "Recebido na CDH. \n\nMatéria aguarda distribuição. \n"
         }
       ],
-      "collectedAt": "2026-11-19T23:16:54.961Z",
+      "collectedAt": "2026-11-20T22:51:01.217Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta estabelece regras para a ordem de pagamento dos precatórios, que são dívidas do poder público cujo pagamento foi determinado pela Justiça. O objetivo declarado é proteger grupos vulneráveis, incluindo idosos, pessoas com doença grave ou deficiência, povos originários, mulheres vítimas de violência doméstica e integrantes da agricultura familiar. A ementa não detalha a prioridade de cada grupo nem os critérios de aplicação.",
@@ -13303,14 +13279,14 @@
           "description": "Autuado o Projeto de Lei Complementar nº 313/2026. O projeto vai à publicação."
         }
       ],
-      "collectedAt": "2026-11-19T23:16:54.961Z",
+      "collectedAt": "2026-11-20T22:51:01.217Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca autorizar a União a postergar por doze meses adicionais a suspensão do pagamento da dívida devida pelos entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, e faz os devidos ajustes na Lei Complementar nº 212, de 2024, que instituiu o Programa de Pleno Pagamento de Dívidas dos Estados (Propag).",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "34c3fc32f51454f5045e0708e43502e75c105aa8f68186a52c4636b3c5f3c25e"
+      "summarySourceHash": "34c3fc32f51454f5045e0708e43502e75c105aa8f68186a52c4636b3c5f3c25e",
+      "aiSummary": false
     }
   ],
   "events": [
@@ -16456,10 +16432,10 @@
       "occurredAt": "2026-11-10T21:26",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 296/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Institui a Lei da Liberdade Econômica 2.0, aperfeiçoando as garantias da livre iniciativa e do livre exercício de atividades econômicas e alterando as Leis nº 13.874, de 20 de setembro de 2019, nº 11.598, de 3 de dezembro de 2007, nº 9.784, de 29 de janeiro de 1999, e nº 14.129, de 29 de março de 2021, e a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir a burocracia, ampliar a segurança jurídica, disciplinar prazos e simplificar procedimentos para o exercício de atividades econômicas\".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-20T22:50:10.368Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652677/tramitacoes",
       "rapporteurId": null,
       "vote": null
