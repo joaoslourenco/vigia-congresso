@@ -1230,6 +1230,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220602/historico"
     },
+    "camara-deputado-220603": {
+      "name": "Dani Cunha",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220603/historico"
+    },
     "camara-deputado-220604": {
       "name": "Marcos Tavares",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",

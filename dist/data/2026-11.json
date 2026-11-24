@@ -104,6 +104,14 @@
         "senado": "partial"
       },
       "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-23": {
+      "status": "partial",
+      "sources": {
+        "camara": "partial",
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
     }
   },
   "proposals": [
@@ -332,11 +340,15 @@
       "conflict": false,
       "history": [
         {
+          "date": "2026-11-23",
+          "description": "Apresentação do REQ n. 4508/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\"."
+        },
+        {
           "date": "2026-11-16",
           "description": "Apresentação do REQ n. 4464/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\"."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca extinguir o foro especial por prerrogativa de função no caso dos crimes comuns, e revoga o inciso X do art. 29 e o § 1º do art. 53 da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -792,17 +804,9 @@
         {
           "date": "2026-11-10",
           "description": "Informativo Conof"
-        },
-        {
-          "date": "2026-11-09",
-          "description": "Apresentação do PRL n. 5 CFT (Parecer do Relator), pela Deputada Erika Kokay (PT/DF -Fdr PT-PCdoB-PV)."
-        },
-        {
-          "date": "2026-11-09",
-          "description": "Parecer da Relatora, Dep. Erika Kokay (PT-DF), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária dos PLPs 42/23,  245/19, 174/23, e 231/23, apensados, do Substitutivo da Comissão do Trabalho, e da subemenda da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, e ; e, no mérito, pela aprovação do PLP 42/23,  245/19, 174/23, e 231/23, apensados, na forma do Substitutivo da CTRAB, com  Subemenda CPASF, com subemenda."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta regulamenta o art. 201, § 1º, inciso II, da Constituição Federal, para dispor sobre os requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, nos casos de atividades exercidas sob condições especiais que prejudiquem a saúde, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -834,7 +838,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2355790",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355790",
-      "stage": "Pronta para Pauta",
+      "stage": "Aguardando Deliberação",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -843,7 +847,7 @@
           "description": "Retirado de pauta, por acordo, a pedido dos deputados Flávio Nogueira e Kiko Celeguim."
         }
       ],
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta autoriza os Estados e o Distrito Federal a exercer a competência prevista no inciso XVI do artigo 22 da Constituição Federal, exclusivamente para o credenciamento de Despachantes perante os seus órgãos departamentos, órgãos e entidades de trânsito.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -3882,16 +3886,16 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2503998",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503998",
-      "stage": "Aguardando Apreciação pelo Senado Federal",
+      "stage": "Aguardando Sanção",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
         {
           "date": "2026-11-13",
-          "description": "Apresentação do DOC n. 1832/2026 (Ofício do Senado Federal), pelo Senado Federal, que \"Ofício SF nº 1.444/2026, que comunica remessa de Projeto de Lei Complementar à sanção\"."
+          "description": "Recebimento do Ofício nº 1.444/2026 (SF) que comunica remessa da matéria à sanção."
         }
       ],
-      "collectedAt": "2026-11-17T23:40:39.450Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do art. 145, § 1º, da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -4213,16 +4217,16 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2580259",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580259",
-      "stage": "Aguardando Apreciação pelo Senado Federal",
+      "stage": "Aguardando Sanção",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
         {
           "date": "2026-11-13",
-          "description": "Apresentação do DOC n. 1833/2026 (Ofício do Senado Federal), pelo Senado Federal, que \"Ofício SF nº1.452/2026, que comunica remessa de Projeto de Lei Complementar à sanção\"."
+          "description": "Recebimento do Ofício nº 1.452/2026 (SF) que comunica remessa da matéria à sanção."
         }
       ],
-      "collectedAt": "2026-11-17T23:40:39.450Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações, e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -4354,7 +4358,11 @@
       "history": [
         {
           "date": "2026-11-18",
-          "description": "Apresentado o PRL 2 oralmente pelo Relator, com emenda."
+          "description": "Apresentação do PRL n. 2 CDE (Parecer do Relator), pelo Deputado Gilson Daniel (PODE/ES)."
+        },
+        {
+          "date": "2026-11-18",
+          "description": "Parecer do Relator, Dep. Gilson Daniel (PODE-ES), pela aprovação, com emendas."
         },
         {
           "date": "2026-11-18",
@@ -4365,7 +4373,7 @@
           "description": "Vista ao Deputado Jadyel Alencar."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca instituir regime regulatório específico aplicável às operações de proteção patrimonial mutualista destinadas exclusivamente ao transporte de carga, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -5897,7 +5905,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2652227",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -5906,7 +5914,7 @@
           "description": "Apresentação do PLP n. 293/2026 (Projeto de Lei Complementar), pelo Deputado Geraldo Resende (UNIÃO/MS), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, a fim de dispor sobre a realização de despesas com eventos de entretenimento nos casos de não atingimento de indicadores mínimos de atendimento em saúde e educação. \"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta altera a Lei Complementar nº 101, de 4 de maio de 2000, a fim de dispor sobre a realização de despesas com eventos de entretenimento nos casos de não atingimento de indicadores mínimos de atendimento em saúde e educação.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6143,7 +6151,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2652977",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6160,7 +6168,7 @@
           "description": "Apresentação do PLP n. 300/2026 (Projeto de Lei Complementar), pelo Deputado Alceu Moreira (MDB/RS), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento. Diferimento é o adiamento do momento de pagar um tributo, conforme as condições previstas no texto. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6192,7 +6200,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2652992",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6201,7 +6209,7 @@
           "description": "Apresentação do PLP n. 301/2026 (Projeto de Lei Complementar), pelo Deputado Reginaldo Lopes (PT/MG -Fdr PT-PCdoB-PV), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015\"."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6233,7 +6241,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2653937",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653937",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6242,7 +6250,7 @@
           "description": "Apresentação do PLP n. 303/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Gambale (PODE/SP), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS)\"."
         }
       ],
-      "collectedAt": "2026-11-15T21:42:52.302Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS). Alíquota é o percentual usado no cálculo de um tributo. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6274,7 +6282,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2653940",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653940",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6283,7 +6291,7 @@
           "description": "Apresentação do PLP n. 304/2026 (Projeto de Lei Complementar), pelo Deputado Luiz Carlos Hauly (PODE/PR), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências\"."
         }
       ],
-      "collectedAt": "2026-11-15T21:42:52.302Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6315,7 +6323,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2654174",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654174",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6328,7 +6336,7 @@
           "description": "Despacho exarado no PL 3154/2026, conforme o seguinte teor: \" Numere-se como Projeto de Lei Complementar. Publique-se.\""
         }
       ],
-      "collectedAt": "2026-11-17T23:40:39.450Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta estabelece a obrigatoriedade de rastreabilidade integral, transparência ativa e vedação à movimentação de recursos públicos em espécie no âmbito das transferências decorrentes de emendas parlamentares e instrumentos congêneres, dispõe sobre mecanismos de controle financeiro digital, altera a Lei n° 4.320, de 17 de março de 1964, e a Lei Complementar n° 101, de 4 de maio de 2000, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6360,7 +6368,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2654237",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654237",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -6373,7 +6381,7 @@
           "description": "Apresentação do PLP n. 306/2026 (Projeto de Lei Complementar), pelo Deputado Duda Ramos (PODE/RR), que \"Dispõe sobre transparência, motivação, reavaliação contínua e racionalização procedimental na aplicação e execução de transferências do Fundo Nacional de Saúde relativas a emendas parlamentares destinadas a ações e serviços públicos de saúde, e dá outras providências\"."
         }
       ],
-      "collectedAt": "2026-11-17T23:40:39.450Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta dispõe sobre transparência, motivação, reavaliação contínua e racionalização procedimental na aplicação e execução de transferências do Fundo Nacional de Saúde relativas a emendas parlamentares destinadas a ações e serviços públicos de saúde, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7461,7 +7469,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2654382",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654382",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -7470,7 +7478,7 @@
           "description": "Apresentação do PLP n. 307/2026 (Projeto de Lei Complementar), pelos Deputado Pedro Uczai (PT/SC -Fdr PT-PCdoB-PV) e outros, que \"Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta institui o Imposto sobre Grandes Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7502,7 +7510,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2655012",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655012",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -7511,7 +7519,7 @@
           "description": "Apresentação do PLP n. 310/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Dispõe sobre normas gerais de planejamento, orçamento, monitoramento e avaliação de políticas públicas, regulamenta o § 9º do art. 165 da Constituição Federal, altera as Leis nºs 4.320, de 17 de março de 1964, e 10.180, de 6 de fevereiro de 2001, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:21:46.861Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta dispõe sobre normas gerais de planejamento, orçamento, monitoramento e avaliação de políticas públicas, regulamenta o § 9º do art. 165 da Constituição Federal, altera as Leis nºs 4.320, de 17 de março de 1964, e 10.180, de 6 de fevereiro de 2001, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7543,7 +7551,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2655019",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655019",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -7552,7 +7560,7 @@
           "description": "Apresentação do PLP n. 311/2026 (Projeto de Lei Complementar), pelo Deputado Fábio Teruel (MDB/SP), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer limites e condições para despesas públicas municipais com eventos artísticos e festivos\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:21:46.861Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca estabelecer limites e condições para despesas públicas municipais com eventos artísticos e festivos.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7584,7 +7592,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2655210",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655210",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -7593,7 +7601,7 @@
           "description": "Apresentação do PLP n. 312/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público\"."
         }
       ],
-      "collectedAt": "2026-11-18T23:21:46.861Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -7625,10 +7633,158 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2655570",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "stage": "Pronta para Pauta",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
+        {
+          "date": "2026-11-23",
+          "description": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 24/11/2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4504/2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Aprovado o requerimento nº 4504/2026, Do Sr. Paulo Pimenta e outros, que solicita urgência (art. 155) para o PLP 299/2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Discussão em turno único."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Parecer proferido em Plenário pelo Relator Dep. Mauro Benevides Filho (UNIÃO/CE) pela:• Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do PLP nº 299, de 2026; e, no mérito, por sua aprovação.• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do PLP nº 299, de 2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4504/2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Aprovado o requerimento nº 4504/2026, Do Sr. Paulo Pimenta e outros, que solicita urgência (art. 155) para o PLP 299/2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4504/2026."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encaminharam a Votação: os Deputados Marcel van Hattem (NOVO/RS) e Pedro Uczai (PT/SC)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Rejeitado o Requerimento. Sim: 127; Não: 347; Abstenção: 7; Total: 481."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Discutiram a Matéria: os Deputados Merlong Solano (PT/PI), Tarcísio Motta (PSOL/RJ), Alencar Santana (PT/SP), Carlos Jordy (PL/RJ), Jandira Feghali (PCdoB/RJ), Chico Alencar (PSOL/RJ), Hildo Rocha (MDB/MA), Glauber Braga (PSOL/RJ), Bohn Gass (PT/RS), Lindbergh Farias (PT/RJ), Rogério Correia (PT/MG) e Sâmia Bomfim (PSOL/SP)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação do Requerimento dos Srs. Líderes que solicita o encerramento da discussão e do encaminhamento da votação."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Aprovado o Requerimento."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encerrados a discussão e o encaminhamento da votação."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "O Projeto foi emendado. Foram apresentadas as Emendas de Plenário n°s 1 a 90."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Parecer às Emendas de Plenário proferido pelo Relator Dep. Mauro Benevides Filho (UNIÃO/CE) pela:• Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária de todas as Emendas de Plenário; e, no mérito, pela sua rejeição.• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa de todas as Emendas de Plenário."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação em turno único."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. Sim: 353; Não: 128; Abstenção: 5; Total: 486."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação das Emendas de Plenário, com parecer pela rejeição."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Rejeitadas as Emendas de Plenário. Sim: 129; Não: 319; Abstenção: 4; Total: 452."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação do DTQ 1 (Fdr PSOL-REDE): Destaque para Votação em Separado do §5° do Art. 5° da Lei Complementar n° 200 de 2023, que consta do Art 1°, apresentado ao PLP 299/2026 (161, I)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encaminharam a Votação: os Deputados Fernanda Melchionna (PSOL/RS) e Reginaldo Lopes (PT/MG)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Mantido o texto. Sim: 413; Não: 29; Total: 442."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação do DTQ 9 (PL): Destaque de Emenda de Plenário nº 23, apresentada ao PLP 299/2026 (161, II)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encaminhou a Votação o Deputado Nikolas Ferreira (PL/MG)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Rejeitada a Emenda de Plenário nº 23. Sim: 146; Não: 315; Abstenção: 1; Total: 462."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação do DTQ 7 (PL): Destaque de Emenda de Plenário nº 38, apresentada ao PLP 299/2026 (161, II)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encaminharam a Votação: os Deputados Mauricio Marcon (PL/RS) e Carlos Zarattini (PT/SP)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Rejeitada a Emenda de Plenário nº 38. Sim: 172; Não: 282; Abstenção: 2; Total: 456."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação do DTQ 4 (AVANTE): Destaque para Votação em Separado do art. 6º-F, que consta no art. 1º do PLP 299/2026 (161, I)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encaminharam a Votação: os Deputados Sargento Gonçalves (PL/RN) e Paulo Pimenta (PT/RS)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Mantido o texto. Sim: 333; Não: 138; Abstenção: 1; Total: 472."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Prejudicado o DTQ 5 (NOVO): Destaque para Votação em Separado do art. 6º-F, que consta no art. 1º do PLP 299/2026 (161, I)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Votação do DTQ 8 (PL): Destaque para Votação em Separado do art. 2º do Projeto de Lei Complementar nº 299, de 2026, com vistas à sua supressão (161, I)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Encaminharam a Votação: os Deputados Cabo Gilberto Silva (PL/PB) e Carlos Zarattini (PT/SP)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Às Comissões deFinanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação do Plenário.Regime de Tramitação: Urgência (Art. 155, RICD)."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Apresentação do PRLE n. 1 PLEN (Parecer Preliminar às Emendas de Plenário), pelo Deputado Mauro Benevides Filho (UNIÃO/CE)."
+        },
         {
           "date": "2026-11-19",
           "description": "Apresentação do PLP n. 299/2026 (Projeto de Lei Complementar), pelo Senado Federal, que \"Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.  \"."
@@ -7646,12 +7802,492 @@
           "description": "Apresentação do REQ n. 4504/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputado Paulo Pimenta (PT/RS -Fdr PT-PCdoB-PV) e outros, que \"Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei Complementar nº 299, de 2026\"."
         }
       ],
-      "collectedAt": "2026-11-20T22:50:10.368Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta busca conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
       "summarySourceHash": "aeb5ce5c6daa75d67aa7ba4cb7d7f81de408e4d465abb65f7272f5bd510069e2",
       "aiSummary": false
+    },
+    {
+      "id": "camara-proposicao-2656713",
+      "officialMatterId": "2656713",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 314,
+      "year": 2026,
+      "presentedAt": "2026-11-19",
+      "officialSummary": "Estabelece normas de planejamento, rastreabilidade, integridade e comprovação de entregas na execução de recursos oriundos de emendas parlamentares e de programações discricionárias da União; e altera a Lei Complementar nº 210, de 25 de novembro de 2024, e as Leis nºs 13.019, de 31 de julho de 2014, e 12.846, de 1º de agosto de 2013.",
+      "authors": [
+        {
+          "id": "camara-deputado-220653",
+          "name": "Fábio Teruel",
+          "party": "MDB",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2656713",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2656713",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "description": "Apresentação do PLP n. 314/2026 (Projeto de Lei Complementar), pelo Deputado Fábio Teruel (MDB/SP), que \"Estabelece normas de planejamento, rastreabilidade, integridade e comprovação de entregas na execução de recursos oriundos de emendas parlamentares e de programações discricionárias da União; e altera a Lei Complementar nº 210, de 25 de novembro de 2024, e as Leis nºs 13.019, de 31 de julho de 2014, e 12.846, de 1º de agosto de 2013\"."
+        }
+      ],
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "summary": "A proposta estabelece normas de planejamento, rastreabilidade, integridade e comprovação de entregas na execução de recursos oriundos de emendas parlamentares e de programações discricionárias da União; e altera a Lei Complementar nº 210, de 25 de novembro de 2024, e as Leis nºs 13.019, de 31 de julho de 2014, e 12.846, de 1º de agosto de 2013.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "7f19c0e48396e30634a8926053eda514c3d7cd35f2cc870be8d524998ba930dd"
+    },
+    {
+      "id": "camara-proposicao-2657784",
+      "officialMatterId": "2657784",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 316,
+      "year": 2026,
+      "presentedAt": "2026-11-23",
+      "officialSummary": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas.",
+      "authors": [
+        {
+          "id": "camara-deputado-206018",
+          "name": "Célia Xakriabá",
+          "party": "PSOL",
+          "state": "MG",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 11,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg"
+        },
+        {
+          "id": "camara-deputado-74171",
+          "name": "Chico Alencar",
+          "party": "PSOL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 16,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg"
+        },
+        {
+          "id": "camara-deputado-220602",
+          "name": "Dimas Gadelha",
+          "party": "PT",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 3,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg"
+        },
+        {
+          "id": "camara-deputado-220688",
+          "name": "Dr. Francisco",
+          "party": "PT",
+          "state": "PI",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 14,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg"
+        },
+        {
+          "id": "camara-deputado-220623",
+          "name": "Duda Salabert",
+          "party": "PSOL",
+          "state": "MG",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 20,
+          "partyContext": "histórico oficial em 2026-04-10T12:00",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg"
+        },
+        {
+          "id": "camara-deputado-230765",
+          "name": "Enfermeira Rejane",
+          "party": "PCdoB",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 27,
+          "partyContext": "histórico oficial em 2025-01-01T13:36",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg"
+        },
+        {
+          "id": "camara-deputado-204407",
+          "name": "Fernanda Melchionna",
+          "party": "PSOL",
+          "state": "RS",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 8,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg"
+        },
+        {
+          "id": "camara-deputado-204445",
+          "name": "Fernando Mineiro",
+          "party": "PT",
+          "state": "RN",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 13,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg"
+        },
+        {
+          "id": "camara-deputado-152605",
+          "name": "Glauber Braga",
+          "party": "PSOL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 15,
+          "partyContext": "histórico oficial em 2026-06-12T00:00",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg"
+        },
+        {
+          "id": "camara-deputado-107283",
+          "name": "Gleisi Hoffmann",
+          "party": "PT",
+          "state": "PR",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 12,
+          "partyContext": "histórico oficial em 2026-04-06T10:16",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg"
+        },
+        {
+          "id": "camara-deputado-178873",
+          "name": "Helder Salomão",
+          "party": "PT",
+          "state": "ES",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 5,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178873.jpg"
+        },
+        {
+          "id": "camara-deputado-74848",
+          "name": "Jandira Feghali",
+          "party": "PCdoB",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 23,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg"
+        },
+        {
+          "id": "camara-deputado-74156",
+          "name": "Leonardo Monteiro",
+          "party": "PT",
+          "state": "MG",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 4,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg"
+        },
+        {
+          "id": "camara-deputado-74858",
+          "name": "Lindbergh Farias",
+          "party": "PT",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg"
+        },
+        {
+          "id": "camara-deputado-74784",
+          "name": "Luiza Erundina",
+          "party": "PSOL",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 18,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg"
+        },
+        {
+          "id": "camara-deputado-81055",
+          "name": "Márcio Jerry",
+          "party": "PCdoB",
+          "state": "MA",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 25,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg"
+        },
+        {
+          "id": "camara-deputado-160535",
+          "name": "Marcon",
+          "party": "PT",
+          "state": "RS",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 10,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160535.jpg"
+        },
+        {
+          "id": "camara-deputado-204453",
+          "name": "Natália Bonavides",
+          "party": "PT",
+          "state": "RN",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 19,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204453.jpg"
+        },
+        {
+          "id": "camara-deputado-178987",
+          "name": "Orlando Silva",
+          "party": "PCdoB",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 26,
+          "partyContext": "histórico oficial em 2025-02-03T13:03",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg"
+        },
+        {
+          "id": "camara-deputado-160556",
+          "name": "Padre João",
+          "party": "PT",
+          "state": "MG",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 17,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg"
+        },
+        {
+          "id": "camara-deputado-220615",
+          "name": "Pastor Henrique Vieira",
+          "party": "PSOL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 22,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg"
+        },
+        {
+          "id": "camara-deputado-171617",
+          "name": "Paulão",
+          "party": "PT",
+          "state": "AL",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 7,
+          "partyContext": "histórico oficial em 2026-10-09T17:23",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg"
+        },
+        {
+          "id": "camara-deputado-160641",
+          "name": "Professora Marcivania",
+          "party": "PCdoB",
+          "state": "AP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 24,
+          "partyContext": "histórico oficial em 2025-08-01T15:43",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg"
+        },
+        {
+          "id": "camara-deputado-204535",
+          "name": "Sâmia Bomfim",
+          "party": "PSOL",
+          "state": "SP",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 2,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg"
+        },
+        {
+          "id": "camara-deputado-204464",
+          "name": "Talíria Petrone",
+          "party": "PSOL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 9,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg"
+        },
+        {
+          "id": "camara-deputado-220598",
+          "name": "Tarcísio Motta",
+          "party": "PSOL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 21,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg"
+        },
+        {
+          "id": "camara-deputado-160569",
+          "name": "Waldenor Pereira",
+          "party": "PT",
+          "state": "BA",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 6,
+          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160569.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2657784",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2657784",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "Apresentação do PLP n. 316/2026 (Projeto de Lei Complementar), pelos Deputado Lindbergh Farias (PT/RJ -Fdr PT-PCdoB-PV) e outros, que \"Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas\"."
+        }
+      ],
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "summary": "A proposta busca excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas. Contingenciamento é o bloqueio temporário de despesas previstas no orçamento. Resultado primário é a diferença entre receitas e despesas do governo, sem considerar os juros da dívida.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "18a6ac315ddd11f48eef4b3ba33ca40321f7007158bd08844d5065bdf28fbd3f"
+    },
+    {
+      "id": "camara-proposicao-2657818",
+      "officialMatterId": "2657818",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 315,
+      "year": 2026,
+      "presentedAt": "2026-11-23",
+      "officialSummary": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para ampliar o prazo de inelegibilidade de magistrados, membros do Ministério Público e membros dos Tribunais de Contas após o afastamento do cargo e para dispor sobre a inelegibilidade de cônjuges, companheiros e parentes de membros dos Tribunais de Contas.",
+      "authors": [
+        {
+          "id": "camara-deputado-178884",
+          "name": "Hildo Rocha",
+          "party": "MDB",
+          "state": "MA",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2026-08-31T19:51",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2657818",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2657818",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "Apresentação do PLP n. 315/2026 (Projeto de Lei Complementar), pelo Deputado Hildo Rocha (MDB/MA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990, para ampliar o prazo de inelegibilidade de magistrados, membros do Ministério Público e membros dos Tribunais de Contas após o afastamento do cargo e para dispor sobre a inelegibilidade de cônjuges, companheiros e parentes de membros dos Tribunais de Contas\"."
+        }
+      ],
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "summary": "A proposta busca ampliar o prazo de inelegibilidade de magistrados, membros do Ministério Público e membros dos Tribunais de Contas após o afastamento do cargo e para dispor sobre a inelegibilidade de cônjuges, companheiros e parentes de membros dos Tribunais de Contas. Inelegibilidade é o impedimento legal para uma pessoa disputar eleições.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "912b2d8c2d3b60cda41bd8e105399ac7778521aea779fca1d0dc68157355a8a8"
+    },
+    {
+      "id": "camara-proposicao-2659011",
+      "officialMatterId": "2659011",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 317,
+      "year": 2026,
+      "presentedAt": "2026-11-23",
+      "officialSummary": "Altera a Lei Complementar n.º 116, de 31 de julho de 2003, e a Lei Complementar n.º 214, de 16 de janeiro de 2025, para explicitar o alcance do subitem 1.03 da Lista de Serviços anexa à Lei Complementar nº 116, de 2003, e dispor sobre o critério espacial e o local da operação relativos aos serviços de Data Centers, colocation e computação em nuvem no âmbito do Imposto Sobre Serviços de Qualquer Natureza – ISS e do Imposto sobre Bens e Serviços – IBS.",
+      "authors": [
+        {
+          "id": "camara-deputado-220603",
+          "name": "Dani Cunha",
+          "party": "PL",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2026-04-01T14:00",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2659011",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659011",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "Apresentação do PLP n. 317/2026 (Projeto de Lei Complementar), pela Deputada Dani Cunha (PL/RJ), que \"Altera a Lei Complementar n.º 116, de 31 de julho de 2003, e a Lei Complementar n.º 214, de 16 de janeiro de 2025, para explicitar o alcance do subitem 1.03 da Lista de Serviços anexa à Lei Complementar nº 116, de 2003, e dispor sobre o critério espacial e o local da operação relativos aos serviços de Data Centers, colocation e computação em nuvem no âmbito do Imposto Sobre Serviços de Qualquer Natureza – ISS e do Imposto sobre Bens e Serviços – IBS\"."
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Apresentação do REQ n. 4517/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputados Adolfo Viana (PSDB/BA) e Sóstenes Cavalcante PL        , que \"Requer, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, regime de urgência para a apreciação do Projeto de Lei Complementar nº 317/2026\"."
+        }
+      ],
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "summary": "A proposta busca explicitar o alcance do subitem 1.03 da Lista de Serviços anexa à Lei Complementar nº 116, de 2003, e dispor sobre o critério espacial e o local da operação relativos aos serviços de Data Centers, colocation e computação em nuvem no âmbito do Imposto Sobre Serviços de Qualquer Natureza – ISS e do Imposto sobre Bens e Serviços – IBS. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "76ce0da9ca0e43c0f06e4b2326d5ac9c7a1bfdcee5ed2b62ab6ff0779d736010"
     },
     {
       "id": "camara-proposicao-354302",
@@ -9804,15 +10440,11 @@
       "conflict": false,
       "history": [
         {
-          "date": "2026-11-06",
-          "description": "Apresentação do PRL n. 2 CFT (Parecer do Relator), pelo Deputado Luiz Carlos Hauly (PODE/PR)."
-        },
-        {
-          "date": "2026-11-06",
-          "description": "Parecer do Relator, Dep. Luiz Carlos Hauly (PODE-PR), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do PLP 93/07 e do Substitutivo da Comissão do Trabalho; e, no mérito, pela aprovação do PLP 93/07, do Substitutivo da CTRAB, com subemendas."
+          "date": "2026-11-23",
+          "description": "Informativo CONOF."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "summary": "A proposta estabelece a criação do Segmento Nacional de Finanças Populares e Solidárias e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -10164,13 +10796,9 @@
         {
           "date": "2026-11-11",
           "description": "Matéria aguardando distribuição."
-        },
-        {
-          "date": "2026-11-09",
-          "description": "Matéria constante da Pauta da 52ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 11/11/2026."
         }
       ],
-      "collectedAt": "2026-11-11T20:34:30.197Z",
+      "collectedAt": "2026-11-24T03:05:05.905Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca proteger a imunidade tributária de instituições filantrópicas que atuam em educação, saúde e assistência social, incluindo organizações assistenciais e beneficentes ligadas a entidades religiosas. Imunidade é uma proteção da Constituição contra a cobrança de determinados tributos nas situações abrangidas por ela. O projeto altera a regulamentação da reforma tributária com o objetivo declarado de evitar aumento da carga de tributos para esse segmento.",
@@ -10836,6 +11464,133 @@
       "aiSummary": false
     },
     {
+      "id": "senado-processo-9097852",
+      "officialMatterId": "175528",
+      "officialProcessId": "9097852",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 235,
+      "year": 2026,
+      "presentedAt": "2026-08-18",
+      "officialSummary": "Dispõe sobre condições e limites para a concessão de incentivos fiscais voltados ao pleno exercício dos direitos culturais pelo segmento juvenil; institui o Programa Vale Cultura Jovem e o selo Empresa Amiga da Cultura Jovem; e dá outras providências.",
+      "authorSummary": "Senador Randolfe Rodrigues (PT/AP)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5012",
+          "name": "Randolfe Rodrigues",
+          "party": "PT",
+          "state": "AP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175528",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9097852",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "A matéria vai à CE e, posteriormente, à CAE. "
+        },
+        {
+          "date": "2026-11-23",
+          "description": "Matéria aguardando distribuição."
+        }
+      ],
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta dispõe sobre condições e limites para a concessão de incentivos fiscais voltados ao pleno exercício dos direitos culturais pelo segmento juvenil; institui o Programa Vale Cultura Jovem e o selo Empresa Amiga da Cultura Jovem; e dá outras providências.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "f25b838c7b72348f37866fb1496979101dedd6322e912e659e87b90c64e65980"
+    },
+    {
+      "id": "senado-processo-9098956",
+      "officialMatterId": "175545",
+      "officialProcessId": "9098956",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 237,
+      "year": 2026,
+      "presentedAt": "2026-08-20",
+      "officialSummary": "Institui incentivo tributário à contratação adicional de aprendizes e de jovens recém-formados em cursos de educação profissional técnica de nível médio ou de educação superior por pessoas jurídicas tributadas com base no lucro real ou no lucro presumido e por optantes pelo Simples Nacional.",
+      "authorSummary": "Senador Angelo Coronel (REPUBLICANOS/BA)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5967",
+          "name": "Angelo Coronel",
+          "party": "REPUBLICANOS",
+          "state": "BA",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175545",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9098956",
+      "stage": "MATÉRIA DESPACHADA",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "A matéria vai à CAS e, posteriormente, à CAE. "
+        }
+      ],
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta institui incentivo tributário à contratação adicional de aprendizes e de jovens recém-formados em cursos de educação profissional técnica de nível médio ou de educação superior por pessoas jurídicas tributadas com base no lucro real ou no lucro presumido e por optantes pelo Simples Nacional.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "cd5f1f651066fc88ee0b21b8842748745e393729e7231809f70837f2d7aba798"
+    },
+    {
+      "id": "senado-processo-9104876",
+      "officialMatterId": "175719",
+      "officialProcessId": "9104876",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 247,
+      "year": 2026,
+      "presentedAt": "2026-09-02",
+      "officialSummary": "Altera a Lei Complementar nº 227, de 13 de janeiro de 2026, para estabelecer diretrizes nacionais para que os Estados e o Distrito Federal autorizem a instituição de regime de isenção condicionada do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) incidente sobre a transmissão de participações societárias em empresas familiares produtivas.",
+      "authorSummary": "Senador Esperidião Amin (PP/SC)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-22",
+          "name": "Esperidião Amin",
+          "party": "PP",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175719",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9104876",
+      "stage": "MATÉRIA DESPACHADA",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "A matéria vai à CAE."
+        }
+      ],
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca estabelecer diretrizes nacionais para que os Estados e o Distrito Federal autorizem a instituição de regime de isenção condicionada do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) incidente sobre a transmissão de participações societárias em empresas familiares produtivas.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "d3a2ff8c1cc0a7ce16abe50f5afc9efefc88eda678b40f5eaa2750ecb07f01e5"
+    },
+    {
       "id": "senado-processo-9107861",
       "officialMatterId": "175782",
       "officialProcessId": "9107861",
@@ -10879,6 +11634,47 @@
       "summaryLabel": "Resumo elaborado com auxílio de IA",
       "summarySourceHash": "53bf4a7203b4ab810689ed61de05b74137cd7b70bc41af00ae0e6bae8c46abfe",
       "aiSummary": true
+    },
+    {
+      "id": "senado-processo-9109525",
+      "officialMatterId": "175827",
+      "officialProcessId": "9109525",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 260,
+      "year": 2026,
+      "presentedAt": "2026-09-21",
+      "officialSummary": "Altera a Lei Complementar nº 222, de 26 de novembro de 2025, para prever tratamento prioritário, reserva mínima de recursos incentivados e critérios de desconcentração para projetos estruturantes destinados à promoção, ao desenvolvimento e à ampliação da prática esportiva por mulheres.",
+      "authorSummary": "Senador Eduardo Gomes (PL/TO)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-3777",
+          "name": "Eduardo Gomes",
+          "party": "PL",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175827",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9109525",
+      "stage": "MATÉRIA DESPACHADA",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "description": "A matéria vai à CEsp e, posteriormente, à CAE. "
+        }
+      ],
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca prever tratamento prioritário, reserva mínima de recursos incentivados e critérios de desconcentração para projetos estruturantes destinados à promoção, ao desenvolvimento e à ampliação da prática esportiva por mulheres.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "9c735f8225570083eb6033e8a00a0b272f6bc9935819f3d347b8ae578e4ffc2e"
     },
     {
       "id": "senado-processo-9119724",
@@ -13279,16 +14075,736 @@
   ],
   "events": [
     {
+      "id": "camara-tramitacao-2140446-229",
+      "proposalId": "camara-proposicao-2140446",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T14:37",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 4508/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pela Deputada Adriana Ventura (NOVO/SP), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 333 de 2017, na ordem do dia\".",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2140446/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141422",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-10",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4504/2026.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-11",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Aprovado o requerimento nº 4504/2026, Do Sr. Paulo Pimenta e outros, que solicita urgência (art. 155) para o PLP 299/2026.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-12",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T19:45",
+      "kind": "Tramitação",
+      "description": "Às Comissões deFinanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação do Plenário.Regime de Tramitação: Urgência (Art. 155, RICD).",
+      "stage": "Aguardando Encaminhamento",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-14",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Discussão em turno único.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-18",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T00:00",
+      "kind": "Tramitação",
+      "description": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 24/11/2026.",
+      "stage": "Aguardando Encaminhamento",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-19",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Parecer proferido em Plenário pelo Relator Dep. Mauro Benevides Filho (UNIÃO/CE) pela:• Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do PLP nº 299, de 2026; e, no mérito, por sua aprovação.• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do PLP nº 299, de 2026.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-20",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4504/2026.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-23",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Aprovado o requerimento nº 4504/2026, Do Sr. Paulo Pimenta e outros, que solicita urgência (art. 155) para o PLP 299/2026.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-25",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4504/2026.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-27",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encaminharam a Votação: os Deputados Marcel van Hattem (NOVO/RS) e Pedro Uczai (PT/SC).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-28",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Rejeitado o Requerimento. Sim: 127; Não: 347; Abstenção: 7; Total: 481.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-29",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Discutiram a Matéria: os Deputados Merlong Solano (PT/PI), Tarcísio Motta (PSOL/RJ), Alencar Santana (PT/SP), Carlos Jordy (PL/RJ), Jandira Feghali (PCdoB/RJ), Chico Alencar (PSOL/RJ), Hildo Rocha (MDB/MA), Glauber Braga (PSOL/RJ), Bohn Gass (PT/RS), Lindbergh Farias (PT/RJ), Rogério Correia (PT/MG) e Sâmia Bomfim (PSOL/SP).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-30",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T21:28",
+      "kind": "Tramitação",
+      "description": "Apresentação do PRLE n. 1 PLEN (Parecer Preliminar às Emendas de Plenário), pelo Deputado Mauro Benevides Filho (UNIÃO/CE).",
+      "stage": "Aguardando Encaminhamento",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-31",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação do Requerimento dos Srs. Líderes que solicita o encerramento da discussão e do encaminhamento da votação.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-32",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Aprovado o Requerimento.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-33",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encerrados a discussão e o encaminhamento da votação.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-34",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "O Projeto foi emendado. Foram apresentadas as Emendas de Plenário n°s 1 a 90.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-35",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Parecer às Emendas de Plenário proferido pelo Relator Dep. Mauro Benevides Filho (UNIÃO/CE) pela:• Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária de todas as Emendas de Plenário; e, no mérito, pela sua rejeição.• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa de todas as Emendas de Plenário.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-36",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação em turno único.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-37",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. Sim: 353; Não: 128; Abstenção: 5; Total: 486.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-38",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação das Emendas de Plenário, com parecer pela rejeição.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-39",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Rejeitadas as Emendas de Plenário. Sim: 129; Não: 319; Abstenção: 4; Total: 452.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-40",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação do DTQ 1 (Fdr PSOL-REDE): Destaque para Votação em Separado do §5° do Art. 5° da Lei Complementar n° 200 de 2023, que consta do Art 1°, apresentado ao PLP 299/2026 (161, I).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-41",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encaminharam a Votação: os Deputados Fernanda Melchionna (PSOL/RS) e Reginaldo Lopes (PT/MG).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-42",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Mantido o texto. Sim: 413; Não: 29; Total: 442.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-43",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação do DTQ 9 (PL): Destaque de Emenda de Plenário nº 23, apresentada ao PLP 299/2026 (161, II).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-44",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encaminhou a Votação o Deputado Nikolas Ferreira (PL/MG).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-45",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Rejeitada a Emenda de Plenário nº 23. Sim: 146; Não: 315; Abstenção: 1; Total: 462.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-46",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação do DTQ 7 (PL): Destaque de Emenda de Plenário nº 38, apresentada ao PLP 299/2026 (161, II).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-47",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encaminharam a Votação: os Deputados Mauricio Marcon (PL/RS) e Carlos Zarattini (PT/SP).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-48",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Rejeitada a Emenda de Plenário nº 38. Sim: 172; Não: 282; Abstenção: 2; Total: 456.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-49",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação do DTQ 4 (AVANTE): Destaque para Votação em Separado do art. 6º-F, que consta no art. 1º do PLP 299/2026 (161, I).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-50",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encaminharam a Votação: os Deputados Sargento Gonçalves (PL/RN) e Paulo Pimenta (PT/RS).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-51",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Mantido o texto. Sim: 333; Não: 138; Abstenção: 1; Total: 472.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-52",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Prejudicado o DTQ 5 (NOVO): Destaque para Votação em Separado do art. 6º-F, que consta no art. 1º do PLP 299/2026 (161, I).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-53",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Votação do DTQ 8 (PL): Destaque para Votação em Separado do art. 2º do Projeto de Lei Complementar nº 299, de 2026, com vistas à sua supressão (161, I).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2655570-54",
+      "proposalId": "camara-proposicao-2655570",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T18:00",
+      "kind": "Tramitação",
+      "description": "Encaminharam a Votação: os Deputados Cabo Gilberto Silva (PL/PB) e Carlos Zarattini (PT/SP).",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2657784-1",
+      "proposalId": "camara-proposicao-2657784",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T14:18",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 316/2026 (Projeto de Lei Complementar), pelos Deputado Lindbergh Farias (PT/RJ -Fdr PT-PCdoB-PV) e outros, que \"Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2657784/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2657818-1",
+      "proposalId": "camara-proposicao-2657818",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T12:12",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 315/2026 (Projeto de Lei Complementar), pelo Deputado Hildo Rocha (MDB/MA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990, para ampliar o prazo de inelegibilidade de magistrados, membros do Ministério Público e membros dos Tribunais de Contas após o afastamento do cargo e para dispor sobre a inelegibilidade de cônjuges, companheiros e parentes de membros dos Tribunais de Contas\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2657818/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2659011-1",
+      "proposalId": "camara-proposicao-2659011",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T19:53",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 317/2026 (Projeto de Lei Complementar), pela Deputada Dani Cunha (PL/RJ), que \"Altera a Lei Complementar n.º 116, de 31 de julho de 2003, e a Lei Complementar n.º 214, de 16 de janeiro de 2025, para explicitar o alcance do subitem 1.03 da Lista de Serviços anexa à Lei Complementar nº 116, de 2003, e dispor sobre o critério espacial e o local da operação relativos aos serviços de Data Centers, colocation e computação em nuvem no âmbito do Imposto Sobre Serviços de Qualquer Natureza – ISS e do Imposto sobre Bens e Serviços – IBS\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659011/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2659011-4",
+      "proposalId": "camara-proposicao-2659011",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T21:40",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 4517/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputados Adolfo Viana (PSDB/BA) e Sóstenes Cavalcante PL        , que \"Requer, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, regime de urgência para a apreciação do Projeto de Lei Complementar nº 317/2026\".",
+      "stage": "Apresentação de Requerimento",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659011/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-361065-92",
+      "proposalId": "camara-proposicao-361065",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23T16:21",
+      "kind": "Tramitação",
+      "description": "Informativo CONOF.",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/361065/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/73778",
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330752",
+      "proposalId": "senado-processo-9097852",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23 18:00:21",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CE e, posteriormente, à CAE. ",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9097852",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330753",
+      "proposalId": "senado-processo-9098956",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23 18:02:08",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CAS e, posteriormente, à CAE. ",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9098956",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330755",
+      "proposalId": "senado-processo-9104876",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23 18:05:19",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CAE.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9104876",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330758",
+      "proposalId": "senado-processo-9097852",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23 18:27:06",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9097852",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330766",
+      "proposalId": "senado-processo-9109525",
+      "date": "2026-11-23",
+      "occurredAt": "2026-11-23 18:07:33",
+      "kind": "Tramitação",
+      "description": "A matéria vai à CEsp e, posteriormente, à CAE. ",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9109525",
+      "conflict": false,
+      "vote": null
+    },
+    {
       "id": "camara-tramitacao-2655570-1",
       "proposalId": "camara-proposicao-2655570",
       "date": "2026-11-19",
       "occurredAt": "2026-11-19T13:11",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 299/2026 (Projeto de Lei Complementar), pelo Senado Federal, que \"Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.  \".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "stage": "Aguardando Encaminhamento",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13300,10 +14816,10 @@
       "occurredAt": "2026-11-19T14:22",
       "kind": "Tramitação",
       "description": "Designado Relator, Dep. Mauro Benevides Filho (UNIÃO-CE).",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "stage": "Pronta para Pauta",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
       "vote": null
@@ -13315,10 +14831,10 @@
       "occurredAt": "2026-11-19T18:34",
       "kind": "Tramitação",
       "description": "Apresentação do PRLP n. 1 PLEN (Parecer Preliminar de Plenário), pelo Deputado Mauro Benevides Filho (UNIÃO/CE).",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "stage": "Aguardando Encaminhamento",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
       "vote": null
@@ -13330,12 +14846,27 @@
       "occurredAt": "2026-11-19T18:47",
       "kind": "Tramitação",
       "description": "Apresentação do REQ n. 4504/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputado Paulo Pimenta (PT/RS -Fdr PT-PCdoB-PV) e outros, que \"Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei Complementar nº 299, de 2026\".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+      "stage": "Aguardando Encaminhamento",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2656713-1",
+      "proposalId": "camara-proposicao-2656713",
+      "date": "2026-11-19",
+      "occurredAt": "2026-11-19T20:00",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 314/2026 (Projeto de Lei Complementar), pelo Deputado Fábio Teruel (MDB/SP), que \"Estabelece normas de planejamento, rastreabilidade, integridade e comprovação de entregas na execução de recursos oriundos de emendas parlamentares e de programações discricionárias da União; e altera a Lei Complementar nº 210, de 25 de novembro de 2024, e as Leis nºs 13.019, de 31 de julho de 2014, e 12.846, de 1º de agosto de 2013\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2656713/tramitacoes",
+      "rapporteurId": null,
       "vote": null
     },
     {
@@ -13477,13 +15008,13 @@
       "id": "camara-tramitacao-2612756-18",
       "proposalId": "camara-proposicao-2612756",
       "date": "2026-11-18",
-      "occurredAt": "2026-11-18T10:30",
+      "occurredAt": "2026-11-18T00:00",
       "kind": "Tramitação",
-      "description": "Apresentado o PRL 2 oralmente pelo Relator, com emenda.",
+      "description": "Apresentação do PRL n. 2 CDE (Parecer do Relator), pelo Deputado Gilson Daniel (PODE/ES).",
       "stage": "Aguardando Vistas",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612756/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/220529",
       "vote": null
@@ -13504,7 +15035,37 @@
       "vote": null
     },
     {
+      "id": "camara-tramitacao-2612756-20",
+      "proposalId": "camara-proposicao-2612756",
+      "date": "2026-11-18",
+      "occurredAt": "2026-11-18T00:00",
+      "kind": "Tramitação",
+      "description": "Parecer do Relator, Dep. Gilson Daniel (PODE-ES), pela aprovação, com emendas.",
+      "stage": "Aguardando Vistas",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612756/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/220529",
+      "vote": null
+    },
+    {
       "id": "camara-tramitacao-2612756-21",
+      "proposalId": "camara-proposicao-2612756",
+      "date": "2026-11-18",
+      "occurredAt": "2026-11-18T10:30",
+      "kind": "Tramitação",
+      "description": "Lido o Parecer pelo Relator.",
+      "stage": "Aguardando Vistas",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612756/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/220529",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2612756-22",
       "proposalId": "camara-proposicao-2612756",
       "date": "2026-11-18",
       "occurredAt": "2026-11-18T10:30",
@@ -13513,7 +15074,7 @@
       "stage": "Aguardando Vistas",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612756/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/220529",
       "vote": null
@@ -13585,10 +15146,10 @@
       "occurredAt": "2026-11-18T10:30",
       "kind": "Tramitação",
       "description": "Aprovado o requerimento nº 111/2026,da Sra. Coronel Fernanda que requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.",
-      "stage": "Aprovação de Requerimento",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13600,10 +15161,10 @@
       "occurredAt": "2026-11-18T07:35",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 311/2026 (Projeto de Lei Complementar), pelo Deputado Fábio Teruel (MDB/SP), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer limites e condições para despesas públicas municipais com eventos artísticos e festivos\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655019/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13615,10 +15176,10 @@
       "occurredAt": "2026-11-18T13:32",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 312/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655210/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13930,10 +15491,10 @@
       "occurredAt": "2026-11-17T18:24",
       "kind": "Tramitação",
       "description": "Despacho exarado ao PL 4.615/2026, conforme seguinte teor: \"Renumere-se o Projeto de Lei n. 4.615/2026 como Projeto de Lei Complementar. Publique-se\"",
-      "stage": "Notificações",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T23:40:39.450Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654237/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13945,10 +15506,10 @@
       "occurredAt": "2026-11-17T10:55",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 307/2026 (Projeto de Lei Complementar), pelos Deputado Pedro Uczai (PT/SC -Fdr PT-PCdoB-PV) e outros, que \"Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T23:40:39.450Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654382/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -13960,10 +15521,10 @@
       "occurredAt": "2026-11-17T20:55",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 310/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Dispõe sobre normas gerais de planejamento, orçamento, monitoramento e avaliação de políticas públicas, regulamenta o § 9º do art. 165 da Constituição Federal, altera as Leis nºs 4.320, de 17 de março de 1964, e 10.180, de 6 de fevereiro de 2001, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-18T23:10:11.578Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655012/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -14365,10 +15926,10 @@
       "occurredAt": "2026-11-16T14:44",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 305/2026 (Projeto de Lei Complementar), pelo Deputado Marcos Tavares (PDT/RJ), que \"Estabelece a obrigatoriedade de rastreabilidade integral, transparência ativa e vedação à movimentação de recursos públicos em espécie no âmbito das transferências decorrentes de emendas parlamentares e instrumentos congêneres, dispõe sobre mecanismos de controle financeiro digital, altera a Lei n° 4.320, de 17 de março de 1964, e a Lei Complementar n° 101, de 4 de maio de 2000, e dá outras providências\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654174/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -14380,10 +15941,10 @@
       "occurredAt": "2026-11-16T15:39",
       "kind": "Tramitação",
       "description": "Despacho exarado no PL 3154/2026, conforme o seguinte teor: \" Numere-se como Projeto de Lei Complementar. Publique-se.\"",
-      "stage": "Notificação de Despacho",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654174/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -14395,10 +15956,10 @@
       "occurredAt": "2026-11-16T17:01",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 306/2026 (Projeto de Lei Complementar), pelo Deputado Duda Ramos (PODE/RR), que \"Dispõe sobre transparência, motivação, reavaliação contínua e racionalização procedimental na aplicação e execução de transferências do Fundo Nacional de Saúde relativas a emendas parlamentares destinadas a ações e serviços públicos de saúde, e dá outras providências\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654237/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -14559,11 +16120,11 @@
       "date": "2026-11-13",
       "occurredAt": "2026-11-13T18:50",
       "kind": "Apresentação",
-      "description": "Apresentação do DOC n. 1832/2026 (Ofício do Senado Federal), pelo Senado Federal, que \"Ofício SF nº 1.444/2026, que comunica remessa de Projeto de Lei Complementar à sanção\".",
-      "stage": "Aguardando Apreciação pelo Senado Federal",
+      "description": "Recebimento do Ofício nº 1.444/2026 (SF) que comunica remessa da matéria à sanção.",
+      "stage": "Aguardando Sanção",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503998/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/220703",
       "vote": null
@@ -14574,11 +16135,11 @@
       "date": "2026-11-13",
       "occurredAt": "2026-11-13T18:52",
       "kind": "Apresentação",
-      "description": "Apresentação do DOC n. 1833/2026 (Ofício do Senado Federal), pelo Senado Federal, que \"Ofício SF nº1.452/2026, que comunica remessa de Projeto de Lei Complementar à sanção\".",
-      "stage": "Aguardando Apreciação pelo Senado Federal",
+      "description": "Recebimento do Ofício nº 1.452/2026 (SF) que comunica remessa da matéria à sanção.",
+      "stage": "Aguardando Sanção",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-17T00:31:14.013Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2580259/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204540",
       "vote": null
@@ -14590,10 +16151,10 @@
       "occurredAt": "2026-11-13T15:32",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 303/2026 (Projeto de Lei Complementar), pelo Deputado Rodrigo Gambale (PODE/SP), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir os serviços médico-veterinários na redução de 60% (sessenta por cento) das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS)\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653937/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -14605,10 +16166,10 @@
       "occurredAt": "2026-11-13T17:27",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 304/2026 (Projeto de Lei Complementar), pelo Deputado Luiz Carlos Hauly (PODE/PR), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir devolução geral progressiva da CBS e do IBS segundo a renda domiciliar per capita e ampliar os mecanismos de identificação das famílias beneficiárias e dá outras providências\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-14T20:58:00.049Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2653940/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -14695,10 +16256,10 @@
       "occurredAt": "2026-11-12T13:39",
       "kind": "Tramitação",
       "description": "Apresentação do REQ n. 111/2026 (Requerimento de Audiência Pública), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.\".",
-      "stage": "Apresentação de Requerimento",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T17:41:12.465Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -15805,10 +17366,10 @@
       "occurredAt": "2026-11-11T10:00",
       "kind": "Tramitação",
       "description": "Retirado de pauta, por acordo, a pedido dos deputados Flávio Nogueira e Kiko Celeguim.",
-      "stage": "Pronta para Pauta",
+      "stage": "Aguardando Deliberação",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2355790/tramitacoes",
       "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
       "vote": null
@@ -15910,10 +17471,10 @@
       "occurredAt": "2026-11-11T16:55",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 300/2026 (Projeto de Lei Complementar), pelo Deputado Alceu Moreira (MDB/RS), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -15925,10 +17486,10 @@
       "occurredAt": "2026-11-11T17:39",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 301/2026 (Projeto de Lei Complementar), pelo Deputado Reginaldo Lopes (PT/MG -Fdr PT-PCdoB-PV), que \"Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir crédito presumido da Contribuição Social sobre Bens e Serviços relativo ao estoque, em 1º de janeiro de 2027, de produtos submetidos ao regime da Lei nº 13.097, de 19 de janeiro de 2015\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652992/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -16375,10 +17936,10 @@
       "occurredAt": "2026-11-10T17:05",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 293/2026 (Projeto de Lei Complementar), pelo Deputado Geraldo Resende (UNIÃO/MS), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000, a fim de dispor sobre a realização de despesas com eventos de entretenimento nos casos de não atingimento de indicadores mínimos de atendimento em saúde e educação. \".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-12T01:12:07.259Z",
+      "collectedAt": "2026-11-24T03:04:15.318Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652227/tramitacoes",
       "rapporteurId": null,
       "vote": null
