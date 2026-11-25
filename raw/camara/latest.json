@@ -2,26 +2,10 @@
   "from": "2026-11-10",
   "to": "2026-11-24",
   "proposalsConsulted": 60,
-  "normalized": 4,
+  "normalized": 9,
   "errors": [
     {
-      "id": 1279086,
-      "error": "HTTP 429"
-    },
-    {
-      "id": 2194074,
-      "error": "HTTP 429"
-    },
-    {
-      "id": 2087915,
-      "error": "HTTP 429"
-    },
-    {
       "id": 2336953,
-      "error": "HTTP 429"
-    },
-    {
-      "id": 2341099,
       "error": "HTTP 429"
     },
     {
@@ -61,15 +45,19 @@
       "error": "HTTP 429"
     },
     {
-      "id": 2484146,
-      "error": "HTTP 429"
-    },
-    {
       "id": 2503216,
       "error": "HTTP 429"
     },
     {
+      "id": 2484146,
+      "error": "HTTP 429"
+    },
+    {
       "id": 2503998,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2525081,
       "error": "HTTP 429"
     },
     {
@@ -105,10 +93,6 @@
       "error": "HTTP 429"
     },
     {
-      "id": 2621388,
-      "error": "HTTP 429"
-    },
-    {
       "id": 2623565,
       "error": "HTTP 429"
     },
@@ -134,10 +118,6 @@
     },
     {
       "id": 2652510,
-      "error": "HTTP 429"
-    },
-    {
-      "id": 2652512,
       "error": "HTTP 429"
     },
     {
@@ -201,6 +181,10 @@
       "error": "HTTP 429"
     },
     {
+      "id": 2657784,
+      "error": "HTTP 429"
+    },
+    {
       "id": 2657818,
       "error": "HTTP 429"
     },
@@ -222,10 +206,6 @@
     },
     {
       "id": 2140446,
-      "error": "HTTP 429"
-    },
-    {
-      "id": 2436224,
       "error": "HTTP 429"
     }
   ]

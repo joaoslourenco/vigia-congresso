@@ -233,26 +233,26 @@
         {
           "id": "camara-deputado-141439",
           "name": "Chico D'Angelo",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 2,
-          "partyContext": "histórico oficial em 2015-02-01T10:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/141439.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74398",
           "name": "Maria do Rosário",
-          "party": "PT",
-          "state": "RS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2015-02-01T10:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74398.jpg"
+          "photo": null
         }
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/1279086",
@@ -270,7 +270,7 @@
           "description": "Parecer do Relator, Dep. Alexandre Lindenmeyer (PT-RS), pela aprovação, com Substitutivo."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta altera disposições das Leis Complementares 108 e 109, de 29 de maio de 2001, sobre o Regime de Previdência Complementar.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -376,14 +376,14 @@
         {
           "id": "camara-deputado-160598",
           "name": "Flávia Morais",
-          "party": "PDT",
-          "state": "GO",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2019-02-01T11:45",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg"
+          "photo": null
         }
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2194074",
@@ -397,7 +397,7 @@
           "description": "Apresentação do REQ n. 4429/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputada Flávia Morais (MDB/GO) e Deputado Adolfo Viana PSDB      , que \"Requer a urgência para a apreciação do PLP nº 65/2019. \"."
         }
       ],
-      "collectedAt": "2026-11-20T22:50:10.368Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta altera a Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -540,14 +540,14 @@
         {
           "id": "camara-deputado-62881",
           "name": "Danilo Forte",
-          "party": "PSDB",
-          "state": "CE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2020-06-17T15:08",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg"
+          "photo": null
         }
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2260638",
@@ -561,7 +561,7 @@
           "description": "Apresentação do REQ n. 4478/2026 (Requerimento de Apensação), pelo Deputado Capitão Alden (PL/BA), que \"Requer a apensação do Projeto de Lei Complementar nº 157/2025 ao Projeto de Lei Complementar nº 218/2020\"."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta institui a Contribuição Social sobre Serviços Digitais incidente sobre a receita bruta de serviços digitais prestados pelas grandes empresas de tecnologia (CSSD), destinada ao financiamento de programas de renda básica.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -704,14 +704,14 @@
         {
           "id": "camara-deputado-204355",
           "name": "Da Vitoria",
-          "party": "PP",
-          "state": "ES",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2022-03-21T17:54",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204351",
@@ -728,14 +728,14 @@
         {
           "id": "camara-deputado-204392",
           "name": "Francisco Jr.",
-          "party": "PSD",
-          "state": "GO",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 2,
-          "partyContext": "histórico oficial em 2019-02-01T11:45",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204392.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204517",
@@ -752,10 +752,14 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2341099",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2341099",
-      "stage": "Pronta para Pauta",
+      "stage": "Aguardando Designação de Relator(a)",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Recebimento pelo(a) CFT."
+        },
         {
           "date": "2026-11-17",
           "description": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 3672/2026."
@@ -769,7 +773,7 @@
           "description": "Designado Relator, Dep. Rodrigo Rollemberg (PSB-DF)."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta institui a Política Nacional de Bioeconomia, em articulação com a implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, e altera a Lei nº 10.177, de 12 de janeiro de 2001, a Lei Complementar nº 124, de 3 de janeiro de 2007, a Lei Complementar nº 125, de 3 de janeiro de 2007, a Lei Complementar nº 129, de 8 de janeiro de 2009, e a Lei nº 12.187, de 29 de dezembro de 2009.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -1115,14 +1119,14 @@
         {
           "id": "camara-deputado-204501",
           "name": "Alencar Santana",
-          "party": "PT",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 30,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220542",
@@ -1151,14 +1155,14 @@
         {
           "id": "camara-deputado-221148",
           "name": "Alfredinho",
-          "party": "PT",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 32,
-          "partyContext": "histórico oficial em 2023-02-07T15:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74057",
@@ -1187,14 +1191,14 @@
         {
           "id": "camara-deputado-220556",
           "name": "Ana Paula Lima",
-          "party": "PT",
-          "state": "SC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 35,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220632",
@@ -1271,26 +1275,26 @@
         {
           "id": "camara-deputado-73701",
           "name": "Benedita da Silva",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 42,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204358",
           "name": "Beto Pereira",
-          "party": "PSDB",
-          "state": "MS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 43,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204388",
@@ -1319,50 +1323,50 @@
         {
           "id": "camara-deputado-220548",
           "name": "Camila Jara",
-          "party": "PT",
-          "state": "MS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 46,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204426",
           "name": "Carlos Veras",
-          "party": "PT",
-          "state": "PE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 47,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220704",
           "name": "Carol Dartora",
-          "party": "PT",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 13,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-206018",
           "name": "Célia Xakriabá",
-          "party": "PSOL",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 48,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74171",
@@ -1391,26 +1395,26 @@
         {
           "id": "camara-deputado-98148",
           "name": "Cobalchini",
-          "party": "MDB",
-          "state": "SC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 51,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-222142",
           "name": "Coronel Telhada",
-          "party": "PP",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 52,
-          "partyContext": "histórico oficial em 2024-03-25T17:03",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/222142.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220608",
@@ -1427,14 +1431,14 @@
         {
           "id": "camara-deputado-141411",
           "name": "Dagoberto Nogueira",
-          "party": "PSDB",
-          "state": "MS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 54,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220555",
@@ -1463,14 +1467,14 @@
         {
           "id": "camara-deputado-74060",
           "name": "Daniel Almeida",
-          "party": "PCdoB",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 56,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220582",
@@ -1487,50 +1491,50 @@
         {
           "id": "camara-deputado-62881",
           "name": "Danilo Forte",
-          "party": "UNIÃO",
-          "state": "CE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 58,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204511",
           "name": "David Soares",
-          "party": "UNIÃO",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 59,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220659",
           "name": "Dayany Bittencourt",
-          "party": "UNIÃO",
-          "state": "CE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 60,
-          "partyContext": "histórico oficial em 2023-05-05T12:09",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220659.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220565",
           "name": "Delegada Adriana Accorsi",
-          "party": "PT",
-          "state": "GO",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 4,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220625",
@@ -1547,38 +1551,38 @@
         {
           "id": "camara-deputado-228272",
           "name": "Délio Pinheiro",
-          "party": "PDT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 62,
-          "partyContext": "histórico oficial em 2024-04-09T14:23",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/228272.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220691",
           "name": "Diego Coronel",
-          "party": "PSD",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 63,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220691.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220602",
           "name": "Dimas Gadelha",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 64,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220573",
@@ -1643,38 +1647,38 @@
         {
           "id": "camara-deputado-220528",
           "name": "Dr. Victor Linhalis",
-          "party": "PODE",
-          "state": "ES",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 69,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220686",
           "name": "Duarte Jr.",
-          "party": "PSB",
-          "state": "MA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 70,
-          "partyContext": "histórico oficial em 2023-06-28T11:01",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-141421",
           "name": "Eduardo da Fonte",
-          "party": "PP",
-          "state": "PE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 71,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-218086",
@@ -1691,26 +1695,26 @@
         {
           "id": "camara-deputado-198783",
           "name": "Emanuel Pinheiro Neto",
-          "party": "MDB",
-          "state": "MT",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 73,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/198783.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160575",
           "name": "Erika Kokay",
-          "party": "PT",
-          "state": "DF",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 15,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160575.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-66828",
@@ -1727,74 +1731,74 @@
         {
           "id": "camara-deputado-204407",
           "name": "Fernanda Melchionna",
-          "party": "PSOL",
-          "state": "RS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 75,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204445",
           "name": "Fernando Mineiro",
-          "party": "PT",
-          "state": "RN",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 17,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204427",
           "name": "Fernando Rodolfo",
-          "party": "PL",
-          "state": "PE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 76,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160598",
           "name": "Flávia Morais",
-          "party": "PDT",
-          "state": "GO",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 77,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-191923",
           "name": "Flávio Nogueira",
-          "party": "PT",
-          "state": "PI",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 78,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220700",
           "name": "Florentino Neto",
-          "party": "PT",
-          "state": "PI",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 79,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-224117",
@@ -1811,14 +1815,14 @@
         {
           "id": "camara-deputado-204473",
           "name": "General Girão",
-          "party": "PL",
-          "state": "RN",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 81,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220611",
@@ -1859,62 +1863,62 @@
         {
           "id": "camara-deputado-107283",
           "name": "Gleisi Hoffmann",
-          "party": "PT",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 14,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220639",
           "name": "Guilherme Boulos",
-          "party": "PSOL",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 85,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220639.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178873",
           "name": "Helder Salomão",
-          "party": "PT",
-          "state": "ES",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 12,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178873.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220537",
           "name": "Helena Lima",
-          "party": "MDB",
-          "state": "RR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 86,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220537.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178909",
           "name": "Hélio Leite",
-          "party": "UNIÃO",
-          "state": "PA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 87,
-          "partyContext": "histórico oficial em 2023-12-12T18:21",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178909.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220672",
@@ -1955,38 +1959,38 @@
         {
           "id": "camara-deputado-220563",
           "name": "Icaro de Valmir",
-          "party": "PL",
-          "state": "SE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 91,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220563.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-73531",
           "name": "Ivan Valente",
-          "party": "PSOL",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 92,
-          "partyContext": "histórico oficial em 2023-02-03T10:51",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/73531.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220527",
           "name": "Jack Rocha",
-          "party": "PT",
-          "state": "ES",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 23,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220527.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220697",
@@ -2003,38 +2007,38 @@
         {
           "id": "camara-deputado-74848",
           "name": "Jandira Feghali",
-          "party": "PCdoB",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 94,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-141456",
           "name": "Jilmar Tatto",
-          "party": "PT",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 95,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178970",
           "name": "João Daniel",
-          "party": "PT",
-          "state": "SE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 2,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-141459",
@@ -2051,26 +2055,26 @@
         {
           "id": "camara-deputado-214694",
           "name": "Jorge Goetten",
-          "party": "PL",
-          "state": "SC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 97,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178857",
           "name": "Jorge Solla",
-          "party": "PT",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 98,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-141464",
@@ -2111,26 +2115,26 @@
         {
           "id": "camara-deputado-215043",
           "name": "Josivaldo Jp",
-          "party": "PSD",
-          "state": "MA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 102,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204474",
           "name": "Juarez Costa",
-          "party": "MDB",
-          "state": "MT",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 103,
-          "partyContext": "histórico oficial em 2023-09-29T00:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204474.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-162067",
@@ -2147,26 +2151,26 @@
         {
           "id": "camara-deputado-98057",
           "name": "Lafayette de Andrada",
-          "party": "REPUBLICANOS",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 105,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74856",
           "name": "Laura Carneiro",
-          "party": "PSD",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 106,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-80815",
@@ -2195,14 +2199,14 @@
         {
           "id": "camara-deputado-74858",
           "name": "Lindbergh Farias",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-171139",
@@ -2219,38 +2223,38 @@
         {
           "id": "camara-deputado-138286",
           "name": "Luciano Alves",
-          "party": "PSD",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 109,
-          "partyContext": "histórico oficial em 2023-11-29T19:55",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/138286.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178931",
           "name": "Luciano Ducci",
-          "party": "PSB",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 110,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178931.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-73778",
           "name": "Luiz Carlos Hauly",
-          "party": "PODE",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 111,
-          "partyContext": "histórico oficial em 2023-06-13T16:15",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/73778.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74041",
@@ -2267,26 +2271,26 @@
         {
           "id": "camara-deputado-204455",
           "name": "Luiz Lima",
-          "party": "PL",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 113,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74784",
           "name": "Luiza Erundina",
-          "party": "PSOL",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 114,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178866",
@@ -2315,26 +2319,26 @@
         {
           "id": "camara-deputado-220599",
           "name": "Marcelo Crivella",
-          "party": "REPUBLICANOS",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 117,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220599.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-81055",
           "name": "Márcio Jerry",
-          "party": "PCdoB",
-          "state": "MA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 118,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160535",
@@ -2363,62 +2367,62 @@
         {
           "id": "camara-deputado-74398",
           "name": "Maria do Rosário",
-          "party": "PT",
-          "state": "RS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 5,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74398.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204566",
           "name": "Marreca Filho",
-          "party": "PRD",
-          "state": "MA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 121,
-          "partyContext": "histórico oficial em 2024-04-19T00:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178843",
           "name": "Marx Beltrão",
-          "party": "PP",
-          "state": "AL",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 122,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178843.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220550",
           "name": "Mauricio Marcon",
-          "party": "PODE",
-          "state": "RS",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 123,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220550.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204486",
           "name": "Mauro Benevides Filho",
-          "party": "PDT",
-          "state": "CE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 124,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204486.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220591",
@@ -2471,14 +2475,14 @@
         {
           "id": "camara-deputado-74159",
           "name": "Odair Cunha",
-          "party": "PT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 11,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74159.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204498",
@@ -2507,62 +2511,62 @@
         {
           "id": "camara-deputado-160556",
           "name": "Padre João",
-          "party": "PT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 131,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220615",
           "name": "Pastor Henrique Vieira",
-          "party": "PSOL",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 132,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74160",
           "name": "Patrus Ananias",
-          "party": "PT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 133,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74160.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-171617",
           "name": "Paulão",
-          "party": "PT",
-          "state": "AL",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 134,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74574",
           "name": "Paulo Magalhães",
-          "party": "PSD",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 135,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220667",
@@ -2591,38 +2595,38 @@
         {
           "id": "camara-deputado-161440",
           "name": "Pezenti",
-          "party": "MDB",
-          "state": "SC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 138,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204524",
           "name": "Pinheirinho",
-          "party": "PP",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 139,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160601",
           "name": "Pr. Marco Feliciano",
-          "party": "PL",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 140,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160601.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220533",
@@ -2651,14 +2655,14 @@
         {
           "id": "camara-deputado-204567",
           "name": "Raimundo Costa",
-          "party": "PODE",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 143,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204567.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74084",
@@ -2687,14 +2691,14 @@
         {
           "id": "camara-deputado-220606",
           "name": "Reimont",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 9,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178989",
@@ -2711,62 +2715,62 @@
         {
           "id": "camara-deputado-220694",
           "name": "Ricardo Maia",
-          "party": "MDB",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 146,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220694.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220588",
           "name": "Roberto Duarte",
-          "party": "REPUBLICANOS",
-          "state": "AC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 147,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220588.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-141531",
           "name": "Rodrigo de Castro",
-          "party": "UNIÃO",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 148,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/141531.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204480",
           "name": "Rogério Correia",
-          "party": "PT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 10,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160629",
           "name": "Romero Rodrigues",
-          "party": "PODE",
-          "state": "PB",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 149,
-          "partyContext": "histórico oficial em 2023-08-22T00:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74371",
@@ -2807,62 +2811,62 @@
         {
           "id": "camara-deputado-160635",
           "name": "Ruy Carneiro",
-          "party": "PODE",
-          "state": "PB",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 152,
-          "partyContext": "histórico oficial em 2023-08-22T00:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160635.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204535",
           "name": "Sâmia Bomfim",
-          "party": "PSOL",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 153,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220618",
           "name": "Sargento Portugal",
-          "party": "PODE",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 154,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220713",
           "name": "Saullo Vianna",
-          "party": "UNIÃO",
-          "state": "AM",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 155,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220713.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-226837",
           "name": "Saulo Pedroso",
-          "party": "PSD",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 156,
-          "partyContext": "histórico oficial em 2023-10-03T14:23",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220579",
@@ -2879,26 +2883,26 @@
         {
           "id": "camara-deputado-220651",
           "name": "Simone Marquetto",
-          "party": "MDB",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 158,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-104552",
           "name": "Socorro Neri",
-          "party": "PP",
-          "state": "AC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 159,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220682",
@@ -2939,38 +2943,38 @@
         {
           "id": "camara-deputado-178934",
           "name": "Toninho Wandscheer",
-          "party": "PP",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 162,
-          "partyContext": "histórico oficial em 2023-02-01T17:09",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178934.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-157130",
           "name": "Túlio Gadêlha",
-          "party": "REDE",
-          "state": "PE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 163,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160610",
           "name": "Valmir Assunção",
-          "party": "PT",
-          "state": "BA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 164,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160610.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74376",
@@ -2987,14 +2991,14 @@
         {
           "id": "camara-deputado-74283",
           "name": "Vicentinho",
-          "party": "PT",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 18,
-          "partyContext": "histórico oficial em 2023-02-03T10:52",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74283.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160569",
@@ -3011,26 +3015,26 @@
         {
           "id": "camara-deputado-220601",
           "name": "Washington Quaquá",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 166,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220601.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160518",
           "name": "Weliton Prado",
-          "party": "SOLIDARIEDADE",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 167,
-          "partyContext": "histórico oficial em 2023-03-23T00:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74043",
@@ -3071,26 +3075,26 @@
         {
           "id": "camara-deputado-160592",
           "name": "Zeca Dirceu",
-          "party": "PT",
-          "state": "PR",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 20,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220592",
           "name": "Zezinho Barbary",
-          "party": "PP",
-          "state": "AC",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "coautoria",
           "order": 171,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg"
+          "photo": null
         }
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2436224",
@@ -3104,7 +3108,7 @@
           "description": "Designada Relatora, Dep. Daiana Santos (PCdoB-RS)."
         }
       ],
-      "collectedAt": "2026-11-12T01:16:10.020Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta busca promover o enquadramento dos servidores públicos federais ocupantes do cargo de auxiliar de enfermagem para a carreira dos técnicos de enfermagem.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -4540,14 +4544,14 @@
         {
           "id": "camara-deputado-141421",
           "name": "Eduardo da Fonte",
-          "party": "PP",
-          "state": "PE",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220669",
@@ -4573,7 +4577,7 @@
           "description": "Apresentação do REQ n. 4485/2026 (Requerimento de Redistribuição), pelo Deputado Lula da Fonte (PP/PE), que \"Requer a distribuição às Comissões competentes de proposições apresentadas pelo Dep. Eduardo da Fonte e pelo Segundo-Secretário da Mesa Diretora da Câmara dos Deputados, Dep. Lula da Fonte\"."
         }
       ],
-      "collectedAt": "2026-11-19T23:15:34.181Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta concede redução das alíquotas do IBS e CBS a hospital privado não filantrópico que preste serviços ao SUS. Alíquota é o percentual usado no cálculo de um tributo. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -10472,14 +10476,14 @@
         {
           "id": "camara-deputado-74784",
           "name": "Luiza Erundina",
-          "party": "PSB",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2007-02-01T00:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg"
+          "photo": null
         }
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/361065",
@@ -10493,7 +10497,7 @@
           "description": "Informativo CONOF."
         }
       ],
-      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "collectedAt": "2026-11-25T01:23:24.024Z",
       "summary": "A proposta estabelece a criação do Segmento Nacional de Finanças Populares e Solidárias e dá outras providências.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -14147,6 +14151,21 @@
     }
   ],
   "events": [
+    {
+      "id": "camara-tramitacao-2341099-59",
+      "proposalId": "camara-proposicao-2341099",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24T18:58",
+      "kind": "Tramitação",
+      "description": "Recebimento pelo(a) CFT.",
+      "stage": "Aguardando Designação de Relator(a)",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:23:24.024Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2341099/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141533",
+      "vote": null
+    },
     {
       "id": "camara-tramitacao-2525081-16",
       "proposalId": "camara-proposicao-2525081",
