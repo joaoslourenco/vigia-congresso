@@ -1,7 +1,232 @@
 {
   "from": "2026-11-10",
   "to": "2026-11-24",
-  "proposalsConsulted": 57,
-  "normalized": 57,
-  "errors": []
+  "proposalsConsulted": 60,
+  "normalized": 4,
+  "errors": [
+    {
+      "id": 1279086,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2194074,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2087915,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2336953,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2341099,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2350914,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2355790,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2440783,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2451871,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2466394,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2469516,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2482436,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2482440,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2483155,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2484146,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2503216,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2503998,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2538208,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2538793,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2579088,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2580259,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2607375,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2612756,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2615068,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2619055,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2621388,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2623565,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2638475,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2651984,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652023,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652026,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652227,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652510,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652512,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652677,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652867,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652890,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652977,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2652992,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2653937,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2653940,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2654174,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2654237,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2654382,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2655012,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2655019,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2655210,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2655570,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2656713,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2657818,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2659011,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2659286,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 354302,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 1228863,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2140446,
+      "error": "HTTP 429"
+    },
+    {
+      "id": 2436224,
+      "error": "HTTP 429"
+    }
+  ]
 }

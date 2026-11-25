@@ -112,6 +112,14 @@
         "senado": "partial"
       },
       "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-24": {
+      "status": "partial",
+      "sources": {
+        "camara": "partial",
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
     }
   },
   "proposals": [
@@ -3942,6 +3950,47 @@
       "summaryLabel": "Texto oficial simplificado automaticamente",
       "summarySourceHash": "dd67cab2e8039cdc5effcd68a16533a08161f5e2056539814dc2eddfab42b783",
       "aiSummary": false
+    },
+    {
+      "id": "camara-proposicao-2525081",
+      "officialMatterId": "2525081",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 130,
+      "year": 2025,
+      "presentedAt": "2025-06-11",
+      "officialSummary": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para permitir a destinação de emendas parlamentares individuais e de bancada a órgãos do Poder Judiciário.",
+      "authors": [
+        {
+          "id": "camara-deputado-220539",
+          "name": "Defensor Stélio Dener",
+          "party": null,
+          "state": null,
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
+          "conflict": false,
+          "photo": null
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2525081",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2525081",
+      "stage": "Aguardando Parecer",
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Designado Relator, Dep. Kim Kataguiri (MISSÃO-SP)."
+        }
+      ],
+      "collectedAt": "2026-11-25T01:07:59.494Z",
+      "summary": "A proposta busca permitir a destinação de emendas parlamentares individuais e de bancada a órgãos do Poder Judiciário.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "2ac1083fcfde36c6dce698e60443f12f1898efcefb7d0a1183fbed6d6e8c2948"
     },
     {
       "id": "camara-proposicao-2538208",
@@ -7863,38 +7912,38 @@
         {
           "id": "camara-deputado-206018",
           "name": "Célia Xakriabá",
-          "party": "PSOL",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 11,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74171",
           "name": "Chico Alencar",
-          "party": "PSOL",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 16,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220602",
           "name": "Dimas Gadelha",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 3,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220688",
@@ -7911,26 +7960,26 @@
         {
           "id": "camara-deputado-220623",
           "name": "Duda Salabert",
-          "party": "PSOL",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 20,
-          "partyContext": "histórico oficial em 2026-04-10T12:00",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-230765",
           "name": "Enfermeira Rejane",
-          "party": "PCdoB",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 27,
-          "partyContext": "histórico oficial em 2025-01-01T13:36",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204407",
@@ -7947,14 +7996,14 @@
         {
           "id": "camara-deputado-204445",
           "name": "Fernando Mineiro",
-          "party": "PT",
-          "state": "RN",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 13,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-152605",
@@ -8007,26 +8056,26 @@
         {
           "id": "camara-deputado-74156",
           "name": "Leonardo Monteiro",
-          "party": "PT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 4,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74858",
           "name": "Lindbergh Farias",
-          "party": "PT",
-          "state": "RJ",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 1,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-74784",
@@ -8043,14 +8092,14 @@
         {
           "id": "camara-deputado-81055",
           "name": "Márcio Jerry",
-          "party": "PCdoB",
-          "state": "MA",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 25,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160535",
@@ -8067,38 +8116,38 @@
         {
           "id": "camara-deputado-204453",
           "name": "Natália Bonavides",
-          "party": "PT",
-          "state": "RN",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 19,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204453.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-178987",
           "name": "Orlando Silva",
-          "party": "PCdoB",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 26,
-          "partyContext": "histórico oficial em 2025-02-03T13:03",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160556",
           "name": "Padre João",
-          "party": "PT",
-          "state": "MG",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 17,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-220615",
@@ -8115,38 +8164,38 @@
         {
           "id": "camara-deputado-171617",
           "name": "Paulão",
-          "party": "PT",
-          "state": "AL",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 7,
-          "partyContext": "histórico oficial em 2026-10-09T17:23",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-160641",
           "name": "Professora Marcivania",
-          "party": "PCdoB",
-          "state": "AP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 24,
-          "partyContext": "histórico oficial em 2025-08-01T15:43",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204535",
           "name": "Sâmia Bomfim",
-          "party": "PSOL",
-          "state": "SP",
+          "party": null,
+          "state": null,
           "office": "deputado federal",
           "role": "principal",
           "order": 2,
-          "partyContext": "histórico oficial em 2023-02-01T12:05",
+          "partyContext": "histórico indisponível; não inferido pelo vínculo atual",
           "conflict": false,
-          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg"
+          "photo": null
         },
         {
           "id": "camara-deputado-204464",
@@ -8196,12 +8245,12 @@
           "description": "Apresentação do PLP n. 316/2026 (Projeto de Lei Complementar), pelos Deputado Lindbergh Farias (PT/RJ -Fdr PT-PCdoB-PV) e outros, que \"Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas\"."
         }
       ],
-      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "collectedAt": "2026-11-25T01:07:59.494Z",
       "summary": "A proposta busca excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas. Contingenciamento é o bloqueio temporário de despesas previstas no orçamento. Resultado primário é a diferença entre receitas e despesas do governo, sem considerar os juros da dívida.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "18a6ac315ddd11f48eef4b3ba33ca40321f7007158bd08844d5065bdf28fbd3f"
+      "summarySourceHash": "18a6ac315ddd11f48eef4b3ba33ca40321f7007158bd08844d5065bdf28fbd3f",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2657818",
@@ -10697,14 +10746,18 @@
       ],
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172719",
       "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
-      "stage": "MATÉRIA COM A RELATORIA",
+      "stage": "PRONTA PARA A PAUTA NA COMISSÃO",
       "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Recebido o relatório do Senador Plínio Valério, pela declaração de prejudicialidade do Projeto de Lei Complementar nº 33, de 2026."
+        },
         {
           "date": "2026-11-10",
           "description": "Distribuído ao Senador Plínio Valério, para emitir relatório."
         }
       ],
-      "collectedAt": "2026-11-21T21:56:12.107Z",
+      "collectedAt": "2026-11-25T01:08:17.333Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta inclui entidades esportivas sem fins lucrativos entre as exceções à redução de benefícios tributários prevista em lei. Em termos práticos, essas entidades poderiam ficar fora do corte abrangido pela mudança. Benefícios tributários são tratamentos que reduzem ou dispensam a cobrança de tributos em determinadas situações; as condições exatas precisam ser consultadas no texto.",
@@ -11499,14 +11552,14 @@
           "description": "Matéria aguardando distribuição."
         }
       ],
-      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "collectedAt": "2026-11-25T01:08:17.333Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta dispõe sobre condições e limites para a concessão de incentivos fiscais voltados ao pleno exercício dos direitos culturais pelo segmento juvenil; institui o Programa Vale Cultura Jovem e o selo Empresa Amiga da Cultura Jovem; e dá outras providências.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "f25b838c7b72348f37866fb1496979101dedd6322e912e659e87b90c64e65980"
+      "summarySourceHash": "f25b838c7b72348f37866fb1496979101dedd6322e912e659e87b90c64e65980",
+      "aiSummary": false
     },
     {
       "id": "senado-processo-9098956",
@@ -11533,21 +11586,25 @@
       ],
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175545",
       "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9098956",
-      "stage": "MATÉRIA DESPACHADA",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
       "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Matéria aguardando distribuição."
+        },
         {
           "date": "2026-11-23",
           "description": "A matéria vai à CAS e, posteriormente, à CAE. "
         }
       ],
-      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "collectedAt": "2026-11-25T01:08:17.333Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta institui incentivo tributário à contratação adicional de aprendizes e de jovens recém-formados em cursos de educação profissional técnica de nível médio ou de educação superior por pessoas jurídicas tributadas com base no lucro real ou no lucro presumido e por optantes pelo Simples Nacional.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "cd5f1f651066fc88ee0b21b8842748745e393729e7231809f70837f2d7aba798"
+      "summarySourceHash": "cd5f1f651066fc88ee0b21b8842748745e393729e7231809f70837f2d7aba798",
+      "aiSummary": false
     },
     {
       "id": "senado-processo-9104876",
@@ -11574,21 +11631,25 @@
       ],
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175719",
       "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9104876",
-      "stage": "MATÉRIA DESPACHADA",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
       "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Matéria aguardando distribuição. "
+        },
         {
           "date": "2026-11-23",
           "description": "A matéria vai à CAE."
         }
       ],
-      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "collectedAt": "2026-11-25T01:08:17.333Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca estabelecer diretrizes nacionais para que os Estados e o Distrito Federal autorizem a instituição de regime de isenção condicionada do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) incidente sobre a transmissão de participações societárias em empresas familiares produtivas.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "d3a2ff8c1cc0a7ce16abe50f5afc9efefc88eda678b40f5eaa2750ecb07f01e5"
+      "summarySourceHash": "d3a2ff8c1cc0a7ce16abe50f5afc9efefc88eda678b40f5eaa2750ecb07f01e5",
+      "aiSummary": false
     },
     {
       "id": "senado-processo-9107861",
@@ -11660,21 +11721,29 @@
       ],
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175827",
       "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9109525",
-      "stage": "MATÉRIA DESPACHADA",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
       "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Recebido nessa data na Comissão de Esporte. \n\nAguardando designação de relator."
+        },
+        {
+          "date": "2026-11-24",
+          "description": "Distribuído ao Senador Romário, para emitir relatório."
+        },
         {
           "date": "2026-11-23",
           "description": "A matéria vai à CEsp e, posteriormente, à CAE. "
         }
       ],
-      "collectedAt": "2026-11-24T03:05:05.905Z",
+      "collectedAt": "2026-11-25T01:08:17.333Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca prever tratamento prioritário, reserva mínima de recursos incentivados e critérios de desconcentração para projetos estruturantes destinados à promoção, ao desenvolvimento e à ampliação da prática esportiva por mulheres.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "9c735f8225570083eb6033e8a00a0b272f6bc9935819f3d347b8ae578e4ffc2e"
+      "summarySourceHash": "9c735f8225570083eb6033e8a00a0b272f6bc9935819f3d347b8ae578e4ffc2e",
+      "aiSummary": false
     },
     {
       "id": "senado-processo-9119724",
@@ -13203,8 +13272,12 @@
       ],
       "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176328",
       "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
-      "stage": "REMETIDA À CÂMARA DOS DEPUTADOS",
+      "stage": "REMETIDA À SANÇÃO",
       "history": [
+        {
+          "date": "2026-11-24",
+          "description": "Encaminhado à publicação o Ofício da Câmara dos Deputados nº 868, de 2026, na origem, que comunica o envio à sanção do Projeto de Lei Complementar nº 299, de 2026.  \nA matéria vai à Secretaria de Expediente. "
+        },
         {
           "date": "2026-11-19",
           "description": "Anexado o texto revisado."
@@ -13558,7 +13631,7 @@
           "description": "Recebido o Relatório do Senador Eduardo Braga."
         }
       ],
-      "collectedAt": "2026-11-19T23:16:54.961Z",
+      "collectedAt": "2026-11-25T01:08:17.333Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca dar ao governo federal novas ferramentas de gestão para preservar a estabilidade da economia e favorecer o desenvolvimento social e econômico. Governo federal, aqui, é o Poder Executivo, responsável pela administração do país. A ementa não descreve quais ferramentas seriam criadas nem como seriam usadas; esses limites precisam ser conferidos no texto completo.",
@@ -14074,6 +14147,111 @@
     }
   ],
   "events": [
+    {
+      "id": "camara-tramitacao-2525081-16",
+      "proposalId": "camara-proposicao-2525081",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24T17:52",
+      "kind": "Tramitação",
+      "description": "Designado Relator, Dep. Kim Kataguiri (MISSÃO-SP).",
+      "stage": "Aguardando Parecer",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:07:59.494Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2525081/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536",
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330856",
+      "proposalId": "senado-processo-9098956",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24 09:15:03",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:08:17.333Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9098956",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330871",
+      "proposalId": "senado-processo-9104876",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24 09:50:22",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição. ",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:08:17.333Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9104876",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330890",
+      "proposalId": "senado-processo-9109525",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24 10:55:29",
+      "kind": "Tramitação",
+      "description": "Recebido nessa data na Comissão de Esporte. \n\nAguardando designação de relator.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:08:17.333Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9109525",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2330917",
+      "proposalId": "senado-processo-9127383",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24 11:52:17",
+      "kind": "Tramitação",
+      "description": "Encaminhado à publicação o Ofício da Câmara dos Deputados nº 868, de 2026, na origem, que comunica o envio à sanção do Projeto de Lei Complementar nº 299, de 2026.  \nA matéria vai à Secretaria de Expediente. ",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:08:17.333Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9127383",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2331246",
+      "proposalId": "senado-processo-9109525",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24 17:10:00",
+      "kind": "Tramitação",
+      "description": "Distribuído ao Senador Romário, para emitir relatório.",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:08:17.333Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9109525",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2331258",
+      "proposalId": "senado-processo-8994746",
+      "date": "2026-11-24",
+      "occurredAt": "2026-11-24 17:42:40",
+      "kind": "Tramitação",
+      "description": "Recebido o relatório do Senador Plínio Valério, pela declaração de prejudicialidade do Projeto de Lei Complementar nº 33, de 2026.",
+      "stage": "PRONTA PARA A PAUTA NA COMISSÃO",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-25T01:08:17.333Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/8994746",
+      "conflict": false,
+      "vote": null
+    },
     {
       "id": "camara-tramitacao-2140446-229",
       "proposalId": "camara-proposicao-2140446",
