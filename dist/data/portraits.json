@@ -40,6 +40,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439/historico"
     },
+    "camara-deputado-136811": {
+      "name": "Afonso Hamm",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/136811/historico"
+    },
     "camara-deputado-137070": {
       "name": "Vicentinho Júnior",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
