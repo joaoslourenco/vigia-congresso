@@ -845,6 +845,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204412/historico"
     },
+    "camara-deputado-204415": {
+      "name": "Nereu Crispim",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204415.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204415/historico"
+    },
     "camara-deputado-204426": {
       "name": "Carlos Veras",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
@@ -1295,6 +1300,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220625/historico"
     },
+    "camara-deputado-220626": {
+      "name": "Rafael Simoes",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626/historico"
+    },
     "camara-deputado-220629": {
       "name": "Dandara",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
@@ -1309,6 +1319,11 @@
       "name": "Ricardo Salles",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220633.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220633/historico"
+    },
+    "camara-deputado-220638": {
+      "name": "Antonio Carlos Rodrigues",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220638/historico"
     },
     "camara-deputado-220639": {
       "name": "Guilherme Boulos",
@@ -1416,7 +1431,7 @@
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220684/historico"
     },
     "camara-deputado-220686": {
-      "name": "Duarte",
+      "name": "Duarte Jr.",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220686/historico"
     },
