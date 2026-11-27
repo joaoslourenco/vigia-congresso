@@ -10,6 +10,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/107283/historico"
     },
+    "camara-deputado-107970": {
+      "name": "Ana Paula Leão",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/107970/historico"
+    },
+    "camara-deputado-115200": {
+      "name": "Raniery Paulino",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/115200.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/115200/historico"
+    },
     "camara-deputado-116379": {
       "name": "Darci de Matos",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/116379.jpg",
@@ -25,6 +35,21 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/123086/historico"
     },
+    "camara-deputado-128760": {
+      "name": "Paulo Marinho Jr",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/128760.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/128760/historico"
+    },
+    "camara-deputado-133370": {
+      "name": "Walter Barelli",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/133370.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133370/historico"
+    },
+    "camara-deputado-133372": {
+      "name": "Natan Donadon",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/133372.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133372/historico"
+    },
     "camara-deputado-133373": {
       "name": "Marco Maia",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/133373.jpg",
@@ -35,10 +60,20 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/133374.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133374/historico"
     },
+    "camara-deputado-133375": {
+      "name": "Edinho Montemor",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/133375.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133375/historico"
+    },
     "camara-deputado-133439": {
       "name": "André Figueiredo",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133439/historico"
+    },
+    "camara-deputado-133440": {
+      "name": "Ana Alencar",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/133440.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/133440/historico"
     },
     "camara-deputado-136811": {
       "name": "Afonso Hamm",
@@ -49,6 +84,11 @@
       "name": "Vicentinho Júnior",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/137070/historico"
+    },
+    "camara-deputado-137983": {
+      "name": "Francisco Escórcio",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/137983.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/137983/historico"
     },
     "camara-deputado-138286": {
       "name": "Luciano Alves",
@@ -270,6 +310,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/141477.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141477/historico"
     },
+    "camara-deputado-141480": {
+      "name": "Lázaro Botelho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/141480.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141480/historico"
+    },
     "camara-deputado-141482": {
       "name": "Leonardo Quintão",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/141482.jpg",
@@ -405,6 +450,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/141552.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141552/historico"
     },
+    "camara-deputado-141555": {
+      "name": "Vinicius Carvalho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/141555/historico"
+    },
     "camara-deputado-141558": {
       "name": "Waldir Maranhão",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/141558.jpg",
@@ -444,6 +494,11 @@
       "name": "Glauber Braga",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605/historico"
+    },
+    "camara-deputado-153423": {
+      "name": "Renilce Nicodemos",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/153423/historico"
     },
     "camara-deputado-156190": {
       "name": "Marcel van Hattem",
@@ -555,6 +610,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/160641/historico"
     },
+    "camara-deputado-160642": {
+      "name": "Pastor Eurico",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/160642/historico"
+    },
     "camara-deputado-160666": {
       "name": "Félix Mendonça Júnior",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
@@ -584,6 +644,11 @@
       "name": "Kiko Celeguim",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/162067.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067/historico"
+    },
+    "camara-deputado-163321": {
+      "name": "Ronaldo Nogueira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/163321.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/163321/historico"
     },
     "camara-deputado-165470": {
       "name": "Rodrigo Valadares",
@@ -625,6 +690,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178866/historico"
     },
+    "camara-deputado-178871": {
+      "name": "Evair Vieira de Melo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178871/historico"
+    },
     "camara-deputado-178873": {
       "name": "Helder Salomão",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178873.jpg",
@@ -654,6 +724,11 @@
       "name": "Newton Cardoso Jr",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178896.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178896/historico"
+    },
+    "camara-deputado-178908": {
+      "name": "Delegado Éder Mauro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/178908.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178908/historico"
     },
     "camara-deputado-178909": {
       "name": "Hélio Leite",
@@ -694,6 +769,11 @@
       "name": "Carlos Gomes",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178962/historico"
+    },
+    "camara-deputado-178963": {
+      "name": "Covatti Filho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178963/historico"
     },
     "camara-deputado-178964": {
       "name": "Heitor Schuch",
@@ -745,6 +825,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/178997.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/178997/historico"
     },
+    "camara-deputado-182146": {
+      "name": "Wolmer Araújo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/182146.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/182146/historico"
+    },
     "camara-deputado-188097": {
       "name": "Merlong Solano",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/188097.jpg",
@@ -790,6 +875,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204360/historico"
     },
+    "camara-deputado-204361": {
+      "name": "Carlos Chiodini",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204361.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204361/historico"
+    },
     "camara-deputado-204364": {
       "name": "Eli Borges",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204364.jpg",
@@ -800,10 +890,25 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204365/historico"
     },
+    "camara-deputado-204367": {
+      "name": "Daniel Freitas",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204367.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204367/historico"
+    },
     "camara-deputado-204372": {
       "name": "Julio Cesar Ribeiro",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204372/historico"
+    },
+    "camara-deputado-204374": {
+      "name": "Bia Kicis",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204374/historico"
+    },
+    "camara-deputado-204378": {
+      "name": "Coronel Chrisóstomo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204378.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204378/historico"
     },
     "camara-deputado-204379": {
       "name": "Acácio Favacho",
@@ -819,6 +924,16 @@
       "name": "Bibo Nunes",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204388/historico"
+    },
+    "camara-deputado-204390": {
+      "name": "Professor Alcides",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204390/historico"
+    },
+    "camara-deputado-204391": {
+      "name": "José Nelto",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204391.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204391/historico"
     },
     "camara-deputado-204392": {
       "name": "Francisco Jr.",
@@ -845,6 +960,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204410.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204410/historico"
     },
+    "camara-deputado-204411": {
+      "name": "Filipe Barros",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204411.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204411/historico"
+    },
     "camara-deputado-204412": {
       "name": "Dr. Zacharias Calil",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
@@ -855,6 +975,21 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204415.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204415/historico"
     },
+    "camara-deputado-204416": {
+      "name": "Sanderson",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204416/historico"
+    },
+    "camara-deputado-204422": {
+      "name": "Ossesio Silva",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204422.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204422/historico"
+    },
+    "camara-deputado-204423": {
+      "name": "André Ferreira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204423/historico"
+    },
     "camara-deputado-204426": {
       "name": "Carlos Veras",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
@@ -864,6 +999,21 @@
       "name": "Fernando Rodolfo",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204427/historico"
+    },
+    "camara-deputado-204431": {
+      "name": "Marcos Aurélio Sampaio",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204431.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204431/historico"
+    },
+    "camara-deputado-204436": {
+      "name": "Isnaldo Bulhões Jr.",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204436/historico"
+    },
+    "camara-deputado-204441": {
+      "name": "Otoni de Paula",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204441.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204441/historico"
     },
     "camara-deputado-204445": {
       "name": "Fernando Mineiro",
@@ -895,6 +1045,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204464/historico"
     },
+    "camara-deputado-204472": {
+      "name": "José Medeiros",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204472/historico"
+    },
     "camara-deputado-204473": {
       "name": "General Girão",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
@@ -919,6 +1074,11 @@
       "name": "Rogério Correia",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204480/historico"
+    },
+    "camara-deputado-204485": {
+      "name": "Luiz Carlos Motta",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204485/historico"
     },
     "camara-deputado-204486": {
       "name": "Mauro Benevides Filho",
@@ -960,6 +1120,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204511/historico"
     },
+    "camara-deputado-204512": {
+      "name": "Delegado Marcelo Freitas",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/historico"
+    },
     "camara-deputado-204517": {
       "name": "Zé Vitor",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
@@ -974,6 +1139,11 @@
       "name": "Adriana Ventura",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528/historico"
+    },
+    "camara-deputado-204533": {
+      "name": "Idilvan Alencar",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204533/historico"
     },
     "camara-deputado-204534": {
       "name": "Tabata Amaral",
@@ -1000,6 +1170,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204549/historico"
     },
+    "camara-deputado-204550": {
+      "name": "Júnior Mano",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204550/historico"
+    },
     "camara-deputado-204559": {
       "name": "Zé Neto",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
@@ -1015,6 +1190,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204567.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204567/historico"
     },
+    "camara-deputado-204572": {
+      "name": "Capitão Alberto Neto",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204572/historico"
+    },
     "camara-deputado-206018": {
       "name": "Célia Xakriabá",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
@@ -1029,6 +1209,11 @@
       "name": "Bruno Farias",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/210989/historico"
+    },
+    "camara-deputado-213274": {
+      "name": "Ricardo Silva",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/213274.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/213274/historico"
     },
     "camara-deputado-213762": {
       "name": "Carla Dickson",
@@ -1065,10 +1250,30 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220529/historico"
     },
+    "camara-deputado-220531": {
+      "name": "Gilvan Maximo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220531.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220531/historico"
+    },
+    "camara-deputado-220532": {
+      "name": "Rafael Prudente",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220532.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220532/historico"
+    },
     "camara-deputado-220533": {
       "name": "Prof. Reginaldo Veras",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220533/historico"
+    },
+    "camara-deputado-220534": {
+      "name": "Fred Linhares",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220534/historico"
+    },
+    "camara-deputado-220536": {
+      "name": "Zé Haroldo Cathedral",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220536.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220536/historico"
     },
     "camara-deputado-220537": {
       "name": "Helena Lima",
@@ -1094,6 +1299,11 @@
       "name": "Ricardo Ayres",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220543/historico"
+    },
+    "camara-deputado-220545": {
+      "name": "Filipe Martins",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220545.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220545/historico"
     },
     "camara-deputado-220548": {
       "name": "Camila Jara",
@@ -1145,6 +1355,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220563.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220563/historico"
     },
+    "camara-deputado-220564": {
+      "name": "Yandra Moura",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220564/historico"
+    },
     "camara-deputado-220565": {
       "name": "Delegada Adriana Accorsi",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
@@ -1154,6 +1369,11 @@
       "name": "Lêda Borges",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220566/historico"
+    },
+    "camara-deputado-220568": {
+      "name": "Gustavo Gayer",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220568.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220568/historico"
     },
     "camara-deputado-220569": {
       "name": "Silvye Alves",
@@ -1165,6 +1385,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220570/historico"
     },
+    "camara-deputado-220572": {
+      "name": "Marussa Boldrin",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220572/historico"
+    },
     "camara-deputado-220573": {
       "name": "Dorinaldo Malafaia",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220573.jpg",
@@ -1174,6 +1399,11 @@
       "name": "Augusto Puppio",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220577.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220577/historico"
+    },
+    "camara-deputado-220578": {
+      "name": "Josenildo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220578.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220578/historico"
     },
     "camara-deputado-220579": {
       "name": "Silvia Waiãpi",
@@ -1194,6 +1424,16 @@
       "name": "Daniel Barbosa",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220582/historico"
+    },
+    "camara-deputado-220584": {
+      "name": "Murilo Galdino",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220584/historico"
+    },
+    "camara-deputado-220586": {
+      "name": "Rafael Brito",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220586.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220586/historico"
     },
     "camara-deputado-220587": {
       "name": "Gerlen Diniz",
@@ -1219,6 +1459,21 @@
       "name": "Abilio Brunini",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220593.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220593/historico"
+    },
+    "camara-deputado-220595": {
+      "name": "Coronel Fernanda",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220595/historico"
+    },
+    "camara-deputado-220596": {
+      "name": "Amália Barros",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220596.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220596/historico"
+    },
+    "camara-deputado-220597": {
+      "name": "Thiago Flores",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220597.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220597/historico"
     },
     "camara-deputado-220598": {
       "name": "Tarcísio Motta",
@@ -1260,6 +1515,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220606/historico"
     },
+    "camara-deputado-220607": {
+      "name": "Max Lemos",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220607/historico"
+    },
     "camara-deputado-220608": {
       "name": "Cristiane Lopes",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220608.jpg",
@@ -1279,6 +1539,11 @@
       "name": "Pastor Henrique Vieira",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220615/historico"
+    },
+    "camara-deputado-220616": {
+      "name": "Luciano Vieira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220616/historico"
     },
     "camara-deputado-220618": {
       "name": "Sargento Portugal",
@@ -1310,10 +1575,20 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626/historico"
     },
+    "camara-deputado-220628": {
+      "name": "Mauricio do Vôlei",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220628.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220628/historico"
+    },
     "camara-deputado-220629": {
       "name": "Dandara",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/historico"
+    },
+    "camara-deputado-220631": {
+      "name": "Samuel Viana",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220631.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220631/historico"
     },
     "camara-deputado-220632": {
       "name": "Ana Pimentel",
@@ -1360,6 +1635,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220647.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220647/historico"
     },
+    "camara-deputado-220648": {
+      "name": "Marangoni",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220648/historico"
+    },
+    "camara-deputado-220650": {
+      "name": "Paulo Alexandre Barbosa",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220650.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220650/historico"
+    },
     "camara-deputado-220651": {
       "name": "Simone Marquetto",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
@@ -1370,6 +1655,21 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220653/historico"
     },
+    "camara-deputado-220654": {
+      "name": "Delegado Paulo Bilynskyj",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220654/historico"
+    },
+    "camara-deputado-220656": {
+      "name": "Fernanda Pessoa",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220656/historico"
+    },
+    "camara-deputado-220658": {
+      "name": "Luiz Gastão",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220658/historico"
+    },
     "camara-deputado-220659": {
       "name": "Dayany Bittencourt",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220659.jpg",
@@ -1379,6 +1679,11 @@
       "name": "Yury Bruno",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220660/historico"
+    },
+    "camara-deputado-220661": {
+      "name": "Matheus Noronha",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220661.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220661/historico"
     },
     "camara-deputado-220662": {
       "name": "Lucas Ramos",
@@ -1405,6 +1710,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220669/historico"
     },
+    "camara-deputado-220670": {
+      "name": "Iza Arruda",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220670.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220670/historico"
+    },
     "camara-deputado-220671": {
       "name": "Dilvanda Faro",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220671.jpg",
@@ -1415,10 +1725,20 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220672/historico"
     },
+    "camara-deputado-220674": {
+      "name": "Dra. Alessandra Haber",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220674/historico"
+    },
     "camara-deputado-220676": {
       "name": "Andreia Siqueira",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220676/historico"
+    },
+    "camara-deputado-220677": {
+      "name": "Keniston Braga",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220677.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220677/historico"
     },
     "camara-deputado-220682": {
       "name": "Tadeu Veneri",
@@ -1465,6 +1785,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220694.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220694/historico"
     },
+    "camara-deputado-220695": {
+      "name": "Rogéria Santos",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220695/historico"
+    },
     "camara-deputado-220696": {
       "name": "Ivoneide Caetano",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220696.jpg",
@@ -1495,6 +1820,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220706/historico"
     },
+    "camara-deputado-220707": {
+      "name": "Amanda Gentil",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/220707/historico"
+    },
     "camara-deputado-220708": {
       "name": "Gabriel Nunes",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
@@ -1519,6 +1849,11 @@
       "name": "Alfredinho",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/221148/historico"
+    },
+    "camara-deputado-221328": {
+      "name": "Adilson Barroso",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/221328/historico"
     },
     "camara-deputado-221338": {
       "name": "Professora Luciene Cavalcante",
@@ -1560,6 +1895,21 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/226837/historico"
     },
+    "camara-deputado-227275": {
+      "name": "Mariana Carvalho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/227275.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/227275/historico"
+    },
+    "camara-deputado-227324": {
+      "name": "Henrique Júnior",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/227324.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/227324/historico"
+    },
+    "camara-deputado-227370": {
+      "name": "Felipe Saliba",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/227370.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/227370/historico"
+    },
     "camara-deputado-227433": {
       "name": "Douglas Viegas",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/227433.jpg",
@@ -1595,6 +1945,26 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881/historico"
     },
+    "camara-deputado-62926": {
+      "name": "Pastor Reinaldo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/62926.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/62926/historico"
+    },
+    "camara-deputado-64960": {
+      "name": "Maria Helena",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/64960.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/64960/historico"
+    },
+    "camara-deputado-65551": {
+      "name": "Wagner Lago",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/65551.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/65551/historico"
+    },
+    "camara-deputado-65987": {
+      "name": "Lúcia Braga",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/65987.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/65987/historico"
+    },
     "camara-deputado-66828": {
       "name": "Fausto Pinato",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
@@ -1625,6 +1995,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433/historico"
     },
+    "camara-deputado-73434": {
+      "name": "Arnaldo Faria de Sá",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73434.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73434/historico"
+    },
+    "camara-deputado-73435": {
+      "name": "Ary Kara",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73435.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73435/historico"
+    },
     "camara-deputado-73441": {
       "name": "Celso Russomanno",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
@@ -1640,6 +2020,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73460.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73460/historico"
     },
+    "camara-deputado-73463": {
+      "name": "Osmar Serraglio",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73463.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73463/historico"
+    },
+    "camara-deputado-73464": {
+      "name": "Oliveira Filho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73464.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73464/historico"
+    },
     "camara-deputado-73466": {
       "name": "Rubens Bueno",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73466.jpg",
@@ -1650,15 +2040,30 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73471.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73471/historico"
     },
+    "camara-deputado-73473": {
+      "name": "Leodegar Tiscoski",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73473.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73473/historico"
+    },
     "camara-deputado-73480": {
       "name": "Cezar Schirmer",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73480.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73480/historico"
     },
+    "camara-deputado-73485": {
+      "name": "Paulo Gouvêa",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73485.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73485/historico"
+    },
     "camara-deputado-73486": {
       "name": "Pompeo de Mattos",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73486/historico"
+    },
+    "camara-deputado-73507": {
+      "name": "Rose de Freitas",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73507.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73507/historico"
     },
     "camara-deputado-73531": {
       "name": "Ivan Valente",
@@ -1680,10 +2085,35 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73557.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73557/historico"
     },
+    "camara-deputado-73559": {
+      "name": "Salvador Zimbaldi",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73559.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73559/historico"
+    },
+    "camara-deputado-73561": {
+      "name": "Telma de Souza",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73561.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73561/historico"
+    },
+    "camara-deputado-73572": {
+      "name": "João Magno",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73572.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73572/historico"
+    },
+    "camara-deputado-73577": {
+      "name": "Tarcísio Zimmermann",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73577.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73577/historico"
+    },
     "camara-deputado-73579": {
       "name": "Alberto Fraga",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73579/historico"
+    },
+    "camara-deputado-73582": {
+      "name": "Helenildo Ribeiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73582.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73582/historico"
     },
     "camara-deputado-73586": {
       "name": "Júlio Delgado",
@@ -1694,6 +2124,11 @@
       "name": "Mauro Benevides",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73588.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73588/historico"
+    },
+    "camara-deputado-73599": {
+      "name": "Edir Oliveira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73599.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73599/historico"
     },
     "camara-deputado-73604": {
       "name": "Rui Falcão",
@@ -1710,15 +2145,35 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73673.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73673/historico"
     },
+    "camara-deputado-73676": {
+      "name": "Sandro Mabel",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73676.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73676/historico"
+    },
+    "camara-deputado-73677": {
+      "name": "Vilmar Rocha",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73677.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73677/historico"
+    },
     "camara-deputado-73682": {
       "name": "João Dado",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73682.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73682/historico"
     },
+    "camara-deputado-73693": {
+      "name": "Reinaldo Gripp",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73693.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73693/historico"
+    },
     "camara-deputado-73701": {
       "name": "Benedita da Silva",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73701/historico"
+    },
+    "camara-deputado-73761": {
+      "name": "Nelson Trad",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73761.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73761/historico"
     },
     "camara-deputado-73768": {
       "name": "Dilceu Sperafico",
@@ -1734,6 +2189,11 @@
       "name": "Nelson Meurer",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73781.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73781/historico"
+    },
+    "camara-deputado-73788": {
+      "name": "Ricardo Barros",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73788/historico"
     },
     "camara-deputado-73793": {
       "name": "Edinho Bez",
@@ -1765,15 +2225,55 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73817.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73817/historico"
     },
+    "camara-deputado-73825": {
+      "name": "Carlos Nader",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73825.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73825/historico"
+    },
     "camara-deputado-73873": {
       "name": "João Matos",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73873.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73873/historico"
     },
+    "camara-deputado-73874": {
+      "name": "João Pizzolatti",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73874.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73874/historico"
+    },
+    "camara-deputado-73882": {
+      "name": "Paulo Bauer",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73882.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73882/historico"
+    },
     "camara-deputado-73904": {
       "name": "Mendes Ribeiro Filho",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73904.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73904/historico"
+    },
+    "camara-deputado-73925": {
+      "name": "Hélio Esteves",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73925.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73925/historico"
+    },
+    "camara-deputado-73929": {
+      "name": "Jader Barbalho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73929.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73929/historico"
+    },
+    "camara-deputado-73930": {
+      "name": "Wladimir Costa",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73930.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73930/historico"
+    },
+    "camara-deputado-73931": {
+      "name": "Zé Geraldo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73931.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73931/historico"
+    },
+    "camara-deputado-73932": {
+      "name": "Zé Lima",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73932.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73932/historico"
     },
     "camara-deputado-73933": {
       "name": "Zequinha Marinho",
@@ -1790,6 +2290,41 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73938.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73938/historico"
     },
+    "camara-deputado-73939": {
+      "name": "Miguel de Souza",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73939.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73939/historico"
+    },
+    "camara-deputado-73941": {
+      "name": "João Correia",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73941.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73941/historico"
+    },
+    "camara-deputado-73944": {
+      "name": "Zico Bronzeado",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73944.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73944/historico"
+    },
+    "camara-deputado-73947": {
+      "name": "Maurício Rabelo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73947.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73947/historico"
+    },
+    "camara-deputado-73979": {
+      "name": "Alceste Almeida",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73979.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73979/historico"
+    },
+    "camara-deputado-73981": {
+      "name": "Francisco Rodrigues",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73981.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73981/historico"
+    },
+    "camara-deputado-73992": {
+      "name": "Yeda Crusius",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/73992.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/73992/historico"
+    },
     "camara-deputado-73994": {
       "name": "Júlio Redecker",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/73994.jpg",
@@ -1805,6 +2340,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74005.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74005/historico"
     },
+    "camara-deputado-74016": {
+      "name": "Costa Ferreira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74016.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74016/historico"
+    },
+    "camara-deputado-74017": {
+      "name": "Paulo Feijó",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74017.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74017/historico"
+    },
     "camara-deputado-74024": {
       "name": "Ayrton Xerez",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74024.jpg",
@@ -1814,6 +2359,11 @@
       "name": "Ribamar Alves",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74027.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74027/historico"
+    },
+    "camara-deputado-74032": {
+      "name": "Pastor Pedro Ribeiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74032.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74032/historico"
     },
     "camara-deputado-74041": {
       "name": "Luiz Couto",
@@ -1925,6 +2475,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74148.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74148/historico"
     },
+    "camara-deputado-74151": {
+      "name": "Geraldo Thadeu",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74151.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74151/historico"
+    },
+    "camara-deputado-74155": {
+      "name": "Leonardo Mattos",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74155.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74155/historico"
+    },
     "camara-deputado-74156": {
       "name": "Leonardo Monteiro",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
@@ -1950,6 +2510,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161/historico"
     },
+    "camara-deputado-74162": {
+      "name": "Iriny Lopes",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74162.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74162/historico"
+    },
     "camara-deputado-74163": {
       "name": "Manato",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74163.jpg",
@@ -1960,20 +2525,55 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74165.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74165/historico"
     },
+    "camara-deputado-74169": {
+      "name": "Bernardo Ariston",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74169.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74169/historico"
+    },
     "camara-deputado-74171": {
       "name": "Chico Alencar",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74171/historico"
+    },
+    "camara-deputado-74172": {
+      "name": "Deley",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74172.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74172/historico"
     },
     "camara-deputado-74173": {
       "name": "Eduardo Cunha",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74173.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74173/historico"
     },
+    "camara-deputado-74175": {
+      "name": "José Divino",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74175.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74175/historico"
+    },
+    "camara-deputado-74176": {
+      "name": "Josias Quintal",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74176.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74176/historico"
+    },
+    "camara-deputado-74181": {
+      "name": "Chicão Brígido",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74181.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74181/historico"
+    },
     "camara-deputado-74191": {
       "name": "Osvaldo Reis",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74191.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74191/historico"
+    },
+    "camara-deputado-74200": {
+      "name": "Gastão Vieira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74200.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74200/historico"
+    },
+    "camara-deputado-74207": {
+      "name": "Pedro Novais",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74207.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74207/historico"
     },
     "camara-deputado-74211": {
       "name": "Sebastião Madeira",
@@ -2000,6 +2600,16 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74238.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74238/historico"
     },
+    "camara-deputado-74240": {
+      "name": "João Tota",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74240.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74240/historico"
+    },
+    "camara-deputado-74252": {
+      "name": "Juíza Denise Frossard",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74252.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74252/historico"
+    },
     "camara-deputado-74253": {
       "name": "Julio Lopes",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
@@ -2010,10 +2620,70 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74254.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74254/historico"
     },
+    "camara-deputado-74259": {
+      "name": "Vieira Reis",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74259.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74259/historico"
+    },
+    "camara-deputado-74264": {
+      "name": "Devanir Ribeiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74264.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74264/historico"
+    },
+    "camara-deputado-74265": {
+      "name": "Dimas Ramalho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74265.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74265/historico"
+    },
+    "camara-deputado-74268": {
+      "name": "Elimar Máximo Damasceno",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74268.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74268/historico"
+    },
+    "camara-deputado-74270": {
+      "name": "Gilberto Nascimento",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270/historico"
+    },
+    "camara-deputado-74271": {
+      "name": "Ildeu Araujo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74271.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74271/historico"
+    },
+    "camara-deputado-74276": {
+      "name": "Jovino Cândido",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74276.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74276/historico"
+    },
+    "camara-deputado-74278": {
+      "name": "Marcelo Ortiz",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74278.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74278/historico"
+    },
+    "camara-deputado-74279": {
+      "name": "Marcos Abramo",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74279.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74279/historico"
+    },
+    "camara-deputado-74280": {
+      "name": "Professor Irapuan Teixeira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74280.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74280/historico"
+    },
+    "camara-deputado-74282": {
+      "name": "Vanderlei Assis",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74282.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74282/historico"
+    },
     "camara-deputado-74283": {
       "name": "Vicentinho",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74283.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74283/historico"
+    },
+    "camara-deputado-74286": {
+      "name": "Thelma de Oliveira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74286.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74286/historico"
     },
     "camara-deputado-74289": {
       "name": "Tatico",
@@ -2030,20 +2700,60 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74291.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74291/historico"
     },
+    "camara-deputado-74294": {
+      "name": "Gonzaga Mota",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74294.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74294/historico"
+    },
     "camara-deputado-74295": {
       "name": "Inácio Arruda",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74295.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74295/historico"
+    },
+    "camara-deputado-74308": {
+      "name": "Vicente Arruda",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74308.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74308/historico"
     },
     "camara-deputado-74309": {
       "name": "Zé Gerardo",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74309.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74309/historico"
     },
+    "camara-deputado-74312": {
+      "name": "B. Sá",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74312.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74312/historico"
+    },
     "camara-deputado-74317": {
       "name": "Júlio Cesar",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74317.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74317/historico"
+    },
+    "camara-deputado-74318": {
+      "name": "Mussa Demes",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74318.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74318/historico"
+    },
+    "camara-deputado-74319": {
+      "name": "Paes Landim",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74319.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74319/historico"
+    },
+    "camara-deputado-74325": {
+      "name": "Iberê Ferreira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74325.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74325/historico"
+    },
+    "camara-deputado-74343": {
+      "name": "Dr. Benedito Dias",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74343.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74343/historico"
+    },
+    "camara-deputado-74344": {
+      "name": "Eduardo Seabra",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74344.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74344/historico"
     },
     "camara-deputado-74345": {
       "name": "Evandro Milhomen",
@@ -2055,10 +2765,25 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74346.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74346/historico"
     },
+    "camara-deputado-74349": {
+      "name": "Babá",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74349.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74349/historico"
+    },
+    "camara-deputado-74351": {
+      "name": "Josué Bengtson",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74351.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74351/historico"
+    },
     "camara-deputado-74354": {
       "name": "Zenaldo Coutinho",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74354.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74354/historico"
+    },
+    "camara-deputado-74355": {
+      "name": "Francisco Garcia",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74355.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74355/historico"
     },
     "camara-deputado-74356": {
       "name": "Silas Câmara",
@@ -2075,10 +2800,20 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74368.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74368/historico"
     },
+    "camara-deputado-74369": {
+      "name": "Neyde Aparecida",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74369.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74369/historico"
+    },
     "camara-deputado-74371": {
       "name": "Rubens Otoni",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74371.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74371/historico"
+    },
+    "camara-deputado-74372": {
+      "name": "Sandes Júnior",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74372.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74372/historico"
     },
     "camara-deputado-74373": {
       "name": "Antônio Carlos Biffi",
@@ -2100,15 +2835,35 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74385.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74385/historico"
     },
+    "camara-deputado-74386": {
+      "name": "Adelor Vieira",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74386.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74386/historico"
+    },
     "camara-deputado-74391": {
       "name": "Vignatti",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74391.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74391/historico"
     },
+    "camara-deputado-74393": {
+      "name": "Érico Ribeiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74393.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74393/historico"
+    },
+    "camara-deputado-74394": {
+      "name": "Francisco Turra",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74394.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74394/historico"
+    },
     "camara-deputado-74395": {
       "name": "José Otávio Germano",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74395.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74395/historico"
+    },
+    "camara-deputado-74396": {
+      "name": "Kelly Moraes",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74396.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74396/historico"
     },
     "camara-deputado-74397": {
       "name": "Luciana Genro",
@@ -2125,6 +2880,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74400/historico"
     },
+    "camara-deputado-74402": {
+      "name": "Enio Tatico",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74402.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74402/historico"
+    },
     "camara-deputado-74405": {
       "name": "Armando Abílio",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74405.jpg",
@@ -2140,6 +2900,21 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74419.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74419/historico"
     },
+    "camara-deputado-74423": {
+      "name": "José Chaves",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74423.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74423/historico"
+    },
+    "camara-deputado-74426": {
+      "name": "José Múcio Monteiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74426.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74426/historico"
+    },
+    "camara-deputado-74434": {
+      "name": "Salatiel Carvalho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74434.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74434/historico"
+    },
     "camara-deputado-74439": {
       "name": "Wolney Queiroz",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74439.jpg",
@@ -2149,6 +2924,16 @@
       "name": "Pedro Fernandes",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74449.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74449/historico"
+    },
+    "camara-deputado-74451": {
+      "name": "Almeida de Jesus",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74451.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74451/historico"
+    },
+    "camara-deputado-74452": {
+      "name": "Antonio Cambraia",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74452.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74452/historico"
     },
     "camara-deputado-74454": {
       "name": "Eunício Oliveira",
@@ -2170,15 +2955,50 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74467.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74467/historico"
     },
+    "camara-deputado-74469": {
+      "name": "Inaldo Leitão",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74469.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74469/historico"
+    },
+    "camara-deputado-74470": {
+      "name": "Marcondes Gadelha",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74470.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74470/historico"
+    },
     "camara-deputado-74471": {
       "name": "André de Paula",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74471.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74471/historico"
     },
+    "camara-deputado-74473": {
+      "name": "Carlos Batata",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74473.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74473/historico"
+    },
+    "camara-deputado-74480": {
+      "name": "Francisco Appio",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74480.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74480/historico"
+    },
+    "camara-deputado-74484": {
+      "name": "Carlos Mota",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74484.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74484/historico"
+    },
+    "camara-deputado-74495": {
+      "name": "Jorge Gomes",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74495.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74495/historico"
+    },
     "camara-deputado-74517": {
       "name": "Benedito de Lira",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74517.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74517/historico"
+    },
+    "camara-deputado-74520": {
+      "name": "José Thomaz Nonô",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74520.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74520/historico"
     },
     "camara-deputado-74528": {
       "name": "Jerônimo Reis",
@@ -2189,6 +3009,16 @@
       "name": "Félix Mendonça",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74542.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74542/historico"
+    },
+    "camara-deputado-74544": {
+      "name": "Geddel Vieira Lima",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74544.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74544/historico"
+    },
+    "camara-deputado-74552": {
+      "name": "Jorge Khoury",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74552.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74552/historico"
     },
     "camara-deputado-74558": {
       "name": "Givaldo Carimbão",
@@ -2205,6 +3035,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74574/historico"
     },
+    "camara-deputado-74578": {
+      "name": "Cleuber Carneiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74578.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74578/historico"
+    },
     "camara-deputado-74580": {
       "name": "Edmar Moreira",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74580.jpg",
@@ -2214,6 +3049,11 @@
       "name": "Gilmar Machado",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74581.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/historico"
+    },
+    "camara-deputado-74584": {
+      "name": "José Militão",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74584.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74584/historico"
     },
     "camara-deputado-74586": {
       "name": "Maria do Carmo Lara",
@@ -2225,40 +3065,120 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74587.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74587/historico"
     },
+    "camara-deputado-74591": {
+      "name": "Romeu Queiroz",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74591.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74591/historico"
+    },
     "camara-deputado-74593": {
       "name": "Virgílio Guimarães",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74593.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74593/historico"
+    },
+    "camara-deputado-74650": {
+      "name": "Bonifácio de Andrada",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74650.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74650/historico"
     },
     "camara-deputado-74655": {
       "name": "Eduardo Barbosa",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74655.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74655/historico"
     },
+    "camara-deputado-74658": {
+      "name": "Fernando Diniz",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74658.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74658/historico"
+    },
+    "camara-deputado-74660": {
+      "name": "Herculano Anghinetti",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74660.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74660/historico"
+    },
+    "camara-deputado-74665": {
+      "name": "Jaime Martins",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74665.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74665/historico"
+    },
+    "camara-deputado-74675": {
+      "name": "Almerinda de Carvalho",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74675.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74675/historico"
+    },
     "camara-deputado-74688": {
       "name": "Luiz Sérgio",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74688.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74688/historico"
+    },
+    "camara-deputado-74692": {
+      "name": "Paulo Baltazar",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74692.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74692/historico"
+    },
+    "camara-deputado-74696": {
+      "name": "Alberto Mourão",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74696.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74696/historico"
     },
     "camara-deputado-74701": {
       "name": "Antonio Palocci",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74701.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74701/historico"
     },
+    "camara-deputado-74759": {
+      "name": "Romel Anizio",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74759.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74759/historico"
+    },
+    "camara-deputado-74762": {
+      "name": "Saraiva Felipe",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74762.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74762/historico"
+    },
+    "camara-deputado-74765": {
+      "name": "Silas Brasileiro",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74765.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74765/historico"
+    },
     "camara-deputado-74784": {
       "name": "Luiza Erundina",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74784/historico"
+    },
+    "camara-deputado-74787": {
+      "name": "Milton Monti",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74787.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74787/historico"
+    },
+    "camara-deputado-74797": {
+      "name": "Xico Graziano",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74797.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74797/historico"
     },
     "camara-deputado-74806": {
       "name": "Tadeu Filippelli",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74806.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74806/historico"
     },
+    "camara-deputado-74810": {
+      "name": "Luiz Bittencourt",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74810.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74810/historico"
+    },
+    "camara-deputado-74812": {
+      "name": "Pedro Chaves",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74812.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74812/historico"
+    },
     "camara-deputado-74835": {
       "name": "Carlos Santana",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74835.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74835/historico"
+    },
+    "camara-deputado-74842": {
+      "name": "Fernando Gonçalves",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74842.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74842/historico"
     },
     "camara-deputado-74847": {
       "name": "Jair Bolsonaro",
@@ -2279,6 +3199,11 @@
       "name": "Lindbergh Farias",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74858/historico"
+    },
+    "camara-deputado-74863": {
+      "name": "Moreira Franco",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/74863.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/74863/historico"
     },
     "camara-deputado-77701": {
       "name": "Jackson Barreto",
