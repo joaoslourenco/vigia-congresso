@@ -1125,6 +1125,11 @@
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/historico"
     },
+    "camara-deputado-204515": {
+      "name": "André Janones",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515/historico"
+    },
     "camara-deputado-204517": {
       "name": "Zé Vitor",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
@@ -1884,6 +1889,11 @@
       "name": "Welter",
       "photo": "https://www.camara.leg.br/internet/deputado/bandep/224333.jpg",
       "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/224333/historico"
+    },
+    "camara-deputado-225386": {
+      "name": "Renan Ferreirinha",
+      "photo": "https://www.camara.leg.br/internet/deputado/bandep/225386.jpg",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/deputados/225386/historico"
     },
     "camara-deputado-226708": {
       "name": "Dr. Allan Garcês",

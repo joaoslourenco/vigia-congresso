@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "coveredPeriod": null,
   "collectionStatus": "partial",
-  "lastUpdated": "2026-11-27T00:51:41.838Z",
+  "lastUpdated": "2026-11-28T00:17:25.404Z",
   "months": [
     {
       "month": "2026-10",
@@ -30,39 +30,39 @@
         "PEC"
       ],
       "requestedPeriod": {
-        "from": "2026-11-12",
-        "to": "2026-11-26"
+        "from": "2026-11-13",
+        "to": "2026-11-27"
       },
       "processesConsulted": 82,
-      "proposalsWithRecords": 21,
+      "proposalsWithRecords": 22,
       "errors": 0,
-      "lastUpdated": "2026-11-27T00:51:41.838Z",
+      "lastUpdated": "2026-11-28T00:17:25.404Z",
       "notes": "PLPs e PECs identificadas em 2026. Histórico de informes no período solicitado; anos anteriores, resultados e votos nominais não têm cobertura completa."
     },
     "camara": {
       "status": "partial",
       "requestedPeriod": {
-        "from": "2026-11-12",
-        "to": "2026-11-26"
+        "from": "2026-11-13",
+        "to": "2026-11-27"
       },
-      "proposalsConsulted": 52,
+      "proposalsConsulted": 54,
       "errors": 0,
-      "lastUpdated": "2026-11-27T00:50:44.045Z",
+      "lastUpdated": "2026-11-28T00:16:22.971Z",
       "notes": "PLPs e PECs com apresentação ou tramitação no período consultado; votos nominais ainda sem coleta completa."
     }
   },
   "availableRecordPeriod": {
     "from": "2026-10-28",
-    "to": "2026-11-26"
+    "to": "2026-11-27"
   },
   "totals": {
     "senado": {
-      "proposals": 36,
-      "events": 160
+      "proposals": 38,
+      "events": 163
     },
     "camara": {
-      "proposals": 104,
-      "events": 295
+      "proposals": 107,
+      "events": 299
     }
   }
 }

@@ -135,6 +135,14 @@
         "senado": "partial"
       },
       "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
+    },
+    "2026-11-27": {
+      "status": "partial",
+      "sources": {
+        "camara": "partial",
+        "senado": "partial"
+      },
+      "reason": "Consultados processos PLP/PEC de 2026; proposições de outros anos e votações ainda sem cobertura completa."
     }
   },
   "proposals": [
@@ -3120,12 +3128,12 @@
           "description": "Apresentação do REQ n. 4548/2026 (Requerimento de Apensação), pelo Deputado Patrus Ananias (PT/MG -Fdr PT-PCdoB-PV), que \"Requer o apensamento da Proposta de Emenda Constitucional nº 6, de 2024, à Proposta de Emenda Constitucional nº 555, de 2006\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta altera o inciso X do § 22 e insere o § 21-A no art. 40 da Constituição, altera o art. 11 da Emenda Constitucional nº 103, de 12 de novembro de 2019 e revoga os §§ 1º-A, 1º-B e 1º-C do art. 149 da Constituição e o § 8º do art. 9º da Emenda Constitucional nº 103, de 2019.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "fbe15f4b3aa2298fbe23e4e5f56f4d174ea314a94ec6aecd353ce3a21f93979b"
+      "summarySourceHash": "fbe15f4b3aa2298fbe23e4e5f56f4d174ea314a94ec6aecd353ce3a21f93979b",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2436224",
@@ -5383,13 +5391,9 @@
         {
           "date": "2026-11-25",
           "description": "Designado Relator, Dep. Diego Andrade (PSD-MG)."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Devolvida pelo Relator sem Manifestação."
         }
       ],
-      "collectedAt": "2026-11-26T00:58:05.530Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta busca prever o repasse a hospitais veterinários públicos federais de percentual do valor total do prêmio recolhido a título de Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT) para custeio da assistência médico-veterinária e hospitalar de animais silvestres vitimados em acidentes de trânsito.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -6527,6 +6531,47 @@
       "aiSummary": false
     },
     {
+      "id": "camara-proposicao-2601121",
+      "officialMatterId": "2601121",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 17,
+      "year": 2026,
+      "presentedAt": "2026-02-05",
+      "officialSummary": "Altera a Lei Complementar 187/2021, que dispõe sobre a certificação das entidades beneficentes e regula os procedimentos referentes à imunidade de contribuições à seguridade social, para instituir a categoria CEBAS–Educação Infantil – Creches Privadas, estendendo benefícios condicionados ao cumprimento de requisitos de qualidade, contrapartidas sociais e mecanismos de controle, transparência e fiscalização de gastos.",
+      "authors": [
+        {
+          "id": "camara-deputado-225386",
+          "name": "Renan Ferreirinha",
+          "party": "PSD",
+          "state": "RJ",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2026-02-05T10:38",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/225386.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2601121",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601121",
+      "stage": "Aguardando Designação de Relator(a)",
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-27",
+          "description": "Devolvida pelo Relator sem Manifestação."
+        }
+      ],
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "summary": "A proposta busca instituir a categoria CEBAS–Educação Infantil – Creches Privadas, estendendo benefícios condicionados ao cumprimento de requisitos de qualidade, contrapartidas sociais e mecanismos de controle, transparência e fiscalização de gastos.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "2019ae0f48c4c7c7ab970e683076ab9f010df1dd26ad736c2a36d52995560b38"
+    },
+    {
       "id": "camara-proposicao-2602249",
       "officialMatterId": "2602249",
       "house": "Câmara",
@@ -7022,6 +7067,47 @@
       "summaryLabel": "Texto oficial simplificado automaticamente",
       "summarySourceHash": "bf68e2517459c055680072634fd858d1753c3a742bbe8fe83165c8e50bb61396",
       "aiSummary": false
+    },
+    {
+      "id": "camara-proposicao-2647189",
+      "officialMatterId": "2647189",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 264,
+      "year": 2026,
+      "presentedAt": "2026-09-28",
+      "officialSummary": "Dispõe sobre a securitização de créditos em face da União Federal relativos à CBS, à Contribuição para o Pis/Pasep, à Cofins e ao IPI.",
+      "authors": [
+        {
+          "id": "camara-deputado-178962",
+          "name": "Carlos Gomes",
+          "party": "REPUBLICANOS",
+          "state": "RS",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2026-02-05T17:38",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2647189",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647189",
+      "stage": "Aguardando Autorização do Despacho",
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-27",
+          "description": "Apresentação do REQ n. 4564/2026 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Carlos Gomes (REPUBLIC/RS), que \"Requer a retirada de tramitação do Projeto de Lei complementar 264/2026\"."
+        }
+      ],
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "summary": "A proposta dispõe sobre a securitização de créditos em face da União Federal relativos à CBS, à Contribuição para o Pis/Pasep, à Cofins e ao IPI. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "bf3fa6f33245400fe18bf37b20f41b46b54d6287f3c7e3064b04e4b89f8d0c0e"
     },
     {
       "id": "camara-proposicao-2649712",
@@ -8480,20 +8566,16 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2652977",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
         {
           "date": "2026-11-18",
           "description": "Aprovado o requerimento nº 111/2026,da Sra. Coronel Fernanda que requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Apresentação do REQ n. 111/2026 (Requerimento de Audiência Pública), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta busca estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento. Diferimento é o adiamento do momento de pagar um tributo, conforme as condições previstas no texto. CBS é a Contribuição sobre Bens e Serviços, um dos tributos da reforma do consumo. IBS é o Imposto sobre Bens e Serviços, previsto na reforma do consumo.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -9917,7 +9999,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2655210",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655210",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -9926,7 +10008,7 @@
           "description": "Apresentação do PLP n. 312/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público\"."
         }
       ],
-      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta busca estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -10703,7 +10785,7 @@
       ],
       "source": "https://www.camara.leg.br/propostas-legislativas/2659286",
       "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659286",
-      "stage": null,
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
       "conflict": false,
       "history": [
@@ -10712,7 +10794,7 @@
           "description": "Apresentação do PLP n. 318/2026 (Projeto de Lei Complementar), pelo Deputado Afonso Hamm (PP/RS), que \"Altera a Lei Complementar nº 206, de 16 de maio de 2024, e a Lei Complementar nº 212, de 13 de janeiro de 2025, para permitir a prorrogação das medidas de alívio financeiro e a remissão parcial de dívidas a entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta busca permitir a prorrogação das medidas de alívio financeiro e a remissão parcial de dívidas a entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -10794,12 +10876,12 @@
           "description": "Apresentação do PLP n. 320/2026 (Projeto de Lei Complementar), pelo Deputado Murilo Galdino (REPUBLIC/PB), que \"Altera a Lei Complementar nº 172, de 15 de abril de 2020, para restabelecer, até o final do exercício financeiro de 2027, a autorização para a transposição e a transferência de saldos financeiros constantes dos Fundos de Saúde dos Estados, do Distrito Federal e dos Municípios\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta busca restabelecer, até o final do exercício financeiro de 2027, a autorização para a transposição e a transferência de saldos financeiros constantes dos Fundos de Saúde dos Estados, do Distrito Federal e dos Municípios.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "776bd49a42d1974c1766a2fd76e8f52ec65f319a1862a0129c6fb5a7bc404499"
+      "summarySourceHash": "776bd49a42d1974c1766a2fd76e8f52ec65f319a1862a0129c6fb5a7bc404499",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-2660024",
@@ -10876,12 +10958,53 @@
           "description": "Apresentação do PLP n. 322/2026 (Projeto de Lei Complementar), pelo Deputado Zé Vitor (PL/MG), que \"Altera a Lei Complementar nº 212, de 13 de janeiro de 2025, para suspender, pelo prazo de 12 meses, a exigibilidade do pagamento das obrigações financeiras devidas pelos Estados e pelo Distrito Federal no âmbito do Programa de Pleno Pagamento de Dívidas dos Estados (Propag), em decorrência da reprogramação das entregas de recursos de que trata a Lei Complementar nº 176, de 29 de dezembro de 2020\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta busca suspender, pelo prazo de 12 meses, a exigibilidade do pagamento das obrigações financeiras devidas pelos Estados e pelo Distrito Federal no âmbito do Programa de Pleno Pagamento de Dívidas dos Estados (Propag), em decorrência da reprogramação das entregas de recursos de que trata a Lei Complementar nº 176, de 29 de dezembro de 2020.",
+      "summaryMethod": "rules",
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "594d8107418fed6e19f572577cc0d3a2239b0961d332107dfd3ae858ae9c7d56",
+      "aiSummary": false
+    },
+    {
+      "id": "camara-proposicao-2660453",
+      "officialMatterId": "2660453",
+      "house": "Câmara",
+      "type": "PLP",
+      "number": 323,
+      "year": 2026,
+      "presentedAt": "2026-11-27",
+      "officialSummary": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a contribuição das emendas parlamentares ao equilíbrio fiscal.",
+      "authors": [
+        {
+          "id": "camara-deputado-204515",
+          "name": "André Janones",
+          "party": "REDE",
+          "state": "MG",
+          "office": "deputado federal",
+          "role": "principal",
+          "order": 1,
+          "partyContext": "histórico oficial em 2026-04-01T14:00",
+          "conflict": false,
+          "photo": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg"
+        }
+      ],
+      "source": "https://www.camara.leg.br/propostas-legislativas/2660453",
+      "dataSource": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660453",
+      "stage": null,
+      "authorshipNote": "Autoria principal corresponde a proponente=1 no cadastro oficial da Câmara; demais signatários com proponente=0 são separados como coautoria. A ordem de assinatura sozinha não define a categoria.",
+      "conflict": false,
+      "history": [
+        {
+          "date": "2026-11-27",
+          "description": "Apresentação do PLP n. 323/2026 (Projeto de Lei Complementar), pelo Deputado André Janones (REDE/MG -Fdr PSOL-REDE), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a contribuição das emendas parlamentares ao equilíbrio fiscal\"."
+        }
+      ],
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "summary": "A proposta busca dispor sobre a contribuição das emendas parlamentares ao equilíbrio fiscal.",
       "summaryMethod": "rules",
       "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "594d8107418fed6e19f572577cc0d3a2239b0961d332107dfd3ae858ae9c7d56"
+      "summarySourceHash": "37e578b0079c49dcf20f3aa8b5295043ef2d6e125cb3d78323bf4eca130303f5"
     },
     {
       "id": "camara-proposicao-328385",
@@ -12957,12 +13080,12 @@
           "description": "Apresentação do REQ n. 4548/2026 (Requerimento de Apensação), pelo Deputado Patrus Ananias (PT/MG -Fdr PT-PCdoB-PV), que \"Requer o apensamento da Proposta de Emenda Constitucional nº 6, de 2024, à Proposta de Emenda Constitucional nº 555, de 2006\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta revoga o art. 4º da Emenda Constitucional nº 41, de 2003.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "dc5af8e7a8904ca96b2c5e8c2440d711ab38426dbc115160a1e5a8ad895c0f8d"
+      "summarySourceHash": "dc5af8e7a8904ca96b2c5e8c2440d711ab38426dbc115160a1e5a8ad895c0f8d",
+      "aiSummary": false
     },
     {
       "id": "camara-proposicao-354302",
@@ -15058,6 +15181,10 @@
       "conflict": false,
       "history": [
         {
+          "date": "2026-11-27",
+          "description": "Apresentação do REQ n. 4565/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado André Figueiredo (PDT/CE), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 82, de 2007, na Ordem do Dia do Plenário\"."
+        },
+        {
           "date": "2026-11-25",
           "description": "Apresentação do REQ n. 4534/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Aureo Ribeiro (SOLIDARI/RJ), que \"Requer a inclusão, na Ordem do Dia, da Proposta de Emenda à Constituição nº 82, de 2007, à qual se encontra apensada a Proposta de Emenda à Constituição nº 17, de 2024\"."
         },
@@ -15076,13 +15203,9 @@
         {
           "date": "2026-11-13",
           "description": "Apresentação do REQ n. 4450/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Leur Lomanto Júnior (UNIÃO/BA), que \"Requer a inclusão na Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82, de 2007, à qual foi apensada a Proposta de Emenda à Constituição nº 17, de 2024\"."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Apresentação do REQ n. 4446/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Célio Silveira (MDB/GO), que \"Requer a inclusão da Ordem do Dia do Plenário da Proposta de Emenda à Constituição nº 82/2007, à qual está apensada a Proposta de Emenda à Constituição nº 17, de 2024\"."
         }
       ],
-      "collectedAt": "2026-11-27T00:50:44.045Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "summary": "A proposta acresce os arts. 132-A e 135-A e altera o art. 168 da Constituição Federal.",
       "summaryMethod": "rules",
       "summaryLabel": "Texto oficial simplificado automaticamente",
@@ -15632,14 +15755,14 @@
           "description": "Recebida a Emenda nº 1, de autoria da Senadora Roberta Acioly. "
         }
       ],
-      "collectedAt": "2026-11-27T00:51:41.838Z",
+      "collectedAt": "2026-11-28T00:17:25.404Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": true,
       "summary": "A proposta inclui médicos e cirurgiões-dentistas no rol de profissionais da saúde com direito a piso salarial nacional a ser observado por pessoas jurídicas de direito público e privado.",
       "summaryMethod": "rules",
-      "aiSummary": false,
       "summaryLabel": "Texto oficial simplificado automaticamente",
-      "summarySourceHash": "daf9d0dd499c372f9c1a9fcb1e8629631f8762cea22562b4aca170a39d934429"
+      "summarySourceHash": "daf9d0dd499c372f9c1a9fcb1e8629631f8762cea22562b4aca170a39d934429",
+      "aiSummary": false
     },
     {
       "id": "senado-processo-8993995",
@@ -16298,6 +16421,311 @@
       "aiSummary": false
     },
     {
+      "id": "senado-processo-9065675",
+      "officialMatterId": "174667",
+      "officialProcessId": "9065675",
+      "house": "Senado",
+      "type": "PEC",
+      "number": 14,
+      "year": 2026,
+      "presentedAt": "2026-06-16",
+      "officialSummary": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para preservar, no regime do Imposto sobre Bens e Serviços, os mecanismos estaduais, distrital e municipais de fomento indireto à cultura e ao esporte.",
+      "authorSummary": "Senador Carlos Portinho (PL/RJ), Senador Marcos do Val (AVANTE/ES), Senador Alan Rick (REPUBLICANOS/AC), Senador Marcio Bittar (PL/AC), Senador Jorge Kajuru (PSB/GO), Senador Jaime Bagattoli (PL/RO), Senadora Damares Alves (REPUBLICANOS/DF), Senador Eduardo Girão (NOVO/CE), Senador Esperidião Amin (PP/SC), Senadora Leila Barros (PDT/DF), Senador Wilder Morais (PL/GO), Senador Plínio Valério (PSDB/AM), Senador Romário (PL/RJ), Senador Flávio Arns (PSB/PR), Senador Izalci Lucas (PL/DF), Senador Sergio Moro (PL/PR), Senador Hermes Klann (PL/SC), Senador Carlos Viana (PSD/MG), Senadora Ivete da Silveira (MDB/SC), Senador Wellington Fagundes (PL/MT), Senador Eduardo Gomes (PL/TO), Senador Astronauta Marcos Pontes (PL/SP), Senador Magno Malta (PL/ES), Senador Dr. Hiran (PP/RR), Senador Hamilton Mourão (REPUBLICANOS/RS), Senador Sérgio Petecão (PSD/AC), Senador Laércio Oliveira (PP/SE)",
+      "authors": [
+        {
+          "id": "senado-parlamentar-5936",
+          "name": "Carlos Portinho",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5942",
+          "name": "Marcos do Val",
+          "party": "AVANTE",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 2,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5672",
+          "name": "Alan Rick",
+          "party": "REPUBLICANOS",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 3,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-285",
+          "name": "Marcio Bittar",
+          "party": "PL",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 4,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5895",
+          "name": "Jorge Kajuru",
+          "party": "PSB",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 5,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6340",
+          "name": "Jaime Bagattoli",
+          "party": "PL",
+          "state": "RO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 6,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6335",
+          "name": "Damares Alves",
+          "party": "REPUBLICANOS",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 7,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5976",
+          "name": "Eduardo Girão",
+          "party": "NOVO",
+          "state": "CE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 8,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-22",
+          "name": "Esperidião Amin",
+          "party": "PP",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 9,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5979",
+          "name": "Leila Barros",
+          "party": "PDT",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 10,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5070",
+          "name": "Wilder Morais",
+          "party": "PL",
+          "state": "GO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 11,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5502",
+          "name": "Plínio Valério",
+          "party": "PSDB",
+          "state": "AM",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 12,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5322",
+          "name": "Romário",
+          "party": "PL",
+          "state": "RJ",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 13,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-345",
+          "name": "Flávio Arns",
+          "party": "PSB",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 14,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4770",
+          "name": "Izalci Lucas",
+          "party": "PL",
+          "state": "DF",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 15,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6331",
+          "name": "Sergio Moro",
+          "party": "PL",
+          "state": "PR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 16,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6381",
+          "name": "Hermes Klann",
+          "party": "PL",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 17,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5990",
+          "name": "Carlos Viana",
+          "party": "PSD",
+          "state": "MG",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 18,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6010",
+          "name": "Ivete da Silveira",
+          "party": "MDB",
+          "state": "SC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 19,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-1173",
+          "name": "Wellington Fagundes",
+          "party": "PL",
+          "state": "MT",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 20,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-3777",
+          "name": "Eduardo Gomes",
+          "party": "PL",
+          "state": "TO",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 21,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6009",
+          "name": "Astronauta Marcos Pontes",
+          "party": "PL",
+          "state": "SP",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 22,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-631",
+          "name": "Magno Malta",
+          "party": "PL",
+          "state": "ES",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 23,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-5793",
+          "name": "Dr. Hiran",
+          "party": "PP",
+          "state": "RR",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 24,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-6341",
+          "name": "Hamilton Mourão",
+          "party": "REPUBLICANOS",
+          "state": "RS",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 25,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4560",
+          "name": "Sérgio Petecão",
+          "party": "PSD",
+          "state": "AC",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 26,
+          "partyContext": "resumo oficial da autoria"
+        },
+        {
+          "id": "senado-parlamentar-4811",
+          "name": "Laércio Oliveira",
+          "party": "PP",
+          "state": "SE",
+          "office": "senador",
+          "role": "autoria conjunta",
+          "order": 27,
+          "partyContext": "resumo oficial da autoria"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174667",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9065675",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "description": "A matéria vai à Comissão de Constituição, Justiça e Cidadania."
+        },
+        {
+          "date": "2026-11-27",
+          "description": "Matéria aguardando distribuição."
+        }
+      ],
+      "collectedAt": "2026-11-28T00:17:25.404Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca preservar, no regime do Imposto sobre Bens e Serviços, os mecanismos estaduais, distrital e municipais de fomento indireto à cultura e ao esporte.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "f60a917049936332db6c6465da549cc5a549454ab7af397b2ceee742993611f0"
+    },
+    {
       "id": "senado-processo-9068639",
       "officialMatterId": "174770",
       "officialProcessId": "9068639",
@@ -16476,6 +16904,47 @@
       "summaryLabel": "Texto oficial simplificado automaticamente",
       "summarySourceHash": "9a2a634029032ec2c039c1bf3e746c343c3ba1225eb04c94ff68b1fd41dafebe",
       "aiSummary": false
+    },
+    {
+      "id": "senado-processo-9097244",
+      "officialMatterId": "175516",
+      "officialProcessId": "9097244",
+      "house": "Senado",
+      "type": "PLP",
+      "number": 80,
+      "year": 2026,
+      "presentedAt": "2026-08-14",
+      "officialSummary": "Altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País.",
+      "authorSummary": "Câmara dos Deputados",
+      "authors": [
+        {
+          "id": null,
+          "name": "Câmara dos Deputados",
+          "party": null,
+          "state": null,
+          "office": "CAMARA",
+          "role": "autoria conjunta",
+          "order": 1,
+          "partyContext": "vínculo informado na consulta; contexto histórico não confirmado"
+        }
+      ],
+      "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175516",
+      "dataSource": "https://legis.senado.leg.br/dadosabertos/processo/9097244",
+      "stage": "AGUARDANDO DESPACHO",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "description": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 02/12/2026.\n(Pendente de apresentação de requerimento de urgência.)"
+        }
+      ],
+      "collectedAt": "2026-11-28T00:17:25.404Z",
+      "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
+      "conflict": false,
+      "summary": "A proposta busca prorrogar o prazo de vigência da não incidência do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM) nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País.",
+      "summaryMethod": "rules",
+      "aiSummary": false,
+      "summaryLabel": "Texto oficial simplificado automaticamente",
+      "summarySourceHash": "167cdfbbcbd51327d7174b780dd573282c1676ce7ffb34c72c5b303470f92d71"
     },
     {
       "id": "senado-processo-9097852",
@@ -18326,261 +18795,9 @@
         {
           "date": "2026-11-13",
           "description": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 17/11/2026.\nContinuação da votação, em turno único."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas n°s 1 a 3, do Senador Alessandro Vieira."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 4, do Senador Otto Alencar."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 5 a 7, do Senador Sergio Moro. "
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas n°s 8 e 9, do Senador Alessandro Vieira."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 772, de 2026, do Senador Otto Alencar, solicitando a retirada definitiva da Emenda nº 4. "
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 10, do Senador Zequinha Marinho."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 11, do Senador Randolfe Rodrigues."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 12, do Senador Luis Carlos Heinze."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 13 e 14, da Senadora Damares Alves."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 15 e 16, do Senador Jader Barbalho."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 17, do Senador Jorge Seif."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 18, do Senador Randolfe Rodrigues."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 19, do Senador Sergio Moro."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 20 a 25, do Senador Izalci Lucas."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 26, do Senador Flávio Arns."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 27, da Senadora Leany Lemos."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 28, do Senador Flávio Arns e outros."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 29, do Senador Alessandro Vieira."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 30, do Senador Angelo Coronel."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 31, do Senador Plínio Valério."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 32, do Senador Sérgio Petecão."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 33, do Senador Alessandro Vieira."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 34 a 37, do Senador Izalci Lucas."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 38 e 39, do Senador Eduardo Gomes. "
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 40, do Senador Rogerio Marinho."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 41, do Senador Eduardo Gomes."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 773, de 2026, do Senador Rogerio Marinho, de oitiva da Comissão de Assuntos Econômicos."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 774, de 2026, da Liderança do PL, que solicita destaque para votação em separado da Emenda nº 22."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 42, da Senadora Tereza Cristina."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 43, do Senador Romário."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 44 a 48, do Senador Laércio Oliveira."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 775, de 2026, da Liderança do PL, que solicita destaque para votação em separado do art. 7° do projeto."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 49, do Senador Magno Malta."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 50, do Senador Alan Rick."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 776, de 2026, da Liderança do PL, que solicita destaque para votação em separado do art. 2° do projeto."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 51 e 52, do Senador Nelsinho Trad."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 53, do Senador Randolfe Rodrigues."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 54, do Senador Luis Carlos Heinze."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 55 e 56, do Senador Laércio Oliveira."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 57, do Senador Renan Calheiros."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 777, de 2026, do Senador Rogério Marinho, que solicita adiamento da votação da matéria por dez dias úteis. "
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 58, do Senador Astronauta Marcos Pontes."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 59, do Senador Humberto Costa."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 778, de 2026, da Liderança do Republicanos, que solicita destaque para votação em separado da Emenda nº 50."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 779, de 2026, da Liderança do PL, que solicita retirada do Requerimento nº 774, de 2026."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 60, do Senador Giordano."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 61 e 62, do Senador Lucas Barreto."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 780, de 2026, da Liderança do PL, que solicita destaque para votação em separado da Emenda nº 40."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 63 e 64, do Senador Magno Malta."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebidas as Emendas nºs 65 a 68, do Senador Wellington Fagundes."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 69, da Senadora Tereza Cristina."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 70, do Senador Astronauta Marcos Pontes."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 71, do Senador Efraim Filho."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido Relatório do Senador Eduardo Braga."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 72, da Senadora Leany Lemos."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 73, do Senador Alan Rick."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 782, de 2026, da Liderança do PP, que solicita destaque para votação em separado da Emenda nº 69."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 74, do Senador Efraim Filho."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido novo Relatório do Senador Eduardo Braga, com acolhimento parcial da Emenda nº 14, e atualização do parágrafo único do art. 6º D, constante do art. 1º do substitutivo apresentado, com a expressão \"ocorrerá nos termos da lei orçamentária anual\"."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebida a Emenda nº 76, do Senador Wilder Morais."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 783, de 2026, da Liderança do Republicanos, que solicita destaque para votação em separado, com vistas à supressão do art. 6º-F."
-        },
-        {
-          "date": "2026-11-12",
-          "description": "Recebido o Requerimento nº 784, de 2026, da Liderança do Republicanos, que solicita retirada do Requerimento nº 778, de 2026.  "
-        },
-        {
-          "date": "2026-11-12",
-          "description": "(Sessão Deliberativa Ordinária de 11 de novembro de 2026 - semipresencial - continuação em 12 de novembro de 2026) \nEmendas nºs 1 a 74 e 76 encaminhadas à publicação. \nUrgência aprovada para a matéria (Requerimento nº 770/2026). Verificação de votação: (Sim: 40; Não: 38; Abstenção: 0; Presidente: 1; Total: 79). Ficam prejudicados os Requerimentos nºs 773 e 777, de 2026. \nMantida pelo Plenário, após recurso, a decisão da Presidência relativa à Questão de Ordem suscitada pelo Senador Magno Malta, com votos contrários dos Senadores Magno Malta, Rogério Marinho, Carlos Portinho, Astronauta Marcos Pontes, Laércio Oliveira, Tereza Cristina, Damares Alves e Esperidião Amin. \nParecer nº 221/2026-Plen/SF apresentado pelo Senador Eduardo Braga e encaminhado à publicação [favorável ao projeto, às Emendas nºs 11, 13, 16, 18, 20, 41, 42, 45 e 53; parcialmente favorável às Emendas nºs 2, 7, 14, 17, 21, 28, 31, 32, 38, 39, 44 e 48; nos termos da Emenda nº 75 (Substitutivo), que apresenta, pela prejudicialidade das Emendas nºs 1, 15, 23, 24, 25 e 30; e pela rejeição das demais emendas]. \nDiscussão da matéria encerrada. \nDestaque deferido para votação em separado do art. 7º do projeto -correspondente ao art. 6º do Substitutivo. (Requerimento nº 775/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 2º do projeto - correspondente ao art. 2º do Substitutivo. (Requerimento nº 776/2026 encaminhado à publicação). \nDestaque deferido para votação em separado do art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do projeto - correspondente ao art. 1º do Substitutivo. (Requerimento nº 783/2026 encaminhado à publicação). \nDestaque deferido para votação em separado da Emenda nº 40 do projeto (Requerimento nº 780/2026 encaminhado à publicação). \nDestaque prejudicado para votação em separado, da Emenda nº 69 (Requerimento nº 782/2026 encaminhado à publicação). \nSubstitutivo, emenda nº 75, aprovado, com adequação redacional, ressalvado os destaques (Sim: 45; Não: 31; Abstenção: 0; Presidente: 1; Total: 77). O projeto e as demais emendas ficam prejudicados. \nA continuação da votação da matéria fica transferida para a próxima terça-feira. \n\n "
         }
       ],
-      "collectedAt": "2026-11-27T00:51:41.838Z",
+      "collectedAt": "2026-11-28T00:17:25.404Z",
       "authorshipNote": "O Senado informa ordem de assinatura; ela não foi interpretada como autoria principal. Os registros ficam na categoria de autoria conjunta.",
       "conflict": false,
       "summary": "A proposta busca dar ao governo federal novas ferramentas de gestão para preservar a estabilidade da economia e favorecer o desenvolvimento social e econômico. Governo federal, aqui, é o Poder Executivo, responsável pela administração do país. A ementa não descreve quais ferramentas seriam criadas nem como seriam usadas; esses limites precisam ser conferidos no texto completo.",
@@ -19096,6 +19313,111 @@
     }
   ],
   "events": [
+    {
+      "id": "camara-tramitacao-2601121-17",
+      "proposalId": "camara-proposicao-2601121",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27T17:45",
+      "kind": "Tramitação",
+      "description": "Devolvida pelo Relator sem Manifestação.",
+      "stage": "Aguardando Designação de Relator(a)",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2601121/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/109429",
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2647189-7",
+      "proposalId": "camara-proposicao-2647189",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27T10:41",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 4564/2026 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Carlos Gomes (REPUBLIC/RS), que \"Requer a retirada de tramitação do Projeto de Lei complementar 264/2026\".",
+      "stage": "Aguardando Autorização do Despacho",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647189/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-2660453-1",
+      "proposalId": "camara-proposicao-2660453",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27T13:48",
+      "kind": "Apresentação",
+      "description": "Apresentação do PLP n. 323/2026 (Projeto de Lei Complementar), pelo Deputado André Janones (REDE/MG -Fdr PSOL-REDE), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a contribuição das emendas parlamentares ao equilíbrio fiscal\".",
+      "stage": "Apresentação de Proposição",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660453/tramitacoes",
+      "rapporteurId": null,
+      "vote": null
+    },
+    {
+      "id": "camara-tramitacao-354302-171",
+      "proposalId": "camara-proposicao-354302",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27T14:47",
+      "kind": "Tramitação",
+      "description": "Apresentação do REQ n. 4565/2026 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado André Figueiredo (PDT/CE), que \"Requer a inclusão da Proposta de Emenda à Constituição nº 82, de 2007, na Ordem do Dia do Plenário\".",
+      "stage": "Pronta para Pauta",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:16:22.971Z",
+      "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354302/tramitacoes",
+      "rapporteurId": "https://dadosabertos.camara.leg.br/api/v2/deputados/141562",
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2333032",
+      "proposalId": "senado-processo-9065675",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27 16:47:28",
+      "kind": "Tramitação",
+      "description": "A matéria vai à Comissão de Constituição, Justiça e Cidadania.",
+      "stage": "MATÉRIA DESPACHADA",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:17:25.404Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9065675",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2333079",
+      "proposalId": "senado-processo-9097244",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27 17:36:24",
+      "kind": "Tramitação",
+      "description": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 02/12/2026.\n(Pendente de apresentação de requerimento de urgência.)",
+      "stage": null,
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:17:25.404Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9097244",
+      "conflict": false,
+      "vote": null
+    },
+    {
+      "id": "senado-informe-2333110",
+      "proposalId": "senado-processo-9065675",
+      "date": "2026-11-27",
+      "occurredAt": "2026-11-27 17:58:37",
+      "kind": "Tramitação",
+      "description": "Matéria aguardando distribuição.",
+      "stage": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+      "target": "Objeto não classificado pela coleta",
+      "scheduled": false,
+      "collectedAt": "2026-11-28T00:17:25.404Z",
+      "source": "https://legis.senado.leg.br/dadosabertos/processo/9065675",
+      "conflict": false,
+      "vote": null
+    },
     {
       "id": "camara-tramitacao-2302040-34",
       "proposalId": "camara-proposicao-2302040",
@@ -19793,10 +20115,10 @@
       "occurredAt": "2026-11-24T16:40",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 318/2026 (Projeto de Lei Complementar), pelo Deputado Afonso Hamm (PP/RS), que \"Altera a Lei Complementar nº 206, de 16 de maio de 2024, e a Lei Complementar nº 212, de 13 de janeiro de 2025, para permitir a prorrogação das medidas de alívio financeiro e a remissão parcial de dívidas a entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal\".",
-      "stage": "Apresentação de Proposição",
+      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-26T00:58:05.530Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659286/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -21158,10 +21480,10 @@
       "occurredAt": "2026-11-18T10:30",
       "kind": "Tramitação",
       "description": "Aprovado o requerimento nº 111/2026,da Sra. Coronel Fernanda que requer a realização de audiência pública para debater o Projeto de Lei Complementar nº 300, de 2026, que trata do diferimento do IBS e da CBS e da manutenção de créditos nas operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura.",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652977/tramitacoes",
       "rapporteurId": null,
       "vote": null
@@ -21188,10 +21510,10 @@
       "occurredAt": "2026-11-18T13:32",
       "kind": "Apresentação",
       "description": "Apresentação do PLP n. 312/2026 (Projeto de Lei Complementar), pelo Deputado Capitão Alden (PL/BA), que \"Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para estabelecer prazo de desincompatibilização de vinte e quatro meses para os profissionais do magistério público\".",
-      "stage": "Aguardando Despacho do Presidente da Câmara dos Deputados",
+      "stage": "Aguardando Autorização do Despacho",
       "target": "Objeto não classificado pela coleta",
       "scheduled": false,
-      "collectedAt": "2026-11-24T03:04:15.318Z",
+      "collectedAt": "2026-11-28T00:16:22.971Z",
       "source": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655210/tramitacoes",
       "rapporteurId": null,
       "vote": null
